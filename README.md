@@ -74,6 +74,10 @@ This validates:
 
 The script exits with code 0 on success, 1 on failure, with color-coded error messages.
 
+## Image Generation
+
+Generate AI illustrations for story pages using the `gen_image.py` script. See [`images/README.md`](images/README.md) for complete documentation on setup, usage, and available backends.
+
 ## Structure
 
 - `world.yaml` - Master document: world lore, settings, character index, interaction map (copy from `templates/world-example.yaml`)
@@ -84,6 +88,7 @@ The script exits with code 0 on success, 1 on failure, with color-coded error me
   - `pull-from-base.sh` - Safely pulls latest changes from katha-base to forked repositories
   - `show_story.py` - Display a character's complete story with overlap analysis (usage: `python3 scripts/show_story.py <character-code>`)
   - `validate_structure.py` - Validate repository structure and formatting (usage: `python3 scripts/validate_structure.py`)
+  - `gen_image.py` - Generate illustrations for pages using AI models (usage: `uv run scripts/gen_image.py <backend> <page-path>`)
 - `.claude/` - Project documentation
 
 ## File Naming

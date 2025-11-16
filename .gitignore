@@ -3,3 +3,13 @@ adrien-todo.md
 
 # Ignoreing the pycache
 scripts/__pycache__
+
+# Environment variables with API keys
+.env
+
+# Generated images
+images/*.jpg
+
+# uv/Python virtual environment
+.venv/
+uv.lock
