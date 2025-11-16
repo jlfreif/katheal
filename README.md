@@ -40,6 +40,40 @@ For each of these steps, just ask claude to do it for you, and it will prompt yo
 4. Create all pages for each character (one character at a time).
 5. Show and critique each character's story to refine and improve it. You can say, for example, "Show me Cullan's story."
 
+## Viewing Stories and Testing Consistency
+
+### View a Character's Complete Story
+
+To view a character's complete story with overlap analysis:
+
+```bash
+python3 scripts/show_story.py <character-code>
+```
+
+Examples:
+- `python3 scripts/show_story.py cu` - Shows Cullan's story
+- `python3 scripts/show_story.py em` - Shows Emer's story
+- `python3 scripts/show_story.py ha` - Shows Hansel's story
+
+The script displays all pages in order, including description, visual, and text fields, plus an analysis of overlaps with other characters showing before/after context.
+
+### Validate Repository Structure
+
+To verify repository structure and that all pages are properly formatted:
+
+```bash
+python3 scripts/validate_structure.py
+```
+
+This validates:
+- Page formatting (correct extensions, no path prefixes)
+- All referenced pages exist
+- Spreads 1, 11, and 12 are character-specific (no overlaps)
+- No stray pages in the pages directory
+- YAML validity
+
+The script exits with code 0 on success, 1 on failure, with color-coded error messages.
+
 ## Structure
 
 - `world.yaml` - Master document: world lore, settings, character index, interaction map (copy from `templates/world-example.yaml`)
@@ -48,7 +82,8 @@ For each of these steps, just ask claude to do it for you, and it will prompt yo
 - `templates/` - Example files that serve as both templates and schemas
 - `scripts/` - Utility scripts for repository management
   - `pull-from-base.sh` - Safely pulls latest changes from katha-base to forked repositories
-  - `show_story.py` - Display a character's complete story with overlap analysis (usage: `python scripts/show_story.py <character-code>`)
+  - `show_story.py` - Display a character's complete story with overlap analysis (usage: `python3 scripts/show_story.py <character-code>`)
+  - `validate_structure.py` - Validate repository structure and formatting (usage: `python3 scripts/validate_structure.py`)
 - `.claude/` - Project documentation
 
 ## File Naming

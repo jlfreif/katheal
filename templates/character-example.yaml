@@ -2,7 +2,16 @@
 #
 # Eventually, we will create a /command that lets you create another
 # which follows this template
-
+#
+# IMPORTANT: When creating a new character, copy these instructions to the top:
+# ---
+# To view this character's complete story, run:
+#   python3 scripts/show_story.py <character-code>
+#
+# If you encounter any issues with page formatting or consistency, run:
+#   python3 scripts/validate_structure.py
+# ---
+#
 # Id is a two character code for the character
 id: cu
 

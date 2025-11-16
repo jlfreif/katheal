@@ -4,6 +4,20 @@
 
 A modular storybook system for creating interconnected children's stories across multiple characters. Each character has their own storybook, and characters can share scenes at synchronized points in their stories, creating an interlocking narrative web.
 
+## Important Scripts
+
+**ALWAYS use these scripts** - they are the correct way to interact with the project:
+
+1. **`scripts/show_story.py <character-code>`** - Display a character's complete story
+   - Use this EVERY time you need to show a character's story
+   - Never manually read and display pages - the script does it correctly
+   - Example: `python3 scripts/show_story.py cu`
+
+2. **`scripts/validate_structure.py`** - Validate repository structure and formatting
+   - Run after creating/modifying characters or pages
+   - Validates formatting, page existence, and constraints
+   - Example: `python3 scripts/validate_structure.py`
+
 ## Steps
 
 These are the various steps which the user can take to create / manipulate their
@@ -15,7 +29,16 @@ world
 2. Ask the user questions for each field in the template to create their character
 3. Fill in all the answers in a new character file in `characters/`
 4. **Important**: Set `story: []` (empty list) initially since no pages have been created yet
-5. **Do not leak any example data** from the template into the new character
+5. **Important**: Copy the script instructions from the template to the top of the new character file:
+   ```yaml
+   # To view this character's complete story, run:
+   #   python3 scripts/show_story.py <character-code>
+   #
+   # If you encounter any issues with page formatting or consistency, run:
+   #   python3 scripts/validate_structure.py
+   ```
+   Replace `<character-code>` with the actual two-letter character code.
+6. **Do not leak any example data** from the template into the new character
 
 ### Creating the World
 
@@ -95,21 +118,52 @@ world
    - **Format**: Use filename only with `.yaml` extension (e.g., `- cu-01.yaml`, `- cu-ma-07.yaml`)
    - **Do NOT** include the `pages/` folder prefix (e.g., NOT `- pages/cu-01.yaml`)
 
+### Validating Repository Structure
+
+Before showing stories or making significant changes, you can run the structure validation script to validate that all pages are properly formatted:
+
+```bash
+python3 scripts/validate_structure.py
+```
+
+This script validates:
+- At least one character exists
+- Page references are properly formatted (filename.yaml without path prefix)
+- All referenced pages exist
+- Spreads 1, 11, and 12 are character-specific (no overlaps)
+- No stray pages in the pages directory
+- All page YAML files are valid
+- Characters have 12 pages
+
+The script provides color-coded output and exits with code 0 on success, 1 on failure.
+
+**When to run this script:**
+- After binding characters together
+- After creating all pages for a character
+- If you suspect formatting inconsistencies
+- Before committing changes
+
 ### Showing and Critiquing a Character's Story
+
+**IMPORTANT**: Always use the `show_story.py` script to display a character's story. This is the primary way to view and analyze stories. Never manually read and display all pages - the script handles this correctly.
 
 This operation displays the complete story for a character, followed by a critique with improvement suggestions.
 
 **Part 1: Display the Story**
 
-1. Ask the user which character's story they want to see
-2. Use the `show_story.py` script to display the full story:
+1. Ask the user which character's story they want to see (or they may directly request "Show me [character]'s story")
+2. **Always use the `show_story.py` script** to display the full story:
    ```bash
-   python scripts/show_story.py <character-code>
+   python3 scripts/show_story.py <character-code>
    ```
+   Examples:
+   - `python3 scripts/show_story.py cu` for Cullan
+   - `python3 scripts/show_story.py em` for Emer
+   - `python3 scripts/show_story.py ha` for Hansel
 3. The script will automatically display:
    - All pages in the character's story in order
    - Each page's description, visual, and text
-   - Analysis of overlaps with other characters (showing before/after context)
+   - Analysis of overlaps with other characters (showing before/after context from the other character's story)
 
 **Part 2: Critique the Story**
 
