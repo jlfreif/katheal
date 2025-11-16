@@ -1,2 +1,5 @@
 # Personal todo files
 adrien-todo.md
+
+# Ignoreing the pycache
+scripts/__pycache__
