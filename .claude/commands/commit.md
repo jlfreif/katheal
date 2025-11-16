@@ -20,7 +20,7 @@ Please:
    - Add all unstaged files
    - Add specific files (let me specify which ones)
    - Commit only what's already staged
-3. After staging is finalized, analyze ALL the staged changes and suggest a descriptive commit message that follows best practices
+3. After staging is finalized, analyze ALL the staged changes and suggest a single-line commit message that follows best practices. The commit message MUST be a single line with no additional text, references to AI tools, or co-authorship tags.
 4. Ask me if I want to use your suggested message or provide my own
-5. Once I approve, commit the staged changes with the final message
+5. Once I approve, commit the staged changes with the final message using a simple single-line format
 6. Show me a summary of what was committed
