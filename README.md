@@ -4,13 +4,14 @@ Modular storybook system for creating a set of interlocking storybooks for multi
 
 ## Overview
 
-Create interconnected children's stories where each character has their own book, and characters can meet at synchronized page numbers.
+Create interconnected children's stories where each character has their own book, and characters can meet at synchronized points in their stories.
 
 ### Key Concepts
 
 - Each character is defined in a YAML file with attributes and storylines
-- Characters can share pages at the same page number across their books
-- Story structure follows a 12-spread arc (see `templates/story-template.yaml`)
+- Characters can share pages at the same spread number across their books
+- Story structure follows a 12-spread arc (a spread is both pages when you open a book; 12 spreads = 24 pages)
+- See `templates/story-template.yaml` for the complete story structure
 - All content is stored as YAML files with markdown text and image prompts
 
 ## Architecture
@@ -25,9 +26,9 @@ pages/cc-pp.yaml (individual scenes, can be shared)
 
 ### Key Concept: Shared Pages
 
-When characters meet, they share the SAME page at the SAME page number:
-- Maya's book page 7 → `le-ma-07.yaml`
-- Leo's book page 7 → `le-ma-07.yaml` (same file!)
+When characters meet, they share the SAME page at the SAME spread number:
+- Maya's book spread 7 → `le-ma-07.yaml`
+- Leo's book spread 7 → `le-ma-07.yaml` (same file!)
 
 ## Getting Started
 
@@ -54,8 +55,8 @@ For each of these steps, just ask claude to do it for you, and it will prompt yo
 All lowercase with dashes:
 
 - Characters: `ma-maya.yaml`, `le-leo.yaml`, `cu-cullan.yaml` (two-letter code + name)
-- Solo pages: `ma-01.yaml`, `le-05.yaml`, `cu-01.yaml` (character code + page number)
-- Shared pages: `cu-ma-07.yaml`, `le-ma-07.yaml` (character codes alphabetically + shared page number)
+- Solo pages: `ma-01.yaml`, `le-05.yaml`, `cu-01.yaml` (character code + spread number 01-12)
+- Shared pages: `cu-ma-07.yaml`, `le-ma-07.yaml` (character codes alphabetically + spread number)
 
 Templates serve as both examples and schemas:
 - **World**: `templates/world-example.yaml` - World structure

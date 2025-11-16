@@ -4,8 +4,7 @@
 # a bunch of pages all at once.
 
 # Should be equal to the name of the file
-# The means "Cullan spread 1"
-# If we are splitting the spread then we'd have cu-01a and cu-01b as separate files.
+# This means "Cullan spread 3"
 id: cu-03 # The name of the file
 
 # See `templates/story-template.yaml` for documentation
@@ -17,11 +16,11 @@ spread: 3
 beat: "Attempt #1 (simple/obvious)"
 
 # This is what "hooks them" into the next pages
-# Initially, copy this from `templates/story-template.yaml` for this thread
+# Initially, copy this from `templates/story-template.yaml` for this spread
 hook: Simple solutions fail, prompting the question of who might have better answers.
 
-# This is what "hooks them" into the next pages
-# Initially, copy this from `templates/story-template.yaml` for this thread
+# This is the payoff from the previous spread's hook
+# Initially, copy this from `templates/story-template.yaml` for this spread
 payoff: A wise helper appears who offers new perspective or guidance.
 
 # This is a short (1-2 sentences) which describes what you see on the page.

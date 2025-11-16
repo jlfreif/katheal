@@ -82,5 +82,6 @@ story:
   # Second Cullan page
   - cu-02.yaml
 
-  # Example of a shared page with another character
-  - cu-xx-03.yaml
+  # Example of a shared page with another character (e.g., Maya)
+  # Character codes are in alphabetical order
+  - cu-ma-03.yaml

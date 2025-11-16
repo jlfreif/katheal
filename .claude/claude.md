@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-A modular storybook system for creating interconnected children's stories across multiple characters. Each character has their own storybook, and characters can share scenes at the same page numbers, creating an interlocking narrative web.
+A modular storybook system for creating interconnected children's stories across multiple characters. Each character has their own storybook, and characters can share scenes at synchronized points in their stories, creating an interlocking narrative web.
 
 ## Steps
 
-These are the various steps which the user can take to create / manipulated thier
+These are the various steps which the user can take to create / manipulate their
 world
 
 ### Creating a New Character
@@ -32,11 +32,11 @@ world
 2. Ask about the nature of their interaction (what happens when they meet?)
 3. Consult `templates/story-template.yaml` to determine which spread makes sense for them to meet
    - **Constraint**: Two characters CANNOT meet in:
-     - Spread 1 (pages 5-6) - the first spread
-     - Spread 11 (pages 25-26) - second to last spread
-     - Spread 12 (pages 27-28) - final spread
-   - Valid meeting pages are: 7-24
-4. Determine the page number where they'll meet (must be the same for both characters)
+     - Spread 1 - the first spread
+     - Spread 11 - second to last spread
+     - Spread 12 - final spread
+   - Valid meeting spreads are: 2-10 (spreads 02-10 in file naming)
+4. Determine the spread number where they'll meet (must be the same for both characters)
 5. Check if the shared page already exists (use alphabetically ordered character codes: e.g., `cu-ma-07.yaml`)
 6. If the page doesn't exist:
    - Create the shared page in `pages/` with proper naming (character codes alphabetically)
@@ -48,7 +48,7 @@ world
 7. Insert the page reference into both character files' `story:` lists at the correct position (in order)
    - **Format**: Use filename only with `.yaml` extension (e.g., `- cu-ma-07.yaml`)
    - **Do NOT** include the `pages/` folder prefix (e.g., NOT `- pages/cu-ma-07.yaml`)
-8. **Important**: Both characters must reference the exact same page file at the same page number
+8. **Important**: Both characters must reference the exact same page file at the same spread number
 9. **Stop here**: Do not create any other pages for these characters at this time
 
 ### Creating All Pages for a Character
@@ -67,7 +67,7 @@ world
 3. **Read all joint pages with other characters**:
    - Identify which pages in the character's `story:` list are shared (filenames with multiple character codes)
    - For each shared page, read the page file from `pages/`
-   - Note the page number, description, visual, and text for each shared page
+   - Note the spread number, description, visual, and text for each shared page
    - These are fixed anchor points that the story must connect
 
 4. **Plan the story arc**:
@@ -75,9 +75,9 @@ world
    - Consider the narrative flow: how does the character get from one joint page to the next?
    - The solo pages you create must bridge these joint pages into a single flowing narrative
 
-5. **Create pages 1-12**:
-   - Go through pages 1-12 sequentially
-   - **Skip any page numbers that are joint pages** (already created during binding)
+5. **Create spreads 1-12**:
+   - Go through spreads 1-12 sequentially
+   - **Skip any spreads that are joint pages** (already created during binding)
    - For each page that needs to be created:
      - Use `templates/page-example.yaml` as the template
      - Determine which spread (1-12) the page belongs to based on `templates/story-template.yaml`
@@ -194,7 +194,7 @@ pages/cc-pp.yaml (individual story pages)
 - **World Document** (`world.yaml`): Master YAML file defining world lore, settings, challenges, and character interactions
 - **Character Files** (`characters/`): Each character is their own storybook with attributes and an ordered page list
 - **Page Files** (`pages/`): Individual scenes that can belong to one or multiple characters
-- **Shared Pages**: When characters interact, they share a page at the same page number in both books
+- **Shared Pages**: When characters interact, they share a page at the same spread number in both books
 
 ### File Naming
 
@@ -206,10 +206,11 @@ All filenames use lowercase with dashes:
   - `name` = character name in lowercase
 - **Pages**: `pages/cc-pp.yaml` (e.g., `ma-01.yaml`, `le-05.yaml`, `cu-01.yaml`)
   - `cc` = two-letter character code
-  - `pp` = two-digit page number (always two digits: 01, 02, ..., 12)
+  - `pp` = two-digit spread number (always two digits: 01, 02, ..., 12)
+  - Note: Spread numbers are used for file naming, not actual book page numbers
 - **Shared Pages**: `pages/cc-cc-pp.yaml` (e.g., `cu-ma-07.yaml`, `le-ma-07.yaml`)
   - Character codes in alphabetical order
-  - Same page number across all involved characters
+  - Same spread number across all involved characters
 
 **Important**: When referencing pages in character files' `story:` lists, use only the filename with `.yaml` extension (e.g., `- cu-01.yaml`), NOT the full path (NOT `- pages/cu-01.yaml`).
 
@@ -220,7 +221,7 @@ All filenames use lowercase with dashes:
 `world.yaml` is the central hub:
 - Defines world lore, settings, rules, themes
 - Links to all character files
-- Maps character interactions (who appears together, at which page numbers)
+- Maps character interactions (who appears together, at which spread numbers)
 - Does NOT contain detailed character attributes (those live in character files)
 
 ### Character Files - The Storybooks
@@ -244,13 +245,13 @@ Each page in `pages/` contains:
 
 ### The Shared Page Constraint
 
-**Critical Rule**: When characters share a scene, they must be at the SAME page number.
+**Critical Rule**: When characters share a scene, they must be at the SAME spread number.
 
 Example:
-- Maya's book page 7 → `le-ma-07.yaml`
-- Leo's book page 7 → `le-ma-07.yaml` (same file!)
+- Maya's book spread 7 → `le-ma-07.yaml`
+- Leo's book spread 7 → `le-ma-07.yaml` (same file!)
 
-Both `characters/ma-maya.yaml` and `characters/le-leo.yaml` list this page at position 7.
+Both `characters/ma-maya.yaml` and `characters/le-leo.yaml` list this page at position 7 in their story lists.
 
 ## File Structure
 
@@ -311,7 +312,7 @@ When Claude needs to understand the narrative:
 ## Key Features
 
 - **Modular and Reusable**: Same page can appear in multiple character books
-- **Synchronized Interactions**: Characters share scenes at same page numbers
+- **Synchronized Interactions**: Characters share scenes at same spread numbers
 - **Character-Driven**: Each character is their own storybook
 - **Graph Structure**: World links to characters, characters link to pages
 - **Easy to Navigate**: Claude can traverse the graph to understand relationships
