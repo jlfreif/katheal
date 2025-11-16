@@ -37,6 +37,7 @@ For each of these steps, just ask claude to do it for you, and it will prompt yo
 2. Create the world.
 3. Bind characters together by creating shared interaction pages.
 4. Create all pages for each character (one character at a time).
+5. Show and critique each character's story to refine and improve it. You can say, for example, "Show me Cullan's story."
 
 ## Structure
 
