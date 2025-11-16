@@ -48,6 +48,7 @@ For each of these steps, just ask claude to do it for you, and it will prompt yo
 - `templates/` - Example files that serve as both templates and schemas
 - `scripts/` - Utility scripts for repository management
   - `pull-from-base.sh` - Safely pulls latest changes from katha-base to forked repositories
+  - `show_story.py` - Display a character's complete story with overlap analysis (usage: `python scripts/show_story.py <character-code>`)
 - `.claude/` - Project documentation
 
 ## File Naming

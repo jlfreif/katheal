@@ -102,25 +102,18 @@ This operation displays the complete story for a character, followed by a critiq
 **Part 1: Display the Story**
 
 1. Ask the user which character's story they want to see
-2. Load the character file from `characters/` to get their page list
-3. For each page in the character's `story:` list (in order):
-   - Read the page file from `pages/`
-   - Output in this format:
-     ```
-     ## Page [number]
-
-     **Visual:**
-     [visual content]
-
-     **Description:**
-     [description content]
-     ```
-4. Display all pages sequentially from first to last
-5. This is a simple display operation - do not interpret, analyze, or modify anything
+2. Use the `show_story.py` script to display the full story:
+   ```bash
+   python scripts/show_story.py <character-code>
+   ```
+3. The script will automatically display:
+   - All pages in the character's story in order
+   - Each page's description, visual, and text
+   - Analysis of overlaps with other characters (showing before/after context)
 
 **Part 2: Critique the Story**
 
-After displaying all pages, automatically provide a critique:
+After the script displays the story, automatically provide a critique:
 
 1. **Check world consistency**:
    - Load `world.yaml`
@@ -133,10 +126,8 @@ After displaying all pages, automatically provide a critique:
    - Identify any pages where the story structure isn't being followed properly
 
 3. **For shared pages with other characters**:
-   - Identify which pages are shared (filename will have multiple character codes)
-   - For each shared page, load the OTHER character's story
-   - Read the pages immediately before and after the shared page in the other character's story
-   - Note these cross-character constraints when making suggestions
+   - The script output will show overlap analysis including before/after pages from other characters' stories
+   - Use this information to understand cross-character constraints
    - Any suggested changes to shared pages must make sense in both characters' narrative arcs
 
 4. **Generate three improvement suggestions**:
