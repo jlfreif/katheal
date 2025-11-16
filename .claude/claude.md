@@ -95,7 +95,7 @@ katha-base/
 │   ├── world-example.yaml
 │   ├── character-example.yaml
 │   ├── story-template.yaml
-│   └── page-template.yaml
+│   └── page-example.yaml
 └── .claude/
     └── claude.md              # This file
 ```
@@ -147,7 +147,7 @@ Templates serve as both examples and schemas, showing the structure with real ex
 - **World Template**: `templates/world-example.yaml` - Copy to `world.yaml` to create your world
 - **Character Template**: `templates/character-example.yaml` - Complete example showing all fields with Cullan's data
 - **Story Arc Template**: `templates/story-template.yaml` - **SOURCE OF TRUTH** for story structure: 12 spreads with beats, hooks, and payoffs
-- **Page Template**: `templates/page-template.yaml` - Template for creating individual story pages
+- **Page Template**: `templates/page-example.yaml` - Template for creating individual story pages
 - Copy and fill in to create new content
 
 ### Story Structure
@@ -163,5 +163,5 @@ All stories follow the structure defined in `templates/story-template.yaml`:
 - **Master document**: `world.yaml` (at root level, copy from `templates/world-example.yaml`)
 - **Story structure**: `templates/story-template.yaml` (SOURCE OF TRUTH - 12 spreads with beats, hooks, payoffs)
 - **Character files**: `characters/cc-name.yaml` (see `templates/character-example.yaml` for structure)
-- **Page files**: `pages/cc-pp.yaml` or `pages/cc-cc-pp.yaml` (see `templates/page-template.yaml` for structure)
+- **Page files**: `pages/cc-pp.yaml` or `pages/cc-cc-pp.yaml` (see `templates/page-example.yaml` for structure)
 - **Templates**: `templates/*.yaml` (example files that also serve as schemas)

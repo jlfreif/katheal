@@ -48,4 +48,4 @@ Templates serve as both examples and schemas:
 - **World**: `templates/world-example.yaml` - World structure
 - **Story Arc**: `templates/story-template.yaml` - **SOURCE OF TRUTH** for story structure (12 spreads with beats, hooks, payoffs)
 - **Character**: `templates/character-example.yaml` - Character structure
-- **Page**: `templates/page-template.yaml` - Individual page structure
+- **Page**: `templates/page-example.yaml` - Individual page structure
