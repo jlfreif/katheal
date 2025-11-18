@@ -1,0 +1,58 @@
+id: no
+
+attributes:
+  name: Noah
+  gender: male
+  age: 12
+
+  core_values_motivations:
+    - Adventure
+    - Sense of Justice
+    - Creativity
+
+  key_personality_traits:
+    - High Intelligence
+    - Articulate
+    - Seeks Creativity
+    - Playful
+
+  hobbies_interests_skills:
+    - Reading (especially clever, suspenseful, and action-rich stories)
+    - Writing
+
+  emotional_profile_typical_reactions:
+    - Quick to frustration
+    - Tendency towards self-pity
+
+  social_context_relationships:
+    - Competitive
+    - Leader
+
+  memorable_details:
+    - Excellent writer (writing book and blog)
+    - Often complimented on sandy blond and voluminous hair
+    - Opposed to brain rot expressions
+    - Really wants a dog
+    - Plays ukulele
+
+  visual_description:
+    - 12 years old
+    - Male
+    - Sandy blond hair, voluminous
+    - Medium build
+    - Average height
+    - Moves confidently but not super athletic
+
+story:
+  - no-01.yaml
+  - no-02.yaml
+  - no-03.yaml
+  - no-04.yaml
+  - no-05.yaml
+  - no-06.yaml
+  - no-07.yaml
+  - no-08.yaml
+  - no-09.yaml
+  - no-10.yaml
+  - no-11.yaml
+  - no-12.yaml
