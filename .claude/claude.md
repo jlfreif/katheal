@@ -332,6 +332,7 @@ katha-base/
 │   ├── show_story.py          # Display character stories
 │   ├── validate_structure.py  # Validate repository structure
 │   └── pull-from-base.sh      # Pull updates from base repo
+├── ref-images/                # Reference images for style (git-ignored except README)
 ├── out-images/                # Generated images (git-ignored)
 └── .claude/
     └── claude.md              # This file

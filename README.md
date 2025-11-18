@@ -91,6 +91,7 @@ Generate AI illustrations for story pages using the `gen_image.py` script. See [
   - `validate_structure.py` - Validate repository structure and formatting (usage: `python3 scripts/validate_structure.py`)
 - `docs/` - Additional documentation
   - `image-generation.md` - Complete guide to generating AI illustrations for storybook pages
+- `ref-images/` - Reference images for style consistency (git-ignored except README)
 - `.claude/` - Project documentation
 
 ## File Naming
