@@ -1,0 +1,49 @@
+id: el
+
+attributes:
+  name: Elise
+  gender: female
+  age: 9
+
+  core_values_motivations:
+    - Doing the right thing
+    - Compassion
+    - Developing inner strength
+
+  key_personality_traits:
+    - Observant
+    - Detail-oriented
+    - Imaginative daydreamer
+    - Quietly brave
+    - Gentle and nurturing
+    - Silly
+
+  hobbies_interests_skills:
+    - Drawing or painting
+    - Dancing
+
+  emotional_profile_typical_reactions:
+    - Gets anxious but pushes through
+    - Shy pride
+    - Empathetic
+
+  social_context_relationships:
+    - Gentle encourager
+    - Observer who joins selectively
+    - "Noticing everything" kind of kid
+
+  memorable_details:
+    - Sings to herself
+    - Creates dances in front of the mirror
+    - Likes bathroom humor
+    - Likes to cuddle
+
+  visual_description:
+    - 9 years old
+    - Female
+    - Slim build
+    - Medium height
+    - Graceful
+    - Gentle and calm presence
+
+story: []
