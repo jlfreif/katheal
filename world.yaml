@@ -1,0 +1,50 @@
+# World Definition for Noah's Story
+
+# What's this world called?
+name: Astral Wild
+
+# What's the visual style?
+# How does this world look? What's the aesthetic, color palette, atmosphere?
+# This is used for prompting the visual system.
+visual_style:
+  - Floating islands of land connected by shifting starlight bridges
+  - Forests where trees grow in spirals, each trunk etched with faint constellations
+  - Rivers that flow upward at dusk and become glowing streams of light
+  - Animals that shimmer with fragments of forgotten tales
+  - The world feels alive, intelligent, and responsive—almost as if it's watching Noah
+  - Bold, glowing, high-contrast aesthetic—like a magical world halfway between Studio Ghibli, Hades (the game), and Spider-Verse
+
+  # Primary Colors
+  - Deep midnight indigo for mystery and the unknown
+  - Electric sky-blue for imagination and clarity
+  - Gold starlight for meaning, courage, and choice
+  - Teal and emerald for discovery, nature, and creativity
+
+  # Accent Colors
+  - Crimson sparks when dramatic or courageous choices are made
+  - Soft violets during reflective or emotional moments
+  - Silver glints marking moments of synchronicity with other characters' story threads
+
+  # Atmosphere: Adventure, Mystery, and Intelligent Magic
+  - Everything feels like it could turn into a quest at any moment
+  - Things are never fully explained—rules feel mythic, not scientific
+  - Magic is purposeful, not whimsical—it tests you and responds to who you really are
+  - Suspense and awe blend together
+  - Shadows hide story clues
+  - Ruins whisper when Noah passes
+  - Stars brighten when he chooses courage
+
+  # Interactive Landscapes
+  - Cliffs that grow handholds when Noah gets brave enough
+  - Tunnels that rearrange based on riddles
+  - Bridges that only appear when he tells a true story
+  - Runic constellation symbols marking possible destinies or choices
+
+  # Story Fossils and Narrative Creatures
+  - Ancient stones containing scenes from old adventures that Noah can unlock (story fossils)
+  - Plotfoxes: small glowing foxes that rearrange paths
+  - Riddlebirds: speak in puzzles
+  - Memory Whales: giant sky whales that store other characters' stories
+
+  # Living Light
+  - Light is almost a character—guiding, revealing, hiding, shaping
