@@ -1,0 +1,34 @@
+id: "no-02-1"
+spread: 2
+page: 1
+node_type: solo
+beat: "Inciting incident"
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Noah decides to trust the compass and steps into the Whispering Woods, despite his fears.
+
+images:
+  - image_number: 1
+    visual: |
+      Noah stands at the threshold between sunny meadow and shadowy forest. One foot forward,
+      one foot back, body angled in hesitation. He holds the compass in both hands like a
+      precious artifact, studying its swirling golden needle. The Whispering Woods loom before
+      him—tall ancient trees with gnarled roots, mysterious shadows, faint trails of mist
+      curling between trunks. Butterflies dance in the meadow behind him. His expression shows
+      determination mixed with anxiety.
+    text: |
+      Noah took a deep breath. Every sensible bone in his body said "go home."
+      But the compass pulsed warm in his hands, and curiosity won. He stepped forward.
+
+  - image_number: 2
+    visual: |
+      Noah walks deeper into the woods, surrounded by towering trees whose canopy filters
+      sunlight into soft green-gold beams. The path is barely visible—more suggestion than
+      trail. Strange, beautiful things appear: glowing mushrooms, paperbirds flitting between
+      branches (their wings shifting from cream to pale blue), and trees with bark that seems
+      to shimmer with ancient writing. Noah looks around with wide eyes, simultaneously
+      frightened and amazed. The compass needle points steadily forward.
+    text: |
+      The woods weren't scary—they were alive with wonder. Paperbirds sang in crystalline
+      voices, and the trees whispered secrets Noah couldn't quite understand yet. He kept walking.

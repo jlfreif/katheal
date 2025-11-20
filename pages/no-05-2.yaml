@@ -1,0 +1,34 @@
+id: "no-05-2"
+spread: 5
+page: 2
+node_type: solo
+beat: "Attempt #3 (bigger world / stakes up)"
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
+
+description: Bramblebeard warns Noah that time is running short—the Whispering Woods only reveal their secrets to those who move with purpose.
+
+images:
+  - image_number: 1
+    visual: |
+      Noah walks past Bramblebeard into the inner grove. Bramblebeard calls after him, one hand
+      raised in warning. Around them, the forest begins to shift—subtle at first. Shadows lengthen
+      despite the afternoon sun. Flowers start closing. Paperbirds fly hurriedly toward roosts.
+      Noah glances back, worried. Bramblebeard's expression shows genuine concern beneath the
+      gruffness.
+    text: |
+      "Wait!" Bramblebeard's voice followed him. "The woods shift at twilight. If you haven't
+      found your answer by sunset, the paths will close. You'll be lost until morning."
+      Noah's heartbeat quickened.
+
+  - image_number: 2
+    visual: |
+      Noah breaks into a run toward the Singing Stones visible in the distance—a circle of
+      tall iridescent pillars humming with barely audible music. His compass glows brighter,
+      pointing urgently forward. The sun sits lower on the horizon now, painting everything
+      in amber and shadow. Noah's expression shows determination mixed with rising panic.
+      Leaves swirl behind him. Time is running out.
+    text: |
+      Noah ran. The compass pulsed faster, matching his heartbeat. Ahead, the Singing Stones
+      hummed their mysterious melody. He had to reach them before dark—before the woods closed
+      their secrets away.

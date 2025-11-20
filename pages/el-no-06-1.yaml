@@ -1,0 +1,49 @@
+id: "el-no-06-1"
+spread: 6
+page: 1
+node_type: mirrored
+beat: "Midpoint: new insight / pattern"
+hook: A pattern or clue emerges, suggesting a new direction based on observation.
+payoff: New approach is tried based on the insight from previous spread.
+
+description: Both siblings reach the Singing Stones from different paths—Noah following his compass, Ellie drawn by the haunting melody.
+
+mirrored_data:
+  shared_theme: "Two perspectives unlock what one alone cannot see"
+  scenario_variants:
+    - character: "no"
+      scenario: "Following the compass urgently, racing against sunset, seeking direction"
+      location: "Singing Stones from the eastern approach"
+    - character: el
+      scenario: "Drawn by the beautiful sound, wanting to capture the music in her journal"
+      location: "Singing Stones from the western approach"
+  symbolic_motif: "The iridescent stones that sing different parts of the same truth"
+  spread_alignment: spread_6
+  visual_rhyming:
+    - element: "Both siblings arriving breathless from opposite sides"
+    - element: "Stones glowing in response to their presence"
+    - element: "Golden light pulses between their hands when they work together"
+
+images:
+  - image_number: 1
+    visual: |
+      The Singing Stones form a perfect spiral of seven tall pillars, each made of iridescent
+      crystal that shifts between purple, blue, and silver. They hum with ethereal music—tones
+      that seem to form words almost, but not quite. Noah bursts into the clearing from the east,
+      breathing hard, compass glowing. At the exact same moment, Ellie appears from the west,
+      sketchbook in hand, drawn by the haunting melody. They stop, surprised to see each other.
+      The stones' music swells.
+    text: |
+      Noah and Ellie arrived at the same heartbeat, from opposite sides of the spiral.
+      The Singing Stones grew louder, as if welcoming them both. "You hear it too?" Noah gasped.
+
+  - image_number: 2
+    visual: |
+      The siblings stand facing the stones. A riddle appears to form in the air itself, made of
+      golden light that pulses with the music: "The path ahead opens when two see what one alone
+      cannot." Noah hears musical tones that form a map pattern—stone by stone, a sequence. Ellie
+      hears different tones that form a rhythm pattern—tap, pause, tap-tap. They look at each
+      other, confused but beginning to understand. The stones wait, glowing expectantly.
+    text: |
+      The stones sang their riddle in light and sound. Noah heard patterns like a map. Ellie heard
+      rhythms like a heartbeat. "I think," Noah said slowly, "we need both."

@@ -1,0 +1,32 @@
+id: "no-11-1"
+spread: 11
+page: 1
+node_type: solo
+beat: "Resolution (external)"
+hook: Return journey begins with hint of future possibility or unresolved element.
+payoff: Character arrives home integrating what they gained from the journey.
+
+description: Noah journeys home through the Whispering Woods, which now feels different—familiar and welcoming rather than mysterious and daunting.
+
+images:
+  - image_number: 1
+    visual: |
+      Noah walks back through the Whispering Woods as dawn breaks. The forest is transformed by
+      morning light—or perhaps Noah is transformed in how he sees it. The paths that seemed so
+      confusing now make perfect sense. Paperbirds greet him like old friends. The Luminary Fox
+      appears briefly in the distance, nodding approval before vanishing. Noah carries no physical
+      compass, but his steps are sure. His expression shows peaceful confidence.
+    text: |
+      The woods guided Noah home, but not because they showed him the way—because he knew it now.
+      Every tree, every turning held a lesson he'd carry forward. The Luminary Fox watched from the shadows, satisfied.
+
+  - image_number: 2
+    visual: |
+      As Noah reaches the forest edge, Bramblebeard waits at the Grove of Echoing Paths. The giant's
+      expression has softened—almost proud. He holds out one massive hand, and in his palm rests a
+      small acorn from the ancient oaks. "For one who learned to navigate by heart," Bramblebeard
+      rumbles. Noah accepts it gently, understanding this is more than a seed—it's a promise of
+      future growth.
+    text: |
+      "You return different," Bramblebeard observed. Noah nodded, holding the acorn carefully.
+      "I found what I was looking for." The giant smiled. "No. You became it."

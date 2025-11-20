@@ -1,0 +1,33 @@
+id: "no-01-1"
+spread: 1
+page: 1
+node_type: solo
+beat: "Ordinary world + desire hint"
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Noah sits at his desk, overwhelmed by choices, when something catches his eye through the window.
+
+images:
+  - image_number: 1
+    visual: |
+      Noah sits at a wooden desk in his cozy bedroom, surrounded by open books, scattered papers
+      with half-written stories, and a ukulele leaning against the wall. His sandy blond hair
+      catches afternoon light streaming through a round window. His expression shows frustration—
+      brow furrowed, pencil tapping against his lips. Three different notebooks lie open before
+      him, each started but abandoned. A blog post glows on his laptop screen: "The Problem with
+      Too Many Paths." Outside the window, the Whispering Woods shimmer with golden light.
+    text: |
+      Noah stared at three different story beginnings, unable to choose which one to finish.
+      "Why can't someone just tell me which is the right one?" he muttered, setting down his pencil.
+
+  - image_number: 2
+    visual: |
+      Noah stands at his window, hands pressed against the glass. Through the round window,
+      the Whispering Woods glow with unusual golden light, and a small glint—like metal catching
+      sun—sparkles near the forest edge. His expression shifts from frustration to curiosity,
+      eyes widening slightly. The room behind him is bathed in warm afternoon glow. A paperbird
+      made of folded parchment sits on his windowsill, its wings shimmering faintly.
+    text: |
+      Something golden flashed at the edge of the woods—sharp and bright, like a signal meant just for him.
+      Noah pressed closer to the window. Adventure whispered his name.

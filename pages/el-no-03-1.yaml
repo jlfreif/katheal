@@ -1,0 +1,52 @@
+id: "el-no-03-1"
+spread: 3
+page: 1
+node_type: meeting
+beat: "Attempt #1 (simple/obvious)"
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
+
+description: Noah freezes at a fork in the path just as Ellie arrives breathless, chasing a colorful paperbird.
+
+meeting_data:
+  location: "The Diverging Path—a fork where three trails meet in the heart of the Whispering Woods"
+  time_context: "Late afternoon, spread 3"
+  shared_action: "The siblings nearly collide; Ellie models ease with improvisation while Noah wrestles with certainty"
+  dialogue_packets:
+    - character: "no"
+      line: "What if it's the wrong one?"
+    - character: el
+      line: "Then we'll find another. Paths aren't trapped doors."
+  cross_book_alignment:
+    scene_id: "diverging_path_encounter"
+    pov_variants:
+      - character: "no"
+        focus: "The spinning compass, the weight of choosing wrong, Ellie's confidence as revelation"
+      - character: el
+        focus: "The paperbird's colors, Noah's overthinking as puzzle, her own growing patience"
+
+images:
+  - image_number: 1
+    visual: |
+      Noah stands frozen at a three-way fork in the forest path, staring at his wildly spinning
+      compass. His posture shows indecision—shoulders hunched, one foot forward but weight back.
+      Suddenly, from the left path, Ellie bursts into view mid-run, chasing a magnificent
+      paperbird whose wings shift from sunset-orange to sky-blue. She's laughing, breathless,
+      carrying a sketchbook. They nearly collide—Noah jumps back, Ellie skids to a stop.
+      The paperbird circles overhead, wings flashing colors.
+    text: |
+      Noah jumped as someone burst through the trees—his sister Ellie, giggling and breathless.
+      "The paths crossed us again!" she said, eyes bright. Noah clutched his spinning compass tighter.
+
+  - image_number: 2
+    visual: |
+      The siblings stand facing each other at the fork. Ellie, energetic and paint-stained,
+      gestures animatedly at the three paths, paperbird perched on her shoulder. Noah shows her
+      the compass, needle spinning uselessly. His expression is anxious, questioning. Ellie's
+      face radiates easy confidence—shrugging shoulders, relaxed smile. Behind them, the three
+      paths stretch into different mysteries: misty cliffs, glowing hollow, thorny silver flowers.
+      Light filters through the canopy above.
+    text: |
+      "Why are you waiting?" Ellie asked, tilting her head. "Just pick one!"
+      "What if it's the wrong one?" Noah's voice cracked slightly. Ellie grinned and squeezed
+      his shoulder. "Then we'll find another. Paths aren't trapped doors, Noah."

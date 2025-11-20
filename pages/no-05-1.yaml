@@ -1,0 +1,33 @@
+id: "no-05-1"
+spread: 5
+page: 1
+node_type: solo
+beat: "Attempt #3 (bigger world / stakes up)"
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
+
+description: Noah meets Bramblebeard, the grumpy moss giant who guards the Grove of Echoing Paths.
+
+images:
+  - image_number: 1
+    visual: |
+      Deep in the woods, Noah emerges into a grove where massive trees grow in a perfect circle.
+      In the center stands Bramblebeard—a giant creature made of twisted vines, moss, and ancient
+      bark, easily twelve feet tall. His beard is literally made of brambles with tiny flowers
+      growing in it. His eyes glow amber. He's blocking the path forward, arms crossed, expression
+      stern. Noah looks tiny by comparison, clutching his compass nervously.
+    text: |
+      "Halt!" thundered a voice like rocks grinding. Bramblebeard the moss giant loomed before Noah,
+      blocking the path. "Many come seeking. Few understand what they find."
+
+  - image_number: 2
+    visual: |
+      Bramblebeard leans down, examining Noah with one massive eye. Noah holds up the Cartographer's
+      Compass bravely, though his hand trembles slightly. The giant's expression softens a fraction—
+      recognition flickers across his craggy features. He points with a mossy finger toward the far
+      side of the grove, where strange stone pillars stand in a circle. The compass in Noah's hand
+      pulses in response.
+    text: |
+      The giant studied Noah's compass, then grunted. "You carry the Seeker's tool. But beware—
+      the Singing Stones ahead test more than navigation. They test whether you can hear truth
+      beneath the noise."

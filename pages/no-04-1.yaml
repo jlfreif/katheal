@@ -1,0 +1,33 @@
+id: "no-04-1"
+spread: 4
+page: 1
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Noah encounters the Luminary Fox, a magical creature who speaks in riddles and offers cryptic guidance.
+
+images:
+  - image_number: 1
+    visual: |
+      Noah pushes through hanging moss and emerges into a moonlit glade—even though it's still
+      afternoon, this place exists in perpetual twilight. In the center, perched on a fallen log
+      covered in glowing lichen, sits the Luminary Fox. The fox glows faintly blue-silver, fur
+      rippling with starlight. Its eyes are ancient and knowing. Noah stops, breath caught,
+      compass held out like an offering. Fireflies orbit the fox like tiny satellites.
+    text: |
+      The Luminary Fox appeared like moonlight made solid—glowing, impossible, beautiful.
+      "You seek direction," it said, voice like wind chimes. "But do you seek the easy path or the true one?"
+
+  - image_number: 2
+    visual: |
+      The Luminary Fox circles Noah slowly, leaving trails of silver light. Noah turns to follow
+      its movement, confused but fascinated. The fox speaks, and its words form visible shimmer
+      in the air: "The needle points not to destinations, but to decisions." Noah's expression
+      shows concentration—trying to decode the riddle. His compass glows in response to the fox's
+      presence, needle trembling. Behind them, the glade fills with soft blue luminescence.
+    text: |
+      "I don't understand," Noah admitted, frustrated. The fox's eyes gleamed. "The compass shows
+      what you need to face, not what you want to find. Follow it anyway." Then it vanished,
+      leaving only starlight and riddles.
