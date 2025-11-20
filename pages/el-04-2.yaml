@@ -1,0 +1,36 @@
+id: "el-04-2"
+spread: 4
+page: 2
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: The Weaver warns Elise that the journey ahead requires more than observation—it requires speaking truth aloud.
+
+images:
+  - image_number: 1
+    visual: |
+      The Weaver creates a shimmering map in the air made of light-threads, showing Elise where
+      she must go: the Echo Hollow, where voices become visible and words have power. Elise studies
+      the map carefully, committing every detail to memory the way she does with her drawings. The
+      fading paperbird rests weakly in her hands. The Weaver's expression is both encouraging and
+      concerned. "The hollow amplifies truth but also reveals silence. You must find your voice
+      there, or both you and the paperbird will fade."
+    text: |
+      The Weaver's warning scared Elise: "To save the paperbird, you must speak aloud what you see,
+      what you feel, what you know. Silence may feel safe, but sometimes the bravest thing is to
+      be heard."
+
+  - image_number: 2
+    visual: |
+      Elise leaves the grove, following the map's path. The woods grow darker and the path winds
+      downward into a hollow filled with thick mist. The fading paperbird barely glows now, its
+      colors almost gone. Other paperbirds escort her to the hollow's edge but can't follow—this
+      is Elise's journey alone. She stands at the entrance to the misty hollow, clutching her
+      sketchbook like a talisman, visibly anxious but determined. Her gentle courage shows in
+      her steady, if trembling, first step forward.
+    text: |
+      The Echo Hollow waited below—dark, misty, unknown. Elise's quiet voice had always felt like
+      a weakness. Now it might be the only thing that could save her paperbird. She walked forward,
+      scared but determined.

@@ -1,0 +1,35 @@
+id: "el-04-1"
+spread: 4
+page: 1
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Elise encounters the Weaver of Words, a mystical creature who explains the paperbirds' nature—they are made of stories and voices.
+
+images:
+  - image_number: 1
+    visual: |
+      Following the symbols on the stones, Elise enters a grove where threads of light hang
+      between trees like an enormous web—but beautiful, not scary. In the center sits the Weaver
+      of Words: an ancient creature that looks part spider, part origami, part stardust. It weaves
+      stories into visible threads. Elise approaches shyly, holding the fading paperbird gently
+      in her cupped hands. The Weaver's many eyes turn toward her with kindness. Other paperbirds
+      perch on the light-threads, watching.
+    text: |
+      The Weaver of Words spoke in a voice like pages turning: "Ah, a paperbird who's forgetting
+      its story." Elise held the trembling creature carefully. "How do I help it remember?"
+
+  - image_number: 2
+    visual: |
+      The Weaver gestures with delicate legs, showing Elise how paperbirds are made: from stories
+      told with true voice, from words spoken with heart, from songs sung with courage. The
+      light-threads glow as the Weaver explains, forming images of paperbirds being born from
+      spoken words. Elise listens intently, her observant eyes catching every detail. The Weaver
+      looks at her specifically: "This one needs someone to speak its truth, to give voice to what
+      it carries. But finding voice is not easy for one who lives quietly."
+    text: |
+      "Paperbirds are born from true voice," the Weaver explained. "This one fades because its
+      story has been forgotten, unspoken. Only someone who truly sees can find the words it needs
+      to hear." Elise's heart sank. She wasn't good at speaking up.

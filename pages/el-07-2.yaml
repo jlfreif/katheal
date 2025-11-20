@@ -1,0 +1,36 @@
+id: "el-07-2"
+spread: 7
+page: 2
+node_type: solo
+beat: "Rising stakes: almost works"
+hook: Success is close but incomplete, with a detail revealing what's still needed.
+payoff: What's missing is revealed to be distant or difficult to reach.
+
+description: Elise tries to speak but her voice is still too quiet, too uncertain—she needs something more to truly find her voice.
+
+images:
+  - image_number: 1
+    visual: |
+      Elise attempts to speak her observations aloud, but the words come out as barely a whisper:
+      "I see... the paperbird is... it's beautiful... it's..." The garden flowers lean toward her,
+      trying to hear, but the words are too soft, too hesitant. The paperbird brightens slightly—
+      it's working!—but not enough. Elise tries again: "The paperbird carries stories of..." But
+      doubt creeps in. What if she's wrong? What if her quiet observations don't matter? The flowers
+      begin to dim.
+    text: |
+      Elise whispered her observations, but they came out too quiet, too uncertain. The paperbird
+      flickered brighter for just a moment—but then faded again. Almost. She was almost there. But
+      not quite.
+
+  - image_number: 2
+    visual: |
+      Exhausted and discouraged, Elise sinks to the ground beside the pool. The paperbird can barely
+      glow now—nearly transparent. The sun is setting, casting long shadows across the garden. In
+      the distance beyond the garden, she can see sky-moths rising toward a cliff edge where the
+      land drops away to open sky. The paperbird weakly tries to fly that direction. Elise feels
+      defeated—she tried to find her voice but it wasn't strong enough. Something is still missing.
+      She needs... what? Courage? Confidence? Truth?
+    text: |
+      Elise slumped in defeat. She'd tried to speak, but her voice was still too small, too scared.
+      The paperbird pointed toward a distant cliff where sky-moths danced. One more journey. But Elise
+      felt so tired. Could she really do this?

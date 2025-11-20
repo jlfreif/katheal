@@ -1,0 +1,35 @@
+id: "el-02-1"
+spread: 2
+page: 1
+node_type: solo
+beat: "Inciting incident"
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Elise follows the paperbird deeper into the woods, discovering the magical beauty hidden within.
+
+images:
+  - image_number: 1
+    visual: |
+      Elise walks carefully through the Whispering Woods, eyes wide as she observes everything.
+      Unlike someone rushing through, she notices each wonder: mushrooms that glow softly,
+      moss patterns that look like tiny cities, flowers that chime when touched. The paperbird
+      leads her forward, pausing occasionally to make sure she's following. Elise's sketchbook
+      is open in her hands—she can't help but quickly sketch the bioluminescent mushrooms. Her
+      expression shows wonder mixed with concern for the fading paperbird.
+    text: |
+      The woods were full of wonders Elise ached to draw—glowing mushrooms, singing flowers,
+      trees that whispered. But the paperbird kept fading, colors growing dimmer. She had to keep going.
+
+  - image_number: 2
+    visual: |
+      The paperbird flies to a small grove where other paperbirds gather—but these are vibrant,
+      healthy, their wings flashing brilliant colors (emerald, sapphire, ruby, gold). Elise's
+      paperbird looks so faded next to them, its colors barely visible. The other paperbirds
+      seem to sing in concern, circling the fading one. Elise kneels, watching, trying to
+      understand. Her gentle, observant nature helps her see: something is missing from her
+      paperbird. But what?
+    text: |
+      Other paperbirds gathered, singing in crystalline voices. Next to them, Elise's paperbird
+      looked almost transparent. They were trying to help, but something was still wrong. Elise
+      watched carefully, noticing everything.

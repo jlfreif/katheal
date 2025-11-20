@@ -1,0 +1,36 @@
+id: "el-11-1"
+spread: 11
+page: 1
+node_type: solo
+beat: "Resolution (external)"
+hook: Return journey begins with hint of future possibility or unresolved element.
+payoff: Character arrives home integrating what they gained from the journey.
+
+description: Elise journeys home through the woods, her paperbird companion restored and flying beside her.
+
+images:
+  - image_number: 1
+    visual: |
+      Elise walks through the Whispering Woods as morning light filters through the canopy. The
+      paperbird flies beside her—fully vibrant now, its wings flashing all the colors of emotion
+      and story: joy-gold, peace-blue, courage-crimson, love-rose. Other paperbirds escort them,
+      creating a procession of color and light. Elise moves with quiet confidence, her sketchbook
+      clutched to her chest. She's different—not louder, but more sure. The woods recognize her
+      transformation, flowers blooming in her wake.
+    text: |
+      Elise walked home through the woods that had seemed so scary before. But now they felt like
+      friends, celebrating her journey. Her paperbird sang beside her—fully alive, fully vibrant,
+      fully seen.
+
+  - image_number: 2
+    visual: |
+      As Elise reaches the forest edge, the Weaver of Words appears one last time, emerging from
+      behind an ancient tree. It approaches Elise gently and presents her with a gift: a small
+      journal bound in starlight-thread. "For the quiet observer who learned to speak," the Weaver
+      says. "Your voice matters. May you always remember." Elise accepts it with shy pride, holding
+      both the journal and her restored paperbird. The Weaver's many eyes show genuine joy at her
+      transformation.
+    text: |
+      The Weaver gave Elise a gift: a journal made of starlight. "Write your observations, speak
+      your truths," it said gently. "The world needs voices like yours—gentle but brave, quiet but
+      clear." Elise nodded, understanding finally: her voice mattered.

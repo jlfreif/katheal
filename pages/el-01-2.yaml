@@ -1,0 +1,35 @@
+id: "el-01-2"
+spread: 1
+page: 2
+node_type: solo
+beat: "Ordinary world + desire hint"
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Elise follows the paperbird outside, understanding somehow that it needs her help.
+
+images:
+  - image_number: 1
+    visual: |
+      Elise carefully opens her window, moving slowly so as not to startle the fragile creature.
+      The paperbird hovers just out of reach, wings trembling. Up close, Elise can see the
+      exquisite detail—it's made of ancient parchment with tiny writing in languages she doesn't
+      know. Its colors pulse with emotion: worry (gray-blue), hope (pale gold), fear (fading
+      silver). Elise extends one gentle hand. "I see you," she whispers. The paperbird tilts its
+      head, then slowly flies toward the Whispering Woods.
+    text: |
+      "I see you," Elise whispered, and the paperbird seemed to understand. It flew toward the
+      woods, then stopped, looking back. It wanted her to follow. Elise grabbed her sketchbook—
+      she had to help.
+
+  - image_number: 2
+    visual: |
+      Elise stands at the edge of the Whispering Woods where afternoon light creates a golden
+      archway between trees. She's dressed simply, carrying her sketchbook clutched to her chest
+      like a shield and a comfort. The paperbird waits at the forest's edge, wings still flickering
+      worryingly between colors. Elise feels anxious—the woods are big and she's small—but the
+      paperbird needs her. She takes a breath, gathering quiet courage, and steps forward. The
+      woods seem to welcome her with gentle rustling.
+    text: |
+      Elise's heart beat fast as she entered the woods. She was scared, but the paperbird needed
+      someone who truly saw it. Maybe that's why it chose her. She walked forward, quiet but brave.
