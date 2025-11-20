@@ -1,0 +1,44 @@
+id: "el-no-03"
+spread: 3
+node_type: meeting
+beat: "Attempt #1 (simple/obvious)"
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
+
+description: Noah freezes at a fork in the path just as Ellie arrives breathless, chasing a colorful paperbird—the siblings nearly collide, and Ellie models ease with improvisation while Noah wrestles with certainty.
+
+meeting_data:
+  location: "The Diverging Path—a fork where three trails meet in the heart of the Whispering Woods"
+  time_context: "Late afternoon, spread 3"
+  shared_action: "The siblings nearly collide; Ellie models ease with improvisation while Noah wrestles with certainty"
+  dialogue_packets:
+    - character: "no"
+      line: "What if it's the wrong one?"
+    - character: el
+      line: "Then we'll find another. Paths aren't trapped doors."
+  cross_book_alignment:
+    scene_id: "diverging_path_encounter"
+    pov_variants:
+      - character: "no"
+        focus: "The spinning compass, the weight of choosing wrong, Ellie's confidence as revelation"
+      - character: el
+        focus: "The paperbird's colors, Noah's overthinking as puzzle, her own growing patience"
+
+visual: |
+  The paperbird suddenly darts off the main path, diving into a thicket of flowering vines.
+  Ellie laughs and waves to Noah, already turning to chase it. "That way for me!" she calls
+  over her shoulder. Noah stands alone now at a smaller fork, holding his compass. But
+  something has shifted—his posture is straighter, his expression more determined than
+  anxious. Ellie's warmth lingers like sunlight. The paperbird flashes once between the trees,
+  and she's gone.
+
+text: |
+  Noah jumped as someone burst through the trees—his sister Ellie, giggling and breathless.
+  "The paths crossed us again!" she said, eyes bright. Noah clutched his spinning compass tighter.
+  "Why are you waiting?" Ellie asked, tilting her head. "Just pick one!" "What if it's the wrong
+  one?" Noah's voice cracked slightly. Ellie grinned and squeezed his shoulder. "Then we'll find
+  another. Paths aren't trapped doors, Noah." They walked together for a few steps. "See? You
+  picked one!" Ellie squeezed his hand. Noah glanced at his compass—it had settled, pointing
+  forward. Maybe choosing itself was the magic. "Pick the one that scares you most—that's usually
+  the interesting one!" Ellie called as she darted after her paperbird. Noah stood alone again,
+  but this time he wasn't frozen. He chose the path his compass showed, and started walking.

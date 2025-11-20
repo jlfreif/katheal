@@ -1,0 +1,26 @@
+id: "el-04"
+spread: 4
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Elise encounters the Weaver of Words, who explains that paperbirds are born from true voice and this one fades because its story has been forgotten—Elise must journey to the Echo Hollow to find her voice and speak the paperbird's truth.
+
+visual: |
+  Elise leaves the grove, following the map's path. The woods grow darker and the path winds
+  downward into a hollow filled with thick mist. The fading paperbird barely glows now, its
+  colors almost gone. Other paperbirds escort her to the hollow's edge but can't follow—this
+  is Elise's journey alone. She stands at the entrance to the misty hollow, clutching her
+  sketchbook like a talisman, visibly anxious but determined. Her gentle courage shows in
+  her steady, if trembling, first step forward.
+
+text: |
+  The Weaver of Words spoke in a voice like pages turning: "Ah, a paperbird who's forgetting
+  its story." "Paperbirds are born from true voice," the Weaver explained. "This one fades
+  because its story has been forgotten, unspoken. Only someone who truly sees can find the
+  words it needs to hear." Elise's heart sank. She wasn't good at speaking up. The Weaver's
+  warning scared Elise: "To save the paperbird, you must speak aloud what you see, what you
+  feel, what you know. Silence may feel safe, but sometimes the bravest thing is to be heard."
+  The Echo Hollow waited below—dark, misty, unknown. Elise's quiet voice had always felt like
+  a weakness. Now it might be the only thing that could save her paperbird.

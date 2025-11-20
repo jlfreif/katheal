@@ -12,16 +12,15 @@
 # - Resonant: Emotional/energetic ripple connecting characters across distance
 #
 # LAYOUT STRUCTURE:
-# - Each spread = 2 pages (left page and right page)
-# - Each page = 2 images (top and bottom, or left and right arrangement)
-# - Each image = 2-3 sentences of text
-# - Total per story: 12 spreads × 2 pages × 2 images = 48 images
+# - Each spread = 2 pages (left page and right page when book is open)
+# - Each spread = 1 image total (spanning across both pages)
+# - Each spread = 2-3 sentences of text
+# - Total per story: 12 spreads × 1 image = 12 images
 
 # List of spreads in the story
 spreads:
   # Spread 1 - Opening
   - spread: 1
-    pages: "5-6"
     beat: Ordinary world + desire hint
     node_types_allowed: ["solo"]  # Must be character-specific
     description: |
@@ -32,7 +31,6 @@ spreads:
 
   # Spread 2 - Inciting Incident
   - spread: 2
-    pages: "7-8"
     beat: Inciting incident
     node_types_allowed: ["solo", "resonant"]  # Can be resonant (emotional connection sparks journey)
     description: |
@@ -43,7 +41,6 @@ spreads:
 
   # Spread 3 - First Attempt
   - spread: 3
-    pages: "9-10"
     beat: "Attempt #1 (simple/obvious)"
     node_types_allowed: ["solo", "mirrored"]  # Can be mirrored (parallel failed attempts)
     description: |
@@ -54,7 +51,6 @@ spreads:
 
   # Spread 4 - Ask the Expert
   - spread: 4
-    pages: "11-12"
     beat: "Attempt #2 (ask the expert)"
     node_types_allowed: ["solo", "meeting", "mirrored"]  # Can be meeting (seek help together)
     description: |
@@ -65,7 +61,6 @@ spreads:
 
   # Spread 5 - Bigger World
   - spread: 5
-    pages: "13-14"
     beat: "Attempt #3 (bigger world / stakes up)"
     node_types_allowed: ["solo", "meeting", "mirrored"]  # Meeting or mirrored for shared challenges
     description: |
@@ -76,7 +71,6 @@ spreads:
 
   # Spread 6 - Midpoint
   - spread: 6
-    pages: "15-16"
     beat: "Midpoint: new insight / pattern"
     node_types_allowed: ["solo", "resonant", "mirrored"]  # Resonant or mirrored for shared insight
     description: |
@@ -87,7 +81,6 @@ spreads:
 
   # Spread 7 - Rising Stakes
   - spread: 7
-    pages: "17-18"
     beat: "Rising stakes: almost works"
     node_types_allowed: ["solo", "meeting", "mirrored", "resonant"]  # All types possible
     description: |
@@ -98,7 +91,6 @@ spreads:
 
   # Spread 8 - All Is Lost
   - spread: 8
-    pages: "19-20"
     beat: "All-is-lost / emotional low"
     node_types_allowed: ["solo", "meeting", "mirrored", "resonant"]  # Resonant ideal for emotional low
     description: |
@@ -109,7 +101,6 @@ spreads:
 
   # Spread 9 - Inner Shift
   - spread: 9
-    pages: "21-22"
     beat: "Deepening choice / inner shift"
     node_types_allowed: ["solo", "resonant", "mirrored"]  # Resonant must follow growth moment
     description: |
@@ -120,7 +111,6 @@ spreads:
 
   # Spread 10 - Climax
   - spread: 10
-    pages: "23-24"
     beat: "Climax: big action"
     node_types_allowed: ["solo", "meeting", "mirrored"]  # Meeting ideal for climactic convergence
     description: |
@@ -131,7 +121,6 @@ spreads:
 
   # Spread 11 - Resolution (External)
   - spread: 11
-    pages: "25-26"
     beat: "Resolution (external)"
     node_types_allowed: ["solo"]  # Must be character-specific
     description: |
@@ -142,7 +131,6 @@ spreads:
 
   # Spread 12 - Resolution (Emotional)
   - spread: 12
-    pages: "27-28"
     beat: "Resolution (emotional) + series button"
     node_types_allowed: ["solo"]  # Must be character-specific
     description: |

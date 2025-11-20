@@ -1,0 +1,49 @@
+id: "el-no-08"
+spread: 8
+node_type: resonant
+beat: "All-is-lost / emotional low"
+hook: Self-doubt surfaces, questioning whether continuing is worth it.
+payoff: Something affirms that the effort matters and creates emotional reconnection.
+
+description: Noah reaches the cliff exhausted and doubting everything, just as Ellie arrives with perfect timing—drawn by an inexplicable feeling that he needs her—and gives him the feather charm that helps him feel brave when she can't be there.
+
+resonant_data:
+  emotional_state_packets:
+    - character: "no"
+      state: "Exhaustion from overthinking; deep self-doubt about his worth and capacity; receiving external affirmation just when he needs it; beginning to calm"
+      trigger: "Facing his fears in the pool; compass showing one more impossible journey; Ellie's presence and the gift of the feather charm"
+    - character: el
+      state: "Exhilaration from her own adventure, but sudden awareness of Noah's emotional need; discovering her own capacity to ground and soothe, not just energize"
+      trigger: "An inexplicable pull toward the cliff; knowing something is wrong; noticing how Noah calms; realizing her presence matters deeply"
+  ripple_effect: |
+    As Noah sits at his lowest, questioning everything, Ellie—miles away in the woods—
+    feels a sudden tug at her heart. Not words, but knowing: Noah needs her. She follows
+    the feeling without question, arriving exactly when he needs grounding most. The feather
+    charm becomes Noah's anchor—physical proof that courage can be carried and shared. Ellie
+    learns that her gift isn't just enthusiasm but also the ability to calm storms in others'
+    hearts.
+  symbolic_resonance:
+    phenomenon: "Gentle wind that connects them—steady, warm, carrying the feeling between siblings; the feather charm catching gentle wind and glowing faintly"
+    description: "The same wind that touches Noah's face brings Ellie running; both feel its warmth; as Noah holds the charm, the wind carries warmth; both siblings feel steadied"
+    visual_cue: "Wind moving leaves, carrying light, creating a path between them; shared moment of peace; wind connecting them to something larger"
+  placement_rule: "Follows Noah's failure at the pool; precedes his moment of renewed trust; moment of grounding before Noah's inner shift in spread 9"
+  temporal_sync: "Late afternoon, same hour, connected by sibling bond; sunset on the cliff; both siblings present and connected"
+
+visual: |
+  Noah and Ellie sit together as gentle wind sweeps across the cliff—steady, warm, like an
+  embrace. Noah holds the feather charm close to his heart. His posture has changed—shoulders
+  a little straighter, breathing easier. Beside him, his compass begins to glow brighter again,
+  as if responding to his renewed calm. Ellie leans her head on his shoulder. The sky stretches
+  before them—vast but no longer overwhelming. The wind carries possibility.
+
+text: |
+  Noah sat at the edge of the Cliff of Gentle Winds, head in hands, compass lying beside him.
+  "I can't do it, Ellie," he said quietly as footsteps approached. "The compass keeps pointing
+  forward, but I don't know if I'm strong enough to keep following." Ellie plops down beside him
+  without a word, just being there. The wind was soft and warm—the kind that makes you feel less
+  alone. After a moment, she held out her hand. "I made you something." The feather charm glowed
+  faintly in Noah's palm—sky-moth wings catching the last light. "You don't have to know the whole
+  path," Ellie whispered. "Just the next step. This helps me feel brave. Maybe it can help you too."
+  "Thank you," Noah's eyes welled slightly. They sat as gentle winds embraced them both. Noah
+  tucked the charm into his pocket, feeling its warmth. His compass pulsed—not commanding, but
+  encouraging. "I can try again," Noah said quietly. Ellie smiled. "That's all you ever have to do."

@@ -44,50 +44,38 @@ attributes:
     - Moves confidently but not super athletic
 
 story:
-  # Spread 1 (pages 5-6) - character-specific
-  - no-01-1.yaml
-  - no-01-2.yaml
+  # Spread 1 - character-specific
+  - no-01.yaml
 
-  # Spread 2 (pages 7-8)
-  - no-02-1.yaml
-  - no-02-2.yaml
+  # Spread 2
+  - no-02.yaml
 
-  # Spread 3 (pages 9-10) - Meeting Node with Ellie
-  - el-no-03-1.yaml
-  - el-no-03-2.yaml
+  # Spread 3 - Meeting Node with Elise
+  - el-no-03.yaml
 
-  # Spread 4 (pages 11-12)
-  - no-04-1.yaml
-  - no-04-2.yaml
+  # Spread 4
+  - no-04.yaml
 
-  # Spread 5 (pages 13-14)
-  - no-05-1.yaml
-  - no-05-2.yaml
+  # Spread 5
+  - no-05.yaml
 
-  # Spread 6 (pages 15-16) - Mirrored Node with Ellie
-  - el-no-06-1.yaml
-  - el-no-06-2.yaml
+  # Spread 6 - Mirrored Node with Elise
+  - el-no-06.yaml
 
-  # Spread 7 (pages 17-18)
-  - no-07-1.yaml
-  - no-07-2.yaml
+  # Spread 7
+  - no-07.yaml
 
-  # Spread 8 (pages 19-20) - Resonant Node with Ellie
-  - el-no-08-1.yaml
-  - el-no-08-2.yaml
+  # Spread 8 - Resonant Node with Elise
+  - el-no-08.yaml
 
-  # Spread 9 (pages 21-22)
-  - no-09-1.yaml
-  - no-09-2.yaml
+  # Spread 9
+  - no-09.yaml
 
-  # Spread 10 (pages 23-24)
-  - no-10-1.yaml
-  - no-10-2.yaml
+  # Spread 10
+  - no-10.yaml
 
-  # Spread 11 (pages 25-26) - character-specific
-  - no-11-1.yaml
-  - no-11-2.yaml
+  # Spread 11 - character-specific
+  - no-11.yaml
 
-  # Spread 12 (pages 27-28) - character-specific
-  - no-12-1.yaml
-  - no-12-2.yaml
+  # Spread 12 - character-specific
+  - no-12.yaml

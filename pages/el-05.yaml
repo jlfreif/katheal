@@ -1,0 +1,26 @@
+id: "el-05"
+spread: 5
+node_type: solo
+beat: "Attempt #3 (bigger world / stakes up)"
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
+
+description: In the Echo Hollow, Elise encounters the Shadow Mimic who promises to speak for her, but she refuses the false shortcut and discovers that even her whispered "no" has power—the first sign her true voice matters.
+
+visual: |
+  Elise shakes her head slowly but firmly at the Shadow Mimic. "No," she says quietly—barely
+  a whisper, but it's her own voice. The word echoes in the hollow, growing louder with each
+  repetition until "NO" fills the space powerfully. The Shadow Mimic recoils, its false-Elise
+  form dissolving back into smoke and shadows. The paperbird in Elise's hands glows slightly
+  brighter—just a flicker, but it's the first time it's grown stronger instead of weaker.
+  Elise realizes: her true voice, even when quiet, has power.
+
+text: |
+  The Shadow Mimic whispered in Elise's own voice: "You don't need to speak. I can speak for
+  you. I can say everything you're too scared to say. No one will even notice it isn't you."
+  Part of Elise wanted to say yes—let someone else speak, stay safe in silence. But the paperbird
+  trembled. Somehow she knew: borrowed voice wouldn't save it. Only her own true words could.
+  "No," Elise whispered, and the word echoed until it became thunder. The Shadow Mimic vanished,
+  and for the first time, her paperbird glowed a little brighter. The path cleared ahead, leading
+  toward stones that sang in the distance. Elise followed, feeling different—a little braver, a
+  little more sure that her quiet voice mattered.

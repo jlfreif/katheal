@@ -57,50 +57,38 @@ attributes:
     - Often has paint or charcoal on her fingers
 
 story:
-  # Spread 1 (pages 5-6) - character-specific
-  - el-01-1.yaml
-  - el-01-2.yaml
+  # Spread 1 - character-specific
+  - el-01.yaml
 
-  # Spread 2 (pages 7-8)
-  - el-02-1.yaml
-  - el-02-2.yaml
+  # Spread 2
+  - el-02.yaml
 
-  # Spread 3 (pages 9-10) - Meeting Node with Noah
-  - el-no-03-1.yaml
-  - el-no-03-2.yaml
+  # Spread 3 - Meeting Node with Noah
+  - el-no-03.yaml
 
-  # Spread 4 (pages 11-12)
-  - el-04-1.yaml
-  - el-04-2.yaml
+  # Spread 4
+  - el-04.yaml
 
-  # Spread 5 (pages 13-14)
-  - el-05-1.yaml
-  - el-05-2.yaml
+  # Spread 5
+  - el-05.yaml
 
-  # Spread 6 (pages 15-16) - Mirrored Node with Noah
-  - el-no-06-1.yaml
-  - el-no-06-2.yaml
+  # Spread 6 - Mirrored Node with Noah
+  - el-no-06.yaml
 
-  # Spread 7 (pages 17-18)
-  - el-07-1.yaml
-  - el-07-2.yaml
+  # Spread 7
+  - el-07.yaml
 
-  # Spread 8 (pages 19-20) - Resonant Node with Noah
-  - el-no-08-1.yaml
-  - el-no-08-2.yaml
+  # Spread 8 - Resonant Node with Noah
+  - el-no-08.yaml
 
-  # Spread 9 (pages 21-22)
-  - el-09-1.yaml
-  - el-09-2.yaml
+  # Spread 9
+  - el-09.yaml
 
-  # Spread 10 (pages 23-24)
-  - el-10-1.yaml
-  - el-10-2.yaml
+  # Spread 10
+  - el-10.yaml
 
-  # Spread 11 (pages 25-26) - character-specific
-  - el-11-1.yaml
-  - el-11-2.yaml
+  # Spread 11 - character-specific
+  - el-11.yaml
 
-  # Spread 12 (pages 27-28) - character-specific
-  - el-12-1.yaml
-  - el-12-2.yaml
+  # Spread 12 - character-specific
+  - el-12.yaml

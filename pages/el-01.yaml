@@ -1,0 +1,25 @@
+id: "el-01"
+spread: 1
+node_type: solo
+beat: "Ordinary world + desire hint"
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Elise sits alone drawing in her quiet corner, feeling unseen, when a fading paperbird appears at her window asking for help—and she follows it into the Whispering Woods.
+
+visual: |
+  Elise stands at the edge of the Whispering Woods where afternoon light creates a golden
+  archway between trees. She's dressed simply, carrying her sketchbook clutched to her chest
+  like a shield and a comfort. The paperbird waits at the forest's edge, wings still flickering
+  worryingly between colors. Elise feels anxious—the woods are big and she's small—but the
+  paperbird needs her. She takes a breath, gathering quiet courage, and steps forward. The
+  woods seem to welcome her with gentle rustling.
+
+text: |
+  Elise drew every tiny vein in the butterfly's wing, capturing what others rushed past. She
+  noticed everything—but sometimes wondered if anyone noticed her. A paperbird appeared at her
+  window, wings flashing colors she'd never seen—but something was wrong, its edges fading like
+  a dying flame. It looked at her, and Elise felt it: "Help me." "I see you," Elise whispered,
+  and the paperbird seemed to understand. It flew toward the woods, then stopped, looking back.
+  Elise's heart beat fast as she entered the woods. She was scared, but the paperbird needed
+  someone who truly saw it. Maybe that's why it chose her.

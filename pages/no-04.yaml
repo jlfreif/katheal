@@ -1,0 +1,23 @@
+id: "no-04"
+spread: 4
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Noah encounters the Luminary Fox, who speaks in riddles about the compass pointing to decisions rather than destinations, then guides him toward a dark cave that transforms into crystal beauty.
+
+visual: |
+  Noah enters the cave mouth, one hand on the rock wall, the other holding the compass which
+  now glows with golden light, illuminating the darkness. The cave interior reveals crystal
+  formations that catch and multiply the light—suddenly the scary cave becomes a cathedral
+  of beauty. Noah's expression shifts from fear to wonder, mouth open in amazement. Strange,
+  beautiful minerals glitter in the walls. The path descends deeper.
+
+text: |
+  The Luminary Fox appeared like moonlight made solid—glowing, impossible, beautiful. "The
+  needle points not to destinations, but to decisions," it said, voice like wind chimes.
+  "The compass shows what you need to face, not what you want to find. Follow it anyway."
+  The compass pointed at the cave—dark, cold, exactly where Noah didn't want to go. But
+  inside, the cave transformed, revealing walls of crystal that sang with light. "Oh," Noah
+  laughed despite his fear. "You were showing me this."

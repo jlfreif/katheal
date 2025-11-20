@@ -77,30 +77,27 @@ attributes:
     - Skinny and physically confident
     - Shy smile
 
-# Storybook Pages (ordered list)
-# NEW STRUCTURE (Post-Refactor):
-# - Each spread has 2 pages (24 pages total for 12 spreads)
-# - File naming: {char}-{spread}-{page}.yaml (e.g., cu-01-1.yaml, cu-01-2.yaml)
-# - For shared pages: {char1}-{char2}-{spread}-{page}.yaml (alphabetical order)
-# - Each page contains 2 images
+# Storybook Spreads (ordered list)
+# LAYOUT STRUCTURE:
+# - 12 spreads total
+# - Each spread = 2 pages with 1 image spanning across both
+# - File naming: {char}-{spread}.yaml (e.g., cu-01.yaml, cu-02.yaml)
+# - For shared spreads: {char1}-{char2}-{spread}.yaml (alphabetical order, e.g., cu-ma-03.yaml)
 #
 # Initially this list is empty when we create the character
 # But more will get added as we follow the story creation steps
 # (see Readme.md).
-# NOTE: Pages should be shown without path `cu-01-1.yaml` rather than `pages/cu-01-1.yaml`
+# NOTE: Spreads should be shown without path `cu-01.yaml` rather than `pages/cu-01.yaml`
 story:
   # Spread 1 (must be character-specific)
-  - cu-01-1.yaml  # Spread 1, page 1 (left page)
-  - cu-01-2.yaml  # Spread 1, page 2 (right page)
+  - cu-01.yaml
 
   # Spread 2 (can be solo or resonant)
-  - cu-02-1.yaml
-  - cu-02-2.yaml
+  - cu-02.yaml
 
-  # Spread 3 (example of shared pages with another character, e.g., Maya)
+  # Spread 3 (example of shared spread with another character, e.g., Maya)
   # Character codes are in alphabetical order
-  # These pages would be mirrored or meeting nodes
-  - cu-ma-03-1.yaml  # Both characters in parallel or together, page 1
-  - cu-ma-03-2.yaml  # Both characters in parallel or together, page 2
+  # This spread would be a mirrored or meeting node
+  - cu-ma-03.yaml
 
   # Continue pattern for all 12 spreads...

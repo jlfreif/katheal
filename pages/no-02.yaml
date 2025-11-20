@@ -1,0 +1,24 @@
+id: "no-02"
+spread: 2
+node_type: solo
+beat: "Inciting incident"
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Noah decides to trust the compass and steps into the Whispering Woods, but when he reaches a glowing grove, the path disappears and the compass spins wildly at a three-way fork.
+
+visual: |
+  Beyond an ancient stone marker covered in swirling symbols, three distinct paths branch
+  out—each disappearing into different parts of the forest. The left path climbs upward
+  toward rocky cliffs shrouded in mist. The middle path descends into a hollow filled with
+  glowing mushrooms and strange sounds. The right path winds through a thicket of thorny
+  vines with beautiful silver flowers. Noah stands frozen, compass in hand, but the needle
+  spins wildly, unable to choose. His expression shows panic—which way is right?
+
+text: |
+  Noah took a deep breath and stepped into the Whispering Woods. The woods weren't scary—
+  they were alive with wonder, paperbirds singing in crystalline voices, trees whispering
+  secrets he couldn't quite understand yet. The compass led him to a glowing grove marked
+  by ancient stone—symbols lit up, matching the engravings on his compass perfectly. But
+  beyond it: three paths, three choices. And the compass—his one guide—spun uselessly in
+  circles. "Just pick one for me!" he whispered. But the compass gave no answer.

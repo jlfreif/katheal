@@ -1,0 +1,24 @@
+id: "no-01"
+spread: 1
+node_type: solo
+beat: "Ordinary world + desire hint"
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Noah sits at his desk, overwhelmed by choices, when something catches his eye through the window—leading him to discover an ancient compass at the forest's edge.
+
+visual: |
+  Noah holds the Cartographer's Compass up to the light at the edge of the Whispering Woods.
+  The compass is ornate—brass outer ring with intricate engravings, a crystal face that swirls
+  with faint golden mist, and a needle that shimmers between blue and gold. His eyes are wide
+  with wonder, mouth slightly open. The needle spins wildly for a moment, then points directly
+  into the darkest, most mysterious part of the woods. Behind him, the safe, sunny meadow
+  contrasts with the shadowy forest ahead.
+
+text: |
+  Noah stared at three different story beginnings, unable to choose which one to finish.
+  Something golden flashed at the edge of the woods—sharp and bright, like a signal meant
+  just for him. At the forest's edge, he found it: a compass made of tarnished brass and
+  crystal, half-buried like it had been waiting centuries. The needle spun once, twice,
+  then locked onto a direction—straight into the deepest part of the woods. This wasn't
+  pointing to anywhere safe. But something about it felt...right.
