@@ -1,0 +1,45 @@
+# World: Kathaél
+#
+# A luminous, enchanted realm shaped by the inner courage of its inhabitants.
+
+# What's this world called?
+name: Kathaél
+
+# Core concept
+description: |
+  Kathaél is a luminous, enchanted realm shaped by the **inner courage** of its inhabitants.
+  Every honest or heartfelt choice becomes a glowing thread in the **Heart-Loom**, a living
+  tapestry that binds the world together. Landscapes subtly shift in response to sincerity:
+  paths open, soft lights appear, and magical creatures stir awake. Each child's story unfolds
+  in a different region, but key decisions send ripples across the realm, creating moments where
+  their journeys **intersect**. These interlocking points are called **Synchrony Nodes**, where
+  two characters' choices align and reveal new possibilities. Kathaél exists outside ordinary
+  time — a story-realm built around wonder, connection, and the quiet bravery of choosing what
+  matters.
+
+# What's the visual style?
+# How does this world look? What's the aesthetic, color palette, atmosphere?
+# This is used for prompting the visual system.
+visual_style:
+  - Watercolor Etherealism with Fine Ink Linework - soft watercolor washes paired with delicate ink lines, dreamlike yet grounded
+  - Colors blend gently with mist blues, warm creams, honey golds, with brighter jewel tones appearing when magic stirs
+  - The atmosphere feels warm, intimate, and slightly glowing, as if courage adds its own light to the scene
+  - Magical elements are subtle - a shimmer around leaves, gold flecks in waterfalls, or luminous threads drifting through the air
+  - Settings include responsive forests, glowing meadows, cozy lantern-lit villages, and ancient bridges of starlight
+  - Everything looks hand-painted, organic, and quietly enchanted
+  - A world where emotion shapes the landscape and children's choices guide the way
+  - When the Heart-Loom is active, glowing golden threads appear in the air, weaving through scenes
+  - Synchrony Nodes manifest as points of radiant light where paths or landscapes align
+
+# Characters in this world
+characters:
+  - id: no
+    name: Noah
+    file: no-noah.yaml
+  - id: el
+    name: Elise
+    file: el-elise.yaml
+
+# Character interactions and Synchrony Nodes
+# Maps which characters meet at which spread numbers
+interactions: []
