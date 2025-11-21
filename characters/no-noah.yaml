@@ -1,4 +1,10 @@
-id: no
+# To view this character's complete story, run:
+#   python3 scripts/show_story.py no
+#
+# If you encounter any issues with page formatting or consistency, run:
+#   python3 scripts/validate_structure.py
+
+id: "no"
 
 attributes:
   name: Noah
