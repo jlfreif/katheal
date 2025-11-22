@@ -2,31 +2,43 @@
 
 id: no-12
 spread: 12
+node_type: solo
 beat: "Resolution (emotional) + series button"
 
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Noah returns to his room, but now he writes differently—with honesty instead of just cleverness—knowing his stories are connected to something real.
+description: Noah returns to his room and starts a new story—leaving space for it to surprise him, trusting the ending will come.
 
-visual: |
-  Noah sits cross-legged on his bedroom floor in the exact same position as the
-  opening, surrounded by notebooks and papers. But everything is subtly transformed.
-  He's writing in his notebook with focused intent, the golden quill of light from
-  Kathaél visible as a faint shimmer in his ordinary pen. His expression is engaged
-  and content—not wistful or restless like before, but present and purposeful. The
-  page visible in his notebook shows writing that flows naturally, with no crossed-out
-  lines. The afternoon light streaming through the window is the same, but now there's
-  a barely perceptible golden thread visible at the window's edge, a reminder that
-  Kathaél is still connected to his world. His ukulele leans against the wall in the
-  same spot, but now there's a golden thread wound around one of its strings, so
-  subtle that only someone who knew to look for it would notice. The room is identical
-  in its arrangement—same blue quilt, same desk, same books—but the quality of the
-  scene has shifted from longing to connection. On the open page of his notebook, the
-  first sentence is visible: "This is a story about learning that truth matters more
-  than perfection." Outside the window, the ordinary suburban trees are just trees,
-  but one small bird sits on a branch, and its eyes catch the light in a way that
-  suggests it might be more than it seems.
+scenes:
+  - page: left
+    page_number: 27
+    focus: Returning to ordinary world
 
-text: |
-  Noah opened his notebook and began to write—not the perfect story, but a true one. He knew now that somewhere in Kathaél, his words would matter.
+    visual: |
+      Noah sits cross-legged on his bedroom floor in the same position as the
+      opening, but the crumpled papers are gone. A fresh notebook lies open before
+      him. The blank page from Kathaél shimmers faintly beneath his ordinary paper.
+      His expression is peaceful, curious, open.
+
+    text: |
+      Noah's room looked the same: afternoon light, scattered books, ukulele against
+      the wall. But the crumpled papers were gone. He'd thrown them away. Now a
+      fresh notebook lay open, and beneath his ordinary paper, the glowing blank
+      page hummed with warmth. He picked up his pen.
+
+  - page: right
+    page_number: 28
+    focus: Transformed by the journey
+
+    visual: |
+      Noah writes in his notebook, but the visible sentence trails off mid-thought:
+      "She opened the door and—" with empty space after it. He's smiling slightly,
+      comfortable with the incompleteness. At the window's edge, a golden thread
+      shimmers. Outside, a bird watches with knowing eyes.
+
+    text: |
+      "She opened the door and—" Noah stopped writing. Not because he was stuck,
+      but because he was curious. What would the story want to happen next? He
+      left space on the page, trusting the ending would come when it was ready.
+      Outside his window, a golden thread caught the light, unfinished and beautiful.

@@ -2,27 +2,43 @@
 
 id: no-01
 spread: 1
+node_type: solo
 beat: Ordinary world + desire hint
 
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah sits in his room surrounded by notebooks and stories, feeling restless and wishing for a real adventure.
+description: Noah sits surrounded by crossed-out stories, endlessly revising endings that never feel right, until a golden thread offers something new.
 
-visual: |
-  Noah (12 years old, sandy blond voluminous hair, medium build) sits cross-legged
-  on his bedroom floor, surrounded by scattered notebooks, loose papers covered in
-  his handwriting, and a few paperback books. He holds a pen in his right hand,
-  poised over an open notebook, but his gaze is directed out the window to his left.
-  His expression is thoughtful and slightly wistful—longing for something beyond what
-  he can see. The room is cozy but ordinary: a bed with a blue quilt, a small desk
-  with more books stacked on it, and a ukulele leaning against the wall. Afternoon
-  light streams through the window, creating a warm glow on the wooden floor. Through
-  the window, there's a glimpse of ordinary suburban trees and sky, but at the very
-  edge of the window frame, barely visible, is a shimmer of golden light that doesn't
-  quite belong—like a thread of something magical just entering his world. Noah hasn't
-  noticed it yet. A half-written story is visible on the page in front of him, with
-  several crossed-out lines.
+scenes:
+  - page: left
+    page_number: 5
+    focus: Character in their ordinary world
 
-text: |
-  Noah wrote stories about brave heroes, but wished he could have a real adventure of his own. Something that mattered.
+    visual: |
+      Noah sits cross-legged on his bedroom floor, surrounded by crumpled papers
+      and notebooks filled with crossed-out lines. He holds a pen poised over yet
+      another ending, brow furrowed in frustration. Three different drafts of the
+      same story lie open around him. A ukulele leans forgotten against the wall.
+
+    text: |
+      Noah crossed out another ending. Too predictable. He tried again: "And then
+      they lived—" No. Too easy. He'd rewritten this story eleven times, and nothing
+      felt right. Every ending he wrote seemed to close something that wanted to
+      stay open. His pen hovered, stuck between words.
+
+  - page: right
+    page_number: 6
+    focus: First hint of something different
+
+    visual: |
+      Noah's head lifts sharply, pen frozen mid-stroke. At his window, a single
+      golden thread floats in the air, its end trailing off into nothing—unfinished,
+      like a sentence without a period. The thread pulses gently, as if waiting for
+      something. His notebook lies forgotten in his lap.
+
+    text: |
+      A shimmer caught his eye. Noah turned and saw a thread of golden light
+      hovering by his window, thin and bright. But the strange thing was its end:
+      it just stopped, trailing into nothing, like a story interrupted mid-word.
+      His heart beat faster. Something unfinished was calling to him.

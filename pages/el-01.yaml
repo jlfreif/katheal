@@ -2,6 +2,7 @@
 
 id: el-01
 spread: 1
+node_type: solo
 beat: Ordinary world + desire hint
 
 hook: Something new or unusual appears, creating curiosity about what it is.
@@ -9,23 +10,36 @@ payoff: The discovery is fully revealed, establishing the story goal.
 
 description: Elise draws quietly in her room, noticing that one of her drawings seems to shimmer with a light that doesn't come from her lamp.
 
-visual: |
-  Elise (9 years old, slim build, medium height, graceful, gentle presence) sits at
-  a small desk by her window, hunched slightly forward over a drawing she's creating.
-  Her right hand holds a colored pencil—a golden yellow—hovering just above the
-  paper as she concentrates. Her left hand rests gently on the edge of the paper to
-  steady it. Several other colored pencils are scattered on the desk, along with an
-  open box of art supplies. Her expression is peaceful and absorbed, showing the
-  quiet focus of someone lost in creative flow. The drawing visible on her paper
-  shows a forest scene with trees, flowers, and what appears to be a path leading
-  somewhere mysterious. Afternoon light comes through the window, but there's
-  something unusual: one small section of her drawing—a flower she just finished—
-  actually glows with a soft golden light that doesn't match the ordinary lamp light.
-  She's just beginning to notice this, her head tilting slightly, eyes widening with
-  curiosity but not fear. Her room is cozy and slightly messy in a creative way:
-  more drawings pinned to the wall, a dance outfit draped over a chair, stuffed
-  animals on the bed. The glowing flower on her paper seems to pulse very gently, as
-  if breathing.
+scenes:
+  - page: left
+    page_number: 5
+    focus: Character in their ordinary world
 
-text: |
-  Elise loved drawing quiet places where magic might hide. Today, one of her drawings started to glow, as if it wanted to become real.
+    visual: |
+      Elise sits at a small desk by her window, hunched forward over a drawing. Her
+      right hand holds a golden-yellow colored pencil hovering above the paper. Several
+      pencils scatter across the desk near an open box of art supplies. Her expression
+      is peaceful and absorbed in creative flow. Drawings cover the wall behind her.
+
+    text: |
+      Elise drew a forest with a winding path and flowers that looked like they held
+      secrets. She loved imagining quiet places where magic might hide. Her colored
+      pencils moved slowly, carefully, the way she did everything. Outside her window,
+      the afternoon light was ordinary, but on her page, she was making something that
+      felt alive.
+
+  - page: right
+    page_number: 6
+    focus: First hint of something different
+
+    visual: |
+      Elise's head tilts slightly, eyes widening with curiosity. On her paper, one
+      small flower she just finished glows with soft golden light that doesn't match
+      the lamp. The flower pulses gently, as if breathing. Her pencil hovers frozen
+      above the page. Afternoon light streams through the window behind her.
+
+    text: |
+      The flower on her paper started to glow. Elise blinked, but the light didn't
+      disappear. It pulsed softly, like a tiny heartbeat, warm and golden in a way
+      that had nothing to do with her lamp. Her pencil hung still in the air. She
+      leaned closer, watching the impossible light breathe.

@@ -2,28 +2,46 @@
 
 id: no-02
 spread: 2
+node_type: solo
 beat: Inciting incident
 
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah discovers a glowing thread that leads him into Kathaél, where he learns that stories are unraveling and need help.
+description: Noah follows the thread into Kathaél, where he discovers stories frozen mid-sentence, unable to find their endings.
 
-visual: |
-  Noah stands at the threshold between his ordinary world and Kathaél—one foot still
-  on the grass of his backyard, the other foot stepping onto soft, luminescent moss.
-  He's holding onto a golden thread that stretches from his hand forward into a forest
-  that shouldn't exist behind his house. His body is angled forward, leaning into
-  this new world, his free hand extended for balance. His expression shows a mixture
-  of surprise, excitement, and a hint of nervousness—eyebrows raised, mouth slightly
-  open. The golden thread he holds glows warmly and appears to be woven from light
-  itself. Behind him, his ordinary suburban backyard is visible but already beginning
-  to fade at the edges. Ahead of him, Kathaél manifests: trees with silver bark and
-  leaves that catch light like prisms, soft blue-grey mist rolling along the ground,
-  and more golden threads visible in the air like a web connecting everything. Small
-  luminescent flowers dot the moss. In the middle distance, a gentle creature—perhaps
-  a rabbit with unusually wise eyes—sits watching him, as if waiting to see if he'll
-  fully commit to entering.
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
 
-text: |
-  The golden thread led Noah through his backyard fence and into a world he'd only dreamed about. A soft voice whispered that something precious was coming undone, and he could help.
+    visual: |
+      Noah stands at the threshold between his backyard and a luminous forest,
+      gripping the golden thread. One foot rests on ordinary grass, the other on
+      glowing moss. Around him, dozens of golden threads hang suspended in the air,
+      all trailing off into nothing—stories without endings. His eyes widen at the
+      scope of the problem.
+
+    text: |
+      The thread led through his backyard fence into a forest that shouldn't exist.
+      Noah stepped through and stopped, breath catching. Everywhere he looked,
+      golden threads hung frozen in the air, each one ending abruptly, like
+      sentences cut off mid-thought. The whole forest felt like a book with its
+      last chapters torn out.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Noah kneels beside a small clearing where a single thread hovers at eye
+      level, its frayed end pulsing weakly. Beside him, words shimmer in the air
+      like ghostly text: "She reached for the door and—" then nothing. A rabbit
+      with knowing eyes watches from nearby. Noah reaches toward the frozen story.
+
+    text: |
+      By a silver-barked tree, Noah found a thread that whispered words: "She
+      reached for the door and—" Then silence. The story just stopped, waiting.
+      A rabbit with ancient eyes sat nearby, and somehow Noah understood: these
+      were real stories, stuck forever unless someone helped them end. He was a
+      writer. He could fix this.

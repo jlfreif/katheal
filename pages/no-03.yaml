@@ -2,28 +2,43 @@
 
 id: no-03
 spread: 3
+node_type: solo
 beat: "Attempt #1 (simple/obvious)"
 
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah tries to fix a broken story-thread by rewriting it with clever words, but the magic doesn't respond to cleverness alone.
+description: Noah tries to write perfect endings for the stuck stories, but they reject his carefully crafted conclusions.
 
-visual: |
-  Noah kneels beside a stream in Kathaél where a large golden thread has frayed and
-  broken, its ends floating limply in the water. He holds his notebook open in his
-  left hand and a pen in his right, writing furiously. Around him are several crumpled
-  pages that he's tossed aside in frustration. He's leaning forward intently, trying
-  to touch his pen to the broken thread as if writing could repair it, but the thread
-  remains unresponsive—dull instead of glowing. His brow is furrowed in concentration
-  and frustration. The stream flows gently around smooth stones, reflecting the soft
-  light of Kathaél. On the bank beside him, a small pile of his attempted solutions:
-  a paper with "The thread was strong again" written on it, another with "Once upon
-  a time the thread was whole"—all crossed out. Forest surrounds the stream, with
-  silver-barked trees and patches of luminescent mushrooms. A small fox with glowing
-  eyes watches from behind a tree, looking sympathetic but not intervening. The
-  broken thread drifts in the current, clearly needing something Noah hasn't figured
-  out yet.
+scenes:
+  - page: left
+    page_number: 9
+    focus: Trying the obvious solution
 
-text: |
-  Noah tried writing the thread back together with his best words and cleverest phrases. But the thread stayed broken, and he felt his frustration rising.
+    visual: |
+      Noah kneels beside a floating thread, notebook open, pen moving confidently.
+      He writes an ending in the air beside the frozen words. The letters glow
+      briefly, then dissolve like smoke. Around him, crumpled attempts litter the
+      mossy ground. His expression shows determined concentration.
+
+    text: |
+      Noah pulled out his notebook. "She reached for the door and found her
+      brother waiting with a smile." He wrote the ending in glowing letters.
+      Perfect. Satisfying. The thread flickered—then rejected his words, scattering
+      them like leaves. He tried again, crafting a twist ending. Same result.
+
+  - page: right
+    page_number: 10
+    focus: Realizing it doesn't work
+
+    visual: |
+      Noah sits back against a tree trunk, surrounded by failed endings that
+      shimmer and fade around him. His notebook lies open on his lap, filled with
+      crossed-out attempts. The frozen story-thread still hangs incomplete nearby.
+      A fox watches from the underbrush with sympathetic eyes.
+
+    text: |
+      Every ending he wrote dissolved before it could stick. Noah slumped against
+      a tree, frustrated. His endings were good—he knew they were good. Why wouldn't
+      the stories accept them? A fox watched from nearby, its eyes seeming to say:
+      maybe good isn't the same as right. But what did that even mean?

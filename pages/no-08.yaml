@@ -2,28 +2,43 @@
 
 id: no-08
 spread: 8
+node_type: solo
 beat: "All-is-lost / emotional low"
 
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Noah faces a major tangle in the Heart-Loom and doubts whether he's actually helping or just making things worse.
+description: Noah faces a massive tangle of stories he's made worse with his revisions, doubting whether his need to control has ruined everything.
 
-visual: |
-  Noah sits slumped against the base of an enormous ancient tree, his arms wrapped
-  around his knees, head bowed down so his forehead rests on his arms. His sandy
-  blond hair falls forward, hiding his face. His notebook lies on the ground beside
-  him, pages fluttering in a gentle breeze, several pages torn out and scattered.
-  Above and around him, the Heart-Loom threads form a massive, complicated tangle—
-  dozens of golden strands twisted and knotted together, some glowing weakly, some
-  barely visible, the whole structure sagging under its own weight. It's clearly
-  worse than when he started, or at least seems that way. The light in this part of
-  Kathaél is dimmer, more grey than golden, as if reflecting his emotional state.
-  Rain is just beginning to fall—small drops visible in the air, darkening the bark
-  of the tree. His ukulele lies beside him, one string broken. In the background,
-  the path he's been following disappears into fog. The overall atmosphere is heavy,
-  discouraged, lonely. A small bird sits on a low branch above him, silent, just
-  present—not offering solutions, but witnessing his struggle.
+scenes:
+  - page: left
+    page_number: 19
+    focus: External obstacles intensify
 
-text: |
-  Noah felt like every choice made things worse. Maybe he wasn't the hero of this story after all.
+    visual: |
+      Above Noah, dozens of story-threads have knotted into a massive tangle, words
+      jumbled together into nonsense. His crossed-out endings float through the mess
+      like debris. Rain begins to fall, blurring the frozen words. The whole structure
+      sags, stories collapsing into each other.
+
+    text: |
+      The stories he'd tried to fix had knotted into each other. Endings he'd forced
+      had tangled with beginnings he'd ignored. The whole mess hung above him like
+      a storm cloud of ruined tales. Rain began to fall, and Noah realized: his need
+      to control every ending had made everything worse.
+
+  - page: right
+    page_number: 20
+    focus: Inner doubt and discouragement
+
+    visual: |
+      Noah sits slumped against a tree, knees pulled to his chest, face hidden.
+      His notebook lies open in the mud, pages covered in crossed-out endings, rain
+      smearing the ink. Torn pages scatter around him. A small bird sits on a branch
+      above, silent witness to his despair.
+
+    text: |
+      Noah pressed his face into his knees. Every story he touched, he broke. He
+      couldn't stop himself from revising, controlling, perfecting. And now look.
+      His notebook lay ruined in the mud, full of endings that belonged to him, not
+      to the stories. The bird above didn't sing. It just stayed.

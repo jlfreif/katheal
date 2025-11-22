@@ -1,0 +1,84 @@
+# Resonant Node: Spread 9
+# Noah and Elise's courage ripples across distance
+
+id: resonant-09
+spread: 9
+node_type: resonant
+
+beat: "Deepening choice / inner shift"
+
+placement_rule:
+  requirement: Must follow a moment of character growth
+  verification: |
+    At spread 8 (all-is-lost), both characters reached their emotional low.
+    Noah realized his need for control was making things worse.
+    Elise felt overwhelmed by the scale of what needed healing.
+    This resonant moment captures their choice to continue anyway.
+
+emotional_state_packets:
+  - character_code: el
+    emotional_state: quiet determination
+    trigger: |
+      Elise noticed a single restored flower still glowing from her earlier
+      work. One flower mattered. That was enough to start again.
+    manifestation: |
+      She straightens her shoulders, picks up her watercolor set, and chooses
+      to continue—not because she can fix everything, but because each
+      flower she helps is real.
+
+  - character_code: no
+    emotional_state: surrendered trust
+    trigger: |
+      Noah saw that the ruined stories weren't destroyed—they were waiting.
+      His control hadn't helped, but his presence had kept them from fading.
+    manifestation: |
+      He sets down his notebook entirely, opens his hands, and chooses to
+      trust the stories without trying to shape them. His surrender is
+      its own kind of courage.
+
+ripple_effects:
+  - source_character: el
+    target_character: no
+    effect: |
+      As Elise chooses to continue, Noah—far away in his tangled grove—
+      feels an inexplicable warmth. The air around him brightens slightly.
+      A story-thread near him trembles, as if encouraged.
+
+  - source_character: no
+    target_character: el
+    effect: |
+      As Noah releases his need for control, Elise—in her vast meadow—
+      feels the weight on her shoulders lighten. The grey seems less
+      oppressive. A flower nearby begins to glow without her touching it.
+
+symbolic_resonance:
+  phenomenon: golden_thread_shimmer
+  description: |
+    The Heart-Loom's threads briefly shimmer into visibility across all of
+    Kathaél, connecting characters who are making brave choices.
+  manifestation_details:
+    - Golden threads appear in the air, pulsing gently
+    - Characters see the same shimmer though miles apart
+    - The light carries a feeling of connection and hope
+    - It fades after a moment, leaving warmth behind
+
+world_connection: |
+  This resonant moment embodies Kathaél's core truth: courage creates
+  connection. When one heart chooses bravely, the ripple strengthens
+  others. Neither child knows the other exists, but their choices
+  interweave in the Heart-Loom.
+
+scene_templates:
+  left_page:
+    focus: Making the choice to continue
+    must_include:
+      - Character at decision point after lowest moment
+      - Internal shift from despair to determination
+      - Beginning of the choice
+
+  right_page:
+    focus: Feeling the connection
+    must_include:
+      - Golden thread shimmer appearing
+      - Sense of unexplained warmth or encouragement
+      - Renewed energy to continue

@@ -88,8 +88,8 @@ interactions:
     description: |
       Three Narrative Nodes where Noah and Elise's paths cross or resonate:
       - Spread 4: Meeting Node - Seeking guidance at a luminous crossroads
-      - Spread 7: Meeting Node - Struggling together at the edge of possibility
-      - Spread 9: Meeting Node - Witnessing each other's brave choices
+      - Spread 7: Mirrored Node - Parallel struggles with almost-success
+      - Spread 9: Resonant Node - Courage rippling across distance
     nodes:
       - spread: 4
         type: meeting
@@ -99,18 +99,22 @@ interactions:
         description: Seeking guidance at a luminous crossroads
 
       - spread: 7
-        type: meeting
-        page_file: el-no-07.yaml
-        location: Edge of the Whispering Falls
-        shared_action: Working together to cross a challenging threshold
-        description: Struggling together at the edge of possibility
+        type: mirrored
+        definition_file: mirrored-07.yaml
+        page_files:
+          - el-07.yaml
+          - no-07.yaml
+        description: Parallel struggles with almost-success
+        symbolic_motif: flickering_lantern
 
       - spread: 9
-        type: meeting
-        page_file: el-no-09.yaml
-        location: The Heart-Loom's gathering point
-        shared_action: Witnessing and supporting each other's decisive moments
-        description: Witnessing each other's brave choices
+        type: resonant
+        definition_file: resonant-09.yaml
+        page_files:
+          - el-09.yaml
+          - no-09.yaml
+        description: Courage rippling across distance
+        symbolic_resonance: golden_thread_shimmer
 
 # Layout system reference
 layout:

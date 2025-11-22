@@ -2,6 +2,7 @@
 
 id: el-02
 spread: 2
+node_type: solo
 beat: Inciting incident
 
 hook: The path forward runs out or becomes unclear, raising uncertainty.
@@ -9,22 +10,37 @@ payoff: The wider world opens up with multiple options and first plan emerges.
 
 description: Elise touches the glowing drawing and finds herself pulled into Kathaél, where colors are fading and need someone who truly sees.
 
-visual: |
-  Elise is suspended in a moment between worlds—her bedroom and Kathaél existing
-  simultaneously in the same space. She's standing now, having risen from her desk,
-  with her right hand extended forward, fingertips touching a shimmering portal where
-  her drawing used to be. The paper has transformed into a doorway of light and
-  color. Her body is angled forward, one foot lifted as if she's being gently pulled
-  through, but her face shows wonder rather than fear—mouth softly open, eyes wide
-  and bright. Through the portal, Kathaél is visible: a meadow where the colors are
-  beautiful but noticeably faded, as if a watercolor painting has been left too long
-  in the sun. Flowers that should be vibrant appear washed out. Trees that should
-  glow with the Heart-Loom's light are dim. Behind her, her ordinary room is becoming
-  translucent, fading like a memory. Her desk, her drawings, her lamp—all becoming
-  ghostly and see-through. Golden threads from the Heart-Loom reach toward her from
-  the Kathaél side, recognizing something in her. A small, luminescent butterfly—one
-  of Kathaél's creatures—has already crossed over and rests on her shoulder, as if
-  guiding her forward. The light has a dreamlike quality, soft and inviting.
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
 
-text: |
-  When Elise touched the drawing, she felt herself being pulled in—not roughly, but like a gentle invitation. A world waited that needed someone who noticed when colors dimmed.
+    visual: |
+      Elise stands between worlds, her fingertips touching a shimmering portal where
+      her drawing transformed into a doorway of light. One foot lifts as she's gently
+      pulled forward. Through the portal, a meadow appears with faded colors, flowers
+      washed out like sun-bleached watercolors. A luminescent butterfly rests on her
+      shoulder.
+
+    text: |
+      When Elise touched the glowing flower, the paper opened like a door. Through
+      it she saw a meadow, but something was wrong. The colors looked tired, like
+      crayons left too long in the sun. Pink flowers that should have been bright
+      were barely more than grey. Behind her, her bedroom faded to a whisper.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Elise steps fully into Kathaél, standing in the faded meadow. Her ordinary
+      bedroom has become translucent behind her. Golden threads from the Heart-Loom
+      reach toward her, thin and dim. Her watercolor set hangs from her wrist. Her
+      expression shows wonder and gentle concern as she surveys the colorless landscape.
+
+    text: |
+      Elise stepped through, and her room dissolved like morning mist. The meadow
+      stretched around her, beautiful in shape but heartbreaking in color. Golden
+      threads drifted overhead, faint as old cobwebs. She understood without being
+      told: this world was losing something precious, and it had called to her. Maybe
+      because she noticed things others missed.
