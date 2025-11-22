@@ -1,0 +1,119 @@
+# Resonant Node Template
+#
+# A Resonant Node represents an emotional or energetic ripple that connects
+# characters across distance. One character's emotional shift creates a
+# subtle effect in another character's world.
+#
+# CHARACTERISTICS:
+#   - Characters are NOT physically together
+#   - Emotional/energetic connection across distance
+#   - One character's growth moment affects another's environment
+#   - Symbolic phenomenon visible in both scenes (sky shimmer, lantern glow, etc.)
+#   - MUST follow a moment of character growth
+#
+# FILE NAMING:
+#   - Each character has their OWN page file: el-09.yaml, no-09.yaml
+#   - The spread number is the same for all characters
+#   - A resonant-node definition file links them: resonant-09.yaml
+#
+# CONSTRAINTS:
+#   - Cannot occur on spreads 1, 11, or 12 (must be character-specific)
+#   - Valid spreads: 2-10
+#   - MUST be placed after a character growth moment
+#   - Characters must NOT be in the same location
+
+# This is a DEFINITION file that links resonant pages across characters
+# Individual character pages remain separate but reference this definition
+
+# Resonant node identification
+id: resonant-09
+spread: 9
+node_type: resonant
+
+# Story beat (same for all connected characters at this spread)
+beat: "Deepening choice / inner shift"
+
+# Placement rule verification
+placement_rule:
+  requirement: Must follow a moment of character growth
+  verification: |
+    At spread 8 (all-is-lost), both characters reached their emotional low.
+    This resonant moment at spread 9 captures their choice to continue,
+    and their emotional shifts ripple across to each other's worlds.
+
+# Emotional state packets - per character
+emotional_state_packets:
+  - character_code: el
+    emotional_state: quiet determination
+    trigger: |
+      Elise remembered why she started this journey - not for herself,
+      but because something needed her help. That memory rekindled her resolve.
+    manifestation: |
+      Her posture straightens, her eyes clear. She takes a deep breath
+      and places her hand on her heart, feeling a warmth spread through her.
+
+  - character_code: no
+    emotional_state: renewed courage
+    trigger: |
+      Noah realized that giving up would mean abandoning something important.
+      The fear was still there, but it no longer had the final word.
+    manifestation: |
+      His jaw sets with determination. He looks at the path ahead with
+      new eyes, seeing possibility where before he saw only obstacle.
+
+# Ripple effect - how one character's shift affects another's world
+ripple_effects:
+  - source_character: el
+    target_character: no
+    effect: |
+      As Elise's determination solidifies, Noah - miles away on his own path -
+      feels an inexplicable warmth, as if someone believes in him. The air
+      around him seems to brighten slightly.
+
+  - source_character: no
+    target_character: el
+    effect: |
+      As Noah's courage returns, Elise - in her distant grove - notices
+      the shadows seem less deep. A gentle breeze carries something that
+      feels like encouragement, though she couldn't say from where.
+
+# Symbolic resonance phenomenon
+symbolic_resonance:
+  phenomenon: golden_thread_shimmer
+  description: |
+    The Heart-Loom's threads, usually invisible, briefly shimmer into
+    visibility across Kathaél. Characters far apart see the same golden
+    light pulse through the air, connecting their moments of choice.
+  manifestation_details:
+    - Golden threads appear in the air, pulsing gently
+    - The light is warm and reassuring
+    - It fades after a few heartbeats, leaving a sense of connection
+    - Characters may not understand what happened, but they feel less alone
+
+# Connection to world themes
+world_connection: |
+  This resonant moment embodies Kathaél's core truth: heartfelt choices
+  create glowing threads in the Heart-Loom, and those threads connect
+  all who make brave decisions. Even without knowing each other,
+  characters strengthen each other through their courage.
+
+# === SCENE TEMPLATES FOR EACH CHARACTER ===
+# These are templates; actual pages are in pages/el-09.yaml and pages/no-09.yaml
+
+scene_templates:
+  left_page:
+    focus: Making the choice to continue
+    text_sentences: 3-4
+    must_include:
+      - Character at a decision point
+      - Internal moment of choosing to continue
+      - Beginning of emotional shift
+
+  right_page:
+    focus: Discovering the missed clue / feeling the connection
+    text_sentences: 3-4
+    must_include:
+      - Symbolic resonance phenomenon appearing
+      - Character noticing something has changed
+      - Sense of connection to something beyond themselves
+      - Renewed energy or hope

@@ -12,8 +12,8 @@ description: |
   tapestry that binds the world together. Landscapes subtly shift in response to sincerity:
   paths open, soft lights appear, and magical creatures stir awake. Each child's story unfolds
   in a different region, but key decisions send ripples across the realm, creating moments where
-  their journeys **intersect**. These interlocking points are called **Synchrony Nodes**, where
-  two characters' choices align and reveal new possibilities. Kathaél exists outside ordinary
+  their journeys **intersect**. These interlocking points are called **Narrative Nodes**, where
+  characters' choices align and reveal new possibilities. Kathaél exists outside ordinary
   time — a story-realm built around wonder, connection, and the quiet bravery of choosing what
   matters.
 
@@ -29,7 +29,7 @@ visual_style:
   - Everything looks hand-painted, organic, and quietly enchanted
   - A world where emotion shapes the landscape and children's choices guide the way
   - When the Heart-Loom is active, glowing golden threads appear in the air, weaving through scenes
-  - Synchrony Nodes manifest as points of radiant light where paths or landscapes align
+  - Narrative Nodes manifest as points of radiant light where paths or landscapes align
 
 # Characters in this world
 characters:
@@ -40,13 +40,101 @@ characters:
     name: Elise
     file: el-elise.yaml
 
-# Character interactions and Synchrony Nodes
-# Maps which characters meet at which spread numbers
+# === NARRATIVE NODE SYSTEM ===
+#
+# Narrative Nodes connect character stories at synchronized spread numbers.
+# Three types of nodes create different kinds of connections:
+#
+# 1. MEETING NODE - Characters physically converge
+#    - Same location, same time
+#    - Shared scene with POV variants
+#    - Characters interact directly
+#
+# 2. MIRRORED NODE - Parallel challenges, themes rhyme
+#    - Different locations, shared theme
+#    - Symbolic motif appears in all stories
+#    - Characters face similar challenges apart
+#
+# 3. RESONANT NODE - Emotional ripple across distance
+#    - Emotional connection without proximity
+#    - One character's growth affects another's world
+#    - Must follow a character growth moment
+
+# Node type definitions (reference)
+node_types:
+  meeting:
+    name: Meeting Node
+    file_pattern: "cc-cc-pp.yaml"  # Shared file (alphabetical char codes)
+    description: Characters physically present in same scene
+    visual_manifestation: Scene shows all characters together; POV shifts between books
+
+  mirrored:
+    name: Mirrored Node
+    file_pattern: "cc-pp.yaml + mirrored-pp.yaml"  # Separate files + definition
+    description: Characters face parallel challenges in different places
+    visual_manifestation: Symbolic motif appears in each character's scene
+
+  resonant:
+    name: Resonant Node
+    file_pattern: "cc-pp.yaml + resonant-pp.yaml"  # Separate files + definition
+    description: Emotional ripple connecting characters across distance
+    visual_manifestation: Symbolic phenomenon (golden threads, sky shimmer) visible in both scenes
+
+# Character interactions and Narrative Nodes
+# Maps which characters connect at which spread numbers and how
 interactions:
+  # Noah and Elise connections
   - characters: [el, no]
-    spreads: [4, 7, 9]
     description: |
-      Three Synchrony Nodes where Noah and Elise's paths cross:
-      - Spread 4: Seeking guidance at a luminous crossroads
-      - Spread 7: Struggling together at the edge of possibility
-      - Spread 9: Witnessing each other's brave choices
+      Three Narrative Nodes where Noah and Elise's paths cross or resonate:
+      - Spread 4: Meeting Node - Seeking guidance at a luminous crossroads
+      - Spread 7: Meeting Node - Struggling together at the edge of possibility
+      - Spread 9: Meeting Node - Witnessing each other's brave choices
+    nodes:
+      - spread: 4
+        type: meeting
+        page_file: el-no-04.yaml
+        location: Luminous crossroads beneath the ancient willow
+        shared_action: Both reach for Heart-Loom threads seeking guidance
+        description: Seeking guidance at a luminous crossroads
+
+      - spread: 7
+        type: meeting
+        page_file: el-no-07.yaml
+        location: Edge of the Whispering Falls
+        shared_action: Working together to cross a challenging threshold
+        description: Struggling together at the edge of possibility
+
+      - spread: 9
+        type: meeting
+        page_file: el-no-09.yaml
+        location: The Heart-Loom's gathering point
+        shared_action: Witnessing and supporting each other's decisive moments
+        description: Witnessing each other's brave choices
+
+# Layout system reference
+layout:
+  spreads_per_story: 12
+  pages_per_spread: 2
+  images_per_page: 1
+  sentences_per_scene: "3-4"
+  total_pages: 24
+  total_images: 24
+  beat_expression: "Each story beat spans both pages of a spread (2 scenes per beat)"
+
+# Symbolic elements that can appear in nodes
+symbolic_elements:
+  heart_loom_threads:
+    description: Glowing golden threads that appear when characters make heartfelt choices
+    appears_in: [meeting, resonant]
+    visual: Golden threads drifting through the air, sometimes forming patterns
+
+  flickering_lantern:
+    description: A lantern whose flame responds to truth and sincerity
+    appears_in: [mirrored]
+    visual: Flame brightens with honest choices, dims with doubt or deception
+
+  sky_shimmer:
+    description: A subtle golden ripple across the sky connecting distant characters
+    appears_in: [resonant]
+    visual: Soft golden light rippling like aurora, connecting horizon to horizon

@@ -1,0 +1,100 @@
+# Mirrored Node Template
+#
+# A Mirrored Node represents characters facing parallel challenges in
+# DIFFERENT places, where themes intentionally "rhyme" across their stories.
+#
+# CHARACTERISTICS:
+#   - Characters are in DIFFERENT locations
+#   - They face parallel/similar challenges
+#   - A symbolic motif appears in ALL connected stories
+#   - Strict spread alignment across books (same spread number)
+#   - Themes resonate without physical connection
+#
+# FILE NAMING:
+#   - Each character has their OWN page file: el-05.yaml, no-05.yaml
+#   - The spread number is the same for all characters
+#   - A mirrored-node definition file links them: mirrored-05.yaml
+#
+# CONSTRAINTS:
+#   - Cannot occur on spreads 1, 11, or 12 (must be character-specific)
+#   - Valid spreads: 2-10
+#   - Characters must NOT be in the same location
+
+# This is a DEFINITION file that links mirrored pages across characters
+# Individual character pages remain separate but reference this definition
+
+# Mirrored node identification
+id: mirrored-05
+spread: 5
+node_type: mirrored
+
+# Story beat (same for all connected characters at this spread)
+beat: "Attempt #3 (bigger world / stakes up)"
+
+# The shared thematic element that connects all scenes
+shared_theme_key: facing_the_unfamiliar
+
+# Theme description
+theme_description: |
+  Each character ventures into unfamiliar territory and encounters something
+  that challenges their assumptions. The world is bigger than they thought,
+  and simple answers won't work here.
+
+# Symbolic motif - object/symbol that appears in ALL stories at this spread
+symbolic_motif:
+  name: flickering_lantern
+  description: A lantern whose flame wavers between bright and dim, symbolizing uncertainty
+  meaning: The light of guidance is present but not constant; trust must be earned
+
+# Scenario variants - how each character experiences the mirrored theme
+scenario_variants:
+  - character_code: el
+    location: A mist-shrouded grove where the trees seem to shift when not watched
+    challenge_description: |
+      Elise enters a part of the forest where paths seem to change behind her.
+      She meets a fox-like creature who speaks in riddles and offers help
+      that seems suspicious.
+    motif_manifestation: |
+      A lantern hangs from a low branch, its flame flickering uncertainly.
+      Elise watches it waver as the fox speaks, noticing the flame dims
+      when the creature says something that doesn't feel true.
+
+  - character_code: no
+    location: An ancient bridge spanning a chasm filled with swirling clouds
+    challenge_description: |
+      Noah reaches a bridge that looks solid but feels unstable. A crow
+      perched on the railing assures him the bridge is safe, but its
+      voice carries an edge of mockery.
+    motif_manifestation: |
+      A lantern at the bridge's entrance flickers in the wind. Noah notices
+      its flame grows steady when he trusts his own judgment, and wavers
+      when he listens to the crow's confident assurances.
+
+# Spread alignment verification
+spread_alignment: 5
+
+# Connection to world themes
+world_connection: |
+  This mirrored moment reflects Kathaél's nature: the world responds to
+  sincerity and honest choice. Both children are learning that not all
+  help is helpful, and that their own instincts matter.
+
+# === SCENE TEMPLATES FOR EACH CHARACTER ===
+# These are templates; actual pages are in pages/el-05.yaml and pages/no-05.yaml
+
+scene_templates:
+  left_page:
+    focus: Entering unfamiliar territory
+    text_sentences: 3-4
+    must_include:
+      - Character entering new environment
+      - Initial sense of uncertainty
+      - First glimpse of the symbolic motif (lantern)
+
+  right_page:
+    focus: Encountering misleading help
+    text_sentences: 3-4
+    must_include:
+      - Meeting the questionable helper
+      - Moment of doubt or suspicion
+      - Symbolic motif reacting to the encounter

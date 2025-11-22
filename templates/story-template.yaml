@@ -1,41 +1,97 @@
+# Story Template - Source of Truth
+#
 # This template maps out a complete story arc across 12 spreads (24 pages).
-# Each spread includes: the story beat, hook (to create anticipation),
-# and payoff (delivered on the next spread).
+# Each spread contains 2 pages, and each page contains 1 scene with:
+#   - 1 image per page (2 images per spread)
+#   - 3-4 sentences per scene
+#   - Each story beat is expressed over two scenes (left page + right page)
 #
 # Based on classic story structure: setup, rising action, midpoint,
 # crisis, climax, and resolution.
+#
+# LAYOUT SYSTEM:
+#   - 12 spreads total
+#   - 2 pages per spread (left page + right page)
+#   - 1 image per page
+#   - 3-4 sentences per scene
+#   - Each story beat spans both pages of a spread
+#
+# NODE TYPES:
+#   Narrative nodes connect character stories at synchronized points.
+#   Three types of nodes can occur at any spread (except 1, 11, 12):
+#
+#   1. MEETING NODE - Characters physically converge
+#      - Same location, same time
+#      - Shared action between characters
+#      - Cross-book image alignment (same scene, POV variants)
+#
+#   2. MIRRORED NODE - Parallel challenges, themes "rhyme"
+#      - Different locations, shared theme
+#      - Symbolic motif appears in all stories
+#      - Strict spread alignment across books
+#
+#   3. RESONANT NODE - Emotional/energetic ripple across distance
+#      - Emotional connection without physical proximity
+#      - One character's shift affects another's world
+#      - Must follow a moment of character growth
 
 # List of spreads in the story
 spreads:
-  # Spread 1 - Opening
+  # Spread 1 - Opening (MUST be character-specific, no nodes)
   - spread: 1
     pages: "5-6"
     beat: Ordinary world + desire hint
     description: |
-      main character in familiar setting, slightly restless. We glimpse the emotional
+      Main character in familiar setting, slightly restless. We glimpse the emotional
       want (attention, belonging, adventure).
     hook: Something new or unusual appears, creating curiosity about what it is.
     payoff: The discovery is fully revealed, establishing the story goal.
+    scenes:
+      - page: left
+        focus: Character in their ordinary world
+        text_sentences: 3-4
+      - page: right
+        focus: First hint of something different
+        text_sentences: 3-4
+    node_allowed: false
 
   # Spread 2 - Inciting Incident
   - spread: 2
     pages: "7-8"
     beat: Inciting incident
     description: |
-      main character discovers something is amiss; decides to help.
+      Main character discovers something is amiss; decides to help.
       Stakes are emotional but low.
     hook: The path forward runs out or becomes unclear, raising uncertainty.
     payoff: The wider world opens up with multiple options and first plan emerges.
+    scenes:
+      - page: left
+        focus: Discovery of the problem
+        text_sentences: 3-4
+      - page: right
+        focus: Decision to act
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 3 - First Attempt
   - spread: 3
     pages: "9-10"
     beat: "Attempt #1 (simple/obvious)"
     description: |
-      main character tries simple, obvious solutions that don't work.
+      Main character tries simple, obvious solutions that don't work.
       Fun visual gags showing mismatched attempts.
     hook: Simple solutions fail, prompting the question of who might have better answers.
     payoff: A wise helper appears who offers new perspective or guidance.
+    scenes:
+      - page: left
+        focus: Trying the obvious solution
+        text_sentences: 3-4
+      - page: right
+        focus: Realizing it doesn't work
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 4 - Ask the Expert
   - spread: 4
@@ -46,6 +102,15 @@ spreads:
       isn't straightforward. We widen the world a bit.
     hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
     payoff: Journey into new territory begins with dramatic departure from familiar world.
+    scenes:
+      - page: left
+        focus: Seeking guidance
+        text_sentences: 3-4
+      - page: right
+        focus: Receiving direction with warning
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 5 - Bigger World
   - spread: 5
@@ -56,16 +121,34 @@ spreads:
       (comic antagonist figure). Stakes: danger or time pressure hinted.
     hook: Questionable character offers confident solution, creating doubt about whether to trust them.
     payoff: The suggested solution fails spectacularly and obviously wrong.
+    scenes:
+      - page: left
+        focus: Entering unfamiliar territory
+        text_sentences: 3-4
+      - page: right
+        focus: Encountering misleading help
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 6 - Midpoint
   - spread: 6
     pages: "15-16"
     beat: "Midpoint: new insight / pattern"
     description: |
-      main character realizes what doesn't work and begins noticing what does.
+      Main character realizes what doesn't work and begins noticing what does.
       They collect clues and observe patterns.
     hook: A pattern or clue emerges, suggesting a new direction based on observation.
     payoff: New approach is tried based on the insight from previous spread.
+    scenes:
+      - page: left
+        focus: Recognizing what doesn't work
+        text_sentences: 3-4
+      - page: right
+        focus: Discovering a new pattern
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 7 - Rising Stakes
   - spread: 7
@@ -76,26 +159,53 @@ spreads:
       but something is still incomplete or missing.
     hook: Success is close but incomplete, with a detail revealing what's still needed.
     payoff: What's missing is revealed to be distant or difficult to reach.
+    scenes:
+      - page: left
+        focus: Making progress toward goal
+        text_sentences: 3-4
+      - page: right
+        focus: Realizing something is missing
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 8 - All Is Lost
   - spread: 8
     pages: "19-20"
     beat: "All-is-lost / emotional low"
     description: |
-      main character is tired, discouraged. External conditions worsen.
-      main character doubts themselves.
+      Main character is tired, discouraged. External conditions worsen.
+      Main character doubts themselves.
     hook: Self-doubt surfaces, questioning whether continuing is worth it.
     payoff: Something affirms that the effort matters and creates emotional reconnection.
+    scenes:
+      - page: left
+        focus: External obstacles intensify
+        text_sentences: 3-4
+      - page: right
+        focus: Inner doubt and discouragement
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 9 - Inner Shift
   - spread: 9
     pages: "21-22"
     beat: "Deepening choice / inner shift"
     description: |
-      main character chooses to keep trying, not because they have to, but because they care.
+      Main character chooses to keep trying, not because they have to, but because they care.
       They notice a crucial clue they missed earlier.
     hook: A previously overlooked detail suddenly connects to something from earlier.
     payoff: Returning to prior element with new understanding makes solution clear.
+    scenes:
+      - page: left
+        focus: Making the choice to continue
+        text_sentences: 3-4
+      - page: right
+        focus: Discovering the missed clue
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
   # Spread 10 - Climax
   - spread: 10
@@ -106,23 +216,109 @@ spreads:
       The journey's hardest part happens here (physical challenge, emotional decision).
     hook: Threshold moment with hesitation about taking the final irreversible step.
     payoff: The choice works and goal is achieved, validating the journey.
+    scenes:
+      - page: left
+        focus: Facing the final challenge
+        text_sentences: 3-4
+      - page: right
+        focus: Taking decisive action
+        text_sentences: 3-4
+    node_allowed: true
+    node_types_allowed: [meeting, mirrored, resonant]
 
-  # Spread 11 - Resolution (External)
+  # Spread 11 - Resolution (External) (MUST be character-specific, no nodes)
   - spread: 11
     pages: "25-26"
     beat: "Resolution (external)"
     description: |
-      The external goal is achieved. main character receives closure or a tangible token
+      The external goal is achieved. Main character receives closure or a tangible token
       representing what was accomplished.
     hook: Return journey begins with hint of future possibility or unresolved element.
     payoff: Character arrives home integrating what they gained from the journey.
+    scenes:
+      - page: left
+        focus: Goal achieved, external reward
+        text_sentences: 3-4
+      - page: right
+        focus: Beginning the return
+        text_sentences: 3-4
+    node_allowed: false
 
-  # Spread 12 - Resolution (Emotional)
+  # Spread 12 - Resolution (Emotional) (MUST be character-specific, no nodes)
   - spread: 12
     pages: "27-28"
     beat: "Resolution (emotional) + series button"
     description: |
-      main character's ordinary world again—but subtly transformed by the journey
+      Main character's ordinary world again—but subtly transformed by the journey
       (new confidence, new connection, new understanding).
     hook: Final moment of reflection showing ongoing connection or meaning.
     payoff: Landing complete - ordinary world echoes opening but transformed.
+    scenes:
+      - page: left
+        focus: Returning to ordinary world
+        text_sentences: 3-4
+      - page: right
+        focus: Transformed by the journey
+        text_sentences: 3-4
+    node_allowed: false
+
+# Node Type Definitions
+node_types:
+  meeting:
+    name: Meeting Node
+    purpose: Characters physically converge at the same place and time
+    required_fields:
+      - location          # String: where the meeting takes place
+      - spread_index      # Integer: spread number (2-10)
+      - shared_action     # String: description of what characters do together
+      - dialogue_packets  # List: multi-POV dialogue for syncing
+      - image_alignment   # Object: cross-book image alignment metadata
+    constraints:
+      - All characters must be present at same location
+      - Same scene depicted from different POVs in each book
+      - Dialogue must work when read from any character's perspective
+    image_alignment_spec:
+      scene_id: unique identifier for the shared scene
+      pov_variants:
+        - character_code: which character's POV
+          camera_position: where the "camera" is relative to scene
+          focal_character: who is in focus
+          background_characters: list of other characters visible
+
+  mirrored:
+    name: Mirrored Node
+    purpose: Characters face parallel challenges in different places; themes intentionally rhyme
+    required_fields:
+      - shared_theme_key    # String: thematic element that connects the scenes
+      - scenario_variants   # Object: per-character scenario descriptions
+      - symbolic_motif      # String: object/symbol appearing in all stories
+      - spread_alignment    # Integer: must match across all books
+    constraints:
+      - Characters are NOT in same location
+      - Same spread number across all connected books
+      - Symbolic motif must appear visibly in each scene
+      - Thematic resonance must be clear
+    scenario_variant_spec:
+      character_code: two-letter code
+      location: where this character faces the challenge
+      challenge_description: what specific challenge they face
+      motif_manifestation: how the symbolic motif appears
+
+  resonant:
+    name: Resonant Node
+    purpose: Emotional or energetic ripple connecting characters across distance
+    required_fields:
+      - emotional_state_packet  # Object: per-character emotional states
+      - ripple_effect           # String: how one character's shift affects another
+      - symbolic_resonance      # String: phenomenon (sky shimmer, lantern glow, etc.)
+      - placement_rule          # Must follow a moment of character growth
+    constraints:
+      - Must occur after a character growth moment
+      - Characters are NOT physically together
+      - Emotional connection is felt, not verbal
+      - Symbolic phenomenon visible in both scenes
+    emotional_state_spec:
+      character_code: two-letter code
+      emotional_state: current emotional state
+      trigger: what caused this emotional state
+      manifestation: how it shows in the scene

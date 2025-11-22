@@ -1,0 +1,117 @@
+# Meeting Node Template
+#
+# A Meeting Node represents characters physically converging at the same
+# place and time. This is a shared scene where all connected characters
+# are present together.
+#
+# CHARACTERISTICS:
+#   - Characters are in the SAME location
+#   - Characters interact at the SAME time
+#   - Scene is depicted from different POVs in each book
+#   - Dialogue must work from any character's perspective
+#
+# FILE NAMING:
+#   - Use alphabetically ordered character codes: el-no-04.yaml
+#   - The spread number is the same for all characters
+#
+# CONSTRAINTS:
+#   - Cannot occur on spreads 1, 11, or 12 (must be character-specific)
+#   - Valid spreads: 2-10
+
+# Page identification - matches filename
+id: el-no-04
+
+# Spread number (must be same for all characters)
+spread: 4
+
+# Node type identifier
+node_type: meeting
+
+# Story beat from templates/story-template.yaml
+beat: "Attempt #2 (ask the expert)"
+
+# Hook creates anticipation for next spread
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+
+# Payoff delivered on this spread (from previous spread's hook)
+payoff: A wise helper appears who offers new perspective or guidance.
+
+# Short description of the scene (1-2 sentences)
+description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+# Location where all characters physically meet
+location: A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow tree
+
+# Shared action - what the characters do together
+shared_action: Both characters reach toward glowing threads of the Heart-Loom, sensing guidance from the luminous strands
+
+# Dialogue packets for multi-POV syncing
+# Each packet contains dialogue that works from any character's perspective
+dialogue_packets:
+  - speaker: noah
+    line: "These threads... they're showing us the way, aren't they?"
+    works_from_pov: [el, no]
+  - speaker: elise
+    line: "I think they want us to follow them together."
+    works_from_pov: [el, no]
+
+# Cross-book image alignment metadata
+image_alignment:
+  scene_id: crossroads-guidance-004
+  shared_elements:
+    - ancient willow tree with golden threads
+    - multiple forest paths converging
+    - glowing Heart-Loom threads in the air
+    - morning mist in background
+  pov_variants:
+    - character_code: el
+      camera_position: slightly behind Elise, showing her reaching toward thread with Noah visible ahead
+      focal_character: elise
+      background_characters: [noah]
+    - character_code: no
+      camera_position: slightly behind Noah, showing him reaching toward thread with Elise visible ahead
+      focal_character: noah
+      background_characters: [elise]
+
+# === SCENE CONTENT (2 scenes per spread) ===
+
+scenes:
+  # Left page (first scene of the beat)
+  - page: left
+    page_number: 11
+    focus: Seeking guidance
+    visual: |
+      A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
+      tree whose branches glow softly with golden threads from the Heart-Loom. Noah (12
+      years old, sandy blond hair, medium build) stands on the left path, one hand extended
+      toward a shimmering thread that hovers in the air at eye level, his expression
+      focused and curious. Elise (9 years old, slim, graceful) stands on the right path,
+      her head tilted as she observes a different glowing thread, her hand raised gently
+      as if about to touch it. Between them, the threads weave and intersect in midair,
+      creating a soft lattice of golden light. The ground is soft moss with small
+      luminescent mushrooms dotting the edges of each path.
+    text: |
+      At the crossroads where forest paths met, Noah noticed golden threads floating
+      in the air like gentle streams of light. Elise stood nearby, watching the same
+      threads dance between the willow branches. Neither had expected to find someone
+      else seeking answers in this quiet place.
+
+  # Right page (second scene of the beat)
+  - page: right
+    page_number: 12
+    focus: Receiving direction with warning
+    visual: |
+      The willow's drooping branches frame Noah and Elise as they stand closer together
+      now, both reaching toward where the golden threads converge into a bright point
+      of light. The threads pulse gently, as if responding to their presence. Small
+      particles of light drift through the air like fireflies. The morning mist rolls
+      through the background forest, and the atmosphere is hushed and reverent. Both
+      children look at each other with recognition - not yet friends, but aware they
+      share the same journey.
+    text: |
+      The threads seemed to understand what they needed, weaving together into a path
+      that pointed deeper into the forest. "I think it wants us to follow," Elise
+      whispered. Noah nodded slowly, feeling the pull of something important ahead,
+      though neither knew what waited beyond the mist.

@@ -2,18 +2,27 @@
 """
 Generate images for storybook pages using various AI models.
 
+NEW LAYOUT SYSTEM:
+    - Each spread contains 2 pages (left and right)
+    - Each page has 1 image
+    - Each page has 3-4 sentences of text
+    - Images are generated per-page, not per-spread
+
 Usage:
-    uv run scripts/gen_image.py <model-backend> <page-path>
+    uv run scripts/gen_image.py <model-backend> <page-path> [--scene left|right|both]
 
 Model Backends:
     openai      - OpenAI gpt-image-1 (generates at 1536x1024, upscales to 3579x2406)
-                  Content centered at 3507x2334 with 36px bleed on all sides
-                  Photobook format with guide lines for 6x8.5" spread
-                  Uses reference images from ref-images/ directory (up to 10 images)
-                  Falls back to generation if no reference images found
+                  For single pages: generates at portrait orientation
     prompt      - Display prompt without generating image (testing)
 
     (Deprecated backends: replicate, ideogram)
+
+Scene Selection:
+    --scene left   - Generate only the left page image
+    --scene right  - Generate only the right page image
+    --scene both   - Generate both page images (default)
+    --scene spread - Generate a single spread image (legacy mode)
 
 Reference Images:
     The script automatically includes reference images based on the page ID:
@@ -23,7 +32,8 @@ Reference Images:
 
 Examples:
     uv run scripts/gen_image.py openai pages/cu-01.yaml
-    uv run scripts/gen_image.py prompt pages/cu-ha-02.yaml
+    uv run scripts/gen_image.py openai pages/cu-01.yaml --scene left
+    uv run scripts/gen_image.py prompt pages/cu-ha-02.yaml --scene both
 """
 
 import os
@@ -75,7 +85,7 @@ def print_help():
 
 def validate_args(args):
     """Validate command line arguments."""
-    if len(args) != 3:
+    if len(args) < 3:
         print("Error: Invalid number of arguments\n")
         print_help()
         sys.exit(1)
@@ -83,12 +93,23 @@ def validate_args(args):
     backend = args[1]
     page_path = args[2]
 
+    # Parse optional --scene argument
+    scene_mode = "both"  # default
+    if len(args) > 3:
+        for i, arg in enumerate(args[3:], start=3):
+            if arg == "--scene" and i + 1 < len(args):
+                scene_mode = args[i + 1]
+                if scene_mode not in ["left", "right", "both", "spread"]:
+                    print(f"Error: Invalid scene mode '{scene_mode}'. Use: left, right, both, or spread\n")
+                    print_help()
+                    sys.exit(1)
+
     if backend not in BACKENDS:
         print(f"Error: Unknown model backend '{backend}'\n")
         print_help()
         sys.exit(1)
 
-    return backend, page_path
+    return backend, page_path, scene_mode
 
 
 def check_api_keys(backend: str):
@@ -121,12 +142,21 @@ def get_reference_images(page_id: str) -> list:
     if not ref_dir.exists():
         return []
 
-    # Character ID to name mapping
-    char_names = {
-        "cu": "Cullan",
-        "em": "Emer",
-        "ha": "Hansel",
-    }
+    # Character ID to name mapping - dynamically load from characters
+    char_names = {}
+    char_dir = Path("characters")
+    if char_dir.exists():
+        for char_file in char_dir.glob("*.yaml"):
+            if 'template' not in char_file.name and 'example' not in char_file.name:
+                try:
+                    with open(char_file, 'r') as f:
+                        char_data = yaml.safe_load(f)
+                        char_id = char_data.get('id')
+                        char_name = char_data.get('attributes', {}).get('name', char_id.upper() if char_id else 'Unknown')
+                        if char_id:
+                            char_names[char_id] = char_name
+                except:
+                    pass
 
     references = []
 
@@ -190,12 +220,18 @@ def load_character_descriptions(page_id: str) -> dict:
         print("Warning: characters/ directory not found")
         return {}
 
-    # Character ID to filename mapping
-    char_files = {
-        "cu": "cu-cullan.yaml",
-        "em": "em-emer.yaml",
-        "ha": "ha-hansel.yaml",
-    }
+    # Build character ID to filename mapping dynamically
+    char_files = {}
+    for char_file in char_dir.glob("*.yaml"):
+        if 'template' not in char_file.name and 'example' not in char_file.name:
+            try:
+                with open(char_file, 'r') as f:
+                    char_data = yaml.safe_load(f)
+                    char_id = char_data.get('id')
+                    if char_id:
+                        char_files[char_id] = char_file.name
+            except:
+                pass
 
     # Parse character IDs from page ID
     parts = page_id.split("-")
@@ -245,35 +281,42 @@ def load_page_data(page_path: str) -> dict:
         print(f"Error: Failed to load page file: {e}")
         sys.exit(1)
 
-    visual_prompt = page_data.get("visual", "")
-    if not visual_prompt:
-        print(f"Error: No 'visual' field found in {page_path}")
+    # Check for scenes (new format) or visual (legacy format)
+    has_scenes = 'scenes' in page_data and page_data['scenes']
+    has_legacy = 'visual' in page_data
+
+    if not has_scenes and not has_legacy:
+        print(f"Error: No 'visual' or 'scenes' field found in {page_path}")
         sys.exit(1)
 
     return page_data
 
 
 def build_full_prompt(
-    page_data: dict, visual_style: str, references: list, character_descriptions: dict
+    visual: str, text: str, visual_style: str, references: list, character_descriptions: dict,
+    is_single_page: bool = False, page_position: str = ""
 ) -> str:
     """Build the complete prompt with visual style and visual content."""
-    visual = page_data.get("visual", "")
-    text = page_data.get("text", "")
-
     prompt_parts = [
         "Create a beautiful illustration for a children's storybook page.",
-        "Output a single wide image for a two-page spread.",
-        "Do not multiple images or panels, just one cohesive scene.",
     ]
+
+    if is_single_page:
+        prompt_parts.append(f"Output a single image for the {page_position} page of a two-page spread.")
+        prompt_parts.append("This is ONE page, not a spread - do not create multiple images or panels.")
+    else:
+        prompt_parts.append("Output a single wide image for a two-page spread.")
+        prompt_parts.append("Do not create multiple images or panels, just one cohesive scene.")
 
     # Add text instructions at the top if text is present
     if text:
         prompt_parts.append("")
         prompt_parts.append("IMPORTANT: You MUST include story text as readable typography in the image.")
         prompt_parts.append("The text should be clearly legible, using 16pt font size.")
-        prompt_parts.append("CRITICAL: Do NOT place any text across the 50% vertical centerline of the image.")
-        prompt_parts.append("The center is where the two-page spread folds together - keep text away from this area.")
-        prompt_parts.append("Place text either on the left side or right side, but never spanning across the middle.")
+        if not is_single_page:
+            prompt_parts.append("CRITICAL: Do NOT place any text across the 50% vertical centerline of the image.")
+            prompt_parts.append("The center is where the two-page spread folds together - keep text away from this area.")
+            prompt_parts.append("Place text either on the left side or right side, but never spanning across the middle.")
         prompt_parts.append("Integrate the text into the illustration using a font style that matches the storybook aesthetic.")
         prompt_parts.append("The exact text to include will be provided at the end of this prompt.")
 
@@ -308,7 +351,7 @@ def build_full_prompt(
     return "\n".join(prompt_parts)
 
 
-def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
+def generate_with_openai(prompt: str, page_id: str, references: list, is_single_page: bool = False) -> str:
     """Generate image using OpenAI gpt-image-1 with reference images."""
     try:
         from openai import OpenAI
@@ -329,6 +372,12 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
         prompt = prompt[:10000]
 
     try:
+        # Choose size based on whether this is a single page or spread
+        if is_single_page:
+            size = "1024x1536"  # Portrait for single page
+        else:
+            size = "1536x1024"  # Landscape for spread
+
         # If we have reference images, use images.edit()
         # Otherwise fall back to images.generate()
         if references:
@@ -342,7 +391,7 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
                     model="gpt-image-1",
                     image=image_files,
                     prompt=prompt,
-                    size="1536x1024",  # Landscape 3:2 (closest to 2:1 available)
+                    size=size,
                     quality="high",
                     n=1,
                 )
@@ -355,7 +404,7 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
             response = client.images.generate(
                 model="gpt-image-1",
                 prompt=prompt,
-                size="1536x1024",  # Landscape 3:2 (closest to 2:1 available)
+                size=size,
                 quality="high",
                 n=1,
             )
@@ -382,13 +431,20 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
         print("Processing image for photobook format...")
         img = Image.open(io.BytesIO(image_data))
 
-        # Inner content dimensions (the actual generated image area)
-        CONTENT_WIDTH = 3507
-        CONTENT_HEIGHT = 2334
+        if is_single_page:
+            # Single page dimensions (half of spread)
+            CONTENT_WIDTH = 1753  # Half of 3507
+            CONTENT_HEIGHT = 2334
 
-        # Full output dimensions with bleed area
-        FULL_WIDTH = 3579
-        FULL_HEIGHT = 2406
+            FULL_WIDTH = 1789  # Half of 3579
+            FULL_HEIGHT = 2406
+        else:
+            # Spread dimensions
+            CONTENT_WIDTH = 3507
+            CONTENT_HEIGHT = 2334
+
+            FULL_WIDTH = 3579
+            FULL_HEIGHT = 2406
 
         # Upscale to content size using Lanczos resampling for quality
         print(f"Upscaling from {img.size[0]}x{img.size[1]} to {CONTENT_WIDTH}x{CONTENT_HEIGHT}...")
@@ -402,7 +458,7 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
         print(f"Creating full canvas {FULL_WIDTH}x{FULL_HEIGHT}...")
         canvas = Image.new('RGB', (FULL_WIDTH, FULL_HEIGHT), (255, 255, 255))
 
-        # Calculate centering offset (should be 36, 36)
+        # Calculate centering offset
         offset_x = (FULL_WIDTH - CONTENT_WIDTH) // 2
         offset_y = (FULL_HEIGHT - CONTENT_HEIGHT) // 2
 
@@ -413,14 +469,19 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
         print("Adding photobook guide lines...")
         draw = ImageDraw.Draw(canvas)
 
-        # Horizontal guide lines (spanning full width)
-        draw.line([(0, 36), (FULL_WIDTH, 36)], fill=(0, 0, 0), width=1)  # Top margin
-        draw.line([(0, 2370), (FULL_WIDTH, 2370)], fill=(0, 0, 0), width=1)  # Bottom margin
-
-        # Vertical guide lines (spanning full height)
-        draw.line([(36, 0), (36, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Left margin
-        draw.line([(3543, 0), (3543, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Right margin
-        draw.line([(1789, 0), (1789, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Center gutter/spine
+        if is_single_page:
+            # Single page guide lines
+            draw.line([(0, 36), (FULL_WIDTH, 36)], fill=(0, 0, 0), width=1)  # Top margin
+            draw.line([(0, 2370), (FULL_WIDTH, 2370)], fill=(0, 0, 0), width=1)  # Bottom margin
+            draw.line([(18, 0), (18, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Left/Right margin
+            draw.line([(FULL_WIDTH - 18, 0), (FULL_WIDTH - 18, FULL_HEIGHT)], fill=(0, 0, 0), width=1)
+        else:
+            # Spread guide lines
+            draw.line([(0, 36), (FULL_WIDTH, 36)], fill=(0, 0, 0), width=1)  # Top margin
+            draw.line([(0, 2370), (FULL_WIDTH, 2370)], fill=(0, 0, 0), width=1)  # Bottom margin
+            draw.line([(36, 0), (36, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Left margin
+            draw.line([(3543, 0), (3543, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Right margin
+            draw.line([(1789, 0), (1789, FULL_HEIGHT)], fill=(0, 0, 0), width=1)  # Center gutter/spine
 
         # Use canvas instead of img for saving
         img = canvas
@@ -438,120 +499,6 @@ def generate_with_openai(prompt: str, page_id: str, references: list) -> str:
     except Exception as e:
         print(f"Error generating image with OpenAI: {e}")
         sys.exit(1)
-
-
-# DEPRECATED: Replicate backend - commented out for now
-# def generate_with_replicate(prompt: str, page_id: str) -> str:
-#     """Generate image using Replicate IPAdapter Style SDXL."""
-#     try:
-#         import replicate
-#     except ImportError:
-#         print("Error: replicate package not installed. Run: uv pip install replicate")
-#         sys.exit(1)
-#
-#     print(f"Generating image with Replicate IPAdapter Style SDXL...")
-#     print(f"Prompt length: {len(prompt)} characters")
-#
-#     try:
-#         # Use hardcoded style reference image
-#         style_image_path = Path("out-images/cu-01-openai.jpg")
-#         print(f"Using style reference: {style_image_path}")
-#
-#         # Open and use the style image (will fail if doesn't exist)
-#         with open(style_image_path, "rb") as f:
-#             output = replicate.run(
-#                 "lucataco/ipadapter-style-sdxl:9a89134b4c84c264c817645f1703db1e73f66a43c3f0bf2697ec2edce95f7d39",
-#                 input={
-#                     "prompt": prompt,
-#                     "style_image": f,
-#                     "width": 1536,
-#                     "height": 768,
-#                     "num_outputs": 1,
-#                     "guidance_scale": 7.5,
-#                     "num_inference_steps": 50,
-#                     "style_strength": 0.5,  # How much to apply the style (0-1)
-#                 },
-#             )
-#
-#         # Download the image
-#         import requests
-#
-#         image_url = output[0]
-#         image_data = requests.get(image_url).content
-#
-#         # Save to out-images directory
-#         output_dir = Path("out-images")
-#         output_dir.mkdir(parents=True, exist_ok=True)
-#
-#         output_path = output_dir / f"{page_id}-replicate.jpg"
-#
-#         with open(output_path, "wb") as f:
-#             f.write(image_data)
-#
-#         return str(output_path)
-#
-#     except Exception as e:
-#         print(f"Error generating image with Replicate: {e}")
-#         sys.exit(1)
-
-
-# DEPRECATED: Ideogram backend - commented out for now
-# def generate_with_ideogram(prompt: str, page_id: str) -> str:
-#     """Generate image using Ideogram v3."""
-#     import requests
-#
-#     api_key = os.getenv("IDEOGRAM_API_KEY")
-#     api_url = os.getenv(
-#         "IDEOGRAM_API_URL", "https://api.ideogram.ai/v1/ideogram-v3/generate"
-#     )
-#
-#     print(f"Generating image with Ideogram v3...")
-#     print(f"Prompt length: {len(prompt)} characters")
-#
-#     headers = {
-#         "Api-Key": api_key,
-#         "Content-Type": "application/json",
-#     }
-#
-#     # Use flat JSON structure (not nested under image_request)
-#     payload = {
-#         "prompt": prompt,
-#         "aspect_ratio": "3x1",  # Wide aspect ratio
-#         "magic_prompt": "OFF",
-#     }
-#
-#     try:
-#         response = requests.post(api_url, headers=headers, json=payload)
-#         response.raise_for_status()
-#
-#         result = response.json()
-#
-#         # Extract image URL from response
-#         if "data" in result and len(result["data"]) > 0:
-#             image_url = result["data"][0].get("url")
-#         else:
-#             print(f"Error: Unexpected API response structure: {result}")
-#             sys.exit(1)
-#
-#         # Download the image
-#         image_data = requests.get(image_url).content
-#
-#         # Save to out-images directory
-#         output_dir = Path("out-images")
-#         output_dir.mkdir(parents=True, exist_ok=True)
-#
-#         output_path = output_dir / f"{page_id}-ideogram.jpg"
-#
-#         with open(output_path, "wb") as f:
-#             f.write(image_data)
-#
-#         return str(output_path)
-#
-#     except requests.exceptions.RequestException as e:
-#         print(f"Error generating image with Ideogram: {e}")
-#         if hasattr(e, "response") and e.response is not None:
-#             print(f"Response: {e.response.text}")
-#         sys.exit(1)
 
 
 def generate_prompt(prompt: str, page_id: str) -> str:
@@ -574,7 +521,7 @@ def main():
         print_help()
         sys.exit(0)
 
-    backend, page_path = validate_args(sys.argv)
+    backend, page_path, scene_mode = validate_args(sys.argv)
 
     # Extract page ID from path for output filename (e.g., "pages/cu-ha-02.yaml" -> "cu-ha-02")
     page_id = Path(page_path).stem
@@ -610,26 +557,81 @@ def main():
     print(f"Loading page: {page_path}")
     page_data = load_page_data(page_path)
 
-    # Build complete prompt
-    prompt = build_full_prompt(page_data, visual_style, references, character_descriptions)
+    # Check for new scene-based format
+    scenes = page_data.get('scenes', [])
 
-    # Generate image with selected backend
-    if backend == "openai":
-        output_path = generate_with_openai(prompt, page_id, references)
-    elif backend == "replicate":
-        print("Error: Replicate backend is currently deprecated")
-        print("Use 'openai' or 'prompt' backend instead")
-        sys.exit(1)
-    elif backend == "ideogram":
-        print("Error: Ideogram backend is currently deprecated")
-        print("Use 'openai' or 'prompt' backend instead")
-        sys.exit(1)
-    elif backend == "prompt":
-        output_path = generate_prompt(prompt, page_id)
+    if scenes and scene_mode != "spread":
+        # New format: generate per-scene images
+        scenes_to_generate = []
 
-    if backend != "prompt":
-        print(f"\n✓ Image generated successfully!")
-        print(f"  Saved to: {output_path}")
+        if scene_mode == "both":
+            scenes_to_generate = [(i, scene) for i, scene in enumerate(scenes)]
+        elif scene_mode == "left":
+            scenes_to_generate = [(i, scene) for i, scene in enumerate(scenes) if scene.get('page') == 'left']
+            if not scenes_to_generate and scenes:
+                scenes_to_generate = [(0, scenes[0])]  # Fallback to first scene
+        elif scene_mode == "right":
+            scenes_to_generate = [(i, scene) for i, scene in enumerate(scenes) if scene.get('page') == 'right']
+            if not scenes_to_generate and len(scenes) > 1:
+                scenes_to_generate = [(1, scenes[1])]  # Fallback to second scene
+
+        for i, scene in scenes_to_generate:
+            scene_position = scene.get('page', 'left' if i == 0 else 'right')
+            scene_visual = scene.get('visual', '')
+            scene_text = scene.get('text', '')
+            scene_id = f"{page_id}-{scene_position}"
+
+            print(f"\n{'='*80}")
+            print(f"Generating {scene_position} page: {scene_id}")
+            print(f"{'='*80}")
+
+            # Build prompt for this scene
+            prompt = build_full_prompt(
+                scene_visual, scene_text, visual_style, references, character_descriptions,
+                is_single_page=True, page_position=scene_position
+            )
+
+            # Generate image
+            if backend == "openai":
+                output_path = generate_with_openai(prompt, scene_id, references, is_single_page=True)
+            elif backend == "prompt":
+                output_path = generate_prompt(prompt, scene_id)
+            else:
+                print(f"Error: Backend '{backend}' is deprecated")
+                sys.exit(1)
+
+            if backend != "prompt":
+                print(f"\n✓ Image generated successfully!")
+                print(f"  Saved to: {output_path}")
+
+    else:
+        # Legacy format or spread mode: generate single spread image
+        visual = page_data.get('visual', '')
+        text = page_data.get('text', '')
+
+        # Build complete prompt
+        prompt = build_full_prompt(
+            visual, text, visual_style, references, character_descriptions,
+            is_single_page=False
+        )
+
+        # Generate image with selected backend
+        if backend == "openai":
+            output_path = generate_with_openai(prompt, page_id, references, is_single_page=False)
+        elif backend == "replicate":
+            print("Error: Replicate backend is currently deprecated")
+            print("Use 'openai' or 'prompt' backend instead")
+            sys.exit(1)
+        elif backend == "ideogram":
+            print("Error: Ideogram backend is currently deprecated")
+            print("Use 'openai' or 'prompt' backend instead")
+            sys.exit(1)
+        elif backend == "prompt":
+            output_path = generate_prompt(prompt, page_id)
+
+        if backend != "prompt":
+            print(f"\n✓ Image generated successfully!")
+            print(f"  Saved to: {output_path}")
 
 
 if __name__ == "__main__":

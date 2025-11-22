@@ -11,6 +11,8 @@ Checks:
 - No missing/stray pages in the pages directory
 - At least one character exists
 - All YAML files are valid
+- Node types are valid (solo, meeting, mirrored, resonant)
+- Scene structure is present for new-format pages
 
 Exit codes:
 - 0: All tests passed
@@ -26,23 +28,39 @@ from collections import defaultdict
 RED = '\033[91m'
 GREEN = '\033[92m'
 YELLOW = '\033[93m'
+BLUE = '\033[94m'
 RESET = '\033[0m'
+
+# Valid node types
+VALID_NODE_TYPES = ['solo', 'meeting', 'mirrored', 'resonant']
+
+# Spreads that must be character-specific (no nodes allowed)
+REQUIRED_SOLO_SPREADS = [1, 11, 12]
+
 
 def error(message):
     """Print error message in red."""
     print(f"{RED}✗ ERROR: {message}{RESET}")
 
+
 def warning(message):
     """Print warning message in yellow."""
     print(f"{YELLOW}⚠ WARNING: {message}{RESET}")
+
 
 def success(message):
     """Print success message in green."""
     print(f"{GREEN}✓ {message}{RESET}")
 
+
 def info(message):
     """Print info message."""
     print(f"  {message}")
+
+
+def note(message):
+    """Print note message in blue."""
+    print(f"{BLUE}ℹ {message}{RESET}")
 
 
 def load_all_characters():
@@ -144,13 +162,12 @@ def test_pages_exist(characters):
 def test_no_overlaps_on_required_solo_spreads(characters):
     """Test that spreads 1, 11, and 12 have no overlaps (are character-specific)."""
     errors_found = False
-    required_solo_positions = [1, 11, 12]
 
     for char_id, char_info in characters.items():
         pages = char_info['data'].get('story', [])
         char_name = char_info['name']
 
-        for pos in required_solo_positions:
+        for pos in REQUIRED_SOLO_SPREADS:
             if pos - 1 < len(pages):  # Check if this position exists
                 page = pages[pos - 1]
                 # Extract page ID (filename without .yaml)
@@ -261,6 +278,197 @@ def test_page_yaml_validity(characters):
     return not errors_found
 
 
+def test_node_types(characters):
+    """Test that all pages have valid node types."""
+    errors_found = False
+    warnings_found = False
+    pages_dir = Path('pages')
+
+    # Collect all referenced pages
+    all_pages = set()
+    for char_id, char_info in characters.items():
+        pages = char_info['data'].get('story', [])
+        all_pages.update(pages)
+
+    pages_with_node_type = 0
+    pages_without_node_type = 0
+
+    for page in all_pages:
+        page_path = pages_dir / page
+        if page_path.exists():
+            try:
+                with open(page_path, 'r') as f:
+                    page_data = yaml.safe_load(f)
+
+                node_type = page_data.get('node_type')
+
+                if node_type:
+                    pages_with_node_type += 1
+                    if node_type not in VALID_NODE_TYPES:
+                        error(f"Page '{page}' has invalid node_type '{node_type}'. Valid types: {VALID_NODE_TYPES}")
+                        errors_found = True
+
+                    # Check that meeting nodes have multiple character codes
+                    page_id = page.replace('.yaml', '')
+                    parts = page_id.split('-')
+                    char_codes = [p for p in parts if len(p) == 2 and p.isalpha()]
+
+                    if node_type == 'meeting' and len(char_codes) < 2:
+                        error(f"Page '{page}' is marked as meeting node but has only one character code")
+                        errors_found = True
+
+                    if node_type == 'solo' and len(char_codes) > 1:
+                        warning(f"Page '{page}' is marked as solo but has multiple character codes")
+                        warnings_found = True
+                else:
+                    pages_without_node_type += 1
+                    # Infer node type from filename
+                    page_id = page.replace('.yaml', '')
+                    parts = page_id.split('-')
+                    char_codes = [p for p in parts if len(p) == 2 and p.isalpha()]
+                    inferred_type = 'meeting' if len(char_codes) > 1 else 'solo'
+                    # This is just informational - not an error
+
+            except Exception as e:
+                error(f"Failed to check node_type for '{page}': {e}")
+                errors_found = True
+
+    if pages_without_node_type > 0:
+        note(f"{pages_without_node_type} page(s) don't have explicit node_type (using legacy format)")
+
+    if not errors_found:
+        success(f"All page node types are valid ({pages_with_node_type} explicit, {pages_without_node_type} inferred)")
+
+    return not errors_found
+
+
+def test_scene_structure(characters):
+    """Test that pages have proper scene structure (new format) or legacy fields."""
+    errors_found = False
+    pages_dir = Path('pages')
+
+    # Collect all referenced pages
+    all_pages = set()
+    for char_id, char_info in characters.items():
+        pages = char_info['data'].get('story', [])
+        all_pages.update(pages)
+
+    pages_with_scenes = 0
+    pages_with_legacy = 0
+
+    for page in all_pages:
+        page_path = pages_dir / page
+        if page_path.exists():
+            try:
+                with open(page_path, 'r') as f:
+                    page_data = yaml.safe_load(f)
+
+                has_scenes = 'scenes' in page_data and page_data['scenes']
+                has_legacy_visual = 'visual' in page_data
+                has_legacy_text = 'text' in page_data
+
+                if has_scenes:
+                    pages_with_scenes += 1
+                    # Validate scene structure
+                    scenes = page_data['scenes']
+                    if len(scenes) != 2:
+                        warning(f"Page '{page}' has {len(scenes)} scenes, expected 2 (left and right)")
+
+                    for i, scene in enumerate(scenes):
+                        if 'visual' not in scene:
+                            error(f"Page '{page}' scene {i+1} missing 'visual' field")
+                            errors_found = True
+                        if 'text' not in scene:
+                            error(f"Page '{page}' scene {i+1} missing 'text' field")
+                            errors_found = True
+                        if 'page' not in scene:
+                            warning(f"Page '{page}' scene {i+1} missing 'page' field (left/right)")
+
+                elif has_legacy_visual and has_legacy_text:
+                    pages_with_legacy += 1
+                else:
+                    error(f"Page '{page}' has neither scenes structure nor legacy visual/text fields")
+                    errors_found = True
+
+            except Exception as e:
+                error(f"Failed to check scene structure for '{page}': {e}")
+                errors_found = True
+
+    note(f"Page formats: {pages_with_scenes} new (scenes), {pages_with_legacy} legacy (visual/text)")
+
+    if not errors_found:
+        success("All pages have valid content structure")
+
+    return not errors_found
+
+
+def test_world_interactions(characters):
+    """Test that world.yaml interactions reference valid pages and characters."""
+    world_path = Path('world.yaml')
+    pages_dir = Path('pages')
+
+    if not world_path.exists():
+        warning("world.yaml not found - skipping interaction validation")
+        return True
+
+    try:
+        with open(world_path, 'r') as f:
+            world_data = yaml.safe_load(f)
+    except Exception as e:
+        error(f"Failed to load world.yaml: {e}")
+        return False
+
+    interactions = world_data.get('interactions', [])
+    if not interactions:
+        note("No interactions defined in world.yaml")
+        return True
+
+    errors_found = False
+
+    for interaction in interactions:
+        if not isinstance(interaction, dict):
+            continue
+
+        chars = interaction.get('characters', [])
+        nodes = interaction.get('nodes', [])
+
+        # Validate characters exist
+        if isinstance(chars, list):
+            for char_code in chars:
+                if char_code and char_code not in characters:
+                    error(f"Interaction references unknown character '{char_code}'")
+                    errors_found = True
+
+        # Validate nodes
+        if isinstance(nodes, list):
+            for node in nodes:
+                if not isinstance(node, dict):
+                    continue
+
+                spread = node.get('spread')
+                node_type = node.get('type')
+                page_file = node.get('page_file')
+
+                if spread in REQUIRED_SOLO_SPREADS:
+                    error(f"Node at spread {spread} violates constraint - spreads 1, 11, 12 must be character-specific")
+                    errors_found = True
+
+                if node_type and node_type not in VALID_NODE_TYPES:
+                    error(f"Node has invalid type '{node_type}'")
+                    errors_found = True
+
+                if page_file:
+                    page_path = pages_dir / page_file
+                    if not page_path.exists():
+                        error(f"Node references non-existent page '{page_file}'")
+                        errors_found = True
+
+    if not errors_found:
+        success("World interactions are valid")
+
+    return not errors_found
+
+
 def main():
     """Run all tests."""
     print("\n" + "="*80)
@@ -282,6 +490,9 @@ def main():
         ("No stray pages in pages directory", lambda: test_no_stray_pages(characters)),
         ("Page YAML files are valid", lambda: test_page_yaml_validity(characters)),
         ("Check for missing pages", lambda: test_missing_pages(characters)),
+        ("Node types are valid", lambda: test_node_types(characters)),
+        ("Scene structure is valid", lambda: test_scene_structure(characters)),
+        ("World interactions are valid", lambda: test_world_interactions(characters)),
     ]
 
     results = []
