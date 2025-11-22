@@ -4,6 +4,34 @@
 
 A modular storybook system for creating interconnected children's stories across multiple characters. Each character has their own storybook, and characters can share scenes at synchronized points in their stories, creating an interlocking narrative web.
 
+## Critical Reference Files
+
+**IMPORTANT**: Before creating any story content, you MUST consult these files:
+
+### Writing & Style
+- **`WRITING_STYLE.md`** - **MANDATORY** for all text creation. Contains:
+  - Target audience (ages 8-12, Lexile 600-850)
+  - Show don't tell principles with examples
+  - Sentence structure variation guidelines
+  - Active voice requirements
+  - Sensory language requirements
+  - Natural dialogue rules for children
+  - Rhythm and pacing guidelines
+  - Image description requirements (2-4 sentences, 40-60 words)
+  - Character voice guidelines
+  - Emotional beat construction
+  - Punctuation rules (**NO em-dashes ever**)
+  - Red flags to avoid (weak verbs, filter words, telling instead of showing)
+
+### Templates (in `templates/` folder)
+- **`story-template.yaml`** - **SOURCE OF TRUTH** for story structure (12 spreads, beats, hooks, payoffs)
+- **`character-example.yaml`** - Character file structure and required fields
+- **`page-example.yaml`** - Individual spread structure with scenes
+- **`world-example.yaml`** - World definition structure and visual style
+- **`meeting-node-example.yaml`** - Template for Meeting Nodes (characters physically converge)
+- **`mirrored-node-example.yaml`** - Template for Mirrored Nodes (parallel challenges, themes rhyme)
+- **`resonant-node-example.yaml`** - Template for Resonant Nodes (emotional ripple across distance)
+
 ## Important Scripts
 
 **ALWAYS use these scripts** - they are the correct way to interact with the project:
@@ -49,36 +77,86 @@ world
 
 ### Binding Two Characters Together
 
-**Important**: This step creates only ONE shared page where the characters meet. Do not create all the remaining pages for either character.
+**Important**: This step creates a narrative connection between characters. Do not create all the remaining pages for either character.
 
-1. Ask the user which two characters should meet/interact
-2. Ask about the nature of their interaction (what happens when they meet?)
-3. Consult `templates/story-template.yaml` to determine which spread makes sense for them to meet
-   - **Constraint**: Two characters CANNOT meet in:
-     - Spread 1 - the first spread
-     - Spread 11 - second to last spread
-     - Spread 12 - final spread
-   - Valid meeting spreads are: 2-10 (spreads 02-10 in file naming)
-4. Determine the spread number where they'll meet (must be the same for both characters)
-5. Check if the shared page already exists (use alphabetically ordered character codes: e.g., `cu-ma-07.yaml`)
-6. If the page doesn't exist:
-   - Create the shared page in `pages/` with proper naming (character codes alphabetically)
-   - Use `templates/page-example.yaml` as the template
-   - Write the page content so it makes narrative sense whether reading character A's story or character B's story
-   - The text should work from both perspectives
-   - **Text constraint**: Keep the `text` field to 2 sentences maximum
-   - **Visual**: The `visual` field can be very long and detailed to convey the scene visually
-     - **IMPORTANT**: Describe a SINGLE INSTANT IN TIME - not a sequence of actions
-     - Describe WHAT is happening at this exact moment (action, poses, expressions)
-     - Describe WHERE things are (positions, spatial relationships, background details)
-     - Include specific visual details about the world, objects, and environment
-     - Do NOT include stylistic suggestions (those come from world.yaml)
-     - Do NOT describe multiple moments, sequences, or panels
-7. Insert the page reference into both character files' `story:` lists at the correct position (in order)
-   - **Format**: Use filename only with `.yaml` extension (e.g., `- cu-ma-07.yaml`)
-   - **Do NOT** include the `pages/` folder prefix (e.g., NOT `- pages/cu-ma-07.yaml`)
-8. **Important**: Both characters must reference the exact same page file at the same spread number
-9. **Stop here**: Do not create any other pages for these characters at this time
+#### Step 1: Determine Node Type
+
+Ask the user which type of connection they want. Consult these template files for detailed requirements:
+
+1. **Meeting Node** (`templates/meeting-node-example.yaml`)
+   - Characters physically converge at the SAME place and time
+   - Single shared page file used by both characters
+   - Scene depicted from different POVs in each book
+   - Dialogue must work from any character's perspective
+   - Use when: Characters meet face-to-face, interact directly
+
+2. **Mirrored Node** (`templates/mirrored-node-example.yaml`)
+   - Characters face parallel challenges in DIFFERENT places
+   - Separate page files for each character (e.g., `el-05.yaml`, `no-05.yaml`)
+   - Plus a definition file linking them (e.g., `mirrored-05.yaml`)
+   - A symbolic motif appears in ALL connected stories
+   - Themes intentionally "rhyme" across stories
+   - Use when: Characters face similar challenges without meeting
+
+3. **Resonant Node** (`templates/resonant-node-example.yaml`)
+   - Emotional/energetic ripple connecting characters across distance
+   - Separate page files for each character
+   - Plus a definition file linking them (e.g., `resonant-09.yaml`)
+   - One character's emotional shift affects another's environment
+   - Symbolic phenomenon visible in both scenes (sky shimmer, lantern glow, etc.)
+   - **MUST follow a moment of character growth**
+   - Use when: Characters are emotionally connected without physical proximity
+
+#### Step 2: Determine Spread Number
+
+1. Consult `templates/story-template.yaml` to determine which spread makes sense
+2. **Constraint**: Nodes CANNOT occur on:
+   - Spread 1 - the first spread
+   - Spread 11 - second to last spread
+   - Spread 12 - final spread
+3. Valid spreads are: 2-10 (spreads 02-10 in file naming)
+4. The spread number must be the same for all connected characters
+
+#### Step 3: Create the Node
+
+**For Meeting Nodes:**
+1. Check if shared page exists (alphabetically ordered codes: e.g., `el-no-04.yaml`)
+2. Create the shared page in `pages/` using `templates/meeting-node-example.yaml`
+3. Include required fields: `location`, `shared_action`, `dialogue_packets`, `image_alignment`
+4. Insert the page reference into ALL connected characters' `story:` lists
+
+**For Mirrored Nodes:**
+1. Create a definition file: `mirrored-XX.yaml` (where XX is spread number)
+2. Create separate page files for each character (e.g., `el-05.yaml`, `no-05.yaml`)
+3. Include the `shared_theme_key`, `symbolic_motif` in definition
+4. Ensure the symbolic motif appears in EACH character's page
+5. Insert each character's page into their respective `story:` list
+
+**For Resonant Nodes:**
+1. Create a definition file: `resonant-XX.yaml` (where XX is spread number)
+2. Create separate page files for each character
+3. Include `emotional_state_packets`, `ripple_effects`, `symbolic_resonance`
+4. Ensure the symbolic resonance phenomenon appears in EACH page
+5. Insert each character's page into their respective `story:` list
+
+#### Writing Requirements for All Nodes
+
+**MANDATORY**: Before writing any text, read `WRITING_STYLE.md` and apply:
+- **Text**: 3-4 sentences per scene, show don't tell, active voice, NO em-dashes
+- **Visual**: 2-4 sentences (40-60 words), describe a SINGLE INSTANT IN TIME
+  - Describe WHAT is happening at this exact moment (action, poses, expressions)
+  - Describe WHERE things are (positions, spatial relationships, background details)
+  - Include specific visual details about the world, objects, and environment
+  - Do NOT include stylistic suggestions (those come from world.yaml)
+  - Do NOT describe multiple moments, sequences, or panels
+
+#### File Naming and References
+
+- **Format**: Use filename only with `.yaml` extension (e.g., `- el-no-04.yaml`)
+- **Do NOT** include the `pages/` folder prefix
+- Character codes are always alphabetically ordered in shared filenames
+
+**Stop here**: Do not create any other pages for these characters at this time
 
 ### Creating All Pages for a Character
 
@@ -88,6 +166,16 @@ world
 - Pages are numbered 1-12 only (corresponding to the 12 spreads in the story template)
 - Never create pages numbered less than 1 or more than 12
 - Skip all joint/shared pages with other characters
+
+#### Pre-Creation: Read Required Files
+
+**MANDATORY** - Before creating any pages, read these files:
+1. `WRITING_STYLE.md` - For all text and visual description requirements
+2. `templates/story-template.yaml` - For story structure, beats, hooks, and payoffs
+3. `templates/page-example.yaml` - For page structure
+4. `world.yaml` - For world-specific visual details and style
+
+#### Step-by-Step Process
 
 1. Ask the user which character they want to create pages for
 
@@ -111,24 +199,44 @@ world
      - Use `templates/page-example.yaml` as the template
      - Determine which spread (1-12) the page belongs to based on `templates/story-template.yaml`
      - Copy the `beat`, `hook`, and `payoff` from the corresponding spread in the story template
-     - Create a simple, bland `description` (1-2 sentences) for what happens on this page
-     - Create a `visual` description based on the world defined in `world.yaml`
-       - **Visual can be very long and detailed** to convey the scene richly
-       - **IMPORTANT**: Describe a SINGLE INSTANT IN TIME - not a sequence of actions
-       - Describe WHAT is happening at this exact moment (action, poses, expressions)
-       - Describe WHERE things are (positions, spatial relationships, background details)
-       - Include specific visual details about the world, objects, and environment
-       - Do NOT include stylistic suggestions (those come from world.yaml)
-       - Do NOT describe multiple moments, sequences, or panels
-     - Create a `text` field with the actual page text
-       - **Text must be 2 sentences maximum** - keep it super short and concise
+     - Create a simple `description` (1-2 sentences) for what happens on this page
+     - Create the `scenes` array with left and right page content (see Writing Requirements below)
      - Make sure the page flows naturally with the joint pages and overall story arc
-     - Keep descriptions generic enough to be customized later
      - Save the page file in `pages/` with the naming convention `cc-pp.yaml` (e.g., `ma-01.yaml`, `cu-07.yaml`)
 
 6. Update the character's `story:` list to include all newly created pages in sequential order (1-12), with joint pages in their correct positions
    - **Format**: Use filename only with `.yaml` extension (e.g., `- cu-01.yaml`, `- cu-ma-07.yaml`)
    - **Do NOT** include the `pages/` folder prefix (e.g., NOT `- pages/cu-01.yaml`)
+
+#### Writing Requirements (from WRITING_STYLE.md)
+
+**Text Field Requirements:**
+- 3-4 sentences per scene (left page + right page)
+- **Show, don't tell**: Never state emotions directly; reveal through physical sensations, actions, and sensory details
+- **Active voice**: Use strong, specific verbs (not "walked" but "trudged, stomped, tiptoed")
+- **Sensory language**: Ground abstract concepts in physical, sensory reality
+- **Natural dialogue**: Write like real kids talk (contractions, fragments, interruptions)
+- **Trust your reader**: Don't over-explain; let readers infer emotions and connections
+- **NO em-dashes (—) ever**: Use periods, commas, or restructure sentences instead
+
+**Visual Field Requirements:**
+- 2-4 sentences (40-60 words maximum)
+- Describe a SINGLE INSTANT IN TIME - not a sequence of actions
+- Describe WHAT is happening at this exact moment (action, poses, expressions)
+- Describe WHERE things are (positions, spatial relationships, background details)
+- Include specific visual details about the world, objects, and environment
+- Do NOT include stylistic suggestions (those come from world.yaml)
+- Must advance plot, character development, or theme
+- Show emotion through body language, not labels
+
+**Red Flags to Avoid:**
+- Repetitive sentence starts (She/He/The/It three times in a row)
+- "Was/were" constructions (use active voice)
+- Filter words: "She felt," "he saw," "she heard," "he noticed"
+- Stating emotions directly: "sad," "happy," "angry," "scared"
+- Weak verbs: walked, went, got, said, looked, saw
+- Adverb abuse: "quickly," "slowly," "angrily"
+- Cliché phrases: "heart skipped a beat," "butterflies in stomach"
 
 ### Validating Repository Structure
 
@@ -191,12 +299,21 @@ After the script displays the story, automatically provide a critique:
    - For each page, verify it matches the corresponding spread's `beat`, `hook`, and `payoff`
    - Identify any pages where the story structure isn't being followed properly
 
-3. **For shared pages with other characters**:
+3. **Check writing quality against WRITING_STYLE.md**:
+   - **Show don't tell**: Are emotions shown through physical sensations and actions?
+   - **Active voice**: Are verbs strong and specific?
+   - **Sensory language**: Is the world grounded in concrete sensory details?
+   - **Natural dialogue**: Does dialogue sound like real kids talking?
+   - **No em-dashes**: Are there any em-dashes that should be replaced?
+   - **Red flags**: Are there weak verbs, filter words, or direct emotion labels?
+   - **Visual descriptions**: Do they describe a single instant in time (40-60 words)?
+
+4. **For shared pages with other characters**:
    - The script output will show overlap analysis including before/after pages from other characters' stories
    - Use this information to understand cross-character constraints
    - Any suggested changes to shared pages must make sense in both characters' narrative arcs
 
-4. **Generate three improvement suggestions**:
+5. **Generate three improvement suggestions**:
    - Each suggestion should specify:
      - Which page(s) to modify
      - What to change (description, visual, text, or beat alignment)
@@ -206,8 +323,9 @@ After the script displays the story, automatically provide a critique:
      - Strengthen world consistency
      - Better align with story structure beats
      - Improve narrative flow and character development
+     - Fix writing quality issues identified in step 3
 
-5. **Present the critique** at the bottom of the output in this format:
+6. **Present the critique** at the bottom of the output in this format:
    ```
    ---
 
@@ -218,6 +336,9 @@ After the script displays the story, automatically provide a critique:
 
    ### Story Structure
    [Analysis of how well pages match story template beats]
+
+   ### Writing Quality (per WRITING_STYLE.md)
+   [Analysis of show-don't-tell, active voice, sensory language, dialogue quality, em-dash usage, red flags]
 
    ### Shared Page Constraints
    [List any shared pages and note the before/after context from other characters]
@@ -394,11 +515,36 @@ When Claude needs to understand the narrative:
 
 Templates serve as both examples and schemas, showing the structure with real example data:
 
-- **World Template**: `templates/world-example.yaml` - Copy to `world.yaml` to create your world
-- **Character Template**: `templates/character-example.yaml` - Complete example showing all fields with Cullan's data
-- **Story Arc Template**: `templates/story-template.yaml` - **SOURCE OF TRUTH** for story structure: 12 spreads with beats, hooks, and payoffs
-- **Page Template**: `templates/page-example.yaml` - Template for creating individual story pages
-- Copy and fill in to create new content
+### Core Templates
+- **`templates/world-example.yaml`** - World definition structure (copy to `world.yaml`)
+- **`templates/character-example.yaml`** - Character file structure with all fields
+- **`templates/story-template.yaml`** - **SOURCE OF TRUTH** for story structure (12 spreads, beats, hooks, payoffs)
+- **`templates/page-example.yaml`** - Individual spread structure with scenes
+
+### Node Type Templates
+- **`templates/meeting-node-example.yaml`** - Meeting Node template
+  - Required fields: `location`, `shared_action`, `dialogue_packets`, `image_alignment`
+  - Characters physically converge at same place/time
+  - Single shared page file for all connected characters
+
+- **`templates/mirrored-node-example.yaml`** - Mirrored Node template
+  - Required fields: `shared_theme_key`, `scenario_variants`, `symbolic_motif`, `spread_alignment`
+  - Characters face parallel challenges in different places
+  - Separate page files + definition file
+
+- **`templates/resonant-node-example.yaml`** - Resonant Node template
+  - Required fields: `emotional_state_packets`, `ripple_effects`, `symbolic_resonance`, `placement_rule`
+  - Emotional/energetic connection across distance
+  - Must follow a character growth moment
+
+### Writing Style Guide
+- **`WRITING_STYLE.md`** - **MANDATORY** for all text creation
+  - Target audience: ages 8-12, Lexile 600-850
+  - Show don't tell, active voice, sensory language
+  - Natural dialogue, trust your reader
+  - Image descriptions: 2-4 sentences, 40-60 words
+  - **NO em-dashes ever**
+  - Red flags to avoid
 
 ### Story Structure
 
@@ -408,10 +554,35 @@ All stories follow the structure defined in `templates/story-template.yaml`:
 - Pages should match the beats, hooks, and payoffs described in the template
 - This ensures consistent story structure across all character books
 
+### Node Type Summary
+
+| Node Type | Location | File Structure | Key Characteristic |
+|-----------|----------|----------------|-------------------|
+| Meeting | Same place/time | Single shared page | Physical convergence |
+| Mirrored | Different places | Separate pages + definition | Themes rhyme |
+| Resonant | Different places | Separate pages + definition | Emotional ripple |
+
+**Constraint**: Nodes cannot occur on spreads 1, 11, or 12 (must be character-specific)
+
 ## Quick Reference
 
+### Essential Files
+- **Writing guide**: `WRITING_STYLE.md` (**MANDATORY** for all text creation)
 - **Master document**: `world.yaml` (at root level, copy from `templates/world-example.yaml`)
 - **Story structure**: `templates/story-template.yaml` (SOURCE OF TRUTH - 12 spreads with beats, hooks, payoffs)
-- **Character files**: `characters/cc-name.yaml` (see `templates/character-example.yaml` for structure)
-- **Page files**: `pages/cc-pp.yaml` or `pages/cc-cc-pp.yaml` (see `templates/page-example.yaml` for structure)
-- **Templates**: `templates/*.yaml` (example files that also serve as schemas)
+
+### Character & Page Files
+- **Character files**: `characters/cc-name.yaml` (see `templates/character-example.yaml`)
+- **Solo page files**: `pages/cc-pp.yaml` (see `templates/page-example.yaml`)
+- **Shared page files**: `pages/cc-cc-pp.yaml` (character codes alphabetically)
+
+### Node Templates
+- **Meeting Node**: `templates/meeting-node-example.yaml` (same place/time, shared file)
+- **Mirrored Node**: `templates/mirrored-node-example.yaml` (parallel challenges, separate files + definition)
+- **Resonant Node**: `templates/resonant-node-example.yaml` (emotional ripple, separate files + definition)
+
+### Key Rules
+- **Spreads 1, 11, 12**: Must be character-specific (no nodes allowed)
+- **Text**: 3-4 sentences per scene, show don't tell, NO em-dashes
+- **Visual**: 2-4 sentences (40-60 words), single instant in time
+- **File references**: Filename only (e.g., `cu-01.yaml`), never include `pages/` prefix
