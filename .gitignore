@@ -10,9 +10,9 @@ scripts/__pycache__
 # Generated images
 out-images/*.jpg
 
-# Generated PDFs
-out-pdfs/*.pdf
-out-pdfs/*.html
+# Generated PDFs - keeping these for download
+# out-pdfs/*.pdf
+# out-pdfs/*.html
 
 # Reference images
 ref-images/*.jpg
