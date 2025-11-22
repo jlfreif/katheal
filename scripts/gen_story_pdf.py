@@ -249,8 +249,32 @@ def generate_pdf(char_code):
                 desc_text = desc_text.strip()
             elements.append(Paragraph(desc_text, body_style))
 
-        # Story text (highlighted)
-        if 'text' in page_data:
+        # Handle new scenes format (left/right pages)
+        if 'scenes' in page_data:
+            for scene in page_data['scenes']:
+                page_side = scene.get('page', 'unknown').capitalize()
+                focus = scene.get('focus', '')
+
+                elements.append(Paragraph(f"<b>{page_side} Page</b> — {focus}", heading3_style))
+
+                # Scene text
+                if 'text' in scene:
+                    story = scene['text']
+                    if isinstance(story, str):
+                        story = story.strip()
+                    elements.append(Paragraph(f"<i>{story}</i>", story_text_style))
+
+                # Scene visual
+                if 'visual' in scene:
+                    visual = scene['visual']
+                    if isinstance(visual, str):
+                        visual = visual.strip()
+                    elements.append(Paragraph(f"[Visual: {visual}]", visual_style))
+
+                elements.append(Spacer(1, 0.1 * inch))
+
+        # Legacy format: Story text (highlighted)
+        elif 'text' in page_data:
             elements.append(Paragraph("<b>Story Text</b>", heading3_style))
             story = page_data['text']
             if isinstance(story, str):
@@ -258,13 +282,13 @@ def generate_pdf(char_code):
             # Add background color effect through indentation and style
             elements.append(Paragraph(f"<i>{story}</i>", story_text_style))
 
-        # Visual description
-        if 'visual' in page_data:
-            elements.append(Paragraph("<b>Visual Scene</b>", heading3_style))
-            visual = page_data['visual']
-            if isinstance(visual, str):
-                visual = visual.strip()
-            elements.append(Paragraph(visual, visual_style))
+            # Visual description (legacy format)
+            if 'visual' in page_data:
+                elements.append(Paragraph("<b>Visual Scene</b>", heading3_style))
+                visual = page_data['visual']
+                if isinstance(visual, str):
+                    visual = visual.strip()
+                elements.append(Paragraph(visual, visual_style))
 
     # Build PDF
     doc.build(elements)
