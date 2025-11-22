@@ -74,6 +74,53 @@ attributes:
     - Graceful movements
     - Gentle and calm presence
 
+  # What story genres does the character (or the reader) enjoy most?
+  # This will inform the writing style and plot direction.
+  # Sample genres: Adventure, Fantasy, Mystery, Humor/Comedy, Friendship,
+  # Animal Stories, Fairy Tales, Science Fiction, Sports, Historical Fiction,
+  # Magical Realism, Slice of Life, Nature/Outdoors, Superhero, Fables
+  # Choose 1-3 genres that resonate most
+  preferred_story_genres:
+    - Fantasy
+    - Fairy Tales
+    - Friendship
+
+  # Which courage theme should guide the character's story?
+  # Choose the theme that best fits the character's journey and growth.
+  #
+  # Available themes:
+  #   1. Courage to Try Something New
+  #      Being brave enough to take the first step — even if it feels wobbly or strange.
+  #   2. Courage to Tell the Truth About Your Feelings
+  #      Sharing when you're sad, excited, worried, or confused, instead of pretending.
+  #   3. Courage to Ask for Help
+  #      Knowing it's strong (not weak!) to reach out when you're stuck.
+  #   4. Courage to Keep Going After a Mistake
+  #      Trying again after stumbling, without feeling ashamed.
+  #   5. Courage to Be Kind First
+  #      Choosing kindness even when you feel shy, nervous, or unsure how someone will respond.
+  #   6. Courage to Listen
+  #      Letting someone else finish their thought so you can really understand them.
+  #   7. Courage to Be Yourself
+  #      Letting your true interests, quirks, dreams, and ideas show — even if they're different.
+  #   8. Courage to Take a Breath
+  #      Pausing when you feel overwhelmed so you can think clearly again.
+  #   9. Courage to Let Others Help You
+  #      Allowing someone to support you when you don't know what to do next.
+  #   10. Courage to Forgive
+  #       Letting go of a small hurt so you can feel light again.
+  #   11. Courage to Try Slowly
+  #       Understanding that bravery doesn't always mean fast — sometimes it's gentle and careful.
+  #   12. Courage to Imagine Something Better
+  #       Believing in a possibility no one else can see yet.
+  #   13. Courage to Speak Up
+  #       Using your voice if something feels unfair or unkind.
+  #   14. Courage to Take Care of Yourself
+  #       Resting, eating, or asking for a cuddle when you need it.
+  #   15. Courage to Let Go
+  #       Saying goodbye to something (or someone) who's moving on — even if it makes your heart ache.
+  courage_theme: Courage to Try Something New
+
 # Storybook Pages (ordered list)
 # Initially this list is empty when we create the character
 # But more will get added as we follow the story creation steps
