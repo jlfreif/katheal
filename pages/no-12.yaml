@@ -8,7 +8,7 @@ beat: "Resolution (emotional) + series button"
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Noah returns to his room, but now he writes differently—with honesty instead of just cleverness—knowing his stories are connected to something real.
+description: Noah returns to his room and starts a new story—leaving space for it to surprise him, trusting the ending will come.
 
 scenes:
   - page: left
@@ -17,31 +17,28 @@ scenes:
 
     visual: |
       Noah sits cross-legged on his bedroom floor in the same position as the
-      opening, surrounded by notebooks and papers. He writes in his notebook with
-      focused intent. The golden quill shimmers faintly through his ordinary pen.
-      The room is identical but feels different. His expression is engaged and
-      content, no longer restless.
+      opening, but the crumpled papers are gone. A fresh notebook lies open before
+      him. The blank page from Kathaél shimmers faintly beneath his ordinary paper.
+      His expression is peaceful, curious, open.
 
     text: |
-      Noah's room looked exactly the same: scattered notebooks, afternoon light
-      through the window, ukulele against the wall. But everything felt different.
-      He picked up his pen, and somewhere inside it, the golden quill hummed with
-      warmth. He opened to a fresh page and began to write.
+      Noah's room looked the same: afternoon light, scattered books, ukulele against
+      the wall. But the crumpled papers were gone. He'd thrown them away. Now a
+      fresh notebook lay open, and beneath his ordinary paper, the glowing blank
+      page hummed with warmth. He picked up his pen.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
 
     visual: |
-      Noah's notebook shows writing that flows naturally, the visible sentence
-      reading "This is a story about learning that truth matters more than
-      perfection." At the window's edge, a barely visible golden thread connects
-      his world to somewhere beyond. Outside, a small bird watches with eyes
-      that catch the light strangely.
+      Noah writes in his notebook, but the visible sentence trails off mid-thought:
+      "She opened the door and—" with empty space after it. He's smiling slightly,
+      comfortable with the incompleteness. At the window's edge, a golden thread
+      shimmers. Outside, a bird watches with knowing eyes.
 
     text: |
-      The words came easier now. Not perfect words, but true ones. Noah wrote
-      about a boy who learned that honest stories mattered more than clever ones.
-      Outside his window, a golden thread caught the light, so faint no one else
-      would notice. But Noah noticed. And somewhere in Kathaél, his words were
-      becoming real.
+      "She opened the door and—" Noah stopped writing. Not because he was stuck,
+      but because he was curious. What would the story want to happen next? He
+      left space on the page, trusting the ending would come when it was ready.
+      Outside his window, a golden thread caught the light, unfinished and beautiful.

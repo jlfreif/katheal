@@ -1,5 +1,5 @@
 # Shared page: Elise and Noah - Spread 4
-# First Synchrony Node: Seeking guidance
+# Meeting Node: Seeking guidance at the crossroads
 
 id: el-no-04
 spread: 4
@@ -9,7 +9,7 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction.
+description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction after their first attempts failed.
 
 scenes:
   - page: left
@@ -18,16 +18,15 @@ scenes:
 
     visual: |
       A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
-      whose branches glow with golden threads. Noah stands on the left path, one hand
-      extended toward a shimmering thread at eye level, expression focused and curious.
-      Morning mist rolls through the background forest. Luminescent mushrooms dot the
-      mossy ground.
+      whose branches glow with golden threads. Noah stands on the left path, notebook
+      tucked under his arm, one hand extended toward a shimmering thread. His expression
+      shows frustration mixed with hope. Unfinished story-threads hang frozen nearby.
 
     text: |
-      Noah followed the threads to a crossroads beneath an ancient willow. Golden
-      light wove through its branches like a living tapestry. He reached toward one
-      thread, hoping it might show him where to go. The thread hummed warmly under
-      his fingers, but the path it suggested led into darkness.
+      Noah's perfect endings hadn't worked. He followed the threads to a crossroads
+      beneath an ancient willow, hoping someone here might know what he was missing.
+      Golden light wove through the branches. He reached toward one thread, and it
+      hummed warmly—but the path it suggested led deeper into unfamiliar territory.
 
   - page: right
     page_number: 12
@@ -35,13 +34,12 @@ scenes:
 
     visual: |
       Elise stands on the right path, head tilted as she observes a different glowing
-      thread, her hand raised gently. Between the two children, threads weave and
-      intersect in midair, creating a soft lattice of golden light. Both are shown
-      in profile, aware of each other's presence. Small particles of light drift
-      like fireflies.
+      thread, her watercolor set hanging from her wrist. Between the two children,
+      threads weave and intersect in midair, creating a soft lattice of golden light.
+      Both are shown in profile, aware of each other's presence.
 
     text: |
       Elise noticed the boy at the same moment he noticed her. They didn't speak,
-      but she saw him reaching for the threads just like she was. Something about
-      not being alone made the path ahead feel less frightening. The threads pulsed
-      brighter, as if pleased that two hearts were listening.
+      but she saw him reaching for the threads just like she was—someone else who
+      didn't have all the answers. Something about not being alone made the path
+      ahead feel less frightening. The threads pulsed brighter, as if pleased.

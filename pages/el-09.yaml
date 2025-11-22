@@ -1,0 +1,48 @@
+# Elise - Spread 9: Inner Shift (Resonant Node)
+
+id: el-09
+spread: 9
+node_type: resonant
+node_definition: resonant-09.yaml
+beat: "Deepening choice / inner shift"
+
+hook: A previously overlooked detail suddenly connects to something from earlier.
+payoff: Returning to prior element with new understanding makes solution clear.
+
+description: Elise notices a single restored flower still glowing, chooses to continue—and feels an unexpected warmth ripple through the meadow.
+
+scenes:
+  - page: left
+    page_number: 21
+    focus: Making the choice to continue
+
+    visual: |
+      Elise kneels beside a single glowing flower in the grey meadow, her
+      earlier work still holding its color. Her watercolor set lies open
+      beside her, but she's not painting—she's simply looking at the one
+      flower she helped. Her expression shifts from despair to something
+      softer. One flower mattered.
+
+    text: |
+      Through her tears, Elise saw one flower still glowing. Just one, from
+      her earlier work, holding its color against all the grey. It was tiny.
+      It was almost nothing. But it was real. She picked up her watercolor
+      set. If one flower could matter, then the next one could too.
+
+  - page: right
+    page_number: 22
+    focus: Feeling the connection
+
+    visual: |
+      Golden threads shimmer into visibility across the meadow, pulsing
+      with warm light. Elise looks up, wonder on her face, as she feels
+      something like encouragement wash over her. Near her feet, a flower
+      begins to restore its color without her touching it. The grey seems
+      less heavy.
+
+    text: |
+      Golden light rippled through the air, threads she'd never seen before,
+      connecting the whole meadow. Elise felt warmth spread through her chest,
+      like someone somewhere was choosing the same courage she was. A flower
+      near her feet began to glow—without her even touching it. She wasn't
+      doing this alone.

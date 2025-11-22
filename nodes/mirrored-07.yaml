@@ -1,0 +1,63 @@
+# Mirrored Node: Spread 7
+# Noah and Elise face parallel challenges in different locations
+
+id: mirrored-07
+spread: 7
+node_type: mirrored
+
+beat: "Rising stakes: almost works"
+
+shared_theme_key: almost_success
+theme_description: |
+  Both characters are close to breakthrough but something holds them back.
+  Noah keeps trying to perfect his approach, unable to let go of control.
+  Elise's gentle method is working, but the scale overwhelms her.
+  A flickering lantern appears in both scenes, responding to their struggles.
+
+symbolic_motif:
+  name: flickering_lantern
+  description: A lantern whose flame wavers between bright and dim
+  meaning: Progress is close but incomplete; trust in the process wavers
+
+scenario_variants:
+  - character_code: el
+    location: A vast meadow of faded flowers stretching toward distant hills
+    challenge_description: |
+      Elise's patient attention restores flowers one by one, but the meadow
+      seems endless. Each success feels tiny against the overwhelming grey.
+    motif_manifestation: |
+      A lantern hangs from a crooked post, its flame flickering as Elise
+      works. When she focuses on one flower with full attention, the flame
+      steadies. When she looks at the endless grey, it wavers.
+
+  - character_code: no
+    location: A grove where story-threads hang frozen in tangled clusters
+    challenge_description: |
+      Noah has learned to let stories complete themselves, but he keeps
+      interfering at the last moment, unable to trust the endings will be good enough.
+    motif_manifestation: |
+      A lantern rests on a stone nearby, its flame responding to his choices.
+      When he steps back and trusts, it burns steady. When he reaches to
+      revise, it sputters and dims.
+
+spread_alignment: 7
+
+world_connection: |
+  This mirrored moment reflects Kathaél's truth: progress requires patience
+  and trust. Both children are learning that being "almost there" means
+  continuing to trust their approach, not abandoning it for quick fixes.
+
+scene_templates:
+  left_page:
+    focus: Making progress toward goal
+    must_include:
+      - Character using their learned approach
+      - Signs of success
+      - First glimpse of the lantern motif
+
+  right_page:
+    focus: Realizing something is missing
+    must_include:
+      - Obstacle or doubt emerges
+      - Almost-success turns to frustration
+      - Lantern flame responds to their state

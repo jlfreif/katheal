@@ -8,7 +8,7 @@ beat: "Resolution (external)"
 hook: Return journey begins with hint of future possibility or unresolved element.
 payoff: Character arrives home integrating what they gained from the journey.
 
-description: Noah successfully weaves his thread into the Heart-Loom, and the tapestry glows whole and strong. He receives a token of what he's accomplished.
+description: Noah's story completes itself beautifully, and he receives a blank page that glows with possibility—proof that unwritten stories have power.
 
 scenes:
   - page: left
@@ -16,32 +16,29 @@ scenes:
     focus: Goal achieved, external reward
 
     visual: |
-      The Heart-Loom's threads now weave together in a beautiful, coherent pattern,
-      spiraling and intersecting in an organic design. Noah's own thread glows
-      brightly, integrated into the tapestry. He holds both hands at chest height,
-      and between them hovers a golden quill made of pure light. His expression
-      shows quiet wonder and accomplishment.
+      The Heart-Loom glows with Noah's completed thread woven through it. The
+      thread has written its own ending, words shimmering in the pattern. Noah
+      holds both hands at chest height, and between them hovers a single blank
+      page that glows with soft golden light—empty but full of possibility.
 
     text: |
-      The tapestry accepted his truth. Noah watched his thread weave itself into
-      the pattern, connecting to dozens of other threads, making the whole design
-      stronger. Something warm settled in his chest. Then light gathered between
-      his palms, forming a quill of pure gold. A gift. A thank you.
+      His story wove itself into the tapestry, finding its own ending—one he never
+      would have written, but perfect somehow. Noah watched the words settle into
+      place. Then warmth gathered in his palms: a blank page, glowing with possibility.
+      Not an ending. A beginning. The greatest gift.
 
   - page: right
     page_number: 26
     focus: Beginning the return
 
     visual: |
-      Noah walks along a glowing path leading away from the nexus, the golden
-      quill tucked carefully in his shirt pocket. The forest around him is clear
-      and beautiful, no longer obscured by fog. Golden particles drift through
-      the air like gentle snow. In the distance, his ordinary world waits, visible
-      as a warm glow between the trees.
+      Noah walks along a glowing path, the blank page tucked carefully against his
+      chest. Around him, frozen story-threads are beginning to write themselves,
+      completing one by one. The forest feels alive with endings finally allowed
+      to happen. His ordinary world glows warmly in the distance.
 
     text: |
-      Noah tucked the quill into his pocket, where it pulsed warmly against his
-      heart. The path home glowed beneath his feet, clear and inviting. Kathaél
-      looked different now that he wasn't frantically searching for answers. It
-      looked peaceful. Beautiful. And somehow, even as he walked away, he knew
-      he'd always be connected to it.
+      All around him, stories were finishing themselves. Threads that had hung
+      frozen for who-knows-how-long finally found their endings, words blooming
+      like flowers. Noah walked home through a forest of completing tales, the
+      blank page warm against his heart. He understood now.

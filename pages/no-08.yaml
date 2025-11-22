@@ -8,7 +8,7 @@ beat: "All-is-lost / emotional low"
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Noah faces a major tangle in the Heart-Loom and doubts whether he's actually helping or just making things worse.
+description: Noah faces a massive tangle of stories he's made worse with his revisions, doubting whether his need to control has ruined everything.
 
 scenes:
   - page: left
@@ -16,32 +16,29 @@ scenes:
     focus: External obstacles intensify
 
     visual: |
-      Above Noah, the Heart-Loom threads form a massive, complicated tangle,
-      dozens of golden strands twisted and knotted together. Some glow weakly,
-      others are barely visible. The whole structure sags under its own weight.
-      Rain begins to fall, darkening the bark of the ancient tree behind him.
-      The light here is dim and grey.
+      Above Noah, dozens of story-threads have knotted into a massive tangle, words
+      jumbled together into nonsense. His crossed-out endings float through the mess
+      like debris. Rain begins to fall, blurring the frozen words. The whole structure
+      sags, stories collapsing into each other.
 
     text: |
-      The tangle was worse than before. Much worse. Threads that Noah had tried
-      to straighten were now knotted into others, and threads he hadn't touched
-      had somehow gotten caught in the mess. Rain began to fall, cold drops
-      sliding down his face. The path behind him had disappeared into fog.
+      The stories he'd tried to fix had knotted into each other. Endings he'd forced
+      had tangled with beginnings he'd ignored. The whole mess hung above him like
+      a storm cloud of ruined tales. Rain began to fall, and Noah realized: his need
+      to control every ending had made everything worse.
 
   - page: right
     page_number: 20
     focus: Inner doubt and discouragement
 
     visual: |
-      Noah sits slumped against the base of an enormous tree, arms wrapped around
-      his knees, forehead resting on his arms. His sandy blond hair hides his face.
-      His notebook lies on the ground beside him with torn pages scattered nearby.
-      A small bird sits on a low branch above him, silent and present, witnessing
-      his struggle.
+      Noah sits slumped against a tree, knees pulled to his chest, face hidden.
+      His notebook lies open in the mud, pages covered in crossed-out endings, rain
+      smearing the ink. Torn pages scatter around him. A small bird sits on a branch
+      above, silent witness to his despair.
 
     text: |
-      Noah pressed his face against his knees and let the rain soak through his
-      shirt. Every attempt made things worse. He wasn't the hero of this story.
-      Maybe he never had been. His notebook pages lay scattered in the mud, filled
-      with useless words. The small bird above him didn't sing or speak. It just
-      stayed.
+      Noah pressed his face into his knees. Every story he touched, he broke. He
+      couldn't stop himself from revising, controlling, perfecting. And now look.
+      His notebook lay ruined in the mud, full of endings that belonged to him, not
+      to the stories. The bird above didn't sing. It just stayed.

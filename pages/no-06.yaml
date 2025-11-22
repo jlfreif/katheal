@@ -8,7 +8,7 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: After the dramatic approach fails, Noah stops and observes how the threads actually respond—not to words, but to honest feeling.
+description: Noah stops trying to write endings and watches a story complete itself—discovering that stories know how they want to end.
 
 scenes:
   - page: left
@@ -16,32 +16,30 @@ scenes:
     focus: Recognizing what doesn't work
 
     visual: |
-      Noah sits on a moss-covered boulder in a quiet grove, finally still. His
-      notebook lies closed beside him, hands resting gently on his knees, palms up.
-      The theatrical diagram lies scattered and useless on the ground behind him.
-      Dappled light filters through leaves. His posture has shifted from frantic
-      effort to quiet observation.
+      Noah sits on a moss-covered boulder, notebook closed beside him. His hands
+      rest in his lap, empty of pen. Around him, story-threads hang frozen in the
+      air. The theatrical storyteller's tangled mess is visible in the distance.
+      Noah's posture shows exhaustion and defeat, but also stillness.
 
     text: |
-      The storyteller's grand gestures had accomplished nothing. The threads didn't
-      care about impressive plans or clever diagrams. Noah sat on a boulder, letting
-      his breathing slow for the first time since he'd arrived. The grove was quiet,
-      and he was tired of trying so hard. Maybe stopping was the answer.
+      Noah set down his pen. His perfect endings hadn't worked. The twist endings
+      had made things worse. He was tired of forcing words onto stories that didn't
+      want them. For the first time since arriving, he simply sat and watched,
+      expecting nothing.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
 
     visual: |
-      A small golden thread hovers in the air before Noah, glowing brighter as he
-      watches it with soft, focused attention. The threads nearest to him pulse
-      gently in rhythm with his breathing. A deer with gentle eyes stands at the
-      grove's edge, bearing witness. Understanding dawns on Noah's face, his
-      expression calm and present.
+      A small golden thread hovers before Noah, and as he watches without interfering,
+      words begin to form at its trailing end, writing themselves in soft light.
+      The story is completing itself. His eyes widen with understanding. A deer
+      watches from the grove's edge, approving.
 
     text: |
-      The thread in front of him flickered. Noah held still, barely breathing.
-      When he stopped trying to impress it, the thread glowed brighter. When he
-      thought about how much he genuinely wanted to help, it pulsed warmly. His
-      chest loosened. The threads didn't respond to cleverness. They responded
-      to honesty.
+      The thread in front of him trembled. Then, impossibly, new words began to
+      appear at its end—writing themselves. "—and she realized home had been there
+      all along." The thread sealed itself, glowing bright and whole. Noah's breath
+      caught. The story had known its own ending. It just needed someone to stop
+      trying to write it for them.
