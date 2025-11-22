@@ -2,6 +2,7 @@
 
 id: no-01
 spread: 1
+node_type: solo
 beat: Ordinary world + desire hint
 
 hook: Something new or unusual appears, creating curiosity about what it is.
@@ -9,20 +10,36 @@ payoff: The discovery is fully revealed, establishing the story goal.
 
 description: Noah sits in his room surrounded by notebooks and stories, feeling restless and wishing for a real adventure.
 
-visual: |
-  Noah (12 years old, sandy blond voluminous hair, medium build) sits cross-legged
-  on his bedroom floor, surrounded by scattered notebooks, loose papers covered in
-  his handwriting, and a few paperback books. He holds a pen in his right hand,
-  poised over an open notebook, but his gaze is directed out the window to his left.
-  His expression is thoughtful and slightly wistful—longing for something beyond what
-  he can see. The room is cozy but ordinary: a bed with a blue quilt, a small desk
-  with more books stacked on it, and a ukulele leaning against the wall. Afternoon
-  light streams through the window, creating a warm glow on the wooden floor. Through
-  the window, there's a glimpse of ordinary suburban trees and sky, but at the very
-  edge of the window frame, barely visible, is a shimmer of golden light that doesn't
-  quite belong—like a thread of something magical just entering his world. Noah hasn't
-  noticed it yet. A half-written story is visible on the page in front of him, with
-  several crossed-out lines.
+scenes:
+  - page: left
+    page_number: 5
+    focus: Character in their ordinary world
 
-text: |
-  Noah wrote stories about brave heroes, but wished he could have a real adventure of his own. Something that mattered.
+    visual: |
+      Noah sits cross-legged on his bedroom floor, surrounded by scattered notebooks
+      and paperback books. He holds a pen poised over an open notebook, but his gaze
+      drifts toward the window. Afternoon light creates warm patches on the wooden
+      floor. A ukulele leans against the wall beside his desk.
+
+    text: |
+      Noah stared at the half-written story in his lap, but the words felt flat.
+      Outside his window, the same trees swayed in the same breeze as yesterday and
+      the day before. His pen tapped against the paper. He wrote about heroes and
+      adventures, but sitting here in his ordinary room, those stories felt like
+      wishes that would never come true.
+
+  - page: right
+    page_number: 6
+    focus: First hint of something different
+
+    visual: |
+      Noah's head turns sharply toward the window, eyes widening. At the edge of the
+      window frame, a single golden thread floats in the air, shimmering with soft
+      light that doesn't match the afternoon sun. His pen hovers forgotten above the
+      page. The thread pulses gently, as if breathing.
+
+    text: |
+      A flicker of gold caught his eye. Noah turned and saw something impossible: a
+      thread of light hovering just outside his window, thin as spider silk but
+      glowing like a tiny sun. It swayed without any breeze. His notebook slid from
+      his lap as he scrambled to his feet, heart suddenly pounding.

@@ -2,6 +2,7 @@
 
 id: no-06
 spread: 6
+node_type: solo
 beat: "Midpoint: new insight / pattern"
 
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
@@ -9,23 +10,38 @@ payoff: New approach is tried based on the insight from previous spread.
 
 description: After the dramatic approach fails, Noah stops and observes how the threads actually respond—not to words, but to honest feeling.
 
-visual: |
-  Noah sits on a moss-covered boulder in a quiet grove, finally still after all his
-  rushing and trying. His notebook lies closed beside him. Both his hands are resting
-  gently on his knees, palms up, in a receptive posture. He's watching with quiet
-  attention as a small golden thread hovers in the air about arm's length in front
-  of him, responding to something subtle—not to his words or actions, but to his
-  presence. His expression is calm and observant, a shift from his earlier frustration:
-  eyes soft but focused, a slight understanding dawning on his face. Around the grove,
-  multiple threads of the Heart-Loom are visible at different heights and angles.
-  The ones nearest to Noah glow a bit brighter, pulsing gently in rhythm with his
-  breathing, though he hasn't touched them. Further away, threads that are near
-  spots where he was previously frustrated (visible as scorch marks or wilted plants)
-  remain dim. The grove is peaceful: dappled light filtering through leaves, a small
-  stream trickling nearby, soft grass and moss underfoot. A deer with gentle eyes
-  stands at the grove's edge, also watching the threads, as if bearing witness to
-  Noah's realization. The overall mood is contemplative, a moment of genuine insight
-  after striving.
+scenes:
+  - page: left
+    page_number: 15
+    focus: Recognizing what doesn't work
 
-text: |
-  Noah noticed that the threads didn't glow when he was clever—only when he was honest. He began to understand what Kathaél needed.
+    visual: |
+      Noah sits on a moss-covered boulder in a quiet grove, finally still. His
+      notebook lies closed beside him, hands resting gently on his knees, palms up.
+      The theatrical diagram lies scattered and useless on the ground behind him.
+      Dappled light filters through leaves. His posture has shifted from frantic
+      effort to quiet observation.
+
+    text: |
+      The storyteller's grand gestures had accomplished nothing. The threads didn't
+      care about impressive plans or clever diagrams. Noah sat on a boulder, letting
+      his breathing slow for the first time since he'd arrived. The grove was quiet,
+      and he was tired of trying so hard. Maybe stopping was the answer.
+
+  - page: right
+    page_number: 16
+    focus: Discovering a new pattern
+
+    visual: |
+      A small golden thread hovers in the air before Noah, glowing brighter as he
+      watches it with soft, focused attention. The threads nearest to him pulse
+      gently in rhythm with his breathing. A deer with gentle eyes stands at the
+      grove's edge, bearing witness. Understanding dawns on Noah's face, his
+      expression calm and present.
+
+    text: |
+      The thread in front of him flickered. Noah held still, barely breathing.
+      When he stopped trying to impress it, the thread glowed brighter. When he
+      thought about how much he genuinely wanted to help, it pulsed warmly. His
+      chest loosened. The threads didn't respond to cleverness. They responded
+      to honesty.

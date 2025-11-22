@@ -1,41 +1,47 @@
 # Shared page: Elise and Noah - Spread 4
 # First Synchrony Node: Seeking guidance
 
-# Should match the filename
 id: el-no-04
-
-# See `templates/story-template.yaml` for documentation
 spread: 4
-
-# Story beat from template
+node_type: meeting
 beat: "Attempt #2 (ask the expert)"
 
-# Hook from template
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
-
-# Payoff from template
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-# Short description of the scene
 description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction.
 
-# Visual description - a single instant in time
-visual: |
-  A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
-  tree whose branches glow softly with golden threads from the Heart-Loom. Noah (12
-  years old, sandy blond hair, medium build) stands on the left path, one hand extended
-  toward a shimmering thread that hovers in the air at eye level, his expression
-  focused and curious. Elise (9 years old, slim, graceful) stands on the right path,
-  her head tilted as she observes a different glowing thread, her hand raised gently
-  as if about to touch it. Between them, the threads weave and intersect in midair,
-  creating a soft lattice of golden light. Both children are shown in profile, not
-  quite looking at each other but aware of each other's presence. The ground is soft
-  moss with small luminescent mushrooms dotting the edges of each path. Morning mist
-  rolls through the background forest. The willow's drooping branches frame the scene
-  like a natural archway, their leaves catching the golden glow. Small particles of
-  light drift through the air like fireflies. The atmosphere is hushed, reverent,
-  and filled with gentle magic.
+scenes:
+  - page: left
+    page_number: 11
+    focus: Seeking guidance
 
-# Page text - maximum 2 sentences
-text: |
-  At the crossroads, Noah and Elise each reached for a glowing thread. Without speaking, they felt the same pull forward—toward something just beyond what they could see.
+    visual: |
+      A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
+      whose branches glow with golden threads. Noah stands on the left path, one hand
+      extended toward a shimmering thread at eye level, expression focused and curious.
+      Morning mist rolls through the background forest. Luminescent mushrooms dot the
+      mossy ground.
+
+    text: |
+      Noah followed the threads to a crossroads beneath an ancient willow. Golden
+      light wove through its branches like a living tapestry. He reached toward one
+      thread, hoping it might show him where to go. The thread hummed warmly under
+      his fingers, but the path it suggested led into darkness.
+
+  - page: right
+    page_number: 12
+    focus: Receiving direction with warning
+
+    visual: |
+      Elise stands on the right path, head tilted as she observes a different glowing
+      thread, her hand raised gently. Between the two children, threads weave and
+      intersect in midair, creating a soft lattice of golden light. Both are shown
+      in profile, aware of each other's presence. Small particles of light drift
+      like fireflies.
+
+    text: |
+      Elise noticed the boy at the same moment he noticed her. They didn't speak,
+      but she saw him reaching for the threads just like she was. Something about
+      not being alone made the path ahead feel less frightening. The threads pulsed
+      brighter, as if pleased that two hearts were listening.

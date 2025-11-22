@@ -2,6 +2,7 @@
 
 id: no-02
 spread: 2
+node_type: solo
 beat: Inciting incident
 
 hook: The path forward runs out or becomes unclear, raising uncertainty.
@@ -9,21 +10,38 @@ payoff: The wider world opens up with multiple options and first plan emerges.
 
 description: Noah discovers a glowing thread that leads him into Kathaél, where he learns that stories are unraveling and need help.
 
-visual: |
-  Noah stands at the threshold between his ordinary world and Kathaél—one foot still
-  on the grass of his backyard, the other foot stepping onto soft, luminescent moss.
-  He's holding onto a golden thread that stretches from his hand forward into a forest
-  that shouldn't exist behind his house. His body is angled forward, leaning into
-  this new world, his free hand extended for balance. His expression shows a mixture
-  of surprise, excitement, and a hint of nervousness—eyebrows raised, mouth slightly
-  open. The golden thread he holds glows warmly and appears to be woven from light
-  itself. Behind him, his ordinary suburban backyard is visible but already beginning
-  to fade at the edges. Ahead of him, Kathaél manifests: trees with silver bark and
-  leaves that catch light like prisms, soft blue-grey mist rolling along the ground,
-  and more golden threads visible in the air like a web connecting everything. Small
-  luminescent flowers dot the moss. In the middle distance, a gentle creature—perhaps
-  a rabbit with unusually wise eyes—sits watching him, as if waiting to see if he'll
-  fully commit to entering.
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
 
-text: |
-  The golden thread led Noah through his backyard fence and into a world he'd only dreamed about. A soft voice whispered that something precious was coming undone, and he could help.
+    visual: |
+      Noah stands at the threshold between his backyard and a luminous forest,
+      gripping a golden thread that stretches forward. One foot rests on ordinary
+      grass, the other on glowing moss. Silver-barked trees rise ahead, with more
+      golden threads visible like a web connecting everything. His expression mixes
+      surprise and nervous excitement.
+
+    text: |
+      The golden thread led through his backyard fence and into a forest that
+      definitely was not supposed to be there. Noah's fingers tingled where he held
+      the thread, warm and almost alive. Trees with silver bark stood in soft
+      blue-grey mist, their leaves catching light like scattered diamonds. He took
+      one step forward, then another, unable to stop himself.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Noah kneels beside a stream where several golden threads float limply in the
+      water, their glow fading. A rabbit with unusually wise eyes sits on the bank,
+      watching him. The threads look frayed and broken, drifting apart like unraveling
+      yarn. Noah's brow furrows with concern as he reaches toward them.
+
+    text: |
+      By the stream, Noah saw what was wrong. Golden threads drifted loose and dull,
+      their light flickering like candles in wind. A rabbit with knowing eyes sat
+      nearby, and somehow Noah understood: these threads held stories together, and
+      something precious was coming undone. His chest tightened. He could walk away,
+      or he could try to help.

@@ -2,6 +2,7 @@
 
 id: el-03
 spread: 3
+node_type: solo
 beat: "Attempt #1 (simple/obvious)"
 
 hook: Simple solutions fail, prompting the question of who might have better answers.
@@ -9,24 +10,37 @@ payoff: A wise helper appears who offers new perspective or guidance.
 
 description: Elise tries to restore color by painting over the faded parts, but her ordinary paints can't reach what's truly wrong.
 
-visual: |
-  Elise kneels in a meadow in Kathaél, surrounded by flowers that have lost their
-  vibrancy—pale pink instead of rose, dull blue instead of sapphire. She holds a
-  small watercolor set in her left hand (which somehow came with her from her world)
-  and a paintbrush in her right. She's leaning forward, carefully trying to paint
-  color back onto a faded flower, her tongue poking out slightly in concentration.
-  But the paint she applies—though it's her best work, carefully done—sits on the
-  surface of the flower without sinking in, forming small beads like water on a leaf.
-  The flower remains pale beneath her efforts. Around her are several other flowers
-  she's already tried to paint, showing the same problem: ordinary paint can't
-  restore what's been lost. Her expression shows growing frustration and confusion—
-  brow furrowed, a slight frown. This isn't how things usually work when she draws.
-  The meadow extends around her with dozens more faded flowers and plants stretching
-  into the distance, an overwhelming task. The sky above is soft grey instead of the
-  vibrant colors it should be. A few golden threads from the Heart-Loom are visible
-  overhead, but they're thin and weak. Small forest creatures—rabbits, birds—watch
-  from the edges of the meadow with sympathetic but knowing eyes, as if they
-  understand that she needs to discover something deeper.
+scenes:
+  - page: left
+    page_number: 9
+    focus: Trying the obvious solution
 
-text: |
-  Elise painted as carefully as she could, but her colors wouldn't stick. She felt her stomach tighten with worry—what if she wasn't enough?
+    visual: |
+      Elise kneels in the meadow, holding her watercolor set in one hand and a
+      paintbrush in the other. She leans forward, carefully painting a faded flower,
+      her tongue poking out in concentration. Paint beads on the flower's surface
+      like water on wax, refusing to sink in. Several other painted flowers nearby
+      show the same failed attempts.
+
+    text: |
+      Elise opened her watercolor set. If colors were fading, she would paint them
+      back. She chose her best rose pink and touched her brush to a pale flower,
+      moving slowly, carefully. The paint sat on the petals like drops of water,
+      sliding off without leaving a trace. She tried again, pressing harder.
+
+  - page: right
+    page_number: 10
+    focus: Realizing it doesn't work
+
+    visual: |
+      Elise sits back on her heels, brush lowering to her side. Her brow furrows
+      with frustration and confusion. Around her, failed attempts mark several
+      flowers with paint that sits on their surfaces without sinking in. Rabbits
+      and birds watch from the meadow's edges with sympathetic, knowing eyes.
+
+    text: |
+      No matter how carefully she painted, the colors wouldn't stay. Elise's stomach
+      tightened with that familiar worry: what if she wasn't enough? The meadow
+      stretched endlessly around her, thousands of faded flowers waiting. Small
+      animals watched from the edges, their eyes gentle but offering no answers.
+      Maybe someone else knew what she was doing wrong.
