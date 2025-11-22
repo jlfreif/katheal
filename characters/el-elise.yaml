@@ -24,6 +24,9 @@ attributes:
     - Doing the right thing
     - Compassion
     - Developing inner strength
+    - Artistic exploration
+    - Helping others
+    - Precision and focus
 
   # Summarize the character's personality in 3-5 words or short phrases
   # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
@@ -48,6 +51,8 @@ attributes:
     - Gets anxious but pushes through
     - Shy pride when rewarded
     - Empathetic towards others
+    - Deep feeling
+    - Gets frustrated but persists
 
   # How does the character relate to others and the world around them?
   # Examples: Team-oriented, Prefers solitude, Competitive
@@ -56,6 +61,7 @@ attributes:
     - Gentle encourager
     - Observer who joins selectively
     - Noticing everything kind of kid
+    - Sometimes reserved, sometimes silly and playful
 
   # Signature habits, inside jokes, special belongings
   memorable_details:
@@ -69,6 +75,7 @@ attributes:
   visual_description:
     - 9 years old
     - Female
+    - Long brown hair and hazel eyes
     - Slim build
     - Medium height
     - Graceful movements
