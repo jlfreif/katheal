@@ -1,0 +1,94 @@
+# To view this character's complete story, run:
+#   python3 scripts/show_story.py el
+#
+# If you encounter any issues with page formatting or consistency, run:
+#   python3 scripts/validate_structure.py
+
+# Id is a two-letter code for the character
+id: el
+
+# What do we know about Elise as a character
+attributes:
+  # Name is the full name of the character
+  name: Elise
+
+  # Gender of the character
+  gender: female
+
+  # How old is the character
+  age: 9
+
+  # List top 3-5 values that motivate this character
+  # Examples: Adventure, Creativity, Justice, Family, Knowledge
+  core_values_motivations:
+    - Doing the right thing
+    - Compassion
+    - Developing inner strength
+
+  # Summarize the character's personality in 3-5 words or short phrases
+  # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
+  key_personality_traits:
+    - Observant and detail-oriented
+    - Imaginative daydreamer
+    - Quietly brave
+    - Gentle and nurturing
+    - Silly
+
+  # Activities or skills that reveal the character's interests and talents
+  # Examples: Painting, Coding, Hiking, Storytelling, Chess
+  # Note: Can inform interactive choices or story branching
+  hobbies_interests_skills:
+    - Drawing or painting
+    - Dancing
+
+  # How does this character usually respond to stress, challenge, or reward?
+  # Examples: Calm under pressure, Quick to frustration, Reflective and empathetic
+  # Note: Useful for scripting dialogue, choices, or character arcs
+  emotional_profile_typical_reactions:
+    - Gets anxious but pushes through
+    - Shy pride when rewarded
+    - Empathetic towards others
+
+  # How does the character relate to others and the world around them?
+  # Examples: Team-oriented, Prefers solitude, Competitive
+  # Note: Can shape interactions, alliances, and story outcomes
+  social_context_relationships:
+    - Gentle encourager
+    - Observer who joins selectively
+    - Noticing everything kind of kid
+
+  # Signature habits, inside jokes, special belongings
+  memorable_details:
+    - Sings to herself
+    - Creates dances in front of the mirror
+    - Likes bathroom humor
+    - Likes to cuddle
+
+  # This will be sent to the prompting system.
+  # The description should include the age of the character
+  visual_description:
+    - 9 years old
+    - Female
+    - Slim build
+    - Medium height
+    - Graceful movements
+    - Gentle and calm presence
+
+# Storybook Pages (ordered list)
+# Initially this list is empty when we create the character
+# But more will get added as we follow the story creation steps
+# (see Readme.md).
+# NOTE: Pages should be shown without path `el-01.yaml` rather than `pages/el-01.yaml`
+story:
+  - el-01.yaml
+  - el-02.yaml
+  - el-03.yaml
+  - el-no-04.yaml
+  - el-05.yaml
+  - el-06.yaml
+  - el-no-07.yaml
+  - el-08.yaml
+  - el-no-09.yaml
+  - el-10.yaml
+  - el-11.yaml
+  - el-12.yaml

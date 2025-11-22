@@ -1,0 +1,31 @@
+# Noah - Spread 5: Bigger World
+
+id: no-05
+spread: 5
+beat: "Attempt #3 (bigger world / stakes up)"
+
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
+
+description: Noah ventures deeper into Kathaél and meets a flashy storyteller who promises an easy fix, but the advice leads him astray.
+
+visual: |
+  Noah stands in a clearing where the forest opens up to reveal a much wider view of
+  Kathaél—rolling hills of luminescent meadows, distant mountains with peaks that
+  shimmer, and the sky showing both twilight stars and hints of dawn simultaneously.
+  In the center of the clearing stands a flamboyant figure: a tall, theatrical
+  storyteller wearing a patched coat covered in ribbons and trinkets, gesturing
+  dramatically with both arms spread wide. The storyteller has an oversized smile
+  and is mid-speech, clearly promising something grand. Noah stands facing them,
+  his notebook clutched to his chest, his expression showing both hope and uncertainty—
+  he wants to believe but something feels off. Between them on the ground is an
+  elaborate diagram the storyteller has drawn in the dirt with a stick: a complex
+  pattern of circles and lines that looks impressive but makes no practical sense.
+  Around the clearing's perimeter, various golden threads from the Heart-Loom hang
+  visibly in the air, some frayed, some glowing strong. Small forest creatures peek
+  from behind trees and bushes, watching the scene with what appears to be skepticism.
+  The light in the clearing has a slightly garish quality, as if the storyteller's
+  presence makes everything a bit too bright, too showy.
+
+text: |
+  The storyteller promised Noah that grand gestures and dramatic words could fix anything. Noah wanted to believe, even though something felt wrong.
