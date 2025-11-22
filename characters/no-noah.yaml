@@ -108,7 +108,7 @@ attributes:
   #       Resting, eating, or asking for a cuddle when you need it.
   #   15. Courage to Let Go
   #       Saying goodbye to something (or someone) who's moving on — even if it makes your heart ache.
-  courage_theme: Courage to Keep Going After a Mistake
+  courage_theme: Courage to Imagine Something Better
 
 story:
   - no-01.yaml
