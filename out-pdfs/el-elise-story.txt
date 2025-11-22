@@ -1,0 +1,641 @@
+# Elise's Story
+
+## Story
+
+### Page el-01.yaml
+
+#### Description
+
+Elise draws quietly in her room, noticing that one of her drawings seems to shimmer with a light that doesn't come from her lamp.
+
+#### Visual
+
+Elise (9 years old, slim build, medium height, graceful, gentle presence) sits at
+a small desk by her window, hunched slightly forward over a drawing she's creating.
+Her right hand holds a colored pencil—a golden yellow—hovering just above the
+paper as she concentrates. Her left hand rests gently on the edge of the paper to
+steady it. Several other colored pencils are scattered on the desk, along with an
+open box of art supplies. Her expression is peaceful and absorbed, showing the
+quiet focus of someone lost in creative flow. The drawing visible on her paper
+shows a forest scene with trees, flowers, and what appears to be a path leading
+somewhere mysterious. Afternoon light comes through the window, but there's
+something unusual: one small section of her drawing—a flower she just finished—
+actually glows with a soft golden light that doesn't match the ordinary lamp light.
+She's just beginning to notice this, her head tilting slightly, eyes widening with
+curiosity but not fear. Her room is cozy and slightly messy in a creative way:
+more drawings pinned to the wall, a dance outfit draped over a chair, stuffed
+animals on the bed. The glowing flower on her paper seems to pulse very gently, as
+if breathing.
+
+#### Text
+
+Elise loved drawing quiet places where magic might hide. Today, one of her drawings started to glow, as if it wanted to become real.
+
+### Page el-02.yaml
+
+#### Description
+
+Elise touches the glowing drawing and finds herself pulled into Kathaél, where colors are fading and need someone who truly sees.
+
+#### Visual
+
+Elise is suspended in a moment between worlds—her bedroom and Kathaél existing
+simultaneously in the same space. She's standing now, having risen from her desk,
+with her right hand extended forward, fingertips touching a shimmering portal where
+her drawing used to be. The paper has transformed into a doorway of light and
+color. Her body is angled forward, one foot lifted as if she's being gently pulled
+through, but her face shows wonder rather than fear—mouth softly open, eyes wide
+and bright. Through the portal, Kathaél is visible: a meadow where the colors are
+beautiful but noticeably faded, as if a watercolor painting has been left too long
+in the sun. Flowers that should be vibrant appear washed out. Trees that should
+glow with the Heart-Loom's light are dim. Behind her, her ordinary room is becoming
+translucent, fading like a memory. Her desk, her drawings, her lamp—all becoming
+ghostly and see-through. Golden threads from the Heart-Loom reach toward her from
+the Kathaél side, recognizing something in her. A small, luminescent butterfly—one
+of Kathaél's creatures—has already crossed over and rests on her shoulder, as if
+guiding her forward. The light has a dreamlike quality, soft and inviting.
+
+#### Text
+
+When Elise touched the drawing, she felt herself being pulled in—not roughly, but like a gentle invitation. A world waited that needed someone who noticed when colors dimmed.
+
+### Page el-03.yaml
+
+#### Description
+
+Elise tries to restore color by painting over the faded parts, but her ordinary paints can't reach what's truly wrong.
+
+#### Visual
+
+Elise kneels in a meadow in Kathaél, surrounded by flowers that have lost their
+vibrancy—pale pink instead of rose, dull blue instead of sapphire. She holds a
+small watercolor set in her left hand (which somehow came with her from her world)
+and a paintbrush in her right. She's leaning forward, carefully trying to paint
+color back onto a faded flower, her tongue poking out slightly in concentration.
+But the paint she applies—though it's her best work, carefully done—sits on the
+surface of the flower without sinking in, forming small beads like water on a leaf.
+The flower remains pale beneath her efforts. Around her are several other flowers
+she's already tried to paint, showing the same problem: ordinary paint can't
+restore what's been lost. Her expression shows growing frustration and confusion—
+brow furrowed, a slight frown. This isn't how things usually work when she draws.
+The meadow extends around her with dozens more faded flowers and plants stretching
+into the distance, an overwhelming task. The sky above is soft grey instead of the
+vibrant colors it should be. A few golden threads from the Heart-Loom are visible
+overhead, but they're thin and weak. Small forest creatures—rabbits, birds—watch
+from the edges of the meadow with sympathetic but knowing eyes, as if they
+understand that she needs to discover something deeper.
+
+#### Text
+
+Elise painted as carefully as she could, but her colors wouldn't stick. She felt her stomach tighten with worry—what if she wasn't enough?
+
+### Page el-no-04.yaml (joint with NO)
+
+#### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction.
+
+#### Visual
+
+A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
+tree whose branches glow softly with golden threads from the Heart-Loom. Noah (12
+years old, sandy blond hair, medium build) stands on the left path, one hand extended
+toward a shimmering thread that hovers in the air at eye level, his expression
+focused and curious. Elise (9 years old, slim, graceful) stands on the right path,
+her head tilted as she observes a different glowing thread, her hand raised gently
+as if about to touch it. Between them, the threads weave and intersect in midair,
+creating a soft lattice of golden light. Both children are shown in profile, not
+quite looking at each other but aware of each other's presence. The ground is soft
+moss with small luminescent mushrooms dotting the edges of each path. Morning mist
+rolls through the background forest. The willow's drooping branches frame the scene
+like a natural archway, their leaves catching the golden glow. Small particles of
+light drift through the air like fireflies. The atmosphere is hushed, reverent,
+and filled with gentle magic.
+
+#### Text
+
+At the crossroads, Noah and Elise each reached for a glowing thread. Without speaking, they felt the same pull forward—toward something just beyond what they could see.
+
+### Page el-05.yaml
+
+#### Description
+
+Elise meets a dazzling artist-spirit who insists that bold, loud colors are the answer, but the approach feels wrong to her gentle nature.
+
+#### Visual
+
+Elise stands in a circular plaza in Kathaél where the fading is more severe—trees
+that should shimmer with life are nearly grey, the ground that should glow softly
+is dull. Facing her is a striking, dramatic figure: an artist-spirit draped in
+swirling scarves of clashing, oversaturated colors—electric purple, harsh orange,
+screaming pink. This spirit gestures wildly with both arms, holding giant brushes
+that drip with garish paint. Behind the spirit, several trees and plants have been
+"restored" with these loud colors, but they look wrong—forced and artificial rather
+than natural and alive. The colors clash with Kathaél's gentle aesthetic. Elise
+stands with her watercolor set clutched to her chest, her posture showing
+hesitation and discomfort. She's taking a small step backward, one hand raised
+slightly as if to say "wait." Her expression shows polite uncertainty—she doesn't
+want to be rude, but something about this feels very wrong. Around them, various
+creatures of Kathaél have fled or are hiding, clearly disturbed by the loud colors.
+The plaza should be a place of beauty and harmony, but the artist-spirit's work
+has made it jarring and uncomfortable. Golden threads of the Heart-Loom that pass
+near the garish colors actually dim further, as if recoiling. Elise's gentle,
+observant nature is picking up on all these details, creating internal conflict
+between wanting help and trusting her own instincts.
+
+#### Text
+
+The spirit painted everything in bright, shouty colors that made Elise's eyes hurt. It looked impressive, but it didn't feel like the Kathaél she'd glimpsed—gentle and glowing.
+
+### Page el-06.yaml
+
+#### Description
+
+Elise sits quietly and notices that colors return not through force, but through patient attention and caring presence.
+
+#### Visual
+
+Elise sits cross-legged on soft moss in a small clearing, having left behind the
+loud artist-spirit. Her watercolor set rests open beside her, but she's not using
+it. Instead, both her hands are cupped gently around a single faded flower—a small
+bloom that's barely more than grey. She's not painting it or doing anything to it,
+just holding space around it with tender attention, the way she might hold a small
+injured bird. Her head is bowed slightly, looking down at the flower with soft
+focus, and her expression is peaceful and nurturing—the gentle, empathetic part of
+her nature fully present. As she holds this space, something remarkable is
+happening: the flower is very slowly regaining color, starting from its center and
+bleeding outward in subtle gradations—from grey to pale lavender to soft purple.
+It's responding not to paint or force, but to her caring attention. Around the
+clearing, a few golden threads from the Heart-Loom drift closer, drawn to this
+gentle approach, beginning to glow more brightly. Small particles of light—like
+luminescent pollen—drift in the air around her. A rabbit sits nearby, watching
+with approval. The light in the clearing is soft dawn light, and the atmosphere is
+hushed and reverent. This is a moment of genuine understanding: she's discovered
+that Kathaél responds to compassion and presence, not assertion.
+
+#### Text
+
+When Elise stopped trying to fix and just paid attention, something shifted. The flower remembered its color, petal by petal, as if it just needed someone to witness it.
+
+### Page el-no-07.yaml (joint with NO)
+
+#### Description
+
+Noah and Elise meet again while both struggle at the edge of a vast chasm, each nearly giving up until they see the other persisting.
+
+#### Visual
+
+The edge of a misty ravine where a broken bridge of starlight stretches partway
+across before fading into nothing. Noah (12, sandy blond hair) kneels on the left
+side of the glowing bridge, both hands pressed against the translucent surface,
+looking down at where it ends abruptly in midair. His brow is furrowed with
+frustration and exhaustion. On the right side of the same bridge segment, Elise
+(9, slim, graceful) sits with her legs dangling over the edge, head bowed, arms
+wrapped around herself. Between them on the bridge surface, faint golden threads
+from the Heart-Loom pulse weakly, as if struggling to maintain form. The ravine
+below them is deep and filled with swirling blue-grey mist. On the far side—
+distant and hazy—the continuation of their respective paths glows faintly,
+tantalizingly out of reach. The sky above is twilight, caught between day and
+night. Small moths with luminescent wings circle around them. The overall mood
+is weary but not hopeless—both children are tired, but still present, still
+trying. They are positioned so each can see the other's determination in
+peripheral vision.
+
+#### Text
+
+Noah looked up and saw Elise still there, still trying. In that moment, neither felt quite so alone.
+
+### Page el-08.yaml
+
+#### Description
+
+Elise faces a vast garden where everything has faded to grey, and she doubts her small, gentle approach can make any difference.
+
+#### Visual
+
+Elise stands at the edge of an enormous garden that stretches to the horizon—
+thousands of flowers, bushes, and trees all drained of color, everything rendered
+in shades of grey and pale ash. She's stopped walking, standing very still, her
+arms wrapped around herself in a self-protective hug. Her head is bowed, chin
+tucked down, and her whole posture shows overwhelming discouragement. Her small
+watercolor set has fallen from her hands and lies on the ground beside her feet,
+its colors seeming pointless against this vast sea of grey. Her expression, visible
+in profile, shows tears on her cheeks—quiet crying, not dramatic, but the deep
+sadness of feeling too small for the task. The garden before her is beautiful in
+structure but heartbreaking in its colorlessness: elegant paths that wind through
+flowerbeds, graceful trees with perfect forms but no vibrancy, a fountain in the
+distance that flows with grey water. The sky above is overcast and heavy. Golden
+threads from the Heart-Loom cross above the garden, but they're so faint they're
+almost invisible, like spider webs barely catching the light. The scale of the
+fading is overwhelming—how could one gentle nine-year-old possibly restore all of
+this? In the near foreground, one small flower has retained a hint of color—perhaps
+from her earlier work—but she hasn't noticed it, focused as she is on the
+impossible vastness.
+
+#### Text
+
+Elise looked at all the grey and felt impossibly small. Her gentle way had helped a few flowers, but how could that ever be enough?
+
+### Page el-no-09.yaml (joint with NO)
+
+#### Description
+
+Noah and Elise witness each other making a brave choice at a moment of truth, each gaining courage from the other's decision.
+
+#### Visual
+
+A circular clearing in Kathaél where the Heart-Loom manifests most strongly—a
+space where dozens of golden threads spiral upward from the ground like a gentle
+tornado of light, weaving together above to form a radiant canopy. Noah (12,
+sandy blond hair, medium build) stands on the left side of the clearing, his
+right foot lifted mid-step toward the threads, his arms slightly extended forward,
+his face showing a mixture of determination and wonder. His eyes are open wide,
+catching the golden glow. Elise (9, slim, graceful, gentle presence) mirrors him
+on the right side, also stepping forward, her hands reaching out palms-up as if
+to receive something precious, her expression soft but resolute. They are moving
+toward the center simultaneously but from different angles—each on their own path,
+but their movements are synchronized. The golden threads respond to their movement,
+brightening and swirling more vibrantly. Around the clearing's perimeter, small
+forest creatures have gathered to watch: rabbits, foxes with luminous eyes, birds
+perched in low branches. The ground beneath the threads is covered in soft grass
+that glows faintly. The lighting is warm and hopeful, like dawn breaking. Between
+Noah and Elise, though they are focused on their own paths, there is a sense of
+shared presence—an invisible thread connecting their courage.
+
+#### Text
+
+As Noah stepped forward, he glimpsed Elise doing the same. Each drew strength from knowing another heart had chosen bravely.
+
+### Page el-10.yaml
+
+#### Description
+
+Elise reaches the Heart-Loom's center and faces the choice to offer her own gentle light, fearing it might not be bright enough.
+
+#### Visual
+
+Elise stands at the center of the Heart-Loom's nexus, in a vast space where
+hundreds of faded golden threads converge. Unlike Noah's dramatic stance, Elise
+stands quietly, her hands held at her sides but with palms facing outward, fingers
+slightly spread—an open, offering gesture. Her body is very still, but there's a
+tension in her shoulders and neck showing how much courage this is taking for her.
+Inside her chest, visible through a soft transparency, a light glows—her own inner
+light, gentle and warm like candlelight rather than a blazing sun. This light wants
+to extend outward into the Heart-Loom, but she's hesitating, afraid it's too small,
+too quiet to matter. Her expression shows fear and determination mingled together:
+eyes closed as if gathering courage, a slight trembling in her jaw, but her stance
+holding steady. Around her, the faded threads seem to lean toward her hopefully,
+as if they recognize what she carries. The space is vast and quiet, waiting without
+pressure. At her feet, her watercolor set lies open, its colors beginning to glow
+more brightly, responding to her inner light. Small creatures of Kathaél have
+gathered in a circle around her at a respectful distance—rabbits, foxes, birds,
+a deer—all bearing witness to this moment. The light in the nexus is dim, waiting
+for her choice. It's a threshold moment: she must believe her gentle light is
+enough, or turn away.
+
+#### Text
+
+Elise felt her light—small and gentle, like a candle, not a bonfire. She worried it wasn't enough, but the Heart-Loom waited as if it knew something she didn't.
+
+### Page el-11.yaml
+
+#### Description
+
+Elise releases her light into the Heart-Loom, and colors bloom across Kathaél in gentle, natural waves. She receives a token of her gift.
+
+#### Visual
+
+Elise stands in the same central nexus, but everything has transformed with gentle
+beauty. The hundreds of golden threads of the Heart-Loom now glow warmly,
+interwoven with soft colors that pulse and flow—watercolor washes of lavender,
+rose, sage, amber, sky blue—all moving through the tapestry like slow breathing.
+Elise's own light has extended from her heart into the web, not as a single bright
+thread but as a soft suffusion of color that touches everything. She stands with
+both hands raised to chest height, and resting across her palms is a gift from the
+Heart-Loom: a small, perfect paintbrush made of light and golden thread, its
+bristles shimmering with all the colors of Kathaél. Her expression is one of quiet
+wonder and shy joy—eyes wide and bright, a soft smile, a slight flush in her
+cheeks. She looks both surprised and deeply validated. Around her, the clearing
+and forest beyond have fully regained their colors—not loud or harsh, but gentle
+and alive, the watercolor etherealism that defines Kathaél. Flowers bloom in soft
+hues, trees shimmer with subtle light, and the ground glows faintly. The creatures
+who witnessed her choice are now celebrating gently: the rabbit hops in a small
+circle, birds sing softly, the deer bows its head in acknowledgment. Particles of
+colored light drift through the air like blessings. In the distance, the path
+leading back toward her world is visible, lined with flowers in full color.
+
+#### Text
+
+Her small light spread through the Heart-Loom like watercolor on wet paper, and Kathaél remembered all its gentle colors. Elise received a brush of starlight—proof that noticing matters.
+
+### Page el-12.yaml
+
+#### Description
+
+Elise returns to her room and her drawing, but now she sees the light in everything she creates—knowing her gentle attention matters.
+
+#### Visual
+
+Elise sits at her small desk in the exact same position as the opening, creating
+a drawing, but everything is subtly transformed. She's drawing with focused joy,
+and the colored pencil in her hand—an ordinary colored pencil—now carries a faint
+shimmer as if remembering the magical paintbrush from Kathaél. The drawing she's
+working on shows a meadow full of flowers in gentle, beautiful colors, and every
+flower on the page glows very softly with its own light—not because the paper is
+magical, but because she now draws with the same patient attention she learned in
+Kathaél. Her expression is peaceful and content, a small smile on her face, her
+posture relaxed and confident in a way it wasn't before. The afternoon light
+through the window is the same, but now there are barely visible golden threads
+woven into the light itself, a permanent connection to the Heart-Loom. On the wall
+behind her, her other drawings have all begun to show this same subtle glow—as if
+they've always been connected to something real, and she's only now able to see it.
+Her watercolor set sits open on the desk, and one paintbrush—the one that
+corresponds to the gift from Kathaél—shimmers with golden light so subtle that
+anyone else would think it was just catching the sun. Her room is the same cozy
+space with the same creative mess, but everything feels more alive, more connected.
+Outside the window, an ordinary garden shows ordinary flowers, but one butterfly
+with faintly luminescent wings rests on the windowsill, watching her draw.
+
+#### Text
+
+Elise picked up her colored pencils and began to draw—noticing every color, every shadow, every small thing that mattered. She knew now that her gentle way of seeing was exactly enough.
+
+## Overlaps
+
+### Overlap with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Page no-03.yaml
+
+###### Description
+
+Noah tries to fix a broken story-thread by rewriting it with clever words, but the magic doesn't respond to cleverness alone.
+
+###### Visual
+
+Noah kneels beside a stream in Kathaél where a large golden thread has frayed and
+broken, its ends floating limply in the water. He holds his notebook open in his
+left hand and a pen in his right, writing furiously. Around him are several crumpled
+pages that he's tossed aside in frustration. He's leaning forward intently, trying
+to touch his pen to the broken thread as if writing could repair it, but the thread
+remains unresponsive—dull instead of glowing. His brow is furrowed in concentration
+and frustration. The stream flows gently around smooth stones, reflecting the soft
+light of Kathaél. On the bank beside him, a small pile of his attempted solutions:
+a paper with "The thread was strong again" written on it, another with "Once upon
+a time the thread was whole"—all crossed out. Forest surrounds the stream, with
+silver-barked trees and patches of luminescent mushrooms. A small fox with glowing
+eyes watches from behind a tree, looking sympathetic but not intervening. The
+broken thread drifts in the current, clearly needing something Noah hasn't figured
+out yet.
+
+###### Text
+
+Noah tried writing the thread back together with his best words and cleverest phrases. But the thread stayed broken, and he felt his frustration rising.
+
+#### Overlap page
+
+##### Page el-no-04.yaml (joint with NO)
+
+###### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction.
+
+###### Visual
+
+A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
+tree whose branches glow softly with golden threads from the Heart-Loom. Noah (12
+years old, sandy blond hair, medium build) stands on the left path, one hand extended
+toward a shimmering thread that hovers in the air at eye level, his expression
+focused and curious. Elise (9 years old, slim, graceful) stands on the right path,
+her head tilted as she observes a different glowing thread, her hand raised gently
+as if about to touch it. Between them, the threads weave and intersect in midair,
+creating a soft lattice of golden light. Both children are shown in profile, not
+quite looking at each other but aware of each other's presence. The ground is soft
+moss with small luminescent mushrooms dotting the edges of each path. Morning mist
+rolls through the background forest. The willow's drooping branches frame the scene
+like a natural archway, their leaves catching the golden glow. Small particles of
+light drift through the air like fireflies. The atmosphere is hushed, reverent,
+and filled with gentle magic.
+
+###### Text
+
+At the crossroads, Noah and Elise each reached for a glowing thread. Without speaking, they felt the same pull forward—toward something just beyond what they could see.
+
+#### After (from Noah's story)
+
+##### Page no-05.yaml
+
+###### Description
+
+Noah ventures deeper into Kathaél and meets a flashy storyteller who promises an easy fix, but the advice leads him astray.
+
+###### Visual
+
+Noah stands in a clearing where the forest opens up to reveal a much wider view of
+Kathaél—rolling hills of luminescent meadows, distant mountains with peaks that
+shimmer, and the sky showing both twilight stars and hints of dawn simultaneously.
+In the center of the clearing stands a flamboyant figure: a tall, theatrical
+storyteller wearing a patched coat covered in ribbons and trinkets, gesturing
+dramatically with both arms spread wide. The storyteller has an oversized smile
+and is mid-speech, clearly promising something grand. Noah stands facing them,
+his notebook clutched to his chest, his expression showing both hope and uncertainty—
+he wants to believe but something feels off. Between them on the ground is an
+elaborate diagram the storyteller has drawn in the dirt with a stick: a complex
+pattern of circles and lines that looks impressive but makes no practical sense.
+Around the clearing's perimeter, various golden threads from the Heart-Loom hang
+visibly in the air, some frayed, some glowing strong. Small forest creatures peek
+from behind trees and bushes, watching the scene with what appears to be skepticism.
+The light in the clearing has a slightly garish quality, as if the storyteller's
+presence makes everything a bit too bright, too showy.
+
+###### Text
+
+The storyteller promised Noah that grand gestures and dramatic words could fix anything. Noah wanted to believe, even though something felt wrong.
+
+### Overlap with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Page no-06.yaml
+
+###### Description
+
+After the dramatic approach fails, Noah stops and observes how the threads actually respond—not to words, but to honest feeling.
+
+###### Visual
+
+Noah sits on a moss-covered boulder in a quiet grove, finally still after all his
+rushing and trying. His notebook lies closed beside him. Both his hands are resting
+gently on his knees, palms up, in a receptive posture. He's watching with quiet
+attention as a small golden thread hovers in the air about arm's length in front
+of him, responding to something subtle—not to his words or actions, but to his
+presence. His expression is calm and observant, a shift from his earlier frustration:
+eyes soft but focused, a slight understanding dawning on his face. Around the grove,
+multiple threads of the Heart-Loom are visible at different heights and angles.
+The ones nearest to Noah glow a bit brighter, pulsing gently in rhythm with his
+breathing, though he hasn't touched them. Further away, threads that are near
+spots where he was previously frustrated (visible as scorch marks or wilted plants)
+remain dim. The grove is peaceful: dappled light filtering through leaves, a small
+stream trickling nearby, soft grass and moss underfoot. A deer with gentle eyes
+stands at the grove's edge, also watching the threads, as if bearing witness to
+Noah's realization. The overall mood is contemplative, a moment of genuine insight
+after striving.
+
+###### Text
+
+Noah noticed that the threads didn't glow when he was clever—only when he was honest. He began to understand what Kathaél needed.
+
+#### Overlap page
+
+##### Page el-no-07.yaml (joint with NO)
+
+###### Description
+
+Noah and Elise meet again while both struggle at the edge of a vast chasm, each nearly giving up until they see the other persisting.
+
+###### Visual
+
+The edge of a misty ravine where a broken bridge of starlight stretches partway
+across before fading into nothing. Noah (12, sandy blond hair) kneels on the left
+side of the glowing bridge, both hands pressed against the translucent surface,
+looking down at where it ends abruptly in midair. His brow is furrowed with
+frustration and exhaustion. On the right side of the same bridge segment, Elise
+(9, slim, graceful) sits with her legs dangling over the edge, head bowed, arms
+wrapped around herself. Between them on the bridge surface, faint golden threads
+from the Heart-Loom pulse weakly, as if struggling to maintain form. The ravine
+below them is deep and filled with swirling blue-grey mist. On the far side—
+distant and hazy—the continuation of their respective paths glows faintly,
+tantalizingly out of reach. The sky above is twilight, caught between day and
+night. Small moths with luminescent wings circle around them. The overall mood
+is weary but not hopeless—both children are tired, but still present, still
+trying. They are positioned so each can see the other's determination in
+peripheral vision.
+
+###### Text
+
+Noah looked up and saw Elise still there, still trying. In that moment, neither felt quite so alone.
+
+#### After (from Noah's story)
+
+##### Page no-08.yaml
+
+###### Description
+
+Noah faces a major tangle in the Heart-Loom and doubts whether he's actually helping or just making things worse.
+
+###### Visual
+
+Noah sits slumped against the base of an enormous ancient tree, his arms wrapped
+around his knees, head bowed down so his forehead rests on his arms. His sandy
+blond hair falls forward, hiding his face. His notebook lies on the ground beside
+him, pages fluttering in a gentle breeze, several pages torn out and scattered.
+Above and around him, the Heart-Loom threads form a massive, complicated tangle—
+dozens of golden strands twisted and knotted together, some glowing weakly, some
+barely visible, the whole structure sagging under its own weight. It's clearly
+worse than when he started, or at least seems that way. The light in this part of
+Kathaél is dimmer, more grey than golden, as if reflecting his emotional state.
+Rain is just beginning to fall—small drops visible in the air, darkening the bark
+of the tree. His ukulele lies beside him, one string broken. In the background,
+the path he's been following disappears into fog. The overall atmosphere is heavy,
+discouraged, lonely. A small bird sits on a low branch above him, silent, just
+present—not offering solutions, but witnessing his struggle.
+
+###### Text
+
+Noah felt like every choice made things worse. Maybe he wasn't the hero of this story after all.
+
+### Overlap with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Page no-08.yaml
+
+###### Description
+
+Noah faces a major tangle in the Heart-Loom and doubts whether he's actually helping or just making things worse.
+
+###### Visual
+
+Noah sits slumped against the base of an enormous ancient tree, his arms wrapped
+around his knees, head bowed down so his forehead rests on his arms. His sandy
+blond hair falls forward, hiding his face. His notebook lies on the ground beside
+him, pages fluttering in a gentle breeze, several pages torn out and scattered.
+Above and around him, the Heart-Loom threads form a massive, complicated tangle—
+dozens of golden strands twisted and knotted together, some glowing weakly, some
+barely visible, the whole structure sagging under its own weight. It's clearly
+worse than when he started, or at least seems that way. The light in this part of
+Kathaél is dimmer, more grey than golden, as if reflecting his emotional state.
+Rain is just beginning to fall—small drops visible in the air, darkening the bark
+of the tree. His ukulele lies beside him, one string broken. In the background,
+the path he's been following disappears into fog. The overall atmosphere is heavy,
+discouraged, lonely. A small bird sits on a low branch above him, silent, just
+present—not offering solutions, but witnessing his struggle.
+
+###### Text
+
+Noah felt like every choice made things worse. Maybe he wasn't the hero of this story after all.
+
+#### Overlap page
+
+##### Page el-no-09.yaml (joint with NO)
+
+###### Description
+
+Noah and Elise witness each other making a brave choice at a moment of truth, each gaining courage from the other's decision.
+
+###### Visual
+
+A circular clearing in Kathaél where the Heart-Loom manifests most strongly—a
+space where dozens of golden threads spiral upward from the ground like a gentle
+tornado of light, weaving together above to form a radiant canopy. Noah (12,
+sandy blond hair, medium build) stands on the left side of the clearing, his
+right foot lifted mid-step toward the threads, his arms slightly extended forward,
+his face showing a mixture of determination and wonder. His eyes are open wide,
+catching the golden glow. Elise (9, slim, graceful, gentle presence) mirrors him
+on the right side, also stepping forward, her hands reaching out palms-up as if
+to receive something precious, her expression soft but resolute. They are moving
+toward the center simultaneously but from different angles—each on their own path,
+but their movements are synchronized. The golden threads respond to their movement,
+brightening and swirling more vibrantly. Around the clearing's perimeter, small
+forest creatures have gathered to watch: rabbits, foxes with luminous eyes, birds
+perched in low branches. The ground beneath the threads is covered in soft grass
+that glows faintly. The lighting is warm and hopeful, like dawn breaking. Between
+Noah and Elise, though they are focused on their own paths, there is a sense of
+shared presence—an invisible thread connecting their courage.
+
+###### Text
+
+As Noah stepped forward, he glimpsed Elise doing the same. Each drew strength from knowing another heart had chosen bravely.
+
+#### After (from Noah's story)
+
+##### Page no-10.yaml
+
+###### Description
+
+Noah reaches the Heart-Loom's center and faces the choice to weave his own honest story into the tapestry, risking his true self.
+
+###### Visual
+
+Noah stands at the very center of the Heart-Loom's nexus—a space where hundreds
+of golden threads converge from all directions, creating a dome of light around
+him. He's standing with his arms partially extended, palms forward, fingers spread.
+His whole body is tense with the weight of this moment, leaning slightly forward
+as if about to step into something he can't take back. In his right hand, barely
+held, is a new thread that has emerged from his own heart—visible as a golden
+strand that connects from his chest outward. This thread is unique: it pulses with
+his own truth, containing all his frustration, creativity, longing, and the honest
+acknowledgment that he doesn't have all the answers. His expression shows fear and
+courage mixed together: eyes wide open, jaw set with determination, but a slight
+tremble visible. Around him, the existing threads of the Heart-Loom wait, neither
+demanding nor rejecting—simply ready to receive what he offers. The light is
+brilliant but not harsh, golden and warm. The air seems to hold its breath. Below
+him, the ground is barely visible, as if he's standing on the threads themselves,
+suspended in this moment of truth. His notebook lies open at his feet, its pages
+blank and ready, representing possibility.
+
+###### Text
+
+Noah held his thread—woven from every mistake, every doubt, every moment he'd felt small. The Heart-Loom waited for him to choose: hide, or be honest.
+
