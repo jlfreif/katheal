@@ -1,4 +1,6 @@
 # Noah - Spread 1: Opening
+# Emotional beat: FRUSTRATION → CURIOSITY
+# Stakes hint: The thread is fraying, suggesting urgency
 
 id: no-01
 spread: 1
@@ -8,7 +10,7 @@ beat: Ordinary world + desire hint
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah sits surrounded by crossed-out stories, endlessly revising endings that never feel right, until a golden thread offers something new.
+description: Noah sits surrounded by crossed-out stories, frustrated that nothing feels right, until a golden thread appears with an urgent shimmer.
 
 scenes:
   - page: left
@@ -16,29 +18,31 @@ scenes:
     focus: Character in their ordinary world
 
     visual: |
-      Noah sits cross-legged on his bedroom floor, surrounded by crumpled papers
-      and notebooks filled with crossed-out lines. He holds a pen poised over yet
-      another ending, brow furrowed in frustration. Three different drafts of the
-      same story lie open around him. A ukulele leans forgotten against the wall.
+      Noah sits cross-legged on his bedroom floor, surrounded by crumpled papers.
+      His notebook shows crossed-out lines and margin notes. He holds a pen above
+      another failed ending, brow furrowed. A ukulele leans forgotten against
+      his wall. Late afternoon light streams through his window.
 
     text: |
-      Noah crossed out another ending. Too predictable. He tried again: "And then
-      they lived—" No. Too easy. He'd rewritten this story eleven times, and nothing
-      felt right. Every ending he wrote seemed to close something that wanted to
-      stay open. His pen hovered, stuck between words.
+      "And they lived happily..." Noah scratched out the words. Too easy.
+      He flipped to a fresh page and tried again. "The hero discovered..."
+      No. Still wrong. He groaned and tossed the notebook aside. "Why can't
+      I just finish one story?" Every ending he wrote felt like a door
+      slamming shut on something that wanted to stay open.
 
   - page: right
     page_number: 6
     focus: First hint of something different
 
     visual: |
-      Noah's head lifts sharply, pen frozen mid-stroke. At his window, a single
-      golden thread floats in the air, its end trailing off into nothing—unfinished,
-      like a sentence without a period. The thread pulses gently, as if waiting for
-      something. His notebook lies forgotten in his lap.
+      Noah's head snaps up toward his window. A single golden thread floats
+      in the air, its end frayed and flickering like a candle about to die.
+      The thread pulses urgently, trailing off into nothing. His notebook
+      lies forgotten on the floor beside him.
 
     text: |
-      A shimmer caught his eye. Noah turned and saw a thread of golden light
-      hovering by his window, thin and bright. But the strange thing was its end:
-      it just stopped, trailing into nothing, like a story interrupted mid-word.
-      His heart beat faster. Something unfinished was calling to him.
+      A shimmer caught his eye. At the window, a thread of golden light
+      hovered, thin and bright. But something was wrong with it. The end
+      flickered weakly, fraying like a rope about to snap. "That's not
+      supposed to happen," Noah whispered. He reached toward it, and the
+      thread pulsed warmer, as if calling for help.

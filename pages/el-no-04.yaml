@@ -1,5 +1,7 @@
 # Shared page: Elise and Noah - Spread 4
-# Meeting Node: Seeking guidance at the crossroads
+# Meeting Node: First Synchrony Node - CURIOSITY + PARALLEL JOURNEYS
+# Emotional beat: LONELINESS → CONNECTION
+# Stakes reinforced: Heart-Loom unraveling; neither can fix it alone
 
 id: el-no-04
 spread: 4
@@ -9,7 +11,7 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction after their first attempts failed.
+description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, discovering they're both trying to help and neither has all the answers.
 
 scenes:
   - page: left
@@ -17,29 +19,31 @@ scenes:
     focus: Seeking guidance
 
     visual: |
-      A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
-      whose branches glow with golden threads. Noah stands on the left path, notebook
-      tucked under his arm, one hand extended toward a shimmering thread. His expression
-      shows frustration mixed with hope. Unfinished story-threads hang frozen nearby.
+      A crossroads beneath an ancient willow where forest paths meet. Golden threads
+      weave through the branches, some frayed and flickering. Noah stands on the left
+      path, notebook tucked under his arm, reaching toward a thread. In the distance,
+      the Heart-Loom pulses weakly, more threads drifting loose.
 
     text: |
-      Noah's perfect endings hadn't worked. He followed the threads to a crossroads
-      beneath an ancient willow, hoping someone here might know what he was missing.
-      Golden light wove through the branches. He reached toward one thread, and it
-      hummed warmly—but the path it suggested led deeper into unfamiliar territory.
+      "I've tried everything." Noah followed the threads to a crossroads beneath
+      an ancient willow, hoping someone here might know what he was missing. The
+      Heart-Loom glowed through the trees, dimmer than before, more threads
+      unraveling. He reached toward one, and it hummed warmly. But the path it
+      suggested led deeper into unfamiliar territory.
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
 
     visual: |
-      Elise stands on the right path, head tilted as she observes a different glowing
-      thread, her watercolor set hanging from her wrist. Between the two children,
-      threads weave and intersect in midair, creating a soft lattice of golden light.
-      Both are shown in profile, aware of each other's presence.
+      Elise stands on the right path, watercolor set at her wrist, observing a
+      different thread. Between the children, threads weave and intersect, creating
+      a lattice of golden light. Both turn toward each other, curious. The willow's
+      branches glow brighter where their paths nearly touch.
 
     text: |
-      Elise noticed the boy at the same moment he noticed her. They didn't speak,
-      but she saw him reaching for the threads just like she was—someone else who
-      didn't have all the answers. Something about not being alone made the path
-      ahead feel less frightening. The threads pulsed brighter, as if pleased.
+      Noah spotted her at the same moment she spotted him. A girl with paint-stained
+      fingers, reaching for the threads just like he was. "Are you trying to help
+      them too?" he called. She nodded. "They keep rejecting everything I try."
+      "Same." Something warm spread through his chest. He wasn't alone in this.
+      The threads between them pulsed brighter, as if recognizing something.

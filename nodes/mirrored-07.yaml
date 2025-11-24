@@ -1,4 +1,5 @@
 # Mirrored Node: Spread 7
+# SYNCHRONY NODE 2: SHARED DIFFICULTY + PERSISTENCE
 # Noah and Elise face parallel challenges in different locations
 
 id: mirrored-07
@@ -7,17 +8,35 @@ node_type: mirrored
 
 beat: "Rising stakes: almost works"
 
+# Synchrony Arc Position
+synchrony_position: 2
+synchrony_theme: SHARED DIFFICULTY + PERSISTENCE
+synchrony_purpose: |
+  Characters face similar struggles apart. The lantern motif shows their
+  parallel challenges. Encouragement comes from knowing others persist.
+
 shared_theme_key: almost_success
 theme_description: |
   Both characters are close to breakthrough but something holds them back.
   Noah keeps trying to perfect his approach, unable to let go of control.
   Elise's gentle method is working, but the scale overwhelms her.
-  A flickering lantern appears in both scenes, responding to their struggles.
+  A flickering lantern appears in both scenes, responding to trust and honesty.
+
+emotional_beat:
+  noah: PROGRESS → SELF-FRUSTRATION
+  elise: HOPE → OVERWHELM
+  connection: Both characters wonder if the other (from the crossroads) is struggling too
 
 symbolic_motif:
   name: flickering_lantern
-  description: A lantern whose flame wavers between bright and dim
-  meaning: Progress is close but incomplete; trust in the process wavers
+  description: A lantern whose flame responds to honesty and trust
+  meaning: |
+    The lantern embodies the Honesty Rule: it burns bright when characters
+    are present without trying to control, dims when they force or doubt.
+  visual_details:
+    - Flame steadies with trust, sputters with control
+    - Brightness correlates to emotional honesty
+    - Both characters see the same type of lantern in their scenes
 
 scenario_variants:
   - character_code: el
@@ -29,35 +48,43 @@ scenario_variants:
       A lantern hangs from a crooked post, its flame flickering as Elise
       works. When she focuses on one flower with full attention, the flame
       steadies. When she looks at the endless grey, it wavers.
+    callback_hint: She wonders if the boy she met at the crossroads is having better luck.
 
   - character_code: no
-    location: A grove where story-threads hang frozen in tangled clusters
+    location: A grove where story-threads hang frozen, some slowly completing
     challenge_description: |
-      Noah has learned to let stories complete themselves, but he keeps
-      interfering at the last moment, unable to trust the endings will be good enough.
+      Noah has learned that stories complete themselves when he's present
+      without controlling. But he keeps interfering at the last moment,
+      unable to fully trust the endings will be good enough.
     motif_manifestation: |
       A lantern rests on a stone nearby, its flame responding to his choices.
       When he steps back and trusts, it burns steady. When he reaches to
       revise, it sputters and dims.
+    callback_hint: He hopes the girl at the crossroads is figuring things out too.
 
 spread_alignment: 7
 
 world_connection: |
-  This mirrored moment reflects Kathaél's truth: progress requires patience
+  This mirrored moment reflects the Presence Rule: progress requires patience
   and trust. Both children are learning that being "almost there" means
   continuing to trust their approach, not abandoning it for quick fixes.
+  The lantern responds to their internal state, making the Honesty Rule visible.
 
 scene_templates:
   left_page:
     focus: Making progress toward goal
+    emotional_beat: Hope as new approach shows promise
     must_include:
       - Character using their learned approach
-      - Signs of success
-      - First glimpse of the lantern motif
+      - Signs of success (threads completing / flowers brightening)
+      - Lantern burning steady
+      - Reference to the other character from crossroads
 
   right_page:
     focus: Realizing something is missing
+    emotional_beat: Frustration as old patterns resurface
     must_include:
-      - Obstacle or doubt emerges
-      - Almost-success turns to frustration
-      - Lantern flame responds to their state
+      - Old habit reasserts itself (control / overwhelm)
+      - Almost-success turns to self-frustration
+      - Lantern flame responds by dimming
+      - Character questions why they keep doing this

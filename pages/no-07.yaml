@@ -1,4 +1,8 @@
 # Noah - Spread 7: Rising Stakes (Mirrored Node)
+# Synchrony Node 2: SHARED DIFFICULTY + PERSISTENCE
+# Emotional beat: PROGRESS → SELF-FRUSTRATION
+# Symbolic motif: Lantern responds to trust/honesty
+# Connection hint: Noah senses he's not alone in struggling
 
 id: no-07
 spread: 7
@@ -9,7 +13,7 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah has learned to let stories complete themselves, but keeps interfering at the last moment, unable to fully trust.
+description: Noah's new approach works, but he keeps interfering at the last moment, unable to fully trust. Somewhere, he senses others are struggling too.
 
 scenes:
   - page: left
@@ -17,30 +21,31 @@ scenes:
     focus: Making progress toward goal
 
     visual: |
-      Noah stands before a golden story-thread that is slowly writing itself,
-      words forming in soft light. His hands hover nearby, fingers twitching
-      with the urge to help. A lantern rests on a stone beside him, its flame
-      burning steady. Several completed threads glow behind him, proof his
-      new approach works.
+      Noah stands before a golden thread slowly writing itself, words forming
+      in soft light. His hands hover nearby, fingers twitching. A lantern burns
+      steady on a stone beside him. Behind him, several completed threads glow,
+      proof his new approach works when he lets it.
 
     text: |
-      The story was writing itself, just like he'd learned. Words appeared
-      one by one: "The traveler found the path and—" Noah watched, hands
-      hovering, the lantern beside him burning steady. It was working. He
-      just had to wait. Just had to trust.
+      "The traveler found the path and..." Words appeared one by one, the story
+      writing itself. Noah's hands hovered, itching to help. "Come on, come on."
+      The lantern beside him burned steady, as if saying: trust this. He
+      wondered if the girl at the crossroads was figuring things out too.
+      He hoped she wasn't alone.
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
 
     visual: |
-      Noah's hand has reached toward the thread, pen appearing in his grip.
-      The story-thread has frozen mid-word, rejecting his interference. The
-      lantern flame sputters and dims. His expression shows frustration with
-      himself. He couldn't help it—he had to try to make the ending better.
+      Noah's hand has reached toward the thread, pen in his grip. The story-thread
+      freezes mid-word, rejecting his interference. The lantern flame sputters
+      and dims. His expression shows frustration with himself. The glow around
+      the thread fades dangerously.
 
     text: |
-      But the ending wasn't coming fast enough. Noah's hand shot out before
-      he could stop himself, pen appearing: "—and found exactly what he needed."
-      The thread froze. The lantern flickered and dimmed. He'd done it again.
-      He couldn't stop trying to control everything, even when he knew better.
+      But the ending was taking too long. Before he could stop himself, Noah's
+      hand shot out: "...and found exactly what he needed." The thread froze.
+      The lantern flickered and dimmed. "No! Why do I keep doing this?" He
+      knew better. He knew presence mattered more than perfection. But
+      trusting felt so much harder than controlling.
