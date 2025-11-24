@@ -1,4 +1,7 @@
 # Noah - Spread 3: First Attempt
+# Emotional beat: CONFIDENCE → CONFUSION
+# Escalation: Noah's usual approach fails completely
+# World rule hint: Stories reject forced endings
 
 id: no-03
 spread: 3
@@ -8,7 +11,7 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah tries to write perfect endings for the stuck stories, but they reject his carefully crafted conclusions.
+description: Noah confidently tries to write perfect endings for the stuck stories, but they reject every carefully crafted conclusion he offers.
 
 scenes:
   - page: left
@@ -17,28 +20,30 @@ scenes:
 
     visual: |
       Noah kneels beside a floating thread, notebook open, pen moving confidently.
-      He writes an ending in the air beside the frozen words. The letters glow
-      briefly, then dissolve like smoke. Around him, crumpled attempts litter the
-      mossy ground. His expression shows determined concentration.
+      Glowing letters appear in the air beside the frozen story-words. The thread
+      flickers, rejecting his ending, scattering his words like sparks. More failed
+      attempts litter the mossy ground around him.
 
     text: |
-      Noah pulled out his notebook. "She reached for the door and found her
-      brother waiting with a smile." He wrote the ending in glowing letters.
-      Perfect. Satisfying. The thread flickered—then rejected his words, scattering
-      them like leaves. He tried again, crafting a twist ending. Same result.
+      "Okay, this is what I do." Noah knelt beside the frozen story and uncapped
+      his pen. "She reached for the door and found her brother waiting." He wrote
+      the words in the air, watching them glow. "Perfect ending. Satisfying.
+      Complete." The thread flickered once, then scattered his words like sparks.
+      "What? That was good!"
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
 
     visual: |
-      Noah sits back against a tree trunk, surrounded by failed endings that
-      shimmer and fade around him. His notebook lies open on his lap, filled with
-      crossed-out attempts. The frozen story-thread still hangs incomplete nearby.
-      A fox watches from the underbrush with sympathetic eyes.
+      Noah sits against a tree trunk, surrounded by fading letters from failed
+      endings. His notebook shows crossed-out attempts. The frozen story-thread
+      hangs incomplete nearby, unmoved. A fox with knowing eyes watches from
+      the underbrush.
 
     text: |
-      Every ending he wrote dissolved before it could stick. Noah slumped against
-      a tree, frustrated. His endings were good—he knew they were good. Why wouldn't
-      the stories accept them? A fox watched from nearby, its eyes seeming to say:
-      maybe good isn't the same as right. But what did that even mean?
+      Five more endings. Ten. Every single one dissolved. Noah slumped against
+      a tree, cheeks burning. "I don't get it. These are good endings." The fox
+      in the underbrush tilted its head, and somehow Noah heard the question:
+      Good for who? He opened his mouth to argue, then stopped. Maybe good
+      wasn't the same as right. But what made an ending right?

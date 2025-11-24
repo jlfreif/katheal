@@ -1,4 +1,8 @@
 # Noah - Spread 12: Resolution (Emotional)
+# Emotional beat: PEACE → HOPE/OPENNESS
+# Connection to Spread 1: Same position, transformed attitude
+# Theme crystallized: Courage to imagine something better means trusting the unknown
+# Callbacks: "Why can't I finish?" → Now comfortable with unfinished
 
 id: no-12
 spread: 12
@@ -8,7 +12,7 @@ beat: "Resolution (emotional) + series button"
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Noah returns to his room and starts a new story—leaving space for it to surprise him, trusting the ending will come.
+description: Noah returns to his room and starts a new story, comfortable with leaving space for it to surprise him.
 
 scenes:
   - page: left
@@ -16,29 +20,31 @@ scenes:
     focus: Returning to ordinary world
 
     visual: |
-      Noah sits cross-legged on his bedroom floor in the same position as the
-      opening, but the crumpled papers are gone. A fresh notebook lies open before
-      him. The blank page from Kathaél shimmers faintly beneath his ordinary paper.
-      His expression is peaceful, curious, open.
+      Noah sits cross-legged on his bedroom floor, same position as the opening.
+      But the crumpled papers are gone. A fresh notebook lies open before him. The
+      blank page from Kathaél shimmers faintly beneath his ordinary paper. His
+      expression is peaceful, curious, open. The ukulele still leans against the wall.
 
     text: |
       Noah's room looked the same: afternoon light, scattered books, ukulele against
-      the wall. But the crumpled papers were gone. He'd thrown them away. Now a
-      fresh notebook lay open, and beneath his ordinary paper, the glowing blank
-      page hummed with warmth. He picked up his pen.
+      the wall. But the crumpled papers were gone. "Why can't I finish one story?"
+      he'd asked before. Now he smiled at the question. A fresh notebook lay open,
+      the glowing page from Kathaél warm beneath his ordinary paper. He picked up
+      his pen.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
 
     visual: |
-      Noah writes in his notebook, but the visible sentence trails off mid-thought:
-      "She opened the door and—" with empty space after it. He's smiling slightly,
-      comfortable with the incompleteness. At the window's edge, a golden thread
-      shimmers. Outside, a bird watches with knowing eyes.
+      Noah writes in his notebook, sentence trailing off mid-thought: "She opened
+      the door and..." with empty space after it. He smiles slightly, comfortable
+      with the incompleteness. At the window's edge, a golden thread shimmers,
+      unfinished and bright. The bird from the forest watches with knowing eyes.
 
     text: |
-      "She opened the door and—" Noah stopped writing. Not because he was stuck,
-      but because he was curious. What would the story want to happen next? He
-      left space on the page, trusting the ending would come when it was ready.
-      Outside his window, a golden thread caught the light, unfinished and beautiful.
+      "She opened the door and..." Noah stopped writing. Not stuck. Curious. What
+      would the story want to happen next? He left space on the page and smiled.
+      Courage wasn't knowing how things ended. It was trusting they would. Outside
+      his window, a golden thread caught the light, unfinished and beautiful. Just
+      like all the best beginnings.

@@ -1,4 +1,8 @@
 # Noah - Spread 9: Inner Shift (Resonant Node)
+# Synchrony Node 3: MUTUAL BRAVERY + COMMITMENT + EMOTIONAL RESONANCE
+# Emotional beat: SURRENDER → CONNECTION/COURAGE
+# World rule: Courage creates connection; honesty ripples outward
+# Symbolic resonance: Golden thread shimmer connects distant hearts
 
 id: no-09
 spread: 9
@@ -9,7 +13,7 @@ beat: "Deepening choice / inner shift"
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Noah releases his need for control entirely, trusting stories to find their own endings—and feels an unexpected warmth ripple through him.
+description: Noah releases his need for control entirely, choosing to trust. His courage ripples through the Heart-Loom, and he feels someone else's bravery answering his own.
 
 scenes:
   - page: left
@@ -17,16 +21,17 @@ scenes:
     focus: Making the choice to continue
 
     visual: |
-      Noah sits in the grove of tangled stories, but his posture has changed.
-      His notebook lies closed on the ground beside him. His hands rest open
-      in his lap, palms up, empty of pen. His expression shows surrender that
-      is also peace. Around him, frozen story-threads wait.
+      Noah sits in the grove of tangled stories, posture changed. His notebook
+      lies closed on the ground. His hands rest open in his lap, palms up, empty.
+      His expression shows surrender that is also peace. The tangled threads
+      around him wait, still faintly glowing.
 
     text: |
-      Noah set his notebook down. Not put it away—set it down, gently, like
-      releasing something precious. His hands opened, empty. No pen. No plan.
-      Just trust. The stories had known their endings all along. They didn't
-      need him to write them. They needed him to believe they could.
+      Noah set his notebook down, gently, like releasing something precious.
+      "I can't force endings onto stories that aren't mine." His hands opened,
+      empty. No pen. No plan. Just honesty. The fox from earlier had been right.
+      The stories knew their own endings. They just needed someone brave enough
+      to let them find their way.
 
   - page: right
     page_number: 22
@@ -34,13 +39,13 @@ scenes:
 
     visual: |
       Golden threads shimmer into visibility around Noah, pulsing with soft
-      light that seems to connect him to something beyond the grove. His eyes
-      widen with wonder. The story-threads near him begin to tremble, then
-      slowly start writing themselves. Warmth suffuses the scene.
+      light connecting him to something beyond the grove. His eyes widen with
+      wonder. The tangled story-threads begin to unknot, slowly writing
+      themselves. Warmth suffuses the scene like sunrise.
 
     text: |
-      Golden light shimmered through the air, threads appearing from nowhere,
-      connecting everything. Noah felt warmth flood through him—like someone,
-      somewhere, was believing alongside him. The frozen stories trembled.
-      Then, one by one, they began to write themselves. He wasn't alone in
-      this.
+      Golden light shimmered through the air. Noah gasped as warmth flooded
+      through him, like someone far away was being brave at the same moment he
+      was. The girl at the crossroads? The threads around him trembled, then
+      began writing themselves, words blooming like flowers. "We're doing this
+      together," he whispered. "Even if we can't see each other."

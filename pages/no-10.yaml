@@ -1,4 +1,8 @@
 # Noah - Spread 10: Climax
+# Emotional beat: HESITATION → BRAVE RELEASE
+# Clear climax action: Noah must offer his unfinished story to the Heart-Loom
+# Theme culmination: Courage to imagine something better means trusting the unknown
+# Callbacks: All prior insights integrated
 
 id: no-10
 spread: 10
@@ -8,7 +12,7 @@ beat: "Climax: big action"
 hook: Threshold moment with hesitation about taking the final irreversible step.
 payoff: The choice works and goal is achieved, validating the journey.
 
-description: Noah reaches the Heart-Loom's center and must offer an unfinished story—trusting it to find its own ending.
+description: Noah reaches the Heart-Loom's center and must offer his own unfinished story, trusting it to find an ending he can't imagine yet.
 
 scenes:
   - page: left
@@ -16,29 +20,32 @@ scenes:
     focus: Facing the final challenge
 
     visual: |
-      Noah stands at the Heart-Loom's center, surrounded by converging threads of
-      light. In his hands, he holds his own story-thread, but it trails off into
-      nothing—unfinished, ending mid-sentence. His body is tense with the urge to
-      complete it, to control it. The threads around him wait.
+      Noah stands at the Heart-Loom's center, a vast tapestry of golden threads
+      surrounding him. In his hands, he holds his own story-thread, frayed and
+      unfinished. The tapestry pulses weakly, still unraveling. His body is tense,
+      hands trembling with the urge to write an ending.
 
     text: |
-      The Heart-Loom's center glowed around him, threads converging from everywhere.
-      Noah held his own thread, the story of this journey, and it ended mid-sentence:
-      "He learned that—" His hands itched to finish it, to write the perfect ending.
-      But that was the old way. The way that broke things.
+      The Heart-Loom surrounded him, vast and wounded, threads still unraveling.
+      Noah held his own story-thread, the one that had led him here. It ended
+      mid-sentence: "He learned that..." His hands trembled. Every part of him
+      wanted to finish it, to write the perfect ending. "But that's not courage,"
+      he whispered. "Courage is trusting something I can't control."
 
   - page: right
     page_number: 24
     focus: Taking decisive action
 
     visual: |
-      Noah releases his unfinished thread into the tapestry, arms open, palms empty.
-      His expression shows fear and trust mingled together. The thread floats toward
-      the pattern, still incomplete. Around him, golden light intensifies as the
-      tapestry reaches toward his offering.
+      Noah releases his unfinished thread into the tapestry, arms open, palms
+      empty. His face shows fear and trust mingled together. The thread floats
+      toward the pattern, still incomplete. Golden light intensifies as the
+      tapestry reaches toward his offering, beginning to mend.
 
     text: |
-      Noah opened his hands and let the unfinished thread go. No ending. No control.
-      Just trust that the story knew what it wanted to become. The thread floated
-      into the tapestry, and for one terrible moment, nothing happened. Then it
-      began to write itself, words blooming in golden light.
+      "I don't know how this ends." Noah opened his hands and let go. The
+      unfinished thread floated into the tapestry. For one terrible heartbeat,
+      nothing happened. Then words began writing themselves, an ending he never
+      would have imagined: "...that stories become real when someone is brave
+      enough to let them." The Heart-Loom blazed with light, threads weaving
+      together.

@@ -17,6 +17,59 @@ description: |
   time — a story-realm built around wonder, connection, and the quiet bravery of choosing what
   matters.
 
+# Heart-Loom: Core Magic System
+heart_loom:
+  purpose: |
+    The Heart-Loom is the living tapestry at Kathaél's center that holds all stories together.
+    When stories find their true endings, their threads weave into the Loom, strengthening the
+    realm. But when stories are forced, controlled, or abandoned, their threads fray and the
+    Loom begins to unravel.
+
+  stakes: |
+    If the Heart-Loom unravels completely, stories die forever. Not just in Kathaél, but
+    everywhere stories exist. The unfinished tales lose their chance to become what they
+    were meant to be.
+
+  rules:
+    - name: Honesty Rule
+      description: Story-threads respond to honest presence, not perfect answers. A story
+        knows when someone is genuinely trying to understand it versus forcing an ending.
+
+    - name: Presence Rule
+      description: Stories complete themselves when someone is present without trying to
+        control the outcome. The act of witnessing with trust is itself a form of help.
+
+    - name: Courage Rule
+      description: Courage creates connection. When one heart chooses bravely, ripples
+        spread through the Heart-Loom, strengthening others who are also being brave.
+
+    - name: Control Trap
+      description: Forcing endings onto stories makes them worse. Even well-intentioned
+        control tangles threads and dims their light. Stories reject what doesn't belong.
+
+# Synchrony Node Arc (for Noah and Elise's connection)
+synchrony_arc:
+  description: |
+    The three Narrative Nodes form a coherent mini-arc showing how connection deepens:
+
+  node_1_meeting:
+    spread: 4
+    theme: CURIOSITY + PARALLEL JOURNEYS
+    purpose: Characters discover they're not alone. First recognition that others are
+      trying to help too. Seeds of hope planted.
+
+  node_2_mirrored:
+    spread: 7
+    theme: SHARED DIFFICULTY + PERSISTENCE
+    purpose: Characters face similar struggles apart. The lantern motif shows their
+      parallel challenges. Encouragement comes from knowing others persist.
+
+  node_3_resonant:
+    spread: 9
+    theme: MUTUAL BRAVERY + EMOTIONAL RESONANCE
+    purpose: Characters' courage ripples across distance. Their brave choices strengthen
+      each other through the Heart-Loom. Deep connection without proximity.
+
 # What's the visual style?
 # How does this world look? What's the aesthetic, color palette, atmosphere?
 # This is used for prompting the visual system.

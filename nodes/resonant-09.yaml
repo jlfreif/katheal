@@ -1,5 +1,6 @@
 # Resonant Node: Spread 9
-# Noah and Elise's courage ripples across distance
+# SYNCHRONY NODE 3: MUTUAL BRAVERY + EMOTIONAL RESONANCE
+# Noah and Elise's courage ripples across distance through the Heart-Loom
 
 id: resonant-09
 spread: 9
@@ -7,13 +8,28 @@ node_type: resonant
 
 beat: "Deepening choice / inner shift"
 
+# Synchrony Arc Position
+synchrony_position: 3
+synchrony_theme: MUTUAL BRAVERY + COMMITMENT + EMOTIONAL RESONANCE
+synchrony_purpose: |
+  Characters' courage ripples across distance. Their brave choices strengthen
+  each other through the Heart-Loom. Deep connection without proximity.
+  This is the culmination of the synchrony arc: from curiosity (Node 1) through
+  shared difficulty (Node 2) to mutual bravery (Node 3).
+
 placement_rule:
   requirement: Must follow a moment of character growth
   verification: |
     At spread 8 (all-is-lost), both characters reached their emotional low.
-    Noah realized his need for control was making things worse.
+    Noah realized his need for control was making things worse, but also
+    that his presence had kept the stories from fading completely.
     Elise felt overwhelmed by the scale of what needed healing.
-    This resonant moment captures their choice to continue anyway.
+    This resonant moment captures their choice to be brave anyway.
+
+emotional_beat:
+  noah: SURRENDER → CONNECTION/COURAGE
+  elise: DESPAIR → DETERMINATION
+  shared: Both feel they're not alone; courage ripples strengthen each other
 
 emotional_state_packets:
   - character_code: el
@@ -25,16 +41,20 @@ emotional_state_packets:
       She straightens her shoulders, picks up her watercolor set, and chooses
       to continue—not because she can fix everything, but because each
       flower she helps is real.
+    callback: Remembers the fox's lesson about what matters most.
 
   - character_code: no
     emotional_state: surrendered trust
     trigger: |
       Noah saw that the ruined stories weren't destroyed—they were waiting.
       His control hadn't helped, but his presence had kept them from fading.
+      The fox had been right: good isn't the same as right.
     manifestation: |
       He sets down his notebook entirely, opens his hands, and chooses to
       trust the stories without trying to shape them. His surrender is
-      its own kind of courage.
+      its own kind of courage—the courage to imagine something better than
+      he could control.
+    callback: Integrates the fox's question (Spread 3) and his midpoint insight (Spread 6).
 
 ripple_effects:
   - source_character: el
@@ -42,7 +62,8 @@ ripple_effects:
     effect: |
       As Elise chooses to continue, Noah—far away in his tangled grove—
       feels an inexplicable warmth. The air around him brightens slightly.
-      A story-thread near him trembles, as if encouraged.
+      A story-thread near him trembles, as if encouraged. He thinks of the
+      girl at the crossroads.
 
   - source_character: no
     target_character: el
@@ -50,35 +71,45 @@ ripple_effects:
       As Noah releases his need for control, Elise—in her vast meadow—
       feels the weight on her shoulders lighten. The grey seems less
       oppressive. A flower nearby begins to glow without her touching it.
+      She senses she's not alone.
 
 symbolic_resonance:
   phenomenon: golden_thread_shimmer
   description: |
     The Heart-Loom's threads briefly shimmer into visibility across all of
-    Kathaél, connecting characters who are making brave choices.
+    Kathaél, connecting characters who are making brave choices. This is
+    the Courage Rule made visible: when one heart chooses bravely, ripples
+    spread through the Heart-Loom, strengthening others.
   manifestation_details:
     - Golden threads appear in the air, pulsing gently
     - Characters see the same shimmer though miles apart
     - The light carries a feeling of connection and hope
-    - It fades after a moment, leaving warmth behind
+    - Both characters sense the other's presence
+    - It fades after a moment, leaving warmth and renewed courage behind
 
 world_connection: |
-  This resonant moment embodies Kathaél's core truth: courage creates
-  connection. When one heart chooses bravely, the ripple strengthens
-  others. Neither child knows the other exists, but their choices
-  interweave in the Heart-Loom.
+  This resonant moment embodies the Courage Rule: courage creates connection.
+  When one heart chooses bravely, the ripple strengthens others who are also
+  being brave. Neither child can see the other, but their choices interweave
+  in the Heart-Loom. This is the payoff for meeting at the crossroads:
+  connection that transcends proximity.
 
 scene_templates:
   left_page:
     focus: Making the choice to continue
+    emotional_beat: Surrender that is also courage
     must_include:
       - Character at decision point after lowest moment
       - Internal shift from despair to determination
-      - Beginning of the choice
+      - Integration of prior insights (callbacks)
+      - Physical gesture of release or acceptance
 
   right_page:
     focus: Feeling the connection
+    emotional_beat: Wonder at not being alone
     must_include:
       - Golden thread shimmer appearing
       - Sense of unexplained warmth or encouragement
+      - Reference to the other character (the one from the crossroads)
       - Renewed energy to continue
+      - Evidence that their courage is working (threads unknotting / flowers glowing)
