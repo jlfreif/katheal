@@ -32,55 +32,38 @@ def create_prompt(scene_data):
     return "\n".join(prompt_parts)
 
 
-def generate_image_with_imagen(prompt, aspect_ratio="16:9", num_images=1, model="imagen-4.0-generate-001"):
-    """Generate an image using Google Imagen 4."""
-    try:
-        # Get API key from Streamlit secrets
-        api_key = st.secrets["google"]["api_key"]
+@st.cache_data(show_spinner=False)
+def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-image-preview"):
+    """Generate an image using Google Gemini Nano Banana Pro."""
+    # Get API key from Streamlit secrets
+    api_key = st.secrets["google"]["api_key"]
 
-        # Initialize the client
-        client = genai.Client(api_key=api_key)
+    # Initialize the client
+    client = genai.Client(api_key=api_key)
 
-        # Generate images
-        st.write(f"🔄 Calling model: {model}")
-        st.write(f"📝 Prompt length: {len(prompt)} characters")
-        st.write(f"📐 Aspect ratio: {aspect_ratio}, Count: {num_images}")
-
-        response = client.models.generate_images(
-            model=model,
-            prompt=prompt,
-            config=types.GenerateImagesConfig(
-                number_of_images=num_images,
+    # Generate image
+    response = client.models.generate_content(
+        model=model,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_modalities=['IMAGE'],
+            image_config=types.ImageConfig(
                 aspect_ratio=aspect_ratio,
             )
         )
+    )
 
-        st.write(f"✅ Response received: {type(response)}")
-        st.write(f"Generated images count: {len(response.generated_images) if response.generated_images else 0}")
+    # Extract images from response parts
+    images = []
+    for part in response.parts:
+        if part.inline_data:
+            images.append(part)
 
-        # Debug: Show full response structure
-        st.write("📋 Response attributes:", dir(response))
-        st.write("📋 Full response:", response)
-
-        if response.generated_images:
-            st.write(f"First image type: {type(response.generated_images[0])}")
-            # Check for filtered reasons
-            for idx, img in enumerate(response.generated_images):
-                if hasattr(img, 'raiFilteredReason') and img.raiFilteredReason:
-                    st.warning(f"Image {idx + 1} was filtered: {img.raiFilteredReason}")
-        else:
-            st.warning("⚠️ No images returned - possibly filtered by content safety")
-
-        return response.generated_images
-    except Exception as e:
-        st.error(f"❌ Error generating image: {e}")
-        import traceback
-        st.code(traceback.format_exc())
-        return None
+    return images
 
 
 st.title("Storybook Image Generator")
-st.write("Generate images for your storybook pages using Imagen 4")
+st.write("Generate images for your storybook pages using Nano Banana Pro")
 
 # Get all page files and create a list of individual pages
 pages_dir = Path("pages")
@@ -89,17 +72,14 @@ page_files = sorted(pages_dir.glob("*.yaml"))
 # Build a list of (display_name, file_path, page_side) tuples
 page_options = []
 for page_file in page_files:
-    try:
-        with open(page_file, "r") as f:
-            page_data = yaml.safe_load(f)
+    with open(page_file, "r") as f:
+        page_data = yaml.safe_load(f)
 
-        scenes = page_data.get("scenes", [])
-        for scene in scenes:
-            page_side = scene.get("page", "unknown")
-            display_name = f"{page_file.stem} - {page_side}"
-            page_options.append((display_name, page_file, page_side, page_data))
-    except Exception as e:
-        st.warning(f"Could not load {page_file.name}: {e}")
+    scenes = page_data.get("scenes", [])
+    for scene in scenes:
+        page_side = scene.get("page", "unknown")
+        display_name = f"{page_file.stem} - {page_side}"
+        page_options.append((display_name, page_file, page_side, page_data))
 
 if not page_options:
     st.error("No pages found in the pages/ directory")
@@ -131,71 +111,76 @@ else:
 
         # Image generation controls
         st.divider()
-        col1, col2, col3 = st.columns([2, 1, 1])
+        col1, col2 = st.columns([3, 1])
         with col1:
             aspect_ratio = st.selectbox(
                 "Aspect Ratio",
                 ["1:1", "3:4", "4:3", "9:16", "16:9"],
-                index=4,  # Default to 16:9
+                index=3,  # Default to 9:16
             )
         with col2:
             model = st.selectbox(
-                "Imagen Model",
-                ["imagen-4.0-generate-001", "imagen-4.0-fast-generate-001", "imagen-4.0-ultra-generate-001"],
-                format_func=lambda x: x.replace("imagen-4.0-", "").replace("-001", "").replace("-", " ").title(),
-                index=0,  # Default to standard
-            )
-        with col3:
-            num_images = st.number_input(
-                "Images", min_value=1, max_value=4, value=1
+                "Model",
+                ["gemini-3-pro-image-preview", "gemini-2.5-flash-image"],
+                format_func=lambda x: "Nano Banana Pro" if "3-pro" in x else "Nano Banana Flash",
+                index=0,  # Default to Pro
             )
 
         # Gen image button
         if st.button("Gen image", type="primary", use_container_width=True):
-            model_display = model.replace("imagen-4.0-", "").replace("-001", "").replace("-", " ").title()
-            with st.spinner(f"Generating with Imagen 4 {model_display}..."):
-                generated_images = generate_image_with_imagen(
-                    prompt, aspect_ratio=aspect_ratio, num_images=num_images, model=model
+            model_display = "Nano Banana Pro" if "3-pro" in model else "Nano Banana Flash"
+
+            # Create a status expander for logs
+            with st.status(f"Generating with {model_display}...", expanded=True) as status:
+                st.write(f"🔄 Calling model: {model}")
+                st.write(f"📝 Prompt length: {len(prompt)} characters")
+                st.write(f"📐 Aspect ratio: {aspect_ratio}")
+
+                generated_images = generate_image_with_gemini(
+                    prompt, aspect_ratio=aspect_ratio, model=model
                 )
 
-                if generated_images and len(generated_images) > 0:
-                    st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
-                    st.balloons()
+                st.write(f"✅ Response received")
+                st.write(f"Generated images count: {len(generated_images)}")
 
-                    # Display the generated images
-                    for idx, generated_image in enumerate(generated_images):
-                        st.subheader(f"Generated Image {idx + 1}")
-                        try:
-                            # Convert the image to PIL format for display
-                            from PIL import Image as PILImage
-                            import io
-
-                            # Get the image data
-                            img_data = generated_image.image._pil_image
-
-                            st.image(
-                                img_data,
-                                caption=f"{aspect_ratio} - {model_display}",
-                                use_container_width=True,
-                            )
-                        except AttributeError:
-                            # Try alternative method if _pil_image doesn't exist
-                            try:
-                                # Try to get bytes directly
-                                img_bytes = generated_image.image._image_bytes
-                                st.image(
-                                    img_bytes,
-                                    caption=f"{aspect_ratio} - {model_display}",
-                                    use_container_width=True,
-                                )
-                            except Exception as e2:
-                                st.error(f"Error displaying image {idx + 1}: {e2}")
-                                st.write("Available attributes:", dir(generated_image.image))
-                        except Exception as e:
-                            st.error(f"Error displaying image {idx + 1}: {e}")
-                            st.write("Available attributes:", dir(generated_image.image))
+                if generated_images:
+                    st.write(f"First image type: {type(generated_images[0])}")
+                    status.update(label=f"✅ Generation complete!", state="complete")
                 else:
-                    st.warning("No images were generated. Please try again.")
+                    status.update(label="⚠️ No images generated", state="error")
+
+            if generated_images and len(generated_images) > 0:
+                st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
+                st.balloons()
+
+                # Display the generated images
+                for idx, image_part in enumerate(generated_images):
+                    st.subheader(f"Generated Image {idx + 1}")
+
+                    # Get the image object and access its PIL representation
+                    img_obj = image_part.as_image()
+
+                    # Access the actual PIL image from the Image object
+                    pil_image = img_obj._pil_image
+
+                    st.image(
+                        pil_image,
+                        caption=f"{aspect_ratio} - {model_display}",
+                        use_container_width=True,
+                    )
+
+                    # Option to save the image
+                    import io
+                    buf = io.BytesIO()
+                    pil_image.save(buf, format='PNG')
+                    st.download_button(
+                        label=f"Download Image {idx + 1}",
+                        data=buf.getvalue(),
+                        file_name=f"generated_image_{idx + 1}.png",
+                        mime="image/png"
+                    )
+            else:
+                st.warning("No images were generated. Please try again.")
 
         st.divider()
 
