@@ -22,7 +22,7 @@ heart_loom:
   purpose: |
     The Heart-Loom is the living tapestry at Kathaél's center that holds all stories together.
     When stories find their true endings, their threads weave into the Loom, strengthening the
-    realm. But when stories are forced, controlled, or abandoned, their threads fray and the
+    realm. But when stories are overthought, forced, or abandoned, their threads fray and the
     Loom begins to unravel.
 
   stakes: |
@@ -32,20 +32,22 @@ heart_loom:
 
   rules:
     - name: Honesty Rule
-      description: Story-threads respond to honest presence, not perfect answers. A story
-        knows when someone is genuinely trying to understand it versus forcing an ending.
+      description: Story-threads respond to honest presence, not perfect understanding. A story
+        knows when someone is genuinely present versus trying to analyze or predict its ending.
 
     - name: Presence Rule
-      description: Stories complete themselves when someone is present without trying to
-        control the outcome. The act of witnessing with trust is itself a form of help.
+      description: Stories complete themselves when someone is present without needing to
+        understand every outcome. The act of witnessing with trust is itself a form of help.
+        Emotional truth matters more than intellectual comprehension.
 
     - name: Courage Rule
       description: Courage creates connection. When one heart chooses bravely, ripples
         spread through the Heart-Loom, strengthening others who are also being brave.
 
-    - name: Control Trap
-      description: Forcing endings onto stories makes them worse. Even well-intentioned
-        control tangles threads and dims their light. Stories reject what doesn't belong.
+    - name: Understanding Trap
+      description: Trying to fully understand or analyze stories before trusting them makes them worse.
+        Even well-intentioned attempts to decode patterns tangles threads and dims their light.
+        Stories need presence, not comprehension.
 
 # Synchrony Node Arc (for Noah and Elise's connection)
 synchrony_arc:
@@ -187,9 +189,9 @@ symbolic_elements:
     visual: Golden threads drifting through the air, sometimes forming patterns
 
   flickering_lantern:
-    description: A lantern whose flame responds to truth and sincerity
+    description: A lantern whose flame responds to trust and presence
     appears_in: [mirrored]
-    visual: Flame brightens with honest choices, dims with doubt or deception
+    visual: Flame brightens with trust and presence, dims with overthinking or need for control
 
   sky_shimmer:
     description: A subtle golden ripple across the sky connecting distant characters

@@ -18,8 +18,8 @@ synchrony_purpose: |
 shared_theme_key: almost_success
 theme_description: |
   Both characters are close to breakthrough but something holds them back.
-  Noah keeps trying to perfect his approach, unable to let go of control.
-  Elise's gentle method is working, but the scale overwhelms her.
+  Noah keeps trying to understand the outcome before trusting the process.
+  Elise's patient method is working, but the scale overwhelms her.
   A flickering lantern appears in both scenes, responding to trust and honesty.
 
 emotional_beat:
@@ -32,9 +32,9 @@ symbolic_motif:
   description: A lantern whose flame responds to honesty and trust
   meaning: |
     The lantern embodies the Honesty Rule: it burns bright when characters
-    are present without trying to control, dims when they force or doubt.
+    are present without needing to understand everything, dims when they force or doubt.
   visual_details:
-    - Flame steadies with trust, sputters with control
+    - Flame steadies with trust, sputters with need for comprehension
     - Brightness correlates to emotional honesty
     - Both characters see the same type of lantern in their scenes
 
@@ -44,22 +44,23 @@ scenario_variants:
     challenge_description: |
       Elise's patient attention restores flowers one by one, but the meadow
       seems endless. Each success feels tiny against the overwhelming grey.
+      She wonders if her quiet strength really counts.
     motif_manifestation: |
       A lantern hangs from a crooked post, its flame flickering as Elise
       works. When she focuses on one flower with full attention, the flame
-      steadies. When she looks at the endless grey, it wavers.
+      steadies. When she doubts whether her quiet approach matters, it wavers.
     callback_hint: She wonders if the boy she met at the crossroads is having better luck.
 
   - character_code: no
     location: A grove where story-threads hang frozen, some slowly completing
     challenge_description: |
       Noah has learned that stories complete themselves when he's present
-      without controlling. But he keeps interfering at the last moment,
-      unable to fully trust the endings will be good enough.
+      without understanding everything. But he keeps interfering at the last moment,
+      unable to fully trust outcomes he can't predict.
     motif_manifestation: |
       A lantern rests on a stone nearby, its flame responding to his choices.
-      When he steps back and trusts, it burns steady. When he reaches to
-      revise, it sputters and dims.
+      When he steps back and trusts without needing to understand, it burns steady.
+      When he reaches to analyze or predict the ending, it sputters and dims.
     callback_hint: He hopes the girl at the crossroads is figuring things out too.
 
 spread_alignment: 7
@@ -84,7 +85,7 @@ scene_templates:
     focus: Realizing something is missing
     emotional_beat: Frustration as old patterns resurface
     must_include:
-      - Old habit reasserts itself (control / overwhelm)
+      - Old habit reasserts itself (Noah: needing to understand; Elise: doubting her quiet strength)
       - Almost-success turns to self-frustration
       - Lantern flame responds by dimming
       - Character questions why they keep doing this
