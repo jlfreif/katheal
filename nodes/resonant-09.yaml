@@ -21,8 +21,8 @@ placement_rule:
   requirement: Must follow a moment of character growth
   verification: |
     At spread 8 (all-is-lost), both characters reached their emotional low.
-    Noah realized his need for control was making things worse, but also
-    that his presence had kept the stories from fading completely.
+    Noah realized his desperate need to understand everything was making things worse,
+    but also that his presence had kept the stories from fading completely.
     Elise felt overwhelmed by the scale of what needed healing.
     This resonant moment captures their choice to be brave anyway.
 
@@ -46,14 +46,13 @@ emotional_state_packets:
   - character_code: no
     emotional_state: surrendered trust
     trigger: |
-      Noah saw that the ruined stories weren't destroyed—they were waiting.
-      His control hadn't helped, but his presence had kept them from fading.
-      The fox had been right: good isn't the same as right.
+      Noah saw that the tangled stories weren't destroyed—they were waiting.
+      He didn't understand why, but his presence had kept them from fading.
+      The fox had been right: understanding structure wasn't the same as knowing what stories needed.
     manifestation: |
       He sets down his notebook entirely, opens his hands, and chooses to
-      trust the stories without trying to shape them. His surrender is
-      its own kind of courage—the courage to imagine something better than
-      he could control.
+      trust the stories without needing to understand them. His surrender is
+      its own kind of courage—the courage to act without perfect comprehension.
     callback: Integrates the fox's question (Spread 3) and his midpoint insight (Spread 6).
 
 ripple_effects:
@@ -68,7 +67,7 @@ ripple_effects:
   - source_character: no
     target_character: el
     effect: |
-      As Noah releases his need for control, Elise—in her vast meadow—
+      As Noah releases his need to understand everything, Elise—in her vast meadow—
       feels the weight on her shoulders lighten. The grey seems less
       oppressive. A flower nearby begins to glow without her touching it.
       She senses she's not alone.

@@ -1,7 +1,7 @@
 # Noah - Spread 6: Midpoint
 # Emotional beat: EXHAUSTION → WONDER/REVELATION
-# Key insight: Stories respond to honest presence, not control
-# World rule clarified: Presence matters more than perfection
+# Key insight: Stories respond to honest presence, not perfect understanding
+# World rule clarified: Presence matters more than comprehension
 
 id: no-06
 spread: 6
@@ -11,7 +11,7 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Noah stops trying to control everything and discovers that stories complete themselves when someone is simply present and honest with them.
+description: Noah stops trying to analyze and understand everything and discovers that stories complete themselves when someone is simply present and honest with them.
 
 scenes:
   - page: left
@@ -24,10 +24,10 @@ scenes:
       dimly in the distance. Noah's posture shows exhaustion giving way to stillness.
 
     text: |
-      Noah closed his notebook. His perfect endings hadn't worked. The twist
-      endings made things worse. "I'm tired of forcing words onto stories that
-      don't want them." For the first time since arriving, he just sat and watched.
-      No pen. No plan. Just him, being honest about not having answers.
+      Noah closed his notebook. His analyzed endings hadn't worked. The formulaic
+      approach made things worse. "I'm tired of trying to figure out what stories
+      need before they're ready." For the first time since arriving, he just sat
+      and watched. No pen. No plan. Just him, being honest about not understanding.
 
   - page: right
     page_number: 16

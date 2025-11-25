@@ -33,8 +33,8 @@ attributes:
   key_personality_traits:
     - Observant and detail-oriented
     - Imaginative daydreamer
-    - Quietly brave
-    - Gentle and nurturing
+    - Strong and quietly confident
+    - Perceptive and grounded
     - Silly
 
   # Activities or skills that reveal the character's interests and talents
@@ -53,6 +53,14 @@ attributes:
     - Empathetic towards others
     - Deep feeling
     - Gets frustrated but persists
+
+  internal_conflict: |
+    Elise is strong, grounded, and perceptive with a quiet confidence.
+    She sometimes doubts whether her quiet, intuitive style of strength "counts" in big stories—
+    not because she lacks confidence in herself, but because she compares her approach
+    to more outwardly heroic models.
+    Her journey involves realizing that her perceptive strength and steady presence
+    are essential to the Heart-Loom.
 
   # How does the character relate to others and the world around them?
   # Examples: Team-oriented, Prefers solitude, Competitive
@@ -79,7 +87,7 @@ attributes:
     - Slim build
     - Medium height
     - Graceful movements
-    - Gentle and calm presence
+    - Grounded and calm presence
 
   # What story genres does the character (or the reader) enjoy most?
   # This will inform the writing style and plot direction.

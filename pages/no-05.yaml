@@ -11,7 +11,7 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Noah discovers the true scale of the crisis and meets a storyteller whose dramatic approach makes everything worse.
+description: Noah discovers the true scale of the crisis and meets a storyteller who claims to have a system for fixing stories, but the formulaic approach makes everything worse.
 
 scenes:
   - page: left
@@ -37,15 +37,15 @@ scenes:
     focus: Encountering misleading help
 
     visual: |
-      A theatrical figure in a patched coat covered with story-fragments gestures
-      wildly. Behind him, a story-thread writhes and knots tighter, rejecting his
-      forced ending. Noah steps back, alarm on his face. The thread's glow dims
-      dangerously.
+      A figure in a patched coat covered with diagrams and charts gestures
+      systematically at a flowchart in the air. Behind him, a story-thread writhes
+      and knots tighter, rejecting his formulaic ending. Noah steps back, alarm
+      on his face as he recognizes his own approach. The thread's glow dims dangerously.
 
     text: |
-      "You want to help stories? I know exactly what they need!" The storyteller's
-      coat jangled with dangling plot threads. "Twist endings! Shocking surprises!"
-      He grabbed a thread and forced words onto it: "And it was all a dream!" The
-      thread shuddered, knotted tighter, and dimmed. "Wait, stop!" Noah reached
-      out. "You're making it worse!" But the storyteller was already grabbing
-      another.
+      "You want to help stories? I have the formula!" The storyteller's coat jangled
+      with dangling plot threads. "Every story follows rules. Hero's journey—
+      twelve steps, perfectly predictable!" He grabbed a thread and forced words
+      onto it: "The hero returns transformed!" The thread shuddered, knotted tighter,
+      and dimmed. "Wait, stop!" Noah reached out. "You're making it worse!" But the
+      storyteller was already grabbing another.

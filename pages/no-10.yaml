@@ -12,7 +12,7 @@ beat: "Climax: big action"
 hook: Threshold moment with hesitation about taking the final irreversible step.
 payoff: The choice works and goal is achieved, validating the journey.
 
-description: Noah reaches the Heart-Loom's center and must offer his own unfinished story, trusting it to find an ending he can't imagine yet.
+description: Noah reaches the Heart-Loom's center and must offer his own unfinished story, trusting it to find an ending he doesn't yet understand.
 
 scenes:
   - page: left
@@ -29,8 +29,8 @@ scenes:
       The Heart-Loom surrounded him, vast and wounded, threads still unraveling.
       Noah held his own story-thread, the one that had led him here. It ended
       mid-sentence: "He learned that..." His hands trembled. Every part of him
-      wanted to finish it, to write the perfect ending. "But that's not courage,"
-      he whispered. "Courage is trusting something I can't control."
+      wanted to analyze it, to understand exactly what would happen. "But that's
+      not courage," he whispered. "Courage is acting even when I don't understand."
 
   - page: right
     page_number: 24
@@ -43,9 +43,8 @@ scenes:
       tapestry reaches toward his offering, beginning to mend.
 
     text: |
-      "I don't know how this ends." Noah opened his hands and let go. The
+      "I don't understand how this works." Noah opened his hands and let go. The
       unfinished thread floated into the tapestry. For one terrible heartbeat,
       nothing happened. Then words began writing themselves, an ending he never
-      would have imagined: "...that stories become real when someone is brave
-      enough to let them." The Heart-Loom blazed with light, threads weaving
-      together.
+      could have predicted: "...that presence matters more than understanding."
+      The Heart-Loom blazed with light, threads weaving together.

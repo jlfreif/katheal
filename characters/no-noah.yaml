@@ -21,11 +21,11 @@ attributes:
   key_personality_traits:
     - High Intelligence
     - Highly articulate
-    - Storyteller at heart
+    - Thoughtful and analytical
     - Natural leader
     - Outgoing and chatty
     - Older-souled
-    - Seeks stimulation
+    - Seeks to understand patterns
     - Loves puzzles or riddles
 
   hobbies_interests_skills:
@@ -41,6 +41,13 @@ attributes:
     - Internalizes praise
     - Emotionally expressive
     - Wants to be consoled
+
+  internal_conflict: |
+    Noah has a strong desire to understand everything before acting.
+    Because he is thoughtful and analytical, he sometimes hesitates when the path is unclear.
+    He wants to analyze, think through, and interpret patterns before making decisions.
+    His journey involves learning to trust presence over perfect understanding—
+    choosing honest participation even without having all the answers.
 
   social_context_relationships:
     - Natural leader
