@@ -1,0 +1,638 @@
+# Maya's Story
+
+**Character Code:** MA
+**Total Spreads:** 12
+**Layout:** 2 pages per spread, 1 image per page, 3-4 sentences per scene
+
+## Story
+
+### Spread 1: ma-01.yaml
+**Node Type:** Solo | **Beat:** Ordinary world + desire hint
+
+#### Description
+
+Maya paints in her Madrid bedroom, creating bold colorful art, until a shimmer of light appears that doesn't match her paints.
+
+#### Page 5 (Left) - Character in their ordinary world
+
+**Visual:**
+Maya sits cross-legged on her bedroom floor surrounded by paint supplies,
+her pink-streaked sandy-blond hair catching afternoon light from the
+window. Bold colorful paintings cover the walls. She's painting a dance
+scene with energetic brushstrokes, tongue poking out in concentration.
+Music plays softly in the background.
+
+**Text:**
+Maya's brush swept across the paper in bold strokes—bright pink, electric
+blue, sunshine yellow. She was painting a dancer mid-leap, all energy
+and motion. "That's not right," she muttered, adding more pink. Then
+more blue. The painting got louder, bolder, more Maya. Her cousin Elise
+would probably paint it gentle and perfect. But Maya liked it loud.
+
+#### Page 6 (Right) - First hint of something different
+
+**Visual:**
+Maya freezes, paintbrush hovering, as the painted dancer on her paper
+begins to glow with golden light that has nothing to do with her paints.
+The glow pulses gently, inviting. Her eyes widen with delighted curiosity.
+Pink paint drips forgotten from her brush. The light seems to dance in
+rhythm with music only it can hear.
+
+**Text:**
+The dancer on her paper started to glow. Maya blinked, but the light
+didn't fade. It pulsed softly, goldenly, moving like the figure wanted
+to dance right off the page. Her paint couldn't do that. She leaned
+closer, brush forgotten. The glow brightened as if responding to her
+attention. "Whoa," Maya breathed. "Are you magic?"
+
+--------------------------------------------------------------------------------
+
+### Spread 2: ma-02.yaml
+**Node Type:** Solo | **Beat:** Inciting incident
+
+#### Description
+
+Maya touches the glowing dancer and finds herself pulled into Kathaél, where performances and dances are frozen mid-movement.
+
+#### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+Maya stands between worlds, her paint-stained fingers touching a shimmering
+portal where her painting transformed into a doorway. Through it, she sees
+a meadow with frozen dancers—shadow figures stuck mid-leap, mid-spin,
+unable to complete their movements. Golden threads connect them but flicker
+weakly. Her athletic build is poised on tiptoes, ready to leap through.
+
+**Text:**
+When Maya touched the glowing dancer, the painting opened like a door.
+Through it she saw a meadow filled with frozen performances—dancers
+stuck mid-leap, musicians silent with instruments raised, performers
+captured in moments that should have flowed into the next. Golden threads
+connected them all, flickering like candles about to die. Something was
+very wrong.
+
+#### Page 8 (Right) - Decision to act
+
+**Visual:**
+Maya steps fully into Kathaél, standing in the meadow of frozen performances.
+Her Madrid bedroom fades to translucent behind her. She spins once,
+testing the space, and frozen dancers seem to lean toward her motion.
+Golden threads from the Heart Crystal drift closer. Her expression shows
+bold determination mixed with excited curiosity.
+
+**Text:**
+Maya stepped through, and her bedroom dissolved like watercolor in rain.
+The meadow surrounded her, silent where it should have been full of music
+and movement. She spun experimentally, and the frozen dancers seemed to
+sway toward her, yearning. "You need someone to help you finish," Maya
+understood. She grinned, bold and ready. "Perfect. I love a challenge."
+
+--------------------------------------------------------------------------------
+
+### Spread 3: el-ma-03.yaml (joint with EL)
+**Node Type:** Meeting Node | **Beat:** Attempt #1 (simple/obvious)
+
+#### Description
+
+Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+
+#### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Maya leaps and spins in the center of a faded meadow, her movements bold
+and energetic. She wears her signature pink-streaked hair flying as she
+dances, trying to bring life back through movement. Grey flowers surround
+her, unresponsive. In the distance, a figure with paint-stained hands
+kneels among the flowers.
+
+**Text:**
+Maya leaped high, arms stretched wide, spinning through the meadow like
+wind itself. If colors were fading, she'd dance them back to life. Her
+feet pounded the earth in rhythm, bold and decisive. The flowers barely
+stirred. She landed hard, breathing fast, and spun again. Nothing. In
+the distance, someone knelt among the grey blooms, moving carefully.
+
+#### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
+Both girls freeze mid-motion as recognition hits. Maya's expression shifts
+from determined to shocked to delighted. Elise's eyes widen with surprise
+and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
+their presence.
+
+**Text:**
+"Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
+her painting, eyes going wide. "Maya?!" They stared at each other for
+one breathless second. Then both burst out laughing, the sound bright
+and startled in the grey meadow. "What are YOU doing here?" they said
+at exactly the same time. The threads overhead pulsed warmer, as if
+recognizing their connection.
+
+--------------------------------------------------------------------------------
+
+### Spread 4: ma-04.yaml
+**Node Type:** Solo | **Beat:** Attempt #2 (ask the expert)
+
+#### Description
+
+Maya searches for guidance on the proper technique to restore the frozen performances.
+
+#### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+Maya follows golden threads through the forest, dancing as she goes—
+little leaps and spins. The threads lead her toward a performance
+pavilion where multiple paths meet. She moves with natural athleticism,
+her pink-streaked hair bouncing. Her expression shows confident
+determination mixed with slight uncertainty about what comes next.
+
+**Text:**
+Maya danced along the thread-paths, hoping they'd lead to someone who
+knew the secret. There must be a right way to perform, a proper technique
+she was missing. The threads led her to a pavilion where performance
+paths crossed. "Someone here has to know the correct steps," she said,
+bouncing on her toes.
+
+#### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Maya stands at the pavilion where performance paths diverge. The threads
+pulse and point toward strange territory ahead—stages that shift shape,
+audiences made of shadow, performances that follow no rules she recognizes.
+A fox watches from nearby, its expression cautionary. Maya swallows but
+sets her chin determinedly.
+
+**Text:**
+The threads pulsed and pointed ahead, toward performance spaces that
+made no sense. Stages that changed shape. Dances with no choreography.
+Songs with no melody. A fox met her eyes, and Maya felt the warning:
+this would be harder than performing for her teachers or friends. "Okay,"
+Maya said, rolling her shoulders. "I can be brave."
+
+--------------------------------------------------------------------------------
+
+### Spread 5: ma-05.yaml
+**Node Type:** Solo | **Beat:** Attempt #3 (bigger world / stakes up)
+
+#### Description
+
+Maya enters a vast performance space where hundreds of shows are frozen, and meets a performer who insists on rigid perfection.
+
+#### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Maya stands at the edge of an enormous amphitheater where hundreds of
+frozen performances fill the space—dancers mid-leap, singers with mouths
+open, artists with brushes raised. All stuck. All silent. The Heart
+Crystal pulses dimly in the distance. A nearby dancer crumbles to dust.
+Maya's eyes widen with alarm at the scale.
+
+**Text:**
+The amphitheater stretched impossibly wide. Hundreds of frozen performances
+filled every stage, every platform, every corner. Dancers stuck mid-leap.
+Singers frozen on their notes. Artists captured mid-brushstroke. The
+Crystal pulsed dimmer in the distance. A nearby dancer crumbled to dust,
+her performance lost forever. "Oh no," Maya whispered. "This is really,
+really bad."
+
+#### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+A dramatic performer in elaborate costume gestures sharply, demonstrating
+perfect rigid technique. Behind them, frozen dancers strain against
+invisible rules. The performer snaps at Maya to stand straighter, point
+her toes more, stop moving so wildly. Maya's natural flowing style
+clashes with the rigid demands. Her expression shows doubt and discomfort.
+
+**Text:**
+"Posture!" A performer in elaborate costume snapped fingers at Maya.
+"Technique! Form! You must perform CORRECTLY!" They demonstrated perfect
+rigid movements, each gesture sharp and controlled. Maya tried to copy,
+but her body wanted to flow and bounce and add her own flair. The frozen
+dancers around them seemed to strain harder, as if the rules were choking
+them. "This feels wrong," Maya said quietly.
+
+--------------------------------------------------------------------------------
+
+### Spread 6: ma-06.yaml
+**Node Type:** Mirrored Node | **Beat:** Midpoint: new insight / pattern
+
+#### Description
+
+Maya exhausts herself trying to perform what shadow-audiences want, then discovers that being authentically herself is her true power.
+
+#### Page 15 (Left) - Recognizing what doesn't work
+
+**Visual:**
+Maya sits cross-legged at the edge of an empty amphitheater stage,
+breathing hard. Shadow-audiences fill the seats, each row demanding
+something different. Her pink-streaked hair is disheveled. A compass
+rests beside her, its needle spinning wildly. She looks exhausted and
+small.
+
+**Text:**
+Maya sat down hard, too tired to keep dancing. One shadow-audience wanted
+big leaps, another wanted gentle twirls, another wanted perfect technique.
+She'd tried to give them all what they asked for, and none of it felt
+right. The compass beside her spun in confused circles. She hugged her
+knees. "I don't even know what I want anymore."
+
+#### Page 16 (Right) - Discovering a new pattern
+
+**Visual:**
+Maya stands center stage and dances her own way—bold, playful, mixing
+styles without caring about perfect form. The shadow-audiences fade
+away. The compass's needle points straight at her heart, glowing. Real
+flowers bloom at her feet with each authentic movement, their colors
+bright and true.
+
+**Text:**
+Maya stood. She started dancing again, but this time for herself. Bold
+leaps mixed with silly spins. Her pink-streaked hair flying. Not perfect,
+not proper, just...Maya. The shadow-audiences dissolved like smoke. The
+compass needle swung toward her and held steady, pointing at her heart.
+Flowers bloomed where her feet touched the stage, bright and real and
+exactly right.
+
+--------------------------------------------------------------------------------
+
+### Spread 7: ma-07.yaml
+**Node Type:** Solo | **Beat:** Rising stakes: almost works
+
+#### Description
+
+Maya dances authentically and restores several performances, but shadow-audiences make her question if being herself is enough.
+
+#### Page 17 (Left) - Making progress toward goal
+
+**Visual:**
+Maya dances freely in a small performance space, her movements bold and
+uniquely hers—mixing styles, adding playful spins, letting her pink-streaked
+hair fly. Around her, frozen performers begin moving again, finding their
+own authentic styles. A lantern burns steady on a post. Her expression
+shows joyful focus. This is working.
+
+**Text:**
+Maya danced like herself—bold leaps mixed with silly twirls, ballet mixed
+with hip-hop, nothing perfect but everything real. Around her, frozen
+performers began moving again, each finding their own authentic style.
+A ballerina added a hop. A singer tried a new note. The lantern beside
+her burned steady. "Yes!" Maya spun, delighted. "Just be yourself!"
+
+#### Page 18 (Right) - Realizing something is missing
+
+**Visual:**
+Shadow-audiences appear in the seats, murmuring criticism. "Too wild."
+"Not proper." "Where's the technique?" Maya's dancing falters. The
+lantern flame wavers. Behind her, the performers she restored begin
+freezing again, their authenticity dimming under the pressure of
+judgment. Her confident expression cracks to uncertainty.
+
+**Text:**
+Then shadow-audiences appeared in the seats, whispering. "Too wild."
+"Not proper technique." "She's showing off." Maya's movements faltered.
+Was being herself really enough? Maybe she should dance more... correctly?
+The lantern flickered. Behind her, the freed performers began freezing
+again, their authentic styles dimming. "Wait, no," Maya said, but her
+voice sounded small. "I thought..."
+
+--------------------------------------------------------------------------------
+
+### Spread 8: ma-08.yaml
+**Node Type:** Solo | **Beat:** All-is-lost / emotional low
+
+#### Description
+
+Maya stands before shadow-audiences that judge every move, believing her authentic self isn't enough to help.
+
+#### Page 19 (Left) - External obstacles intensify
+
+**Visual:**
+Maya stands frozen center stage in a vast amphitheater packed with
+shadow-audiences, each row demanding something different from her.
+"Be proper!" "Stop showing off!" "Where's your training?" Dark clouds
+gather overhead. The Heart Crystal cracks audibly. A nearby performance
+dissolves into grey smoke. Her athletic frame looks small and vulnerable.
+
+**Text:**
+The amphitheater filled with shadow-audiences, all judging. One section
+wanted perfect ballet. Another wanted serious art. Another wanted her
+to stop being so loud, so bold, so much. Dark clouds gathered. The
+Crystal cracked louder. A performance beside her dissolved into smoke.
+"I'm just me," Maya whispered. "Is that really not enough?"
+
+#### Page 20 (Right) - Inner doubt and discouragement
+
+**Visual:**
+Maya sits cross-legged on the empty stage, arms wrapped around herself,
+her pink-streaked hair hanging forward to hide her face. The shadow-audiences
+loom in the darkness. Her paint-stained hands rest empty in her lap. A
+small butterfly lands nearby, its wings dull grey. One weak thread glows
+faintly.
+
+**Text:**
+Maya sank down onto the stage, trying to make herself smaller. Maybe
+everyone was right. Maybe her wild dancing and mixed styles and loud
+colors were just showing off. Maybe she should be more like... she didn't
+even know who. The butterfly landed nearby, its wings grey. But Maya
+noticed it hadn't flown away. And one thread still glowed, faint but real.
+
+--------------------------------------------------------------------------------
+
+### Spread 9: ma-09.yaml
+**Node Type:** Solo | **Beat:** Deepening choice / inner shift
+
+#### Description
+
+Maya remembers why she started dancing—for herself—and chooses to perform authentically regardless of judgment.
+
+#### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Maya stands, pushing her pink-streaked hair back determinedly. The
+shadow-audiences still loom, but she's not looking at them anymore.
+She's looking at the grey butterfly, at the weak thread, at the empty
+stage that's waiting. Her posture shifts to bold and ready. Paint-stained
+hands open at her sides.
+
+**Text:**
+Maya stood. The shadow-audiences were still there, still judging. But
+she remembered her bedroom, painting dancers because she loved how they
+moved. Not for teachers. Not for perfect technique. For the joy of it.
+"I didn't come here to perform for you," Maya said to the shadows. Her
+voice grew stronger. "I came here to be myself."
+
+#### Page 22 (Right) - Discovering the missed clue
+
+**Visual:**
+Maya dances boldly, authentically, mixing every style she loves. The
+shadow-audiences dissolve like smoke. Golden threads shimmer into
+visibility, connecting her to warmth beyond the stage—someone else
+choosing courage at the same moment. The butterfly's wings bloom with
+color. Flowers grow where she dances. The stage transforms.
+
+**Text:**
+Maya danced—big bold leaps, silly spins, mixing ballet with hip-hop
+with moves she just invented. The shadow-audiences dissolved. Golden
+light rippled through the air, warm as a hug from someone far away being
+brave at exactly the same moment. The butterfly's wings burst into color.
+Flowers bloomed where her feet touched the stage. "Being myself," Maya
+laughed, "is exactly enough."
+
+--------------------------------------------------------------------------------
+
+### Spread 10: ma-10.yaml
+**Node Type:** Solo | **Beat:** Climax: big action
+
+#### Description
+
+Maya brings her authentic wild beautiful self to the Heart Crystal, choosing to offer her true performance despite uncertainty.
+
+#### Page 23 (Left) - Facing the final challenge
+
+**Visual:**
+Maya stands at the Heart Crystal's base, hands pressed against the
+performance-facet. Through the clear surface, she sees other facets—
+one glowing with stories, one bright with restored challenges. Her
+authentic messy beautiful performance waits to be offered. Cracks
+spread across the crystal. Her hands tremble slightly.
+
+**Text:**
+Maya stood at the Crystal's base, her wild authentic performance ready
+to offer. It wasn't proper. It wasn't what teachers would call correct.
+Through the crystal, she saw other facets glowing with their own truths.
+Her performance felt too loud, too much, too Maya. "What if it's not
+good enough?" she thought. But it was honest. It was hers.
+
+#### Page 24 (Right) - Taking decisive action
+
+**Visual:**
+Maya dances her authentic performance into the Crystal facet—all her
+bold energy, mixed styles, playful spirit flowing as golden light.
+Where they connect, an explosion of color blazes out. Cracks seal
+with sounds like laughter. Golden threads pour from the facet, carrying
+her truth: being authentically yourself gives others permission to do
+the same.
+
+**Text:**
+"It's not proper," Maya said out loud. "But it's true." She danced—
+every wild beautiful authentic part of herself flowing toward the facet.
+For one breathless moment, nothing happened. Then—color exploded where
+she touched crystal. Not just one color but every color she'd ever loved,
+blazing like fireworks. Cracks sealed themselves with sounds like laughter
+and music. Golden threads poured out, carrying the message: be yourself.
+
+--------------------------------------------------------------------------------
+
+### Spread 11: ma-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+#### Description
+
+The performance facet blazes with authentic expression, and Maya receives paint that glows with courage.
+
+#### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Heart Crystal blazes with every color imaginable, the performance
+facet spinning and dancing with light. Maya's authentic performance
+weaves into the structure, its wild energy making the whole crystal
+more vibrant. Between her hands appears a small paint pot filled with
+colors that shift and glow. The butterfly from before circles, wings
+brilliant.
+
+**Text:**
+The Crystal blazed with every color Maya had ever loved and some she'd
+never imagined. Her wild authentic performance wove itself into the
+pattern, and somehow its boldness made everything more beautiful. Light
+gathered in her palms until a paint pot appeared—small, perfect, filled
+with colors that glowed and shifted. The butterfly landed on her shoulder,
+wings brilliant. "I was always enough," Maya breathed.
+
+#### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Maya walks home along a path lined with performing flowers and dancing
+trees, the paint pot secure in her hands. Around her, frozen performances
+complete themselves—each one unique, authentic, true. A fox dances past.
+Her Madrid bedroom window glows warmly in the distance, her bold paintings
+visible through the glass.
+
+**Text:**
+Maya walked home, the paint pot warm in her hands. All around, frozen
+performances finished themselves—each dancer finding their own style,
+each artist creating their own truth. A fox danced past and Maya laughed,
+spinning with it. "Thank you," she called to Kathaél. The window to her
+bedroom gleamed ahead, her bold colorful paintings waiting.
+
+--------------------------------------------------------------------------------
+
+### Spread 12: ma-12.yaml
+**Node Type:** Solo | **Beat:** Resolution (emotional) + series button
+
+#### Description
+
+Maya returns to her Madrid bedroom and her painting, but now she creates with full confidence in her authentic style.
+
+#### Page 27 (Left) - Returning to ordinary world
+
+**Visual:**
+Maya sits cross-legged on her bedroom floor in the same position as
+the opening, surrounded by paint supplies. But now the magical paint
+pot from Kathaél sits among her ordinary paints, glowing softly. Her
+pink-streaked hair catches light the same way, but her posture radiates
+confidence. The music plays. She's painting with bold joyful energy.
+
+**Text:**
+Maya's bedroom looked the same: afternoon light, paint everywhere, music
+playing softly. But she didn't feel the same. She picked up her brush
+and opened the magical paint pot. The colors inside shifted and glowed,
+responding to her boldness. "Okay," she said to her blank paper. "Let's
+make something wild and true."
+
+#### Page 28 (Right) - Transformed by the journey
+
+**Visual:**
+Maya paints with fierce joy—bold strokes, mixed colors, energy flying
+off the page. The painting shows dancers in her own style: wild, authentic,
+uniquely Maya. Parts of it glow with golden light. Her other paintings
+on the walls seem brighter. Through the window, a golden thread shimmers.
+The colorful butterfly from Kathaél rests on the windowsill, watching.
+
+**Text:**
+Maya painted like herself—big bold strokes, colors that clashed and sang,
+energy that couldn't be contained. Not perfect. Not proper. Just true.
+Parts of her painting glowed with golden light, the same light she'd
+brought to Kathaél. Outside her window, a golden thread danced in Madrid
+sunlight. The butterfly from the meadow sat on her sill, wings brilliant.
+Maya grinned. "Being yourself," she said, "is the best adventure."
+
+--------------------------------------------------------------------------------
+
+## Narrative Node Analysis
+
+This story connects with other characters at 1 point(s):
+
+### Meeting Node with Elise (EL)
+
+#### Before (from Elise's story)
+
+##### Spread 2: el-02.yaml
+**Node Type:** Solo | **Beat:** Inciting incident
+
+###### Description
+
+Elise touches the glowing drawing and finds herself pulled into Kathaél, where colors are fading and need someone who truly sees.
+
+###### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+Elise stands between worlds, her fingertips touching a shimmering portal where
+her drawing transformed into a doorway of light. One foot lifts as she's gently
+pulled forward. Through the portal, a meadow appears with faded colors, flowers
+washed out like sun-bleached watercolors. A luminescent butterfly rests on her
+shoulder.
+
+**Text:**
+When Elise touched the glowing flower, the paper opened like a door. Through
+it she saw a meadow, but something was wrong. The colors looked tired, like
+crayons left too long in the sun. Pink flowers that should have been bright
+were barely more than grey. Behind her, her bedroom faded to a whisper.
+
+###### Page 8 (Right) - Decision to act
+
+**Visual:**
+Elise steps fully into Kathaél, standing in the faded meadow. Her ordinary
+bedroom has become translucent behind her. Golden threads from the Heart Crystal
+reach toward her, thin and dim. Her watercolor set hangs from her wrist. Her
+expression shows wonder and gentle concern as she surveys the colorless landscape.
+
+**Text:**
+Elise stepped through, and her room dissolved like morning mist. The meadow
+stretched around her, beautiful in shape but heartbreaking in color. Golden
+threads drifted overhead, faint as old cobwebs. She understood without being
+told: this world was losing something precious, and it had called to her. Maybe
+because she noticed things others missed.
+
+#### Shared/Connected Page
+
+##### Spread 3: el-ma-03.yaml (joint with EL)
+**Node Type:** Meeting Node | **Beat:** Attempt #1 (simple/obvious)
+
+###### Description
+
+Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+
+###### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Maya leaps and spins in the center of a faded meadow, her movements bold
+and energetic. She wears her signature pink-streaked hair flying as she
+dances, trying to bring life back through movement. Grey flowers surround
+her, unresponsive. In the distance, a figure with paint-stained hands
+kneels among the flowers.
+
+**Text:**
+Maya leaped high, arms stretched wide, spinning through the meadow like
+wind itself. If colors were fading, she'd dance them back to life. Her
+feet pounded the earth in rhythm, bold and decisive. The flowers barely
+stirred. She landed hard, breathing fast, and spun again. Nothing. In
+the distance, someone knelt among the grey blooms, moving carefully.
+
+###### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
+Both girls freeze mid-motion as recognition hits. Maya's expression shifts
+from determined to shocked to delighted. Elise's eyes widen with surprise
+and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
+their presence.
+
+**Text:**
+"Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
+her painting, eyes going wide. "Maya?!" They stared at each other for
+one breathless second. Then both burst out laughing, the sound bright
+and startled in the grey meadow. "What are YOU doing here?" they said
+at exactly the same time. The threads overhead pulsed warmer, as if
+recognizing their connection.
+
+#### After (from Elise's story)
+
+##### Spread 4: el-no-04.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+###### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+
+###### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+A crossroads beneath an ancient willow where forest paths meet. Golden threads
+flow through the branches, some frayed and flickering. Noah stands on the left
+path, notebook tucked under his arm, reaching toward a thread. In the distance,
+the Heart Crystal pulses weakly, more threads drifting loose.
+
+**Text:**
+"I've tried everything." Noah followed the threads to a crossroads beneath
+an ancient willow, hoping someone here might know what he was missing. The
+Crystal glowed through the trees, dimmer than before, more threads
+unraveling. He reached toward one, and it hummed warmly. But the path it
+suggested led deeper into unfamiliar territory.
+
+###### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Elise stands on the right path, watercolor set at her wrist, observing a
+different thread. Between the children, threads flow and intersect, creating
+a lattice of golden light. Both turn toward each other, curious. The willow's
+branches glow brighter where their paths nearly touch.
+
+**Text:**
+Noah spotted her at the same moment she spotted him. A girl with paint-stained
+fingers, reaching for the threads just like he was. "Are you trying to help
+them too?" he called. She nodded. "They keep rejecting everything I try."
+"Same." Something warm spread through his chest. He wasn't alone in this.
+The threads between them pulsed brighter and felt warm, like sunshine on skin.
+

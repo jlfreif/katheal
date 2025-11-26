@@ -1,0 +1,738 @@
+# Elise's Story
+
+**Character Code:** EL
+**Total Spreads:** 12
+**Layout:** 2 pages per spread, 1 image per page, 3-4 sentences per scene
+
+## Story
+
+### Spread 1: el-01.yaml
+**Node Type:** Solo | **Beat:** Ordinary world + desire hint
+
+#### Description
+
+Elise draws quietly in her room, noticing that one of her drawings seems to shimmer with a light that doesn't come from her lamp.
+
+#### Page 5 (Left) - Character in their ordinary world
+
+**Visual:**
+Elise sits at a small desk by her window, hunched forward over a drawing. Her
+right hand holds a golden-yellow colored pencil hovering above the paper. Several
+pencils scatter across the desk near an open box of art supplies. Her expression
+is peaceful and absorbed in creative flow. Drawings cover the wall behind her.
+
+**Text:**
+Elise drew a forest with a winding path and flowers that looked like they held
+secrets. She loved imagining quiet places where magic might hide. Her colored
+pencils moved slowly, carefully, the way she did everything. Outside her window,
+the afternoon light was ordinary, but on her page, she was making something that
+felt alive.
+
+#### Page 6 (Right) - First hint of something different
+
+**Visual:**
+Elise's head tilts slightly, eyes widening with curiosity. On her paper, one
+small flower she just finished glows with soft golden light that doesn't match
+the lamp. The flower pulses gently, as if breathing. Her pencil hovers frozen
+above the page. Afternoon light streams through the window behind her.
+
+**Text:**
+The flower on her paper started to glow. Elise blinked, but the light didn't
+disappear. It pulsed softly, like a tiny heartbeat, warm and golden in a way
+that had nothing to do with her lamp. Her pencil hung still in the air. She
+leaned closer, watching the impossible light breathe.
+
+--------------------------------------------------------------------------------
+
+### Spread 2: el-02.yaml
+**Node Type:** Solo | **Beat:** Inciting incident
+
+#### Description
+
+Elise touches the glowing drawing and finds herself pulled into Kathaél, where colors are fading and need someone who truly sees.
+
+#### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+Elise stands between worlds, her fingertips touching a shimmering portal where
+her drawing transformed into a doorway of light. One foot lifts as she's gently
+pulled forward. Through the portal, a meadow appears with faded colors, flowers
+washed out like sun-bleached watercolors. A luminescent butterfly rests on her
+shoulder.
+
+**Text:**
+When Elise touched the glowing flower, the paper opened like a door. Through
+it she saw a meadow, but something was wrong. The colors looked tired, like
+crayons left too long in the sun. Pink flowers that should have been bright
+were barely more than grey. Behind her, her bedroom faded to a whisper.
+
+#### Page 8 (Right) - Decision to act
+
+**Visual:**
+Elise steps fully into Kathaél, standing in the faded meadow. Her ordinary
+bedroom has become translucent behind her. Golden threads from the Heart Crystal
+reach toward her, thin and dim. Her watercolor set hangs from her wrist. Her
+expression shows wonder and gentle concern as she surveys the colorless landscape.
+
+**Text:**
+Elise stepped through, and her room dissolved like morning mist. The meadow
+stretched around her, beautiful in shape but heartbreaking in color. Golden
+threads drifted overhead, faint as old cobwebs. She understood without being
+told: this world was losing something precious, and it had called to her. Maybe
+because she noticed things others missed.
+
+--------------------------------------------------------------------------------
+
+### Spread 3: el-ma-03.yaml (joint with MA)
+**Node Type:** Meeting Node | **Beat:** Attempt #1 (simple/obvious)
+
+#### Description
+
+Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+
+#### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Maya leaps and spins in the center of a faded meadow, her movements bold
+and energetic. She wears her signature pink-streaked hair flying as she
+dances, trying to bring life back through movement. Grey flowers surround
+her, unresponsive. In the distance, a figure with paint-stained hands
+kneels among the flowers.
+
+**Text:**
+Maya leaped high, arms stretched wide, spinning through the meadow like
+wind itself. If colors were fading, she'd dance them back to life. Her
+feet pounded the earth in rhythm, bold and decisive. The flowers barely
+stirred. She landed hard, breathing fast, and spun again. Nothing. In
+the distance, someone knelt among the grey blooms, moving carefully.
+
+#### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
+Both girls freeze mid-motion as recognition hits. Maya's expression shifts
+from determined to shocked to delighted. Elise's eyes widen with surprise
+and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
+their presence.
+
+**Text:**
+"Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
+her painting, eyes going wide. "Maya?!" They stared at each other for
+one breathless second. Then both burst out laughing, the sound bright
+and startled in the grey meadow. "What are YOU doing here?" they said
+at exactly the same time. The threads overhead pulsed warmer, as if
+recognizing their connection.
+
+--------------------------------------------------------------------------------
+
+### Spread 4: el-no-04.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+#### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+
+#### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+A crossroads beneath an ancient willow where forest paths meet. Golden threads
+flow through the branches, some frayed and flickering. Noah stands on the left
+path, notebook tucked under his arm, reaching toward a thread. In the distance,
+the Heart Crystal pulses weakly, more threads drifting loose.
+
+**Text:**
+"I've tried everything." Noah followed the threads to a crossroads beneath
+an ancient willow, hoping someone here might know what he was missing. The
+Crystal glowed through the trees, dimmer than before, more threads
+unraveling. He reached toward one, and it hummed warmly. But the path it
+suggested led deeper into unfamiliar territory.
+
+#### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Elise stands on the right path, watercolor set at her wrist, observing a
+different thread. Between the children, threads flow and intersect, creating
+a lattice of golden light. Both turn toward each other, curious. The willow's
+branches glow brighter where their paths nearly touch.
+
+**Text:**
+Noah spotted her at the same moment she spotted him. A girl with paint-stained
+fingers, reaching for the threads just like he was. "Are you trying to help
+them too?" he called. She nodded. "They keep rejecting everything I try."
+"Same." Something warm spread through his chest. He wasn't alone in this.
+The threads between them pulsed brighter and felt warm, like sunshine on skin.
+
+--------------------------------------------------------------------------------
+
+### Spread 5: el-05.yaml
+**Node Type:** Solo | **Beat:** Attempt #3 (bigger world / stakes up)
+
+#### Description
+
+Elise meets a dazzling artist-spirit who insists that bold, loud colors are the answer, but the approach feels wrong to her gentle nature.
+
+#### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Elise stands at the edge of a circular plaza where the fading is severe. Trees
+that should shimmer are nearly grey, the ground dull and lifeless. Her watercolor
+set hangs from her wrist as she surveys the damaged landscape. Golden threads
+overhead are barely visible, thin as spider silk. Her posture shows quiet concern.
+
+**Text:**
+The plaza looked worse than anywhere else. Trees stood grey as pencil sketches,
+their shimmer completely gone. The ground, which should have glowed, was as
+dull as pavement. Elise clutched her watercolor set to her chest, her heart
+sinking. If her gentle approach couldn't help a single flower, how could she
+possibly restore all of this?
+
+#### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+A dramatic figure draped in clashing scarves of electric purple, harsh orange,
+and screaming pink gestures wildly with giant paint-dripping brushes. Behind
+the spirit, trees have been "restored" with garish, unnatural colors that clash
+with each other. Elise takes a small step backward, one hand raised, her
+expression showing polite uncertainty.
+
+**Text:**
+"Bold!" The artist-spirit swept enormous brushes through the air, splattering
+neon colors everywhere. "Loud! That's how you fix fading!" Elise looked at
+the trees the spirit had painted: harsh orange, electric purple, colors that
+hurt to see. The watching animals had fled. Something in Elise's chest pulled
+tight. This felt wrong. Very wrong.
+
+--------------------------------------------------------------------------------
+
+### Spread 6: el-06.yaml
+**Node Type:** Solo | **Beat:** Midpoint: new insight / pattern
+
+#### Description
+
+Elise sits quietly and notices that colors return not through force, but through patient attention and caring presence.
+
+#### Page 15 (Left) - Recognizing what doesn't work
+
+**Visual:**
+Elise sits cross-legged on soft moss in a small clearing, having left behind
+the artist-spirit. Her watercolor set rests open but unused beside her. Both
+hands rest gently in her lap, palms up. The garish painted trees are visible
+in the distance behind her, a reminder of what doesn't work. Soft dawn light
+filters through the trees.
+
+**Text:**
+Elise found a quiet clearing and sat down, her racing heart finally slowing.
+The spirit's loud colors hadn't helped. Her own painting hadn't helped. She
+was tired of trying so hard. Maybe the answer wasn't doing more. Maybe it
+was something else entirely.
+
+#### Page 16 (Right) - Discovering a new pattern
+
+**Visual:**
+Elise's hands cup gently around a single faded flower, not painting it but
+holding space around it with tender attention. The flower slowly regains color,
+grey fading to pale lavender to soft purple. Golden threads drift closer,
+glowing brighter. A rabbit watches with approval. Luminescent pollen drifts
+through the air.
+
+**Text:**
+Without thinking, Elise cupped her hands around a tiny grey flower, the way
+she might hold something fragile and precious. She didn't paint. She just
+noticed. Slowly, impossibly, color bloomed from the flower's center. Grey to
+lavender to purple, spreading petal by petal. Her breath caught. The flower
+didn't need fixing. It needed someone to truly see it.
+
+--------------------------------------------------------------------------------
+
+### Spread 7: el-07.yaml
+**Node Type:** Mirrored Node | **Beat:** Rising stakes: almost works
+
+#### Description
+
+Elise's patient attention restores flowers one by one, but the endless scale of the fading threatens to overwhelm her.
+
+#### Page 17 (Left) - Making progress toward goal
+
+**Visual:**
+Elise kneels in a meadow, hands cupped around a flower that glows with
+restored color. Around her, a small circle of healed blooms creates an
+island of beauty. A lantern hangs from a crooked post nearby, its flame
+burning steady. Her expression shows peaceful focus. This is working.
+
+**Text:**
+Flower by flower, Elise brought color back. She cupped each bloom with
+patient attention, and one by one they remembered their beauty. The
+lantern nearby burned steady, its flame matching her calm focus. She'd
+found the answer. This was working.
+
+#### Page 18 (Right) - Realizing something is missing
+
+**Visual:**
+Elise stands and looks up from her small circle of restored flowers.
+The meadow stretches endlessly in every direction, thousands of grey
+flowers fading into the horizon. The lantern flame wavers as doubt
+creeps in. Her shoulders sag slightly. One flower at a time against
+all of this.
+
+**Text:**
+Then Elise stood and looked up. The meadow stretched forever. Thousands
+of grey flowers, tens of thousands, more than she could ever reach. The
+lantern flame wavered as her heart sank. Her way worked, but it was so
+slow. How could attention to one flower matter against all this grey?
+
+--------------------------------------------------------------------------------
+
+### Spread 8: el-08.yaml
+**Node Type:** Solo | **Beat:** All-is-lost / emotional low
+
+#### Description
+
+Elise faces a vast garden where everything has faded to grey, and she doubts her small, gentle approach can make any difference.
+
+#### Page 19 (Left) - External obstacles intensify
+
+**Visual:**
+Elise stands at the edge of an enormous garden stretching to the horizon,
+thousands of flowers, bushes, and trees all drained of color, rendered in
+shades of grey and pale ash. Elegant paths wind through colorless flowerbeds.
+A fountain flows with grey water in the distance. The sky above is overcast
+and heavy. The scale is overwhelming.
+
+**Text:**
+The garden stretched forever. Thousands of flowers, all grey. Trees that
+should have shimmered stood like pencil sketches waiting for color that would
+never come. Elise's careful, gentle approach had restored a few blooms. A
+few. Looking at this vast emptiness, those few felt like nothing at all.
+
+#### Page 20 (Right) - Inner doubt and discouragement
+
+**Visual:**
+Elise stands very still, arms wrapped around herself in a self-protective hug,
+chin tucked down. Her watercolor set lies fallen on the ground beside her feet.
+Tears glisten on her cheeks, quiet crying showing deep sadness. In the near
+foreground, one small flower retains a hint of color, but she hasn't noticed it.
+
+**Text:**
+Elise wrapped her arms around herself, trying to hold the pieces together.
+Tears slid down her cheeks, quiet and unstoppable. She was too small. Too
+gentle. Too slow. How could one nine-year-old who just noticed things possibly
+matter against all this grey? Her watercolor set lay forgotten at her feet,
+its colors seeming foolish now.
+
+--------------------------------------------------------------------------------
+
+### Spread 9: el-09.yaml
+**Node Type:** Resonant Node | **Beat:** Deepening choice / inner shift
+
+#### Description
+
+Elise notices a single restored flower still glowing, chooses to continue—and feels an unexpected warmth ripple through the meadow.
+
+#### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Elise kneels beside a single glowing flower in the grey meadow, her
+earlier work still holding its color. Her watercolor set lies open
+beside her, but she's not painting—she's simply looking at the one
+flower she helped. Her expression shifts from despair to something
+softer. One flower mattered.
+
+**Text:**
+Through her tears, Elise saw one flower still glowing. Just one, from
+her earlier work, holding its color against all the grey. It was tiny.
+It was almost nothing. But it was real. She picked up her watercolor
+set. If one flower could matter, then the next one could too.
+
+#### Page 22 (Right) - Feeling the connection
+
+**Visual:**
+Golden threads shimmer into visibility across the meadow, pulsing
+with warm light. Elise looks up, wonder on her face, as she feels
+something like encouragement wash over her. Near her feet, a flower
+begins to restore its color without her touching it. The grey seems
+less heavy.
+
+**Text:**
+Golden light rippled through the air, threads she'd never seen before,
+connecting the whole meadow. Elise felt warmth spread through her chest,
+like someone somewhere was choosing the same courage she was. A flower
+near her feet began to glow—without her even touching it. She wasn't
+doing this alone.
+
+--------------------------------------------------------------------------------
+
+### Spread 10: el-10.yaml
+**Node Type:** Solo | **Beat:** Climax: big action
+
+#### Description
+
+Elise reaches the Heart Crystal's center and faces the choice to offer her own gentle light, fearing it might not be bright enough.
+
+#### Page 23 (Left) - Facing the final challenge
+
+**Visual:**
+Elise stands at the Heart Crystal's nexus, hundreds of faded golden threads
+converging around her. She stands quietly, hands at her sides with palms
+facing outward in an open, offering gesture. Inside her chest, visible through
+a soft transparency, a gentle light glows like candlelight. Her eyes are closed
+as if gathering courage.
+
+**Text:**
+The Heart Crystal's center surrounded her, threads converging from every direction.
+Inside her chest, Elise felt her light: small and soft, like a candle, not
+a bonfire. She could almost hear herself thinking: it's not enough. But the
+threads leaned toward her hopefully. They seemed to be waiting for exactly
+what she carried.
+
+#### Page 24 (Right) - Taking decisive action
+
+**Visual:**
+Elise extends her hands outward, palms up, as soft light spreads from her
+chest into the waiting threads. Her expression shows fear and determination
+mixed together, jaw trembling but stance holding steady. Around her, creatures
+of Kathaél have gathered in a circle, watching. The dim threads begin to
+brighten with gentle color.
+
+**Text:**
+Elise opened her hands. She let her small, gentle light spread outward,
+expecting it to disappear like a candle in wind. Instead, the threads caught
+it. Passed it along. Her light touched one thread, which brightened, which
+touched another. Color spread like ripples in still water. Her light was
+exactly enough.
+
+--------------------------------------------------------------------------------
+
+### Spread 11: el-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+#### Description
+
+Elise releases her light into the Heart Crystal, and colors bloom across Kathaél in gentle, natural waves. She receives a token of her gift.
+
+#### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Heart Crystal's threads glow warmly, flowing through its facets with soft
+watercolor washes of lavender, rose, sage, and amber. Elise stands with both
+hands raised to chest height, and resting across her palms is a small, perfect
+paintbrush made of light and golden thread. Her expression shows quiet wonder
+and shy joy. Flowers bloom in soft hues around her.
+
+**Text:**
+Color spread through Kathaél like watercolor on wet paper, gentle and alive.
+The threads glowed with soft hues: lavender, rose, sage, sky blue. Elise
+watched her small light become something vast and beautiful. Then warmth
+gathered in her palms, forming into a paintbrush of starlight. A gift. Proof
+that noticing mattered.
+
+#### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Elise walks along a path lined with flowers in full, gentle color. The
+starlight paintbrush is tucked carefully into her pocket. Creatures of
+Kathaél watch her go: a rabbit hopping in a small circle, birds singing
+softly, a deer bowing its head. In the distance, her ordinary world glows
+warmly between the trees.
+
+**Text:**
+Elise tucked the paintbrush into her pocket, where it hummed with soft warmth.
+The path home was lined with flowers that hadn't been there before, blooming
+in colors she had helped remember. A rabbit hopped beside her for a few steps.
+A deer bowed its head as she passed. Even leaving, she felt like she belonged.
+
+--------------------------------------------------------------------------------
+
+### Spread 12: el-12.yaml
+**Node Type:** Solo | **Beat:** Resolution (emotional) + series button
+
+#### Description
+
+Elise returns to her room and her drawing, but now she sees the light in everything she creates—knowing her gentle attention matters.
+
+#### Page 27 (Left) - Returning to ordinary world
+
+**Visual:**
+Elise sits at her small desk in the same position as the opening, drawing
+with focused joy. The colored pencil in her hand carries a faint shimmer.
+Her watercolor set sits open on the desk, one paintbrush glowing subtly with
+golden light. Her expression is peaceful and content, posture relaxed and
+confident in a new way.
+
+**Text:**
+Elise's room looked exactly the same: desk by the window, drawings on the
+wall, art supplies scattered in their familiar mess. But when she picked up
+her colored pencils, she felt the starlight paintbrush humming in her pocket.
+She began to draw, and this time, she drew differently.
+
+#### Page 28 (Right) - Transformed by the journey
+
+**Visual:**
+Elise's drawing shows a meadow full of flowers in gentle, beautiful colors,
+and every flower on the page glows softly with its own light. On the wall
+behind her, her other drawings have begun to show the same subtle glow.
+Outside, a butterfly with faintly luminescent wings rests on the windowsill,
+watching her draw.
+
+**Text:**
+Every flower she drew seemed to glow, just a little. Not magic. Just attention.
+Elise noticed every color, every shadow, every small thing that mattered.
+Outside her window, an ordinary butterfly sat on the sill, its wings catching
+light in a way that might have been magical. Elise smiled. Her gentle way of
+seeing was exactly enough.
+
+--------------------------------------------------------------------------------
+
+## Narrative Node Analysis
+
+This story connects with other characters at 2 point(s):
+
+### Meeting Node with Maya (MA)
+
+#### Before (from Maya's story)
+
+##### Spread 2: ma-02.yaml
+**Node Type:** Solo | **Beat:** Inciting incident
+
+###### Description
+
+Maya touches the glowing dancer and finds herself pulled into Kathaél, where performances and dances are frozen mid-movement.
+
+###### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+Maya stands between worlds, her paint-stained fingers touching a shimmering
+portal where her painting transformed into a doorway. Through it, she sees
+a meadow with frozen dancers—shadow figures stuck mid-leap, mid-spin,
+unable to complete their movements. Golden threads connect them but flicker
+weakly. Her athletic build is poised on tiptoes, ready to leap through.
+
+**Text:**
+When Maya touched the glowing dancer, the painting opened like a door.
+Through it she saw a meadow filled with frozen performances—dancers
+stuck mid-leap, musicians silent with instruments raised, performers
+captured in moments that should have flowed into the next. Golden threads
+connected them all, flickering like candles about to die. Something was
+very wrong.
+
+###### Page 8 (Right) - Decision to act
+
+**Visual:**
+Maya steps fully into Kathaél, standing in the meadow of frozen performances.
+Her Madrid bedroom fades to translucent behind her. She spins once,
+testing the space, and frozen dancers seem to lean toward her motion.
+Golden threads from the Heart Crystal drift closer. Her expression shows
+bold determination mixed with excited curiosity.
+
+**Text:**
+Maya stepped through, and her bedroom dissolved like watercolor in rain.
+The meadow surrounded her, silent where it should have been full of music
+and movement. She spun experimentally, and the frozen dancers seemed to
+sway toward her, yearning. "You need someone to help you finish," Maya
+understood. She grinned, bold and ready. "Perfect. I love a challenge."
+
+#### Shared/Connected Page
+
+##### Spread 3: el-ma-03.yaml (joint with MA)
+**Node Type:** Meeting Node | **Beat:** Attempt #1 (simple/obvious)
+
+###### Description
+
+Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+
+###### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Maya leaps and spins in the center of a faded meadow, her movements bold
+and energetic. She wears her signature pink-streaked hair flying as she
+dances, trying to bring life back through movement. Grey flowers surround
+her, unresponsive. In the distance, a figure with paint-stained hands
+kneels among the flowers.
+
+**Text:**
+Maya leaped high, arms stretched wide, spinning through the meadow like
+wind itself. If colors were fading, she'd dance them back to life. Her
+feet pounded the earth in rhythm, bold and decisive. The flowers barely
+stirred. She landed hard, breathing fast, and spun again. Nothing. In
+the distance, someone knelt among the grey blooms, moving carefully.
+
+###### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
+Both girls freeze mid-motion as recognition hits. Maya's expression shifts
+from determined to shocked to delighted. Elise's eyes widen with surprise
+and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
+their presence.
+
+**Text:**
+"Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
+her painting, eyes going wide. "Maya?!" They stared at each other for
+one breathless second. Then both burst out laughing, the sound bright
+and startled in the grey meadow. "What are YOU doing here?" they said
+at exactly the same time. The threads overhead pulsed warmer, as if
+recognizing their connection.
+
+#### After (from Maya's story)
+
+##### Spread 4: ma-04.yaml
+**Node Type:** Solo | **Beat:** Attempt #2 (ask the expert)
+
+###### Description
+
+Maya searches for guidance on the proper technique to restore the frozen performances.
+
+###### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+Maya follows golden threads through the forest, dancing as she goes—
+little leaps and spins. The threads lead her toward a performance
+pavilion where multiple paths meet. She moves with natural athleticism,
+her pink-streaked hair bouncing. Her expression shows confident
+determination mixed with slight uncertainty about what comes next.
+
+**Text:**
+Maya danced along the thread-paths, hoping they'd lead to someone who
+knew the secret. There must be a right way to perform, a proper technique
+she was missing. The threads led her to a pavilion where performance
+paths crossed. "Someone here has to know the correct steps," she said,
+bouncing on her toes.
+
+###### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Maya stands at the pavilion where performance paths diverge. The threads
+pulse and point toward strange territory ahead—stages that shift shape,
+audiences made of shadow, performances that follow no rules she recognizes.
+A fox watches from nearby, its expression cautionary. Maya swallows but
+sets her chin determinedly.
+
+**Text:**
+The threads pulsed and pointed ahead, toward performance spaces that
+made no sense. Stages that changed shape. Dances with no choreography.
+Songs with no melody. A fox met her eyes, and Maya felt the warning:
+this would be harder than performing for her teachers or friends. "Okay,"
+Maya said, rolling her shoulders. "I can be brave."
+
+### Meeting Node with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Spread 3: no-03.yaml
+**Node Type:** Solo | **Beat:** Attempt #1 (simple/obvious)
+
+###### Description
+
+Noah confidently tries to intellectually decode the stuck stories and write endings based on his analysis, but they reject every logically crafted conclusion he offers.
+
+###### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Noah kneels beside a floating thread, notebook open, pen moving confidently.
+Glowing letters appear in the air beside the frozen story-words. The thread
+flickers, rejecting his ending, scattering his words like sparks. More failed
+attempts litter the mossy ground around him.
+
+**Text:**
+"Okay, I can figure this out." Noah knelt beside the frozen story and uncapped
+his pen. "She reached for the door and found her brother waiting." He analyzed
+the pattern: reunion equals resolution. "Perfect!" Noah announced. The thread
+trembled... then spat his words back at him like watermelon seeds. Letters
+bounced off his forehead. "Ow! Okay, not perfect!"
+
+###### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Noah sits against a tree trunk, surrounded by fading letters from failed
+endings bouncing off like rubber balls. His notebook shows crossed-out attempts.
+The frozen story-thread hangs incomplete nearby, unmoved. A fox with knowing
+eyes watches from the underbrush, looking almost amused.
+
+**Text:**
+Five more endings. Ten. Every single one dissolved or bounced back. Noah sat
+back, puzzled. "Weird. Those were solid endings." The fox in the underbrush
+chittered, and somehow Noah understood: Right for who? Noah tilted his head.
+"You mean... the stories want something different?" The fox flicked its tail
+and trotted deeper into the forest. Noah jumped up. "Wait, are you taking me
+somewhere?"
+
+#### Shared/Connected Page
+
+##### Spread 4: el-no-04.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+###### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+
+###### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+A crossroads beneath an ancient willow where forest paths meet. Golden threads
+flow through the branches, some frayed and flickering. Noah stands on the left
+path, notebook tucked under his arm, reaching toward a thread. In the distance,
+the Heart Crystal pulses weakly, more threads drifting loose.
+
+**Text:**
+"I've tried everything." Noah followed the threads to a crossroads beneath
+an ancient willow, hoping someone here might know what he was missing. The
+Crystal glowed through the trees, dimmer than before, more threads
+unraveling. He reached toward one, and it hummed warmly. But the path it
+suggested led deeper into unfamiliar territory.
+
+###### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Elise stands on the right path, watercolor set at her wrist, observing a
+different thread. Between the children, threads flow and intersect, creating
+a lattice of golden light. Both turn toward each other, curious. The willow's
+branches glow brighter where their paths nearly touch.
+
+**Text:**
+Noah spotted her at the same moment she spotted him. A girl with paint-stained
+fingers, reaching for the threads just like he was. "Are you trying to help
+them too?" he called. She nodded. "They keep rejecting everything I try."
+"Same." Something warm spread through his chest. He wasn't alone in this.
+The threads between them pulsed brighter and felt warm, like sunshine on skin.
+
+#### After (from Noah's story)
+
+##### Spread 5: mx-no-05.yaml (joint with MX)
+**Node Type:** Meeting Node | **Beat:** Attempt #3 (bigger world / stakes up)
+
+###### Description
+
+Max and Noah meet in a vast clearing where hundreds of stories are frozen. Both discover they've been using similar analytical approaches that don't work.
+
+###### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Max stands at the edge of a vast clearing where hundreds of golden threads
+hang suspended, all frayed and flickering. He holds a notebook filled with
+diagrams and systems for solving the problem. His expression shows alarm at
+the scale. In the distance, another figure with a notebook approaches, looking
+equally overwhelmed.
+
+**Text:**
+The clearing stretched impossibly wide. Hundreds of frozen stories hung in
+the air, all fraying at the edges. Max gripped his notebook tighter, systems
+and diagrams filling every page. He'd tried organizing them by type, by
+pattern, by structure. Nothing worked. The Crystal pulsed dimmer in the
+distance. A flower nearby turned to dust. "This is really bad."
+
+###### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+Max and Noah stand face to face, both holding notebooks covered in crossed-out
+attempts. Behind them, a storyteller in a patched coat gestures wildly at
+a flowchart, his formulaic approach causing a thread to smoke and knot.
+Both boys step back simultaneously, recognizing their own mistakes in
+the storyteller's methods.
+
+**Text:**
+"You want to help stories? I have the formula!" The storyteller lunged
+forward, grabbing threads. "Twelve steps, perfectly predictable!" A thread
+writhed and knotted, smoking. Max and another boy with sandy hair dove
+forward at the same time. "Stop!" they shouted together. They looked at
+each other, both breathing hard, both holding notebooks. The other boy's
+eyes widened. "You've been trying to analyze them too?"
+

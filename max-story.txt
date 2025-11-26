@@ -1,0 +1,632 @@
+# Max's Story
+
+**Character Code:** MX
+**Total Spreads:** 12
+**Layout:** 2 pages per spread, 1 image per page, 3-4 sentences per scene
+
+## Story
+
+### Spread 1: mx-01.yaml
+**Node Type:** Solo | **Beat:** Ordinary world + desire hint
+
+#### Description
+
+Max practices free throws in his driveway, frustrated by a persistent mistake he can't seem to fix, until a golden thread appears.
+
+#### Page 5 (Left) - Character in their ordinary world
+
+**Visual:**
+Max stands in his driveway shooting basketball free throws, his red
+hair bright in afternoon sun. A basketball hoop hangs above the garage.
+Around him, chalk marks on the pavement show failed attempts and
+corrections. His trombone case leans against the garage door. His jaw
+is set with determination, but frustration shows in his tense shoulders.
+
+**Text:**
+Clang. The ball bounced off the rim again. Max snatched it up and
+reset his position, checking his feet, his grip, his elbow angle.
+Everything should work. He'd analyzed every part. But shot after shot
+clanged wrong. He threw harder, adjusted faster, tried again. Still
+wrong. His hands clenched the ball. "Why do I keep missing?"
+
+#### Page 6 (Right) - First hint of something different
+
+**Visual:**
+Max freezes mid-shot as a golden thread floats through the air, weaving
+between the garage and the hoop. The thread pulses with urgent light,
+one end frayed and flickering. The basketball hovers forgotten in his
+hands as he stares. His expression shifts from frustration to curiosity.
+
+**Text:**
+A shimmer caught his eye. Golden thread drifted through the air, bright
+and impossible, weaving past his basketball hoop. But something looked
+wrong with it. The end flickered weakly, unraveling like a rope coming
+apart. Max dropped the ball. It bounced away, forgotten. The thread
+pulsed brighter, pulling gently toward the trees behind his house.
+"What are you?"
+
+--------------------------------------------------------------------------------
+
+### Spread 2: mx-02.yaml
+**Node Type:** Solo | **Beat:** Inciting incident
+
+#### Description
+
+Max follows the thread into Kathaél and discovers a world where courage fuels magic, but the Heart Crystal is cracking from abandoned attempts.
+
+#### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+Max stands at the threshold between his backyard and a glowing forest,
+gripping the golden thread. One foot on grass, one on luminous moss.
+Challenge courses stretch between trees, their obstacles frozen mid-motion.
+In the distance, the Heart Crystal rises, its facets cracked and dim.
+His athletic build is poised for action.
+
+**Text:**
+The thread tugged Max forward, and he grabbed it. One step took him from
+his driveway into a forest that glowed like someone painted it with light.
+Challenge courses wound between trees, their obstacles frozen wrong, half-built.
+The golden threads around them flickered weakly. A massive crystal structure
+rose ahead, cracks spreading across its surface. Something here needed fixing.
+
+#### Page 8 (Right) - Decision to act
+
+**Visual:**
+Max kneels beside a frozen challenge course, touching an obstacle that
+should move but doesn't. Golden threads connected to it pulse weakly.
+A fox with knowing eyes watches from nearby. The Heart Crystal glows
+dimly in the background. Max's expression shows determination and
+competitive focus kicking in.
+
+**Text:**
+Max knelt beside a frozen balance beam. It should have been moving, creating
+a challenge, but it hung still and grey. He pushed it, and it creaked sadly.
+The threads connected to it flickered like dying stars. A fox watched him
+with ancient eyes, and somehow Max understood: these challenges had been
+abandoned mid-attempt. "I don't quit," Max said, standing. "Let me help."
+
+--------------------------------------------------------------------------------
+
+### Spread 3: mx-03.yaml
+**Node Type:** Solo | **Beat:** Attempt #1 (simple/obvious)
+
+#### Description
+
+Max attacks frozen challenges with determination and perfect form, but forcing perfection makes them worse instead of better.
+
+#### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Max runs through an obstacle course with intense focus, his form perfect
+and controlled. He leaps barriers, balances on beams, climbs walls with
+textbook technique. Behind him, the obstacles he completes turn grey
+instead of glowing. His expression shows concentration and effort. He
+hasn't noticed the problem yet.
+
+**Text:**
+Max attacked the first course with everything he had. Perfect form, no
+mistakes, complete the challenge exactly right. He vaulted the first
+obstacle cleanly, balanced across the second without wavering, climbed
+the third with precise hand placement. Behind him, the obstacles he'd
+completed turned grey and cold. He landed the final jump. "Done!"
+
+#### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Max stands breathing hard, looking back at the course he completed. Every
+obstacle he touched has turned grey and lifeless. The golden threads
+connected to them have gone dark. A rabbit watches with sympathetic eyes.
+Max's confident expression crumbles to confusion and frustration.
+
+**Text:**
+Max turned back, grinning, ready for his next challenge. The grin died.
+Every obstacle he'd completed perfectly was now grey as stone, threads
+dark and dead. "No. No, I did it right!" He ran back, tried again,
+faster this time, more perfect. More obstacles turned grey. The rabbit
+twitched its nose. Wrong how? Max thought, frustrated. How can doing
+it right be wrong?
+
+--------------------------------------------------------------------------------
+
+### Spread 4: mx-04.yaml
+**Node Type:** Solo | **Beat:** Attempt #2 (ask the expert)
+
+#### Description
+
+Max follows the threads to find an expert, hoping someone knows the correct technique he's missing.
+
+#### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+Max jogs through the forest following golden threads, notebook tucked
+under his arm filled with technique notes. The threads lead him toward
+a training ground where multiple paths converge. He scans the area
+with competitive focus, looking for someone who might have answers.
+His athletic stride shows confidence despite his earlier failures.
+
+**Text:**
+Max followed the strongest threads, hoping they'd lead to someone who
+knew the right technique. He'd been approaching it wrong, clearly.
+There must be a system, a method, a proper way to fix these challenges.
+The threads led him to a training ground where paths crossed. "Someone
+here has to know how this works."
+
+#### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Max stands at a crossroads where training paths meet. Golden threads
+pulse and point toward unfamiliar territory ahead—a place where the
+challenges look harder, weirder, nothing like the sports courses he
+knows. A deer watches from the edge, its expression warning. Max
+swallows but sets his jaw determinedly.
+
+**Text:**
+The threads pulsed and pointed ahead, toward training grounds that looked
+nothing like basketball courts or track fields. Obstacles twisted in
+impossible shapes, challenges that made no sense. A deer met his eyes,
+and Max understood the message: this would be harder than anything he'd
+tried. "Okay," Max said, rolling his shoulders. "I can handle hard."
+
+--------------------------------------------------------------------------------
+
+### Spread 5: mx-no-05.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #3 (bigger world / stakes up)
+
+#### Description
+
+Max and Noah meet in a vast clearing where hundreds of stories are frozen. Both discover they've been using similar analytical approaches that don't work.
+
+#### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Max stands at the edge of a vast clearing where hundreds of golden threads
+hang suspended, all frayed and flickering. He holds a notebook filled with
+diagrams and systems for solving the problem. His expression shows alarm at
+the scale. In the distance, another figure with a notebook approaches, looking
+equally overwhelmed.
+
+**Text:**
+The clearing stretched impossibly wide. Hundreds of frozen stories hung in
+the air, all fraying at the edges. Max gripped his notebook tighter, systems
+and diagrams filling every page. He'd tried organizing them by type, by
+pattern, by structure. Nothing worked. The Crystal pulsed dimmer in the
+distance. A flower nearby turned to dust. "This is really bad."
+
+#### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+Max and Noah stand face to face, both holding notebooks covered in crossed-out
+attempts. Behind them, a storyteller in a patched coat gestures wildly at
+a flowchart, his formulaic approach causing a thread to smoke and knot.
+Both boys step back simultaneously, recognizing their own mistakes in
+the storyteller's methods.
+
+**Text:**
+"You want to help stories? I have the formula!" The storyteller lunged
+forward, grabbing threads. "Twelve steps, perfectly predictable!" A thread
+writhed and knotted, smoking. Max and another boy with sandy hair dove
+forward at the same time. "Stop!" they shouted together. They looked at
+each other, both breathing hard, both holding notebooks. The other boy's
+eyes widened. "You've been trying to analyze them too?"
+
+--------------------------------------------------------------------------------
+
+### Spread 6: mx-06.yaml
+**Node Type:** Mirrored Node | **Beat:** Midpoint: new insight / pattern
+
+#### Description
+
+Max exhausts himself trying to restart perfectly after each mistake, then discovers that continuing through mistakes is his true strength.
+
+#### Page 15 (Left) - Recognizing what doesn't work
+
+**Visual:**
+Max slumps against a training post in a rocky clearing, chest heaving.
+Around him, puzzle pieces from failed attempts scatter the ground. A
+challenge course shifts and reshapes itself behind him. A compass hangs
+from the post beside his head, its needle spinning wildly. His notebook
+lies closed at his feet.
+
+**Text:**
+Max collapsed against the post, lungs burning. Every time he made a
+mistake, he'd started over from the beginning. Perfectly. But the course
+kept changing, and he kept failing, and he was so tired of restarting.
+The compass beside him spun in frantic circles, pointing nowhere. He
+closed his eyes. Maybe perfect wasn't the answer.
+
+#### Page 16 (Right) - Discovering a new pattern
+
+**Visual:**
+Max stands before the challenge course, and instead of restarting after
+a mistake, he keeps moving forward. Behind him, his footprints show a
+messy path with corrections and stumbles, but all moving forward. The
+compass's needle points steady and true directly at him. Golden threads
+pulse approval.
+
+**Text:**
+Max stood and faced the course again. This time, when he stumbled on
+the third obstacle, he didn't restart. He caught himself, adjusted,
+and kept going. The course stopped shifting. The compass needle swung
+around and pointed straight at him, steady as stone. "Oh," Max breathed.
+"You don't want perfect. You want persistence."
+
+--------------------------------------------------------------------------------
+
+### Spread 7: mx-07.yaml
+**Node Type:** Solo | **Beat:** Rising stakes: almost works
+
+#### Description
+
+Max uses his new persistence-through-mistakes approach and restores several challenges, but when one goes really wrong, old habits return.
+
+#### Page 17 (Left) - Making progress toward goal
+
+**Visual:**
+Max works through a challenge course, his form less perfect but his
+movement continuous. When he stumbles, he corrects and keeps going.
+Behind him, restored obstacles glow with golden light. A lantern burns
+steady on a post nearby. His expression shows focused determination.
+This is working.
+
+**Text:**
+Max ran the course again, but differently this time. When he stumbled
+on a balance beam, he didn't restart. He caught himself, adjusted,
+kept moving. The beam began to glow. He missed a handhold on the wall,
+grabbed another, pulled himself up. The wall shimmered to life. The
+lantern beside him burned steady. "Yes! It's working!"
+
+#### Page 18 (Right) - Realizing something is missing
+
+**Visual:**
+Max stands frozen before a collapsed challenge—ropes tangled, structures
+broken—a mistake so big it looks unfixable. His hands clench in
+frustration. The lantern's flame sputters and dims. Behind him, his
+restored challenges begin to grey again. His expression shows the old
+habit of wanting to quit returning.
+
+**Text:**
+Then Max reached a challenge he'd completely destroyed earlier. Ropes
+tangled, structure collapsed, broken beyond recognition. His hands
+clenched. This wasn't a small mistake. This was massive failure. The
+lantern beside him flickered and dimmed. His restored challenges behind
+him began to grey. "I can't fix this," Max muttered, already stepping
+back. "This is too broken."
+
+--------------------------------------------------------------------------------
+
+### Spread 8: mx-08.yaml
+**Node Type:** Solo | **Beat:** All-is-lost / emotional low
+
+#### Description
+
+Max confronts a training ground destroyed by his earlier attempts, believing his mistakes have made things worse instead of better.
+
+#### Page 19 (Left) - External obstacles intensify
+
+**Visual:**
+Max stands in a training ground littered with broken obstacles, twisted
+metal, collapsed structures—all his earlier "perfect" attempts that
+failed catastrophically. Rain begins to fall. The Heart Crystal in
+the distance cracks with an audible sound. A challenge course nearby
+crumbles to dust. His tall athletic frame looks small against the damage.
+
+**Text:**
+The training ground stretched before him, destroyed. Every challenge
+he'd tried to complete perfectly lay in ruins—twisted metal, broken
+beams, courses that would never work again. Rain started falling, cold
+and heavy. The Crystal cracked louder. A nearby course collapsed to
+dust. "I thought I could fix this," Max whispered. "I just made
+everything worse."
+
+#### Page 20 (Right) - Inner doubt and discouragement
+
+**Visual:**
+Max sits slumped against a fallen obstacle, rain soaking his red hair,
+notebook abandoned beside him with pages smeared. His arms rest on his
+knees, head down. A small bird lands on the wreckage nearby, not singing,
+just present. One weak golden thread still glows faintly in the debris.
+
+**Text:**
+Max sank down against the wreckage, rain streaming down his face. His
+notebook lay beside him, all his systems and techniques smeared into
+illegible ink. He'd tried so hard. Analyzed everything. Kept going
+through small mistakes. But these big mistakes? The bird above didn't
+move. Just stayed. Max noticed the thread still glowing weakly in the
+debris. Even ruined, it hadn't completely died.
+
+--------------------------------------------------------------------------------
+
+### Spread 9: mx-09.yaml
+**Node Type:** Solo | **Beat:** Deepening choice / inner shift
+
+#### Description
+
+Max decides to attempt fixing the broken challenge not despite his big mistake, but through it—using the wreckage as raw material for something new.
+
+#### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Max stands, rain-soaked, and walks back toward the destroyed challenge.
+He picks up a broken piece of metal, testing its weight. His posture
+shows determination mixed with uncertainty. The bird from before watches
+with approval. His notebook lies closed on the ground—he's not following
+a system anymore.
+
+**Text:**
+Max stood. He didn't know how to fix this. Didn't have a system or
+technique. But the thread was still there, weak but alive. He walked
+back to the wreckage and picked up a broken beam. Maybe he couldn't
+restore what was. But maybe he could build something new from the
+mistake. "Okay," he said to the wreckage. "Let's try."
+
+#### Page 22 (Right) - Discovering the missed clue
+
+**Visual:**
+Max works with the broken pieces, not trying to rebuild the original
+perfectly but creating something new from the ruins. As he connects
+pieces, golden threads weave between them, stronger than before. A
+warmth spreads through the air—someone else's courage reaching him.
+The challenge begins glowing, different but alive.
+
+**Text:**
+Max pieced together broken beams, twisted metal, collapsed ropes—not
+rebuilding what was, but making something new. The threads wove between
+his hands, humming. Warmth flooded through him, bright and unexpected,
+like someone far away was being brave at the exact same moment. The
+challenge glowed to life, different from the original but stronger.
+"Mistakes don't have to be endings," Max breathed.
+
+--------------------------------------------------------------------------------
+
+### Spread 10: mx-10.yaml
+**Node Type:** Solo | **Beat:** Climax: big action
+
+#### Description
+
+Max brings his rebuilt-from-mistakes challenge to the Heart Crystal, choosing to offer something imperfect but real.
+
+#### Page 23 (Left) - Facing the final challenge
+
+**Visual:**
+Max stands at the Heart Crystal's base, hands pressed against the
+challenge-facet. Through the clear surface, he can see other facets—
+one glowing with stories, one shimmering with colors. His rebuilt
+challenge hovers beside him, cobbled together and imperfect. Cracks
+spread across the crystal. His jaw trembles with doubt.
+
+**Text:**
+Max stood at the Crystal's base, his rebuilt challenge hovering beside
+him. It wasn't perfect. You could see where he'd messed up, where he'd
+had to improvise, where mistakes became solutions. Through the crystal,
+he saw other facets glowing stronger. His hands shook. "This isn't
+good enough," he thought. But it was honest. It was his.
+
+#### Page 24 (Right) - Taking decisive action
+
+**Visual:**
+Max pushes his imperfect challenge toward the Crystal facet. Light
+blazes where they connect. The challenge transforms, its rough edges
+becoming its strength. Cracks seal with musical sounds. Golden threads
+pour from the facet, carrying the lesson: persistence through mistakes
+creates strength that perfection never could.
+
+**Text:**
+"It's not perfect," Max said out loud. "But I didn't quit." He pushed
+the challenge toward the facet. For one terrible moment, nothing happened.
+Then—light exploded where they connected. The challenge's rough edges
+blazed like a constellation. Cracks sealed themselves with sounds like
+victory bells. Golden threads poured from the challenge-facet, stronger
+than any perfect attempt could have made them. Persistence had won.
+
+--------------------------------------------------------------------------------
+
+### Spread 11: mx-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+#### Description
+
+The Heart Crystal blazes with renewed strength, and Max receives a wristband that glows when he persists through difficulty.
+
+#### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Heart Crystal blazes with light, every facet glowing strong. Max's
+challenge weaves into the crystal structure, its imperfect form creating
+new patterns. Between his hands materializes a simple wristband woven
+from golden thread, glowing softly. The fox from earlier watches with
+approval, tail swishing.
+
+**Text:**
+The Crystal blazed like a star, every facet strong again. Max's imperfect
+challenge wove itself into the pattern, and somehow its rough edges made
+the whole structure more resilient. Light gathered in his palms, warm
+and solid, until a wristband appeared—simple, golden, pulsing gently.
+The fox sat nearby, watching. Max grinned. "I really didn't quit."
+
+#### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Max walks along a glowing path toward home, the wristband warm on his
+wrist. Around him, challenge courses complete themselves, incorporating
+mistakes into their designs instead of erasing them. A rabbit hops
+alongside him. His driveway with the basketball hoop glows warmly in
+the distance between trees.
+
+**Text:**
+Max walked home, the wristband humming against his wrist. All around,
+frozen challenges began moving again, their designs incorporating the
+stumbles and adjustments that made them real. A rabbit hopped beside
+him for a few steps, then darted away. "Thank you," Max called to the
+forest. The basketball hoop in his driveway gleamed ahead, looking
+somehow different.
+
+--------------------------------------------------------------------------------
+
+### Spread 12: mx-12.yaml
+**Node Type:** Solo | **Beat:** Resolution (emotional) + series button
+
+#### Description
+
+Max returns to his driveway and the basketball challenge, but now he approaches mistakes with curiosity instead of frustration.
+
+#### Page 27 (Left) - Returning to ordinary world
+
+**Visual:**
+Max stands in his driveway in the same position as the opening, basketball
+in hand, same hoop above the garage. But the chalk marks on the pavement
+now show a trail of adjustments leading to improvement, not just failures.
+The wristband glows softly on his wrist. His trombone case still leans
+against the garage. His expression is calm, curious.
+
+**Text:**
+Max's driveway looked the same: afternoon light, basketball hoop, chalk
+marks on the pavement. But he didn't feel the same. He picked up the
+basketball, set his position. The wristband hummed on his wrist. "Okay,"
+he said to the hoop. "Let's see what this attempt shows me."
+
+#### Page 28 (Right) - Transformed by the journey
+
+**Visual:**
+Max shoots. The ball clangs off the rim—but he grins instead of getting
+frustrated. He adjusts his stance based on the miss and shoots again.
+This shot swishes through. The wristband glows brighter. A golden thread
+shimmers at the edge of his vision, unfinished and inviting. The bird
+from Kathaél watches from a tree branch.
+
+**Text:**
+Clang. The ball bounced off the rim. Max grinned. "Too much force," he
+muttered, adjusting. He shot again. Swish. The wristband glowed warm
+against his skin. "Not about being perfect," he said, retrieving the
+ball. "It's about figuring it out as you go." At the tree's edge, a
+golden thread caught the light. The bird from Kathaél tilted its head.
+Max waved. More adventures were definitely coming.
+
+--------------------------------------------------------------------------------
+
+## Narrative Node Analysis
+
+This story connects with other characters at 1 point(s):
+
+### Meeting Node with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Spread 4: el-no-04.yaml (joint with EL)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+###### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+
+###### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+A crossroads beneath an ancient willow where forest paths meet. Golden threads
+flow through the branches, some frayed and flickering. Noah stands on the left
+path, notebook tucked under his arm, reaching toward a thread. In the distance,
+the Heart Crystal pulses weakly, more threads drifting loose.
+
+**Text:**
+"I've tried everything." Noah followed the threads to a crossroads beneath
+an ancient willow, hoping someone here might know what he was missing. The
+Crystal glowed through the trees, dimmer than before, more threads
+unraveling. He reached toward one, and it hummed warmly. But the path it
+suggested led deeper into unfamiliar territory.
+
+###### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Elise stands on the right path, watercolor set at her wrist, observing a
+different thread. Between the children, threads flow and intersect, creating
+a lattice of golden light. Both turn toward each other, curious. The willow's
+branches glow brighter where their paths nearly touch.
+
+**Text:**
+Noah spotted her at the same moment she spotted him. A girl with paint-stained
+fingers, reaching for the threads just like he was. "Are you trying to help
+them too?" he called. She nodded. "They keep rejecting everything I try."
+"Same." Something warm spread through his chest. He wasn't alone in this.
+The threads between them pulsed brighter and felt warm, like sunshine on skin.
+
+#### Shared/Connected Page
+
+##### Spread 5: mx-no-05.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #3 (bigger world / stakes up)
+
+###### Description
+
+Max and Noah meet in a vast clearing where hundreds of stories are frozen. Both discover they've been using similar analytical approaches that don't work.
+
+###### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Max stands at the edge of a vast clearing where hundreds of golden threads
+hang suspended, all frayed and flickering. He holds a notebook filled with
+diagrams and systems for solving the problem. His expression shows alarm at
+the scale. In the distance, another figure with a notebook approaches, looking
+equally overwhelmed.
+
+**Text:**
+The clearing stretched impossibly wide. Hundreds of frozen stories hung in
+the air, all fraying at the edges. Max gripped his notebook tighter, systems
+and diagrams filling every page. He'd tried organizing them by type, by
+pattern, by structure. Nothing worked. The Crystal pulsed dimmer in the
+distance. A flower nearby turned to dust. "This is really bad."
+
+###### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+Max and Noah stand face to face, both holding notebooks covered in crossed-out
+attempts. Behind them, a storyteller in a patched coat gestures wildly at
+a flowchart, his formulaic approach causing a thread to smoke and knot.
+Both boys step back simultaneously, recognizing their own mistakes in
+the storyteller's methods.
+
+**Text:**
+"You want to help stories? I have the formula!" The storyteller lunged
+forward, grabbing threads. "Twelve steps, perfectly predictable!" A thread
+writhed and knotted, smoking. Max and another boy with sandy hair dove
+forward at the same time. "Stop!" they shouted together. They looked at
+each other, both breathing hard, both holding notebooks. The other boy's
+eyes widened. "You've been trying to analyze them too?"
+
+#### After (from Noah's story)
+
+##### Spread 6: no-06.yaml
+**Node Type:** Solo | **Beat:** Midpoint: new insight / pattern
+
+###### Description
+
+Noah stops trying to analyze and understand everything and discovers that stories complete themselves when someone is simply present and honest with them.
+
+###### Page 15 (Left) - Recognizing what doesn't work
+
+**Visual:**
+Noah sits on a moss-covered boulder, notebook closed beside him, hands empty.
+Story-threads hang frozen around him. The storyteller's tangled mess glows
+dimly in the distance. Noah's posture shows exhaustion giving way to stillness.
+
+**Text:**
+Noah collapsed onto the moss-covered boulder, completely exhausted. His notebook
+slipped from his fingers. He was too tired to pick it up. Too tired to plan.
+Too tired to fix anything. For the first time, he just... stopped. No pen. No plan.
+Just him, being honest about not understanding.
+
+###### Page 16 (Right) - Discovering a new pattern
+
+**Visual:**
+A golden thread hovers before Noah, and as he watches without interfering,
+words begin forming at its trailing end, writing themselves in soft light.
+His eyes widen with understanding. A deer watches from the grove's edge.
+The completed thread glows brighter than any he's seen.
+
+**Text:**
+The thread in front of him trembled. Then, impossibly, words began writing
+themselves: "...and she realized home had been there all along." The thread
+sealed itself, glowing bright and whole. Noah's breath caught. He sat up slowly,
+afraid to scare it. The thread glowed brighter and brighter until it was almost
+too beautiful to look at. "You did it yourself," he whispered. "You just needed..."
+He trailed off, understanding flooding through him. "You needed someone to stick
+around. Someone to witness it."
+
