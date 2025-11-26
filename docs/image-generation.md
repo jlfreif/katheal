@@ -138,6 +138,77 @@ The script automatically includes reference images based on the page being gener
 
 Place your reference images in the `ref-images/` directory following this naming convention.
 
+### Character-Specific Reference Images
+
+The image generation system automatically includes character-specific reference images to maintain visual consistency across all pages.
+
+#### Reference Image Organization
+
+```
+ref-images/
+├── style-*.jpg                  # Style references (always included)
+├── no-noah-reference-01.jpg     # Noah character references
+├── no-noah-reference-02.png
+├── el-elise-reference-01.jpg    # Elise character references
+├── el-elise-outfit.png
+└── [character-code]-*.{jpg,png}  # Pattern for any character
+```
+
+#### How It Works
+
+1. **Automatic Detection**: The script extracts the character code from the page filename (e.g., `no-01.yaml` → character code `no`)
+
+2. **Pattern Matching**: It looks for reference images matching these patterns:
+   - `{char-code}-*.jpg` (e.g., `no-*.jpg`, `el-*.jpg`)
+   - `{CHAR-CODE}-*.jpg` (case insensitive)
+   - Any image file containing the character code
+
+3. **File Formats Supported**:
+   - `.jpg` / `.jpeg`
+   - `.png`
+
+4. **Inclusion in Prompt**: Reference images are automatically added to the generation prompt with descriptions like:
+   ```
+   REFERENCE IMAGES FOR NO:
+   Use these images for character consistency:
+   - no-noah-reference-01.jpg
+   - no-noah-outfit.png
+   ```
+
+#### Adding New Character References
+
+To add reference images for a new character:
+
+1. Create visual reference images (photos, illustrations, or sketches) showing:
+   - Facial features and expressions
+   - Clothing and outfit details
+   - Hair style and color
+   - Body proportions
+   - Typical poses or gestures
+
+2. Save them in `ref-images/` with the naming pattern:
+   - `{character-code}-{description}.{jpg|png}`
+   - Example: `no-casual-outfit.jpg`, `el-painting-pose.png`
+
+3. The next time you generate images for that character, these references will be automatically included
+
+#### Character Codes
+
+Current character codes:
+- `no` - Noah (story character)
+- `el` - Elise (color character)
+
+Add more as new characters are introduced to the series.
+
+#### Best Practices
+
+- **Consistency**: Use the same style/medium for all reference images
+- **Clarity**: High-quality, well-lit images work best
+- **Variety**: Include multiple angles and expressions
+- **Naming**: Use descriptive names (e.g., `no-happy-expression.jpg`, `no-winter-outfit.png`)
+- **Updates**: Replace or add references as the visual style evolves
+- **Documentation**: See `docs/visual_style.md` for complete illustration guidelines
+
 ## Setup
 
 1. Copy `.env.example` to `.env`

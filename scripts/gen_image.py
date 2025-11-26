@@ -187,6 +187,107 @@ def get_reference_images(page_id: str) -> list:
     return references
 
 
+def get_character_reference_images(character_code: str) -> list:
+    """
+    Get reference images for a specific character.
+    Looks in ref-images/ directory for character-specific images.
+
+    Args:
+        character_code: Two-letter character code (e.g., 'no', 'el')
+
+    Returns:
+        List of Path objects for reference images for this character
+    """
+    ref_dir = Path("ref-images")
+    if not ref_dir.exists():
+        return []
+
+    # Look for images matching character code pattern
+    # Examples: no-*.jpg, noah-*.png, NO_*.jpg (case insensitive)
+    character_patterns = [
+        f"{character_code}-*",
+        f"{character_code.upper()}-*",
+        f"*{character_code}*"  # Fallback for flexible naming
+    ]
+
+    character_refs = []
+    for pattern in character_patterns:
+        character_refs.extend(ref_dir.glob(f"**/{pattern}.jpg"))
+        character_refs.extend(ref_dir.glob(f"**/{pattern}.png"))
+        character_refs.extend(ref_dir.glob(f"**/{pattern}.jpeg"))
+
+    # Remove duplicates and return
+    return list(set(character_refs))
+
+
+def build_image_prompt_with_references(
+    page_data: dict,
+    character_code: str,
+    scene_side: str,
+    visual_style: str,
+    character_descriptions: dict
+) -> tuple:
+    """
+    Build complete image prompt including:
+    1. Visual description from YAML
+    2. Character reference images
+    3. Style guide references
+
+    Args:
+        page_data: Parsed YAML page data
+        character_code: Two-letter character code
+        scene_side: 'left' or 'right'
+        visual_style: Visual style string from world.yaml
+        character_descriptions: Character description dict
+
+    Returns:
+        Tuple of (complete_prompt, ref_images_list)
+    """
+    # Get base visual description
+    scene_data = None
+    for scene in page_data.get('scenes', []):
+        if scene.get('page') == scene_side:
+            scene_data = scene
+            break
+
+    if not scene_data:
+        return "", []
+
+    base_visual = scene_data.get('visual', '')
+    text = scene_data.get('text', '')
+
+    # Get character reference images
+    ref_images = get_character_reference_images(character_code)
+
+    # Build reference section
+    reference_note = ""
+    if ref_images:
+        reference_note = f"\n\nREFERENCE IMAGES FOR {character_code.upper()}:\n"
+        reference_note += "Use these images for character consistency:\n"
+        for img_path in ref_images:
+            reference_note += f"- {img_path.name}\n"
+
+    # Add style guide reference
+    style_note = "\n\nSTYLE GUIDELINES:"
+    style_note += "\n- See WRITING_STYLE.md for complete visual style"
+    style_note += "\n- See docs/visual_style.md for illustration guidelines (if exists)"
+    style_note += "\n- Consistent art style across all pages"
+    style_note += "\n- Age-appropriate for children 9-12"
+
+    # Build complete prompt using existing build_full_prompt function
+    # Convert ref_images to the format expected by build_full_prompt
+    references_formatted = []
+    for img in ref_images:
+        references_formatted.append({
+            "path": img,
+            "description": f"a reference image for character {character_code.upper()}"
+        })
+
+    # Note: We return the components rather than calling build_full_prompt here
+    # so the existing code flow can continue to use build_full_prompt
+    return (base_visual, text, references_formatted)
+
+
 def load_visual_style() -> str:
     """Load the visual style from world.yaml."""
     world_path = Path("world.yaml")

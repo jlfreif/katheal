@@ -37,7 +37,7 @@ hook: Guidance points toward unfamiliar territory with a warning about danger or
 payoff: A wise helper appears who offers new perspective or guidance.
 
 # Short description of the scene (1-2 sentences)
-description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, each seeking direction.
+description: Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, each seeking direction.
 
 # === MEETING NODE SPECIFIC FIELDS ===
 
@@ -45,7 +45,7 @@ description: Noah and Elise cross paths at a luminous crossroads where the Heart
 location: A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow tree
 
 # Shared action - what the characters do together
-shared_action: Both characters reach toward glowing threads of the Heart-Loom, sensing guidance from the luminous strands
+shared_action: Both characters reach toward glowing threads of the Heart Crystal, sensing guidance from the luminous strands
 
 # Dialogue packets for multi-POV syncing
 # Each packet contains dialogue that works from any character's perspective
@@ -63,7 +63,7 @@ image_alignment:
   shared_elements:
     - ancient willow tree with golden threads
     - multiple forest paths converging
-    - glowing Heart-Loom threads in the air
+    - glowing Heart Crystal threads in the air
     - morning mist in background
   pov_variants:
     - character_code: el
@@ -84,7 +84,7 @@ scenes:
     focus: Seeking guidance
     visual: |
       A crossroads in Kathaél where multiple forest paths meet beneath an ancient willow
-      tree whose branches glow softly with golden threads from the Heart-Loom. Noah (12
+      tree whose branches glow softly with golden threads from the Heart Crystal. Noah (12
       years old, sandy blond hair, medium build) stands on the left path, one hand extended
       toward a shimmering thread that hovers in the air at eye level, his expression
       focused and curious. Elise (9 years old, slim, graceful) stands on the right path,

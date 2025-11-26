@@ -1,7 +1,7 @@
 # Noah - Spread 11: Resolution (External)
 # Emotional beat: WONDER → GRATITUDE
 # Callbacks: The fox, the girl at crossroads, the stories he helped
-# External resolution: Heart-Loom healed; stories completing themselves
+# External resolution: Heart Crystal healed; stories completing themselves
 # Gift: Blank page representing trust in unwritten futures
 
 id: no-11
@@ -12,7 +12,7 @@ beat: "Resolution (external)"
 hook: Return journey begins with hint of future possibility or unresolved element.
 payoff: Character arrives home integrating what they gained from the journey.
 
-description: Noah's story completes itself, the Heart-Loom heals, and he receives a blank page that glows with possibility.
+description: Noah's story completes itself, the Heart Crystal heals, and he receives a blank page that glows with possibility.
 
 scenes:
   - page: left
@@ -20,16 +20,17 @@ scenes:
     focus: Goal achieved, external reward
 
     visual: |
-      The Heart-Loom glows brightly, fully healed, with Noah's completed thread
-      woven through it. Words shimmer in the pattern. Noah holds both hands at
-      chest height, and between them hovers a single blank page glowing with
-      soft golden light. The fox from earlier watches from the edge, approving.
+      The Crystal blazes like a star, every facet glowing. Noah's thread flows into
+      the story-facet, finding its place in the crystalline structure. Light refracts
+      through every facet in rainbow colors. Noah holds both hands at chest height,
+      and between them hovers a single blank page glowing with soft golden light.
+      The fox from earlier watches from the edge, approving.
 
     text: |
-      Noah's story wove itself into the tapestry, finding an ending he never would
-      have imagined. The Heart-Loom blazed with light, fully healed. The fox from
-      the forest sat nearby, eyes bright. Then warmth gathered in Noah's palms: a
-      blank page, glowing with possibility. "A beginning," he breathed. "Not
+      The Crystal blazed like a star, every facet glowing. Noah's thread wove itself
+      into the pattern, finding an ending that surprised and delighted him. The fox
+      sat nearby, tail swishing. Light gathered in Noah's palms, warm and tingly, until
+      a blank page appeared—glowing with possibility. "A beginning," he breathed. "Not
       an ending."
 
   - page: right
@@ -43,8 +44,8 @@ scenes:
       warmly in the distance.
 
     text: |
-      All around him, stories finished themselves. Threads that had hung frozen
-      finally found their endings. The rabbit with ancient eyes hopped past,
-      and Noah laughed. "Thank you," he called to the forest. He hoped the girl
-      at the crossroads could feel this too. The blank page warmed against his
-      heart as he walked home.
+      All around him, stories finished themselves with gentle chime sounds. Threads
+      that had hung frozen finally found their endings. The rabbit hopped past and
+      Noah laughed, giddy with relief and joy. "Thank you," he called to the forest.
+      He hoped the girl at the crossroads could feel this too. The blank page warmed
+      against his heart as he walked home.

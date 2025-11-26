@@ -1,7 +1,7 @@
 # Noah - Spread 8: All Is Lost
 # Emotional beat: DESPAIR → GLIMMER OF HOPE
 # Callbacks: He knew presence mattered but couldn't let go of needing to understand
-# Stakes peak: Heart-Loom failing; everything seems ruined
+# Stakes peak: Heart Crystal failing; everything seems ruined
 # Setup for resonant node: Courage creates connection
 
 id: no-08
@@ -21,14 +21,16 @@ scenes:
 
     visual: |
       Above Noah, dozens of story-threads have knotted into a massive tangle, words
-      jumbled together. The Heart-Loom pulses dimly in the distance, more threads
-      unraveling. Rain begins to fall, blurring the frozen words. The lantern
-      beside him has gone dark.
+      jumbled together. Where they touched, sparks flew. The Crystal pulsed dimly—then
+      one of its facets cracked with a sound like breaking glass. Rain began to fall,
+      cold and heavy. The lantern beside him has gone dark.
 
     text: |
       The stories he'd tried to fix had knotted into each other, a massive tangle
-      of analyzed endings and overthought beginnings. The Heart-Loom pulsed dimmer
-      than ever. Rain began to fall. "I knew," Noah whispered. "I knew presence
+      of analyzed endings and overthought beginnings. Above Noah, dozens of story-threads
+      had knotted into a massive tangle. Where they touched, sparks flew. The Crystal
+      pulsed dimly—then one of its facets cracked with a sound like breaking glass.
+      Rain began to fall, cold and heavy. "I knew," Noah whispered. "I knew presence
       mattered more than understanding. And I still couldn't stop trying to figure
       it all out."
 
@@ -43,8 +45,8 @@ scenes:
       still holding on.
 
     text: |
-      "I don't understand any of this." Noah's voice cracked. His notebook lay ruined,
-      full of analyzed patterns that missed what the stories actually needed. The bird
-      above didn't sing. It just stayed. Then Noah noticed something. The tangled stories
-      weren't dead. They were still glowing, faintly. Waiting. He didn't understand why,
-      but his presence had kept them from fading completely.
+      "I keep trying to help, but..." Noah's voice trailed off. His notebook lay in the
+      mud, pages covered in crossed-out attempts. He'd tried so hard. Maybe trying wasn't
+      enough. The bird above didn't sing. It just stayed. Then Noah noticed something.
+      The tangled stories weren't dead. They were still glowing, faintly. Waiting. He
+      didn't understand why, but his presence had kept them from fading completely.

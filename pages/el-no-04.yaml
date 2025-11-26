@@ -1,7 +1,7 @@
 # Shared page: Elise and Noah - Spread 4
 # Meeting Node: First Synchrony Node - CURIOSITY + PARALLEL JOURNEYS
 # Emotional beat: LONELINESS → CONNECTION
-# Stakes reinforced: Heart-Loom unraveling; neither can fix it alone
+# Stakes reinforced: Heart Crystal cracking; neither can fix it alone
 
 id: el-no-04
 spread: 4
@@ -11,7 +11,7 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Noah and Elise cross paths at a luminous crossroads where the Heart-Loom's threads converge, discovering they're both trying to help and neither has all the answers.
+description: Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
 
 scenes:
   - page: left
@@ -20,14 +20,14 @@ scenes:
 
     visual: |
       A crossroads beneath an ancient willow where forest paths meet. Golden threads
-      weave through the branches, some frayed and flickering. Noah stands on the left
+      flow through the branches, some frayed and flickering. Noah stands on the left
       path, notebook tucked under his arm, reaching toward a thread. In the distance,
-      the Heart-Loom pulses weakly, more threads drifting loose.
+      the Heart Crystal pulses weakly, more threads drifting loose.
 
     text: |
       "I've tried everything." Noah followed the threads to a crossroads beneath
       an ancient willow, hoping someone here might know what he was missing. The
-      Heart-Loom glowed through the trees, dimmer than before, more threads
+      Crystal glowed through the trees, dimmer than before, more threads
       unraveling. He reached toward one, and it hummed warmly. But the path it
       suggested led deeper into unfamiliar territory.
 
@@ -37,7 +37,7 @@ scenes:
 
     visual: |
       Elise stands on the right path, watercolor set at her wrist, observing a
-      different thread. Between the children, threads weave and intersect, creating
+      different thread. Between the children, threads flow and intersect, creating
       a lattice of golden light. Both turn toward each other, curious. The willow's
       branches glow brighter where their paths nearly touch.
 
@@ -46,4 +46,4 @@ scenes:
       fingers, reaching for the threads just like he was. "Are you trying to help
       them too?" he called. She nodded. "They keep rejecting everything I try."
       "Same." Something warm spread through his chest. He wasn't alone in this.
-      The threads between them pulsed brighter, as if recognizing something.
+      The threads between them pulsed brighter and felt warm, like sunshine on skin.

@@ -8,7 +8,7 @@ beat: "Climax: big action"
 hook: Threshold moment with hesitation about taking the final irreversible step.
 payoff: The choice works and goal is achieved, validating the journey.
 
-description: Elise reaches the Heart-Loom's center and faces the choice to offer her own gentle light, fearing it might not be bright enough.
+description: Elise reaches the Heart Crystal's center and faces the choice to offer her own gentle light, fearing it might not be bright enough.
 
 scenes:
   - page: left
@@ -16,14 +16,14 @@ scenes:
     focus: Facing the final challenge
 
     visual: |
-      Elise stands at the Heart-Loom's nexus, hundreds of faded golden threads
+      Elise stands at the Heart Crystal's nexus, hundreds of faded golden threads
       converging around her. She stands quietly, hands at her sides with palms
       facing outward in an open, offering gesture. Inside her chest, visible through
       a soft transparency, a gentle light glows like candlelight. Her eyes are closed
       as if gathering courage.
 
     text: |
-      The Heart-Loom's center surrounded her, threads converging from every direction.
+      The Heart Crystal's center surrounded her, threads converging from every direction.
       Inside her chest, Elise felt her light: small and soft, like a candle, not
       a bonfire. She could almost hear herself thinking: it's not enough. But the
       threads leaned toward her hopefully. They seemed to be waiting for exactly
