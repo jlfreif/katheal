@@ -1,6 +1,6 @@
 # Resonant Node: Spread 9
 # SYNCHRONY NODE 3: MUTUAL BRAVERY + EMOTIONAL RESONANCE
-# Noah and Elise's courage ripples across distance through the Heart-Loom
+# Noah and Elise's courage ripples across distance through the Heart Crystal
 
 id: resonant-09
 spread: 9
@@ -13,7 +13,7 @@ synchrony_position: 3
 synchrony_theme: MUTUAL BRAVERY + COMMITMENT + EMOTIONAL RESONANCE
 synchrony_purpose: |
   Characters' courage ripples across distance. Their brave choices strengthen
-  each other through the Heart-Loom. Deep connection without proximity.
+  each other through the Heart Crystal. Deep connection without proximity.
   This is the culmination of the synchrony arc: from curiosity (Node 1) through
   shared difficulty (Node 2) to mutual bravery (Node 3).
 
@@ -75,10 +75,10 @@ ripple_effects:
 symbolic_resonance:
   phenomenon: golden_thread_shimmer
   description: |
-    The Heart-Loom's threads briefly shimmer into visibility across all of
+    The Heart Crystal's threads briefly shimmer into visibility across all of
     Kathaél, connecting characters who are making brave choices. This is
     the Courage Rule made visible: when one heart chooses bravely, ripples
-    spread through the Heart-Loom, strengthening others.
+    spread through the Heart Crystal, strengthening others.
   manifestation_details:
     - Golden threads appear in the air, pulsing gently
     - Characters see the same shimmer though miles apart
@@ -90,7 +90,7 @@ world_connection: |
   This resonant moment embodies the Courage Rule: courage creates connection.
   When one heart chooses bravely, the ripple strengthens others who are also
   being brave. Neither child can see the other, but their choices interweave
-  in the Heart-Loom. This is the payoff for meeting at the crossroads:
+  in the Heart Crystal. This is the payoff for meeting at the crossroads:
   connection that transcends proximity.
 
 scene_templates:

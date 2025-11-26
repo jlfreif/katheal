@@ -16,7 +16,111 @@
 
 ---
 
-## 2. Core "Show Don't Tell" Principles
+## 2. Age 9-12 Action & Sensory Writing Principles
+
+### Target Tone for Ages 9-12
+- **Curious and Active**: Characters explore, experiment, move constantly
+- **Adventurous**: Physical challenges and external obstacles
+- **Age-Appropriate**: Smart vocabulary without condescension
+- **Encouraging**: Characters learn through action, not harsh self-criticism
+- **Sensory-Rich**: Appeal to all five senses in every scene
+
+### Writing Balance Formula
+**Target ratio: 70% external action/sensory / 30% internal reaction**
+
+Each spread (2 pages) should include:
+- **Physical movement** - Character going somewhere or doing something
+- **Sensory detail** - What it looks/sounds/feels/smells like
+- **External event** - Something happens in the world
+- **Character reaction** - Brief, focused on decision or next action
+- **Dialogue or interaction** - With creatures, environment, or other characters
+
+### DO (increase these elements)
+✅ **Show action and movement** - Characters running, climbing, chasing, dodging
+✅ **Use sensory details** - Sounds (chimes, hums, cracks), textures (warm, tingly, rough), smells
+✅ **Active creatures** - Animals guide, help, create obstacles, react - not just observe
+✅ **Visible consequences** - When magic fails, show what happens (flowers die, colors fade, birds go silent)
+✅ **Physical reactions** - Gasping, laughing, jumping - not just internal feelings
+✅ **Dialogue and interaction** - Characters talk with creatures and each other
+✅ **Immediate stakes** - Readers can SEE and UNDERSTAND what's at risk
+✅ **Learning through doing** - Characters figure things out by trying, not contemplating
+
+### DON'T (reduce these elements)
+❌ **Excessive internal monologue** - Limit to brief moments; prioritize external action
+❌ **Repeated anxiety language** - Avoid overusing "stomach tightened," "cheeks burning"
+❌ **Self-critical loops** - Characters shouldn't dwell on their failures harshly
+❌ **Heavy philosophical introspection** - Keep it light and action-oriented
+❌ **Passive observation** - Characters should participate, not just watch
+❌ **Abstract stakes** - Make consequences visible and concrete
+❌ **Static scenes** - Something should always be moving or changing
+
+### Active Verbs (use frequently)
+darted, lunged, dove, caught, spun, burst, reached, grabbed, climbed, ran, jumped, gasped, laughed, shouted, called, pressed, touched, pulled, pushed, dodged, chased, explored, examined
+
+### Sensory Words (use frequently)
+**Touch**: warm, cold, tingly, rough, smooth, soft, sharp, gentle
+**Sound**: hummed, chimed, cracked, rustled, whispered, sang, clinked, snapped
+**Sight**: glowing, shimmering, pulsing, flickering, blazing, sparking, fading, brightening
+**Smell**: (use sparingly but memorably)
+**Taste**: (rare but powerful when used)
+
+### Avoid Overusing
+- "stomach tightened" (anxiety) - use max 1-2 times per story
+- "cheeks burning" (shame) - use sparingly
+- "voice cracked" (emotion) - save for climactic moments only
+- "why do I keep..." (self-criticism) - replace with forward-looking questions
+- Long paragraphs without action or dialogue
+
+### Scene Structure Best Practices
+
+#### Each Scene Should Include:
+1. **Opening**: Physical action or movement
+2. **Middle**: Sensory details + external event
+3. **End**: Brief reaction leading to next action
+
+#### Good Scene Example:
+```
+Noah darted between the trees, golden threads humming around him. He grabbed
+one—it felt warm, almost alive. The thread pulsed under his fingers, and
+words appeared in the air: "She opened the door and..." then nothing.
+"Come on," he whispered. "What happens next?"
+```
+
+#### Why This Works:
+- Physical action (darted, grabbed)
+- Sensory details (humming, warm, pulsed)
+- External event (words appeared)
+- Dialogue instead of introspection
+- Something is always happening
+
+### Character Development Through Action
+Characters should:
+- Make mistakes and learn from doing (not from introspection alone)
+- Show courage through action (not just deciding to be brave)
+- Interact with their environment constantly
+- Have physical reactions to emotional moments
+- Grow through experience and experimentation
+- Face external obstacles more than internal ones (60/40 ratio)
+
+### Magic and Fantasy Elements
+Magic in Kathaél should be:
+- **Visible** - Lights, colors, sparks, glows
+- **Audible** - Chimes, hums, musical notes, cracks
+- **Tactile** - Warm, cold, tingly, rough, smooth
+- **Active** - Moves, flows, responds, reacts to characters
+- **Consequential** - Has visible effects when it works or fails
+
+### Read-Aloud Test
+Every scene should:
+- Flow naturally when read aloud by a parent
+- Hold the attention of a 9-year-old listener
+- Not feel heavy, preachy, or overly serious
+- Include moments of wonder, humor, excitement, or surprise
+- Use rhythm and pacing that matches the action
+
+---
+
+## 3. Core "Show Don't Tell" Principles
 
 **Never state emotions directly. Always reveal them through physical sensations, actions, and sensory details.**
 

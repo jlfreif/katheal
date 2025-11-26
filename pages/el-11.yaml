@@ -8,7 +8,7 @@ beat: "Resolution (external)"
 hook: Return journey begins with hint of future possibility or unresolved element.
 payoff: Character arrives home integrating what they gained from the journey.
 
-description: Elise releases her light into the Heart-Loom, and colors bloom across Kathaél in gentle, natural waves. She receives a token of her gift.
+description: Elise releases her light into the Heart Crystal, and colors bloom across Kathaél in gentle, natural waves. She receives a token of her gift.
 
 scenes:
   - page: left
@@ -16,11 +16,11 @@ scenes:
     focus: Goal achieved, external reward
 
     visual: |
-      The Heart-Loom's threads glow warmly, interwoven with soft watercolor washes
-      of lavender, rose, sage, and amber. Elise stands with both hands raised to
-      chest height, and resting across her palms is a small, perfect paintbrush
-      made of light and golden thread. Her expression shows quiet wonder and shy
-      joy. Flowers bloom in soft hues around her.
+      The Heart Crystal's threads glow warmly, flowing through its facets with soft
+      watercolor washes of lavender, rose, sage, and amber. Elise stands with both
+      hands raised to chest height, and resting across her palms is a small, perfect
+      paintbrush made of light and golden thread. Her expression shows quiet wonder
+      and shy joy. Flowers bloom in soft hues around her.
 
     text: |
       Color spread through Kathaél like watercolor on wet paper, gentle and alive.

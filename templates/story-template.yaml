@@ -1,5 +1,63 @@
 # Story Template - Source of Truth
 #
+# ==============================================================================
+# STORY CREATION GUIDELINES - READ FIRST
+# ==============================================================================
+
+meta:
+  target_audience: "Children ages 9-12"
+  reading_level: "Independent readers or read-aloud by parents"
+  tone: "Curious, active, adventurous - not anxious or overly introspective"
+
+world_building:
+  central_object: "Heart Crystal"
+  description: "Massive crystalline structure, 6 facets, physically interactive"
+  note: "NOT Heart-Loom. Use crystal/prism/facet language, not tapestry/weaving/loom"
+
+writing_principles:
+  action_vs_introspection: "70% external action and sensory / 30% internal reaction"
+  primary_focus:
+    - "Show characters DOING things (running, climbing, chasing)"
+    - "Include sensory details in every scene (sounds, textures, temperatures)"
+    - "Give creatures active roles (guides, helpers, obstacles)"
+    - "Show visible consequences when things go wrong"
+    - "Use dialogue and interaction over contemplation"
+
+  avoid:
+    - "Excessive internal monologue or anxiety language"
+    - "Self-critical loops (why do I keep...)"
+    - "Heavy philosophical introspection"
+    - "Passive observation without participation"
+    - "Abstract stakes that kids can't visualize"
+
+language_patterns:
+  use_frequently:
+    verbs: ["darted", "lunged", "dove", "caught", "spun", "burst", "reached", "grabbed"]
+    sensory: ["warm", "cold", "tingly", "rough", "hummed", "chimed", "glowing", "shimmering"]
+    reactions: ["gasped", "laughed", "grinned", "eyes widened", "breath caught"]
+
+  use_sparingly:
+    anxiety: ["stomach tightened", "cheeks burning"]
+    emotion: ["voice cracked"]
+    self_criticism: ["why do I keep", "I always"]
+
+scene_structure:
+  each_spread_should_include:
+    - "Physical movement or action"
+    - "Sensory details (minimum 2 senses per spread)"
+    - "External event that advances plot"
+    - "Brief character reaction leading to next action"
+    - "Dialogue or creature interaction"
+
+  read_aloud_test:
+    - "Flows naturally when read by parent"
+    - "Holds attention of 9-year-old"
+    - "Includes moments of wonder or excitement"
+    - "Not heavy or overly serious"
+
+# For full style guide, see: WRITING_STYLE.md
+# ==============================================================================
+#
 # This template maps out a complete story arc across 12 spreads (24 pages).
 # Each spread contains 2 pages, and each page contains 1 scene with:
 #   - 1 image per page (2 images per spread)
