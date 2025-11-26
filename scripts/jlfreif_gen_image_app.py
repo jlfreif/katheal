@@ -5,8 +5,126 @@ from google import genai
 from google.genai import types
 
 
-def create_prompt(scene_data):
-    """Create a text prompt for image generation from scene data."""
+def load_visual_style():
+    """Load the visual style from world.yaml."""
+    world_path = Path("world.yaml")
+
+    if not world_path.exists():
+        return ""
+
+    try:
+        with open(world_path, "r") as f:
+            world_data = yaml.safe_load(f)
+    except Exception as e:
+        st.warning(f"Failed to load world.yaml: {e}")
+        return ""
+
+    visual_style = world_data.get("visual_style", [])
+    if visual_style:
+        return "\n".join(f"- {item}" for item in visual_style)
+    return ""
+
+
+def get_character_codes_from_page(page_filename):
+    """
+    Extract character codes from page filename.
+    Examples: el-01.yaml -> ['el'], no-01.yaml -> ['no'], el-no-04.yaml -> ['el', 'no']
+    """
+    # Remove .yaml extension and get the stem
+    stem = page_filename.replace('.yaml', '')
+
+    # Split by hyphen
+    parts = stem.split('-')
+
+    # Character codes are 2-letter alphabetic parts
+    char_codes = []
+    for part in parts:
+        if len(part) == 2 and part.isalpha():
+            char_codes.append(part)
+
+    return char_codes
+
+
+def get_character_reference_images(character_codes):
+    """
+    Get reference images for specific characters.
+    Returns dict mapping character code to list of image paths.
+    """
+    ref_dir = Path("ref-images")
+    if not ref_dir.exists():
+        return {}
+
+    character_refs = {}
+
+    for char_code in character_codes:
+        refs = []
+
+        # Look for images matching character code patterns
+        for ext in ['jpg', 'png', 'jpeg']:
+            refs.extend(ref_dir.glob(f"{char_code}-*.{ext}"))
+            refs.extend(ref_dir.glob(f"{char_code.upper()}-*.{ext}"))
+            refs.extend(ref_dir.glob(f"ref-{char_code}-*.{ext}"))
+            refs.extend(ref_dir.glob(f"ref-{char_code.upper()}-*.{ext}"))
+
+        # Remove duplicates
+        refs = list(set(refs))
+
+        if refs:
+            character_refs[char_code] = sorted(refs)
+
+    return character_refs
+
+
+def get_style_reference_images():
+    """Get style reference images."""
+    ref_dir = Path("ref-images")
+    if not ref_dir.exists():
+        return []
+
+    style_refs = []
+    for ext in ['jpg', 'png', 'jpeg']:
+        style_refs.extend(ref_dir.glob(f"style-*.{ext}"))
+
+    return sorted(style_refs)
+
+
+def load_character_descriptions(character_codes):
+    """
+    Load visual descriptions for characters.
+    Returns dict mapping character names to their visual descriptions.
+    """
+    char_dir = Path("characters")
+    if not char_dir.exists():
+        return {}
+
+    character_descriptions = {}
+
+    for char_code in character_codes:
+        # Try to find matching character file
+        for char_file in char_dir.glob("*.yaml"):
+            if 'template' in char_file.name or 'example' in char_file.name:
+                continue
+
+            try:
+                with open(char_file, 'r') as f:
+                    char_data = yaml.safe_load(f)
+
+                # Check if this is the right character
+                if char_data.get('id') == char_code:
+                    char_name = char_data.get('attributes', {}).get('name', char_code.upper())
+                    visual_desc = char_data.get('attributes', {}).get('visual_description', [])
+
+                    if visual_desc:
+                        character_descriptions[char_name] = visual_desc
+                    break
+            except:
+                continue
+
+    return character_descriptions
+
+
+def create_enhanced_prompt(scene_data, visual_style, character_descriptions, char_ref_images, style_ref_images):
+    """Create an enhanced prompt including visual style, character descriptions, and reference image info."""
     prompt_parts = []
 
     # Meta instructions
@@ -16,17 +134,52 @@ def create_prompt(scene_data):
     )
     prompt_parts.append("")
 
+    # Add visual style
+    if visual_style:
+        prompt_parts.append("--- VISUAL STYLE ---")
+        prompt_parts.append(visual_style)
+        prompt_parts.append("")
+
+    # Add character descriptions
+    if character_descriptions:
+        prompt_parts.append("--- CHARACTER VISUAL DESCRIPTIONS ---")
+        for char_name, desc_list in character_descriptions.items():
+            prompt_parts.append(f"\n{char_name}:")
+            for item in desc_list:
+                prompt_parts.append(f"- {item}")
+        prompt_parts.append("")
+
+    # Add reference image information
+    if char_ref_images or style_ref_images:
+        prompt_parts.append("--- REFERENCE IMAGES ---")
+        prompt_parts.append("The following reference images should guide the visual style and character appearance:")
+        prompt_parts.append("")
+
+        if char_ref_images:
+            prompt_parts.append("CHARACTER REFERENCES:")
+            for char_code, images in char_ref_images.items():
+                prompt_parts.append(f"  {char_code.upper()} character:")
+                for img_path in images:
+                    prompt_parts.append(f"    - {img_path.name}")
+            prompt_parts.append("")
+
+        if style_ref_images:
+            prompt_parts.append("STYLE REFERENCES:")
+            for img_path in style_ref_images:
+                prompt_parts.append(f"  - {img_path.name}")
+            prompt_parts.append("")
+
     # Image description section
     visual = scene_data.get("visual", "").strip()
     if visual:
-        prompt_parts.append("IMAGE DESCRIPTION:")
+        prompt_parts.append("--- SCENE TO ILLUSTRATE ---")
         prompt_parts.append(f"{visual}")
         prompt_parts.append("")
 
     # Image text section
     text = scene_data.get("text", "").strip()
     if text:
-        prompt_parts.append("IMAGE TEXT:")
+        prompt_parts.append("--- TEXT TO INCLUDE IN IMAGE ---")
         prompt_parts.append(f"{text}")
 
     return "\n".join(prompt_parts)
@@ -62,8 +215,30 @@ def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-
     return images
 
 
+# App title and description
 st.title("Storybook Image Generator")
 st.write("Generate images for your storybook pages using Nano Banana Pro")
+
+# Sidebar for reference images and style
+with st.sidebar:
+    st.header("Reference Materials")
+
+    # Load visual style
+    visual_style = load_visual_style()
+
+    # Visual style expander
+    if visual_style:
+        with st.expander("📖 Visual Style Guide", expanded=False):
+            st.markdown(visual_style)
+
+    # Style reference images
+    style_refs = get_style_reference_images()
+    if style_refs:
+        st.subheader("🎨 Style References")
+        for img_path in style_refs:
+            st.image(str(img_path), caption=img_path.name, use_container_width=True)
+    else:
+        st.info("No style reference images found (style-*.jpg)")
 
 # Get all page files and create a list of individual pages
 pages_dir = Path("pages")
@@ -92,6 +267,22 @@ else:
     selected_idx = display_names.index(selected_display)
     _, page_path, page_side, page_data = page_options[selected_idx]
 
+    # Get character codes from page filename
+    char_codes = get_character_codes_from_page(page_path.name)
+
+    # Load character-specific references
+    char_ref_images = get_character_reference_images(char_codes)
+    character_descriptions = load_character_descriptions(char_codes)
+
+    # Display character reference images in sidebar
+    if char_ref_images:
+        with st.sidebar:
+            st.subheader("👤 Character References")
+            for char_code, images in char_ref_images.items():
+                st.write(f"**{char_code.upper()}**")
+                for img_path in images:
+                    st.image(str(img_path), caption=img_path.name, use_container_width=True)
+
     # Find the specific scene for this page side
     scenes = page_data.get("scenes", [])
     selected_scene = None
@@ -103,11 +294,30 @@ else:
     if selected_scene:
         st.subheader(f"Page: {page_path.name} - {page_side.capitalize()}")
 
-        # Create and display the prompt at the top
-        prompt = create_prompt(selected_scene)
-        st.text_area(
-            "Prompt for image generation:", value=prompt, height=300, key="prompt"
+        # Show character info if available
+        if char_codes:
+            st.info(f"Characters in this page: {', '.join([c.upper() for c in char_codes])}")
+
+        # Create and display the enhanced prompt
+        prompt = create_enhanced_prompt(
+            selected_scene,
+            visual_style,
+            character_descriptions,
+            char_ref_images,
+            style_refs
         )
+
+        st.text_area(
+            "Prompt for image generation:", value=prompt, height=400, key="prompt"
+        )
+
+        # Character descriptions expander
+        if character_descriptions:
+            with st.expander("View Character Descriptions"):
+                for char_name, desc_list in character_descriptions.items():
+                    st.write(f"**{char_name}:**")
+                    for item in desc_list:
+                        st.write(f"- {item}")
 
         # Image generation controls
         st.divider()
@@ -135,6 +345,13 @@ else:
                 st.write(f"🔄 Calling model: {model}")
                 st.write(f"📝 Prompt length: {len(prompt)} characters")
                 st.write(f"📐 Aspect ratio: {aspect_ratio}")
+
+                if char_ref_images:
+                    total_refs = sum(len(imgs) for imgs in char_ref_images.values())
+                    st.write(f"👤 Character references: {total_refs} image(s)")
+
+                if style_refs:
+                    st.write(f"🎨 Style references: {len(style_refs)} image(s)")
 
                 generated_images = generate_image_with_gemini(
                     prompt, aspect_ratio=aspect_ratio, model=model
