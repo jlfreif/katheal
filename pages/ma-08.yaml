@@ -1,0 +1,50 @@
+# Maya's page - Spread 8
+# All-is-lost / emotional low
+# Maya faces overwhelming judgment and doubts whether being herself is good enough
+
+id: ma-08
+spread: 8
+node_type: solo
+beat: "All-is-lost / emotional low"
+
+hook: Self-doubt surfaces, questioning whether continuing is worth it.
+payoff: Something affirms that the effort matters and creates emotional reconnection.
+
+description: Maya stands before shadow-audiences that judge every move, believing her authentic self isn't enough to help.
+
+scenes:
+  - page: left
+    page_number: 19
+    focus: External obstacles intensify
+
+    visual: |
+      Maya stands frozen center stage in a vast amphitheater packed with
+      shadow-audiences, each row demanding something different from her.
+      "Be proper!" "Stop showing off!" "Where's your training?" Dark clouds
+      gather overhead. The Heart Crystal cracks audibly. A nearby performance
+      dissolves into grey smoke. Her athletic frame looks small and vulnerable.
+
+    text: |
+      The amphitheater filled with shadow-audiences, all judging. One section
+      wanted perfect ballet. Another wanted serious art. Another wanted her
+      to stop being so loud, so bold, so much. Dark clouds gathered. The
+      Crystal cracked louder. A performance beside her dissolved into smoke.
+      "I'm just me," Maya whispered. "Is that really not enough?"
+
+  - page: right
+    page_number: 20
+    focus: Inner doubt and discouragement
+
+    visual: |
+      Maya sits cross-legged on the empty stage, arms wrapped around herself,
+      her pink-streaked hair hanging forward to hide her face. The shadow-audiences
+      loom in the darkness. Her paint-stained hands rest empty in her lap. A
+      small butterfly lands nearby, its wings dull grey. One weak thread glows
+      faintly.
+
+    text: |
+      Maya sank down onto the stage, trying to make herself smaller. Maybe
+      everyone was right. Maybe her wild dancing and mixed styles and loud
+      colors were just showing off. Maybe she should be more like... she didn't
+      even know who. The butterfly landed nearby, its wings grey. But Maya
+      noticed it hadn't flown away. And one thread still glowed, faint but real.

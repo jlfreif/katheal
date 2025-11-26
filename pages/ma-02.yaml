@@ -1,0 +1,51 @@
+# Maya's page - Spread 2
+# Inciting incident
+# Maya touches the glowing painting and enters Kathaél
+
+id: ma-02
+spread: 2
+node_type: solo
+beat: Inciting incident
+
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Maya touches the glowing dancer and finds herself pulled into Kathaél, where performances and dances are frozen mid-movement.
+
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
+
+    visual: |
+      Maya stands between worlds, her paint-stained fingers touching a shimmering
+      portal where her painting transformed into a doorway. Through it, she sees
+      a meadow with frozen dancers—shadow figures stuck mid-leap, mid-spin,
+      unable to complete their movements. Golden threads connect them but flicker
+      weakly. Her athletic build is poised on tiptoes, ready to leap through.
+
+    text: |
+      When Maya touched the glowing dancer, the painting opened like a door.
+      Through it she saw a meadow filled with frozen performances—dancers
+      stuck mid-leap, musicians silent with instruments raised, performers
+      captured in moments that should have flowed into the next. Golden threads
+      connected them all, flickering like candles about to die. Something was
+      very wrong.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Maya steps fully into Kathaél, standing in the meadow of frozen performances.
+      Her Madrid bedroom fades to translucent behind her. She spins once,
+      testing the space, and frozen dancers seem to lean toward her motion.
+      Golden threads from the Heart Crystal drift closer. Her expression shows
+      bold determination mixed with excited curiosity.
+
+    text: |
+      Maya stepped through, and her bedroom dissolved like watercolor in rain.
+      The meadow surrounded her, silent where it should have been full of music
+      and movement. She spun experimentally, and the frozen dancers seemed to
+      sway toward her, yearning. "You need someone to help you finish," Maya
+      understood. She grinned, bold and ready. "Perfect. I love a challenge."

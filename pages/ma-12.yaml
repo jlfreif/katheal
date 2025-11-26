@@ -1,0 +1,51 @@
+# Maya's page - Spread 12
+# Resolution (emotional) + series button
+# Maya returns home transformed, painting with new confidence in her authentic self
+
+id: ma-12
+spread: 12
+node_type: solo
+beat: "Resolution (emotional) + series button"
+
+hook: Final moment of reflection showing ongoing connection or meaning.
+payoff: Landing complete - ordinary world echoes opening but transformed.
+
+description: Maya returns to her Madrid bedroom and her painting, but now she creates with full confidence in her authentic style.
+
+scenes:
+  - page: left
+    page_number: 27
+    focus: Returning to ordinary world
+
+    visual: |
+      Maya sits cross-legged on her bedroom floor in the same position as
+      the opening, surrounded by paint supplies. But now the magical paint
+      pot from Kathaél sits among her ordinary paints, glowing softly. Her
+      pink-streaked hair catches light the same way, but her posture radiates
+      confidence. The music plays. She's painting with bold joyful energy.
+
+    text: |
+      Maya's bedroom looked the same: afternoon light, paint everywhere, music
+      playing softly. But she didn't feel the same. She picked up her brush
+      and opened the magical paint pot. The colors inside shifted and glowed,
+      responding to her boldness. "Okay," she said to her blank paper. "Let's
+      make something wild and true."
+
+  - page: right
+    page_number: 28
+    focus: Transformed by the journey
+
+    visual: |
+      Maya paints with fierce joy—bold strokes, mixed colors, energy flying
+      off the page. The painting shows dancers in her own style: wild, authentic,
+      uniquely Maya. Parts of it glow with golden light. Her other paintings
+      on the walls seem brighter. Through the window, a golden thread shimmers.
+      The colorful butterfly from Kathaél rests on the windowsill, watching.
+
+    text: |
+      Maya painted like herself—big bold strokes, colors that clashed and sang,
+      energy that couldn't be contained. Not perfect. Not proper. Just true.
+      Parts of her painting glowed with golden light, the same light she'd
+      brought to Kathaél. Outside her window, a golden thread danced in Madrid
+      sunlight. The butterfly from the meadow sat on her sill, wings brilliant.
+      Maya grinned. "Being yourself," she said, "is the best adventure."

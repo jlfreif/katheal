@@ -1,0 +1,51 @@
+# Max's page - Spread 10
+# Climax: big action
+# Max reaches the Heart Crystal and must offer his broken-then-rebuilt challenge
+
+id: mx-10
+spread: 10
+node_type: solo
+beat: "Climax: big action"
+
+hook: Threshold moment with hesitation about taking the final irreversible step.
+payoff: The choice works and goal is achieved, validating the journey.
+
+description: Max brings his rebuilt-from-mistakes challenge to the Heart Crystal, choosing to offer something imperfect but real.
+
+scenes:
+  - page: left
+    page_number: 23
+    focus: Facing the final challenge
+
+    visual: |
+      Max stands at the Heart Crystal's base, hands pressed against the
+      challenge-facet. Through the clear surface, he can see other facets—
+      one glowing with stories, one shimmering with colors. His rebuilt
+      challenge hovers beside him, cobbled together and imperfect. Cracks
+      spread across the crystal. His jaw trembles with doubt.
+
+    text: |
+      Max stood at the Crystal's base, his rebuilt challenge hovering beside
+      him. It wasn't perfect. You could see where he'd messed up, where he'd
+      had to improvise, where mistakes became solutions. Through the crystal,
+      he saw other facets glowing stronger. His hands shook. "This isn't
+      good enough," he thought. But it was honest. It was his.
+
+  - page: right
+    page_number: 24
+    focus: Taking decisive action
+
+    visual: |
+      Max pushes his imperfect challenge toward the Crystal facet. Light
+      blazes where they connect. The challenge transforms, its rough edges
+      becoming its strength. Cracks seal with musical sounds. Golden threads
+      pour from the facet, carrying the lesson: persistence through mistakes
+      creates strength that perfection never could.
+
+    text: |
+      "It's not perfect," Max said out loud. "But I didn't quit." He pushed
+      the challenge toward the facet. For one terrible moment, nothing happened.
+      Then—light exploded where they connected. The challenge's rough edges
+      blazed like a constellation. Cracks sealed themselves with sounds like
+      victory bells. Golden threads poured from the challenge-facet, stronger
+      than any perfect attempt could have made them. Persistence had won.

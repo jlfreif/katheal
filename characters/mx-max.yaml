@@ -1,74 +1,85 @@
 # To view this character's complete story, run:
-#   python3 scripts/show_story.py no
+#   python3 scripts/show_story.py mx
 #
 # If you encounter any issues with page formatting or consistency, run:
 #   python3 scripts/validate_structure.py
 
-id: "no"
+# Id is a two-letter code for the character
+id: mx
 
+# What do we know about Max as a character
 attributes:
-  name: Noah
+  # Name is the full name of the character
+  name: Max
+
+  # Gender of the character
   gender: male
+
+  # How old is the character
   age: 12
 
+  # List top 3-5 values that motivate this character
+  # Examples: Adventure, Creativity, Justice, Family, Knowledge
   core_values_motivations:
-    - Seeking excitement
-    - Fairness / justice
-    - Creativity
+    - Learning new things
+    - Inventing things
+    - Following through on commitments
     - Making their own choices
-    - Being recognized for effort
+    - Making people laugh
+    - Competition
 
+  # Summarize the character's personality in 3-5 words or short phrases
+  # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
   key_personality_traits:
-    - High Intelligence
-    - Highly articulate
-    - Thoughtful and analytical
-    - Natural leader
+    - Inquisitive, always asking "why?"
+    - Bold and decisive
     - Outgoing and chatty
-    - Older-souled
-    - Seeks to understand patterns
+    - Restless and active
+    - Steady and reliable
     - Loves puzzles or riddles
 
+  # Activities or skills that reveal the character's interests and talents
+  # Examples: Painting, Coding, Hiking, Storytelling, Chess
+  # Note: Can inform interactive choices or story branching
   hobbies_interests_skills:
-    - Reading (especially clever, suspenseful, and action-rich stories)
-    - Writing
     - Basketball
-    - Designing board games
-    - Chess
-    - Performing or theatre
+    - Miming
+    - Trombone and piano
+    - Performing in front of people
 
+  # How does this character usually respond to stress, challenge, or reward?
+  # Examples: Calm under pressure, Quick to frustration, Reflective and empathetic
+  # Note: Useful for scripting dialogue, choices, or character arcs
   emotional_profile_typical_reactions:
-    - Becomes determined but can get overwhelmed
-    - Internalizes praise
-    - Emotionally expressive
-    - Wants to be consoled
+    - Becomes determined
+    - Gets frustrated but persists
+    - High-energy with big feelings
+    - Reliable
 
-  internal_conflict: |
-    Noah has a strong desire to understand everything before acting.
-    Because he is thoughtful and analytical, he sometimes hesitates when the path is unclear.
-    He wants to analyze, think through, and interpret patterns before making decisions.
-    His journey involves learning to trust presence over perfect understanding—
-    choosing honest participation even without having all the answers.
-
+  # How does the character relate to others and the world around them?
+  # Examples: Team-oriented, Prefers solitude, Competitive
+  # Note: Can shape interactions, alliances, and story outcomes
   social_context_relationships:
-    - Natural leader
-    - Liked by everyone
-    - Loves big family gatherings
-    - Observer who joins selectively
-    - '"Wise friend" energy'
+    - Leader of small groups
+    - Outgoing "connector"
+    - Loved by teachers
+    - Sees life as an adventure
+    - Sensitive to mood and energy
+    - Loves patterns and mysteries
 
+  # Signature habits, inside jokes, special belongings
   memorable_details:
-    - Excellent writer (writing book and blog)
-    - Often complimented on sandy blond and voluminous hair
-    - Really wants a dog
-    - Plays ukulele
+    - Likes the art of miming
+    - Plays trombone
+    - Very fast runner
 
+  # This will be sent to the prompting system.
+  # The description should include the age of the character
   visual_description:
     - 12 years old
-    - Male
-    - Sandy blond hair, voluminous
-    - Medium build
-    - Average height
-    - Moves confidently but not super athletic
+    - Straight and neatly brushed red hair
+    - Slim
+    - Tall and athletic
 
   # What story genres does the character (or the reader) enjoy most?
   # This will inform the writing style and plot direction.
@@ -77,9 +88,9 @@ attributes:
   # Magical Realism, Slice of Life, Nature/Outdoors, Superhero, Fables
   # Choose 1-3 genres that resonate most
   preferred_story_genres:
-    - Adventure
-    - Mystery
-    - Fantasy
+    - Adventure and Action
+    - Comedy
+    - Sports
 
   # Which courage theme should guide the character's story?
   # Choose the theme that best fits the character's journey and growth.
@@ -115,18 +126,23 @@ attributes:
   #       Resting, eating, or asking for a cuddle when you need it.
   #   15. Courage to Let Go
   #       Saying goodbye to something (or someone) who's moving on — even if it makes your heart ache.
-  courage_theme: Courage to Imagine Something Better
+  courage_theme: Courage to Keep Going After a Mistake
 
+# Storybook Pages (ordered list)
+# Initially this list is empty when we create the character
+# But more will get added as we follow the story creation steps
+# (see Readme.md).
+# NOTE: Pages should be shown without path `mx-01.yaml` rather than `pages/mx-01.yaml`
 story:
-  - no-01.yaml
-  - no-02.yaml
-  - no-03.yaml
-  - el-no-04.yaml
+  - mx-01.yaml
+  - mx-02.yaml
+  - mx-03.yaml
+  - mx-04.yaml
   - mx-no-05.yaml
-  - no-06.yaml
-  - no-07.yaml
-  - no-08.yaml
-  - no-09.yaml
-  - no-10.yaml
-  - no-11.yaml
-  - no-12.yaml
+  - mx-06.yaml
+  - mx-07.yaml
+  - mx-08.yaml
+  - mx-09.yaml
+  - mx-10.yaml
+  - mx-11.yaml
+  - mx-12.yaml

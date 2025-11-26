@@ -1,0 +1,50 @@
+# Maya's page - Spread 4
+# Attempt #2 (ask the expert)
+# Maya seeks out someone who knows the "right" way to perform
+
+id: ma-04
+spread: 4
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Maya searches for guidance on the proper technique to restore the frozen performances.
+
+scenes:
+  - page: left
+    page_number: 11
+    focus: Seeking guidance
+
+    visual: |
+      Maya follows golden threads through the forest, dancing as she goes—
+      little leaps and spins. The threads lead her toward a performance
+      pavilion where multiple paths meet. She moves with natural athleticism,
+      her pink-streaked hair bouncing. Her expression shows confident
+      determination mixed with slight uncertainty about what comes next.
+
+    text: |
+      Maya danced along the thread-paths, hoping they'd lead to someone who
+      knew the secret. There must be a right way to perform, a proper technique
+      she was missing. The threads led her to a pavilion where performance
+      paths crossed. "Someone here has to know the correct steps," she said,
+      bouncing on her toes.
+
+  - page: right
+    page_number: 12
+    focus: Receiving direction with warning
+
+    visual: |
+      Maya stands at the pavilion where performance paths diverge. The threads
+      pulse and point toward strange territory ahead—stages that shift shape,
+      audiences made of shadow, performances that follow no rules she recognizes.
+      A fox watches from nearby, its expression cautionary. Maya swallows but
+      sets her chin determinedly.
+
+    text: |
+      The threads pulsed and pointed ahead, toward performance spaces that
+      made no sense. Stages that changed shape. Dances with no choreography.
+      Songs with no melody. A fox met her eyes, and Maya felt the warning:
+      this would be harder than performing for her teachers or friends. "Okay,"
+      Maya said, rolling her shoulders. "I can be brave."

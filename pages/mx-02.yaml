@@ -1,0 +1,50 @@
+# Max's page - Spread 2
+# Inciting incident
+# Max follows the thread into Kathaél and discovers the Heart Crystal crisis
+
+id: mx-02
+spread: 2
+node_type: solo
+beat: Inciting incident
+
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Max follows the thread into Kathaél and discovers a world where courage fuels magic, but the Heart Crystal is cracking from abandoned attempts.
+
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
+
+    visual: |
+      Max stands at the threshold between his backyard and a glowing forest,
+      gripping the golden thread. One foot on grass, one on luminous moss.
+      Challenge courses stretch between trees, their obstacles frozen mid-motion.
+      In the distance, the Heart Crystal rises, its facets cracked and dim.
+      His athletic build is poised for action.
+
+    text: |
+      The thread tugged Max forward, and he grabbed it. One step took him from
+      his driveway into a forest that glowed like someone painted it with light.
+      Challenge courses wound between trees, their obstacles frozen wrong, half-built.
+      The golden threads around them flickered weakly. A massive crystal structure
+      rose ahead, cracks spreading across its surface. Something here needed fixing.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Max kneels beside a frozen challenge course, touching an obstacle that
+      should move but doesn't. Golden threads connected to it pulse weakly.
+      A fox with knowing eyes watches from nearby. The Heart Crystal glows
+      dimly in the background. Max's expression shows determination and
+      competitive focus kicking in.
+
+    text: |
+      Max knelt beside a frozen balance beam. It should have been moving, creating
+      a challenge, but it hung still and grey. He pushed it, and it creaked sadly.
+      The threads connected to it flickered like dying stars. A fox watched him
+      with ancient eyes, and somehow Max understood: these challenges had been
+      abandoned mid-attempt. "I don't quit," Max said, standing. "Let me help."

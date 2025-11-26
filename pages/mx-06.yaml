@@ -1,0 +1,50 @@
+# Max's page - Spread 6
+# Mirrored Node with Maya - Discovering authentic approach
+# Max learns that mistakes are part of persistence, not failures to avoid
+
+id: mx-06
+spread: 6
+node_type: mirrored
+beat: "Midpoint: new insight / pattern"
+
+hook: A pattern or clue emerges, suggesting a new direction based on observation.
+payoff: New approach is tried based on the insight from previous spread.
+
+description: Max exhausts himself trying to restart perfectly after each mistake, then discovers that continuing through mistakes is his true strength.
+
+scenes:
+  - page: left
+    page_number: 15
+    focus: Recognizing what doesn't work
+
+    visual: |
+      Max slumps against a training post in a rocky clearing, chest heaving.
+      Around him, puzzle pieces from failed attempts scatter the ground. A
+      challenge course shifts and reshapes itself behind him. A compass hangs
+      from the post beside his head, its needle spinning wildly. His notebook
+      lies closed at his feet.
+
+    text: |
+      Max collapsed against the post, lungs burning. Every time he made a
+      mistake, he'd started over from the beginning. Perfectly. But the course
+      kept changing, and he kept failing, and he was so tired of restarting.
+      The compass beside him spun in frantic circles, pointing nowhere. He
+      closed his eyes. Maybe perfect wasn't the answer.
+
+  - page: right
+    page_number: 16
+    focus: Discovering a new pattern
+
+    visual: |
+      Max stands before the challenge course, and instead of restarting after
+      a mistake, he keeps moving forward. Behind him, his footprints show a
+      messy path with corrections and stumbles, but all moving forward. The
+      compass's needle points steady and true directly at him. Golden threads
+      pulse approval.
+
+    text: |
+      Max stood and faced the course again. This time, when he stumbled on
+      the third obstacle, he didn't restart. He caught himself, adjusted,
+      and kept going. The course stopped shifting. The compass needle swung
+      around and pointed straight at him, steady as stone. "Oh," Max breathed.
+      "You don't want perfect. You want persistence."
