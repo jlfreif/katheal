@@ -1,0 +1,64 @@
+# Mirrored Node Definition - Spread 6
+# Max and Maya discover their true approaches through parallel insights
+
+id: mirrored-06
+spread: 6
+node_type: mirrored
+
+beat: "Midpoint: new insight / pattern"
+
+shared_theme_key: discovering_authentic_approach
+
+theme_description: |
+  Both Max and Maya realize that their initial attempts were trying to be
+  something they're not. Max learns that mistakes are part of his path,
+  while Maya discovers that being authentically herself is her strength.
+
+symbolic_motif:
+  name: courage_compass
+  description: A compass that doesn't point north but toward what feels most true
+  meaning: Courage isn't found in external direction but in following your authentic self
+
+scenario_variants:
+  - character_code: mx
+    location: A rocky training ground where puzzles reshape themselves
+    challenge_description: |
+      Max faces a challenge course that keeps changing every time he makes
+      a mistake. He's exhausted from starting over perfectly each time.
+    motif_manifestation: |
+      A compass hangs from a post, its needle spinning wildly when Max tries
+      to follow the "right" path, but pointing steady when he accepts his
+      mistakes and keeps going.
+
+  - character_code: ma
+    location: A stage in a forgotten amphitheater with shifting audiences
+    challenge_description: |
+      Maya performs on a stage where shadow-audiences keep demanding
+      different versions of her performance. She's trying to please them all.
+    motif_manifestation: |
+      A compass rests at the stage's edge, its needle spinning when Maya
+      performs what she thinks others want, but pointing true when she
+      dances authentically.
+
+spread_alignment: 6
+
+world_connection: |
+  Kathaél rewards authentic presence over perfect performance. The Heart
+  Crystal responds to honesty, not to trying to be what others expect.
+
+scene_templates:
+  left_page:
+    focus: Recognizing what doesn't work
+    text_sentences: 3-4
+    must_include:
+      - Character exhausted from trying too hard
+      - Moment of stopping/sitting/resting
+      - First glimpse of the courage compass
+
+  right_page:
+    focus: Discovering a new pattern
+    text_sentences: 3-4
+    must_include:
+      - Character tries something authentic
+      - Courage compass responds positively
+      - Realization about their true approach

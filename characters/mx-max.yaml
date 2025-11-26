@@ -133,4 +133,16 @@ attributes:
 # But more will get added as we follow the story creation steps
 # (see Readme.md).
 # NOTE: Pages should be shown without path `mx-01.yaml` rather than `pages/mx-01.yaml`
-story: []
+story:
+  - mx-01.yaml
+  - mx-02.yaml
+  - mx-03.yaml
+  - mx-04.yaml
+  - mx-no-05.yaml
+  - mx-06.yaml
+  - mx-07.yaml
+  - mx-08.yaml
+  - mx-09.yaml
+  - mx-10.yaml
+  - mx-11.yaml
+  - mx-12.yaml

@@ -131,4 +131,16 @@ attributes:
 # But more will get added as we follow the story creation steps
 # (see Readme.md).
 # NOTE: Pages should be shown without path `ma-01.yaml` rather than `pages/ma-01.yaml`
-story: []
+story:
+  - ma-01.yaml
+  - ma-02.yaml
+  - el-ma-03.yaml
+  - ma-04.yaml
+  - ma-05.yaml
+  - ma-06.yaml
+  - ma-07.yaml
+  - ma-08.yaml
+  - ma-09.yaml
+  - ma-10.yaml
+  - ma-11.yaml
+  - ma-12.yaml

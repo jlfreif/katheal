@@ -1,0 +1,50 @@
+# Max's page - Spread 1
+# Ordinary world + desire hint
+# Max in his familiar world, notice his restless energy and competitive drive
+
+id: mx-01
+spread: 1
+node_type: solo
+beat: Ordinary world + desire hint
+
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Max practices free throws in his driveway, frustrated by a persistent mistake he can't seem to fix, until a golden thread appears.
+
+scenes:
+  - page: left
+    page_number: 5
+    focus: Character in their ordinary world
+
+    visual: |
+      Max stands in his driveway shooting basketball free throws, his red
+      hair bright in afternoon sun. A basketball hoop hangs above the garage.
+      Around him, chalk marks on the pavement show failed attempts and
+      corrections. His trombone case leans against the garage door. His jaw
+      is set with determination, but frustration shows in his tense shoulders.
+
+    text: |
+      Clang. The ball bounced off the rim again. Max snatched it up and
+      reset his position, checking his feet, his grip, his elbow angle.
+      Everything should work. He'd analyzed every part. But shot after shot
+      clanged wrong. He threw harder, adjusted faster, tried again. Still
+      wrong. His hands clenched the ball. "Why do I keep missing?"
+
+  - page: right
+    page_number: 6
+    focus: First hint of something different
+
+    visual: |
+      Max freezes mid-shot as a golden thread floats through the air, weaving
+      between the garage and the hoop. The thread pulses with urgent light,
+      one end frayed and flickering. The basketball hovers forgotten in his
+      hands as he stares. His expression shifts from frustration to curiosity.
+
+    text: |
+      A shimmer caught his eye. Golden thread drifted through the air, bright
+      and impossible, weaving past his basketball hoop. But something looked
+      wrong with it. The end flickered weakly, unraveling like a rope coming
+      apart. Max dropped the ball. It bounced away, forgotten. The thread
+      pulsed brighter, pulling gently toward the trees behind his house.
+      "What are you?"

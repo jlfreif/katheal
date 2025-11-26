@@ -1,0 +1,50 @@
+# Max's page - Spread 3
+# Attempt #1 (simple/obvious)
+# Max tries to fix challenges by forcing himself through perfectly
+
+id: mx-03
+spread: 3
+node_type: solo
+beat: "Attempt #1 (simple/obvious)"
+
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
+
+description: Max attacks frozen challenges with determination and perfect form, but forcing perfection makes them worse instead of better.
+
+scenes:
+  - page: left
+    page_number: 9
+    focus: Trying the obvious solution
+
+    visual: |
+      Max runs through an obstacle course with intense focus, his form perfect
+      and controlled. He leaps barriers, balances on beams, climbs walls with
+      textbook technique. Behind him, the obstacles he completes turn grey
+      instead of glowing. His expression shows concentration and effort. He
+      hasn't noticed the problem yet.
+
+    text: |
+      Max attacked the first course with everything he had. Perfect form, no
+      mistakes, complete the challenge exactly right. He vaulted the first
+      obstacle cleanly, balanced across the second without wavering, climbed
+      the third with precise hand placement. Behind him, the obstacles he'd
+      completed turned grey and cold. He landed the final jump. "Done!"
+
+  - page: right
+    page_number: 10
+    focus: Realizing it doesn't work
+
+    visual: |
+      Max stands breathing hard, looking back at the course he completed. Every
+      obstacle he touched has turned grey and lifeless. The golden threads
+      connected to them have gone dark. A rabbit watches with sympathetic eyes.
+      Max's confident expression crumbles to confusion and frustration.
+
+    text: |
+      Max turned back, grinning, ready for his next challenge. The grin died.
+      Every obstacle he'd completed perfectly was now grey as stone, threads
+      dark and dead. "No. No, I did it right!" He ran back, tried again,
+      faster this time, more perfect. More obstacles turned grey. The rabbit
+      twitched its nose. Wrong how? Max thought, frustrated. How can doing
+      it right be wrong?

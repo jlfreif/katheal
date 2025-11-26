@@ -102,6 +102,12 @@ characters:
   - id: el
     name: Elise
     file: el-elise.yaml
+  - id: mx
+    name: Max
+    file: mx-max.yaml
+  - id: ma
+    name: Maya
+    file: ma-maya.yaml
 
 # === NARRATIVE NODE SYSTEM ===
 #
@@ -178,6 +184,47 @@ interactions:
           - no-09.yaml
         description: Courage rippling across distance
         symbolic_resonance: golden_thread_shimmer
+
+  # Maya and Elise connections (cousins and best friends)
+  - characters: [el, ma]
+    description: |
+      Maya and Elise discover each other in Kathaél:
+      - Spread 3: Meeting Node - Cousins reunite in the faded meadow
+    nodes:
+      - spread: 3
+        type: meeting
+        page_file: el-ma-03.yaml
+        location: Faded meadow with frozen performances
+        shared_action: Both trying obvious solutions that don't work, then recognizing each other
+        description: Cousins discover each other in Kathaél
+
+  # Max and Noah connections (both analytical 12-year-old boys)
+  - characters: [mx, no]
+    description: |
+      Max and Noah meet while trying analytical approaches:
+      - Spread 5: Meeting Node - Discovering their similar mistakes
+    nodes:
+      - spread: 5
+        type: meeting
+        page_file: mx-no-05.yaml
+        location: Vast clearing with frozen stories and challenges
+        shared_action: Both witness the formulaic storyteller making things worse
+        description: Two analytical boys learn from each other's mistakes
+
+  # Max and Maya connections (peer courage support)
+  - characters: [ma, mx]
+    description: |
+      Max and Maya support each other through parallel growth:
+      - Spread 6: Mirrored Node - Discovering their authentic approaches
+    nodes:
+      - spread: 6
+        type: mirrored
+        definition_file: mirrored-06.yaml
+        page_files:
+          - mx-06.yaml
+          - ma-06.yaml
+        description: Both discover their authentic approaches to courage
+        symbolic_motif: courage_compass
 
 # Layout system reference
 layout:

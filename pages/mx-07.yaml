@@ -1,0 +1,51 @@
+# Max's page - Spread 7
+# Rising stakes: almost works
+# Max's new approach works better, but he still abandons when mistakes happen
+
+id: mx-07
+spread: 7
+node_type: solo
+beat: "Rising stakes: almost works"
+
+hook: Success is close but incomplete, with a detail revealing what's still needed.
+payoff: What's missing is revealed to be distant or difficult to reach.
+
+description: Max uses his new persistence-through-mistakes approach and restores several challenges, but when one goes really wrong, old habits return.
+
+scenes:
+  - page: left
+    page_number: 17
+    focus: Making progress toward goal
+
+    visual: |
+      Max works through a challenge course, his form less perfect but his
+      movement continuous. When he stumbles, he corrects and keeps going.
+      Behind him, restored obstacles glow with golden light. A lantern burns
+      steady on a post nearby. His expression shows focused determination.
+      This is working.
+
+    text: |
+      Max ran the course again, but differently this time. When he stumbled
+      on a balance beam, he didn't restart. He caught himself, adjusted,
+      kept moving. The beam began to glow. He missed a handhold on the wall,
+      grabbed another, pulled himself up. The wall shimmered to life. The
+      lantern beside him burned steady. "Yes! It's working!"
+
+  - page: right
+    page_number: 18
+    focus: Realizing something is missing
+
+    visual: |
+      Max stands frozen before a collapsed challenge—ropes tangled, structures
+      broken—a mistake so big it looks unfixable. His hands clench in
+      frustration. The lantern's flame sputters and dims. Behind him, his
+      restored challenges begin to grey again. His expression shows the old
+      habit of wanting to quit returning.
+
+    text: |
+      Then Max reached a challenge he'd completely destroyed earlier. Ropes
+      tangled, structure collapsed, broken beyond recognition. His hands
+      clenched. This wasn't a small mistake. This was massive failure. The
+      lantern beside him flickered and dimmed. His restored challenges behind
+      him began to grey. "I can't fix this," Max muttered, already stepping
+      back. "This is too broken."

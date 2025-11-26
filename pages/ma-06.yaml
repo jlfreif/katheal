@@ -1,0 +1,51 @@
+# Maya's page - Spread 6
+# Mirrored Node with Max - Discovering authentic approach
+# Maya learns that being herself is more powerful than performing for others
+
+id: ma-06
+spread: 6
+node_type: mirrored
+beat: "Midpoint: new insight / pattern"
+
+hook: A pattern or clue emerges, suggesting a new direction based on observation.
+payoff: New approach is tried based on the insight from previous spread.
+
+description: Maya exhausts herself trying to perform what shadow-audiences want, then discovers that being authentically herself is her true power.
+
+scenes:
+  - page: left
+    page_number: 15
+    focus: Recognizing what doesn't work
+
+    visual: |
+      Maya sits cross-legged at the edge of an empty amphitheater stage,
+      breathing hard. Shadow-audiences fill the seats, each row demanding
+      something different. Her pink-streaked hair is disheveled. A compass
+      rests beside her, its needle spinning wildly. She looks exhausted and
+      small.
+
+    text: |
+      Maya sat down hard, too tired to keep dancing. One shadow-audience wanted
+      big leaps, another wanted gentle twirls, another wanted perfect technique.
+      She'd tried to give them all what they asked for, and none of it felt
+      right. The compass beside her spun in confused circles. She hugged her
+      knees. "I don't even know what I want anymore."
+
+  - page: right
+    page_number: 16
+    focus: Discovering a new pattern
+
+    visual: |
+      Maya stands center stage and dances her own way—bold, playful, mixing
+      styles without caring about perfect form. The shadow-audiences fade
+      away. The compass's needle points straight at her heart, glowing. Real
+      flowers bloom at her feet with each authentic movement, their colors
+      bright and true.
+
+    text: |
+      Maya stood. She started dancing again, but this time for herself. Bold
+      leaps mixed with silly spins. Her pink-streaked hair flying. Not perfect,
+      not proper, just...Maya. The shadow-audiences dissolved like smoke. The
+      compass needle swung toward her and held steady, pointing at her heart.
+      Flowers bloomed where her feet touched the stage, bright and real and
+      exactly right.
