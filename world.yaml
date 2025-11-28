@@ -108,6 +108,12 @@ characters:
   - id: ma
     name: Maya
     file: ma-maya.yaml
+  - id: mo
+    name: Mona
+    file: mo-mona.yaml
+  - id: mi
+    name: Micah
+    file: mi-micah.yaml
 
 # === NARRATIVE NODE SYSTEM ===
 #

@@ -1,0 +1,135 @@
+# To view this character's complete story, run:
+#   python3 scripts/show_story.py mi
+#
+# If you encounter any issues with page formatting or consistency, run:
+#   python3 scripts/validate_structure.py
+
+# Id is a two-letter code for the character
+id: mi
+
+# What do we know about Micah as a character
+attributes:
+  # Name is the full name of the character
+  name: Micah
+
+  # Gender of the character
+  gender: male
+
+  # How old is the character
+  age: 9
+
+  # List top 3-5 values that motivate this character
+  # Examples: Adventure, Creativity, Justice, Family, Knowledge
+  core_values_motivations:
+    - Seeking excitement
+    - Humor and creativity intertwined
+    - Exploration without supervision
+    - Making people laugh
+    - Pushing the edges of ability
+
+  # Summarize the character's personality in 3-5 words or short phrases
+  # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
+  key_personality_traits:
+    - Inquisitive, always asking "why?"
+    - Thrives in suspense
+    - Outgoing and chatty
+    - Restless and active
+    - Constantly in motion
+    - Unpredictable in delightful ways
+
+  # Activities or skills that reveal the character's interests and talents
+  # Examples: Painting, Coding, Hiking, Storytelling, Chess
+  # Note: Can inform interactive choices or story branching
+  hobbies_interests_skills:
+    - Running and parkour
+    - Playing trombone
+    - Learning Japanese
+
+  # How does this character usually respond to stress, challenge, or reward?
+  # Examples: Calm under pressure, Quick to frustration, Reflective and empathetic
+  # Note: Useful for scripting dialogue, choices, or character arcs
+  emotional_profile_typical_reactions:
+    - Needs physical movement to reset
+    - Internalizes praise
+    - High energy
+
+  # How does the character relate to others and the world around them?
+  # Examples: Team-oriented, Prefers solitude, Competitive
+  # Note: Can shape interactions, alliances, and story outcomes
+  social_context_relationships:
+    - Independent only child
+    - Playful teaser
+    - Adventurous partner-in-crime
+    - Sees life as an adventure
+
+  # Signature habits, inside jokes, special belongings
+  memorable_details:
+    - Speaks Japanese
+    - Cousin of Noah and Elise
+    - Very coordinated and quick
+
+  # This will be sent to the prompting system.
+  # The description should include the age of the character
+  visual_description:
+    - 9 years old
+    - Medium height
+    - Balanced build
+    - Coordinated and powerful physique
+    - Half-Japanese, half-Caucasian
+    - Black hair
+    - Black eyes
+    - Athletic and dynamic posture
+
+  # What story genres does the character (or the reader) enjoy most?
+  # This will inform the writing style and plot direction.
+  # Sample genres: Adventure, Fantasy, Mystery, Humor/Comedy, Friendship,
+  # Animal Stories, Fairy Tales, Science Fiction, Sports, Historical Fiction,
+  # Magical Realism, Slice of Life, Nature/Outdoors, Superhero, Fables
+  # Choose 1-3 genres that resonate most
+  preferred_story_genres:
+    - Adventure
+    - Humor
+    - Action
+
+  # Which courage theme should guide the character's story?
+  # Choose the theme that best fits the character's journey and growth.
+  #
+  # Available themes:
+  #   1. Courage to Try Something New
+  #      Being brave enough to take the first step — even if it feels wobbly or strange.
+  #   2. Courage to Tell the Truth About Your Feelings
+  #      Sharing when you're sad, excited, worried, or confused, instead of pretending.
+  #   3. Courage to Ask for Help
+  #      Knowing it's strong (not weak!) to reach out when you're stuck.
+  #   4. Courage to Keep Going After a Mistake
+  #      Trying again after stumbling, without feeling ashamed.
+  #   5. Courage to Be Kind First
+  #      Choosing kindness even when you feel shy, nervous, or unsure how someone will respond.
+  #   6. Courage to Listen
+  #      Letting someone else finish their thought so you can really understand them.
+  #   7. Courage to Be Yourself
+  #      Letting your true interests, quirks, dreams, and ideas show — even if they're different.
+  #   8. Courage to Take a Breath
+  #      Pausing when you feel overwhelmed so you can think clearly again.
+  #   9. Courage to Let Others Help You
+  #      Allowing someone to support you when you don't know what to do next.
+  #   10. Courage to Forgive
+  #       Letting go of a small hurt so you can feel light again.
+  #   11. Courage to Try Slowly
+  #       Understanding that bravery doesn't always mean fast — sometimes it's gentle and careful.
+  #   12. Courage to Imagine Something Better
+  #       Believing in a possibility no one else can see yet.
+  #   13. Courage to Speak Up
+  #       Using your voice if something feels unfair or unkind.
+  #   14. Courage to Take Care of Yourself
+  #       Resting, eating, or asking for a cuddle when you need it.
+  #   15. Courage to Let Go
+  #       Saying goodbye to something (or someone) who's moving on — even if it makes your heart ache.
+  courage_theme: Courage to Take a Breath
+
+# Storybook Pages (ordered list)
+# Initially this list is empty when we create the character
+# But more will get added as we follow the story creation steps
+# (see claude.md).
+# NOTE: Pages should be shown without path `mi-01.yaml` rather than `pages/mi-01.yaml`
+story: []
