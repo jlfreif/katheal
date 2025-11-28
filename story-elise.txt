@@ -1,0 +1,1694 @@
+# Elise's Story
+
+**Character Code:** EL
+**Total Spreads:** 12
+**Layout:** 2 pages per spread, 1 image per page, 3-4 sentences per scene
+
+## Story
+
+### Spread 1: el-01.yaml
+**Node Type:** Solo | **Beat:** Ordinary world + desire hint
+
+#### Description
+
+Elise draws quietly in her room, noticing that one of her drawings seems to shimmer with a light that doesn't come from her lamp.
+
+#### Page 5 (Left) - Character in their ordinary world
+
+**Visual:**
+Elise sits at a small desk by her window, hunched forward over a drawing. Her
+right hand holds a golden-yellow colored pencil hovering above the paper. Several
+pencils scatter across the desk near an open box of art supplies. Her expression
+is peaceful and absorbed in creative flow. Drawings cover the wall behind her.
+
+**Text:**
+Elise drew a forest with a winding path and flowers that looked like they held
+secrets. She loved imagining quiet places where magic might hide. Her colored
+pencils moved slowly, carefully, the way she did everything. Outside her window,
+the afternoon light was ordinary, but on her page, she was making something that
+felt alive.
+
+#### Page 6 (Right) - First hint of something different
+
+**Visual:**
+Elise's head tilts slightly, eyes widening with curiosity. On her paper, one
+small flower she just finished glows with soft golden light that doesn't match
+the lamp. The flower pulses gently, as if breathing. Her pencil hovers frozen
+above the page. Afternoon light streams through the window behind her.
+
+**Text:**
+The flower on her paper started to glow. Elise blinked, but the light didn't
+disappear. It pulsed softly, like a tiny heartbeat, warm and golden in a way
+that had nothing to do with her lamp. Her pencil hung still in the air. She
+leaned closer, watching the impossible light breathe.
+
+--------------------------------------------------------------------------------
+
+### Spread 2: el-mi-02.yaml (joint with MI)
+**Node Type:** Meeting Node | **Beat:** Inciting incident
+
+#### Description
+
+Elise and Micah discover each other in a grove where performances have frozen mid-act, both noticing that Kathaél's magic is failing and deciding to help together.
+
+#### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+A grove filled with magical performers frozen in mid-performance. A dancer balances
+on one toe, her arms extended in an impossible arc, completely motionless. Musicians
+hold instruments mid-note, their expressions captured in concentration. Elise (9
+years old, long brown hair, graceful and slim) enters the clearing, her eyes wide
+with concern. She reaches tentatively toward the frozen dancer. Golden threads
+overhead flicker weakly, their glow fading. The whole scene has a twilight quality,
+as if time itself is struggling.
+
+**Text:**
+Elise stepped into the grove and stopped cold. Performers everywhere, frozen like
+statues. A dancer hung mid-leap, one foot pointed, arms spread. Musicians held
+silent instruments. Even the trees seemed to hold their breath. "What happened
+to you?" she whispered, reaching toward the dancer's outstretched hand.
+
+#### Page 8 (Right) - Decision to act together
+
+**Visual:**
+Micah (9 years old, black hair, athletic half-Japanese build, constantly in motion)
+enters from the opposite side, also reaching toward the frozen dancer. His hand and
+Elise's nearly touch. Both children's faces show recognition and relief at finding
+someone else who sees the problem. The golden threads pulse once, weakly, as if
+acknowledging their combined presence. The frozen performers remain motionless,
+but the cousins' determination creates a subtle warmth in the air.
+
+**Text:**
+A sound made her turn. Micah stood on the other side of the frozen dancer, his
+hand extended just like hers. "Elise!" His face broke into a grin despite the
+strangeness around them. "You see it too. They're stuck." She nodded. "The magic
+is fading." Micah's expression turned serious. "Then let's fix it. Together."
+
+**Meeting Location:** A grove where magical performances are frozen in time, dancers and musicians caught mid-movement
+
+**Shared Action:** Both children reach toward a frozen dancer at the same moment, their hands meeting as they realize the magic needs their help
+
+--------------------------------------------------------------------------------
+
+### Spread 3: el-ma-03.yaml (joint with MA)
+**Node Type:** Meeting Node | **Beat:** Attempt #1 (simple/obvious)
+
+#### Description
+
+Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+
+#### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Maya leaps and spins in the center of a faded meadow, her movements bold
+and energetic. She wears her signature pink-streaked hair flying as she
+dances, trying to bring life back through movement. Grey flowers surround
+her, unresponsive. In the distance, a figure with paint-stained hands
+kneels among the flowers.
+
+**Text:**
+Maya leaped high, arms stretched wide, spinning through the meadow like
+wind itself. If colors were fading, she'd dance them back to life. Her
+feet pounded the earth in rhythm, bold and decisive. The flowers barely
+stirred. She landed hard, breathing fast, and spun again. Nothing. In
+the distance, someone knelt among the grey blooms, moving carefully.
+
+#### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
+Both girls freeze mid-motion as recognition hits. Maya's expression shifts
+from determined to shocked to delighted. Elise's eyes widen with surprise
+and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
+their presence.
+
+**Text:**
+"Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
+her painting, eyes going wide. "Maya?!" They stared at each other for
+one breathless second. Then both burst out laughing, the sound bright
+and startled in the grey meadow. "What are YOU doing here?" they said
+at exactly the same time. The threads overhead pulsed warmer, as if
+recognizing their connection.
+
+--------------------------------------------------------------------------------
+
+### Spread 4: el-no-04.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+#### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+
+#### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+A crossroads beneath an ancient willow where forest paths meet. Golden threads
+flow through the branches, some frayed and flickering. Noah stands on the left
+path, notebook tucked under his arm, reaching toward a thread. In the distance,
+the Heart Crystal pulses weakly, more threads drifting loose.
+
+**Text:**
+"I've tried everything." Noah followed the threads to a crossroads beneath
+an ancient willow, hoping someone here might know what he was missing. The
+Crystal glowed through the trees, dimmer than before, more threads
+unraveling. He reached toward one, and it hummed warmly. But the path it
+suggested led deeper into unfamiliar territory.
+
+#### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Elise stands on the right path, watercolor set at her wrist, observing a
+different thread. Between the children, threads flow and intersect, creating
+a lattice of golden light. Both turn toward each other, curious. The willow's
+branches glow brighter where their paths nearly touch.
+
+**Text:**
+Noah spotted her at the same moment she spotted him. A girl with paint-stained
+fingers, reaching for the threads just like he was. "Are you trying to help
+them too?" he called. She nodded. "They keep rejecting everything I try."
+"Same." Something warm spread through his chest. He wasn't alone in this.
+The threads between them pulsed brighter and felt warm, like sunshine on skin.
+
+--------------------------------------------------------------------------------
+
+### Spread 5: el-05.yaml
+**Node Type:** Solo | **Beat:** Attempt #3 (bigger world / stakes up)
+
+#### Description
+
+Elise meets a dazzling artist-spirit who insists that bold, loud colors are the answer, but the approach feels wrong to her gentle nature.
+
+#### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Elise stands at the edge of a circular plaza where the fading is severe. Trees
+that should shimmer are nearly grey, the ground dull and lifeless. Her watercolor
+set hangs from her wrist as she surveys the damaged landscape. Golden threads
+overhead are barely visible, thin as spider silk. Her posture shows quiet concern.
+
+**Text:**
+The plaza looked worse than anywhere else. Trees stood grey as pencil sketches,
+their shimmer completely gone. The ground, which should have glowed, was as
+dull as pavement. Elise clutched her watercolor set to her chest, her heart
+sinking. If her gentle approach couldn't help a single flower, how could she
+possibly restore all of this?
+
+#### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+A dramatic figure draped in clashing scarves of electric purple, harsh orange,
+and screaming pink gestures wildly with giant paint-dripping brushes. Behind
+the spirit, trees have been "restored" with garish, unnatural colors that clash
+with each other. Elise takes a small step backward, one hand raised, her
+expression showing polite uncertainty.
+
+**Text:**
+"Bold!" The artist-spirit swept enormous brushes through the air, splattering
+neon colors everywhere. "Loud! That's how you fix fading!" Elise looked at
+the trees the spirit had painted: harsh orange, electric purple, colors that
+hurt to see. The watching animals had fled. Something in Elise's chest pulled
+tight. This felt wrong. Very wrong.
+
+--------------------------------------------------------------------------------
+
+### Spread 6: el-mo-06.yaml (joint with MO)
+**Node Type:** Meeting Node | **Beat:** Midpoint: new insight / pattern
+
+#### Description
+
+Elise finds Mona quietly observing the Heart Crystal threads, and together they notice a pattern that more forceful approaches missed.
+
+#### Page 15 (Left) - Recognizing what doesn't work
+
+**Visual:**
+A serene glade carpeted with soft emerald moss and dotted with small luminous
+mushrooms. Golden threads flow through the air like gentle streams of light,
+weaving between ancient trees. Elise (9 years old, long brown hair, slim and
+graceful) enters the clearing, looking tired from previous efforts. She spots
+little Mona (2 years old, dark curly hair, bright curious eyes) sitting cross-legged
+on the moss, perfectly still, just watching the threads dance. The light is soft
+and warm, creating a peaceful atmosphere.
+
+**Text:**
+Elise had tried everything. Pulling threads, painting patterns, following the
+obvious paths. Nothing worked. She stepped into the quiet glade and stopped.
+A tiny girl sat in the moss, utterly still, watching golden threads flow past
+her face. The threads seemed... calmer here. Gentler.
+
+#### Page 16 (Right) - Discovering a new pattern through stillness
+
+**Visual:**
+Elise sits beside Mona on the moss, both children now motionless and observing.
+The golden threads flow closer to them, almost curious, responding to their quiet
+presence. One thread hovers near Mona's outstretched palm, not pulled but drawn.
+Elise's expression shows dawning realization. The threads glow brighter around
+them, their movement more fluid and alive than when approached with force. Soft
+particles of light drift through the air like gentle snow.
+
+**Text:**
+Elise sat beside her. Together they watched, silent. The threads drifted closer,
+curious about their stillness. "Soft," Mona whispered. "Gentle." Elise nodded slowly.
+The threads had been running from grabbing hands, from desperate attempts. But here,
+with just watching and waiting, they came willingly. "You're right," Elise breathed.
+"They want us to be present, not pushy."
+
+**Meeting Location:** A quiet glade where Heart Crystal threads flow through like streams of light
+
+**Shared Action:** Both sit still and watch the threads, noticing they respond to gentle presence rather than forceful intervention
+
+--------------------------------------------------------------------------------
+
+### Spread 7: el-07.yaml
+**Node Type:** Mirrored Node | **Beat:** Rising stakes: almost works
+
+#### Description
+
+Elise's patient attention restores flowers one by one, but the endless scale of the fading threatens to overwhelm her.
+
+#### Page 17 (Left) - Making progress toward goal
+
+**Visual:**
+Elise kneels in a meadow, hands cupped around a flower that glows with
+restored color. Around her, a small circle of healed blooms creates an
+island of beauty. A lantern hangs from a crooked post nearby, its flame
+burning steady. Her expression shows peaceful focus. This is working.
+
+**Text:**
+Flower by flower, Elise brought color back. She cupped each bloom with
+patient attention, and one by one they remembered their beauty. The
+lantern nearby burned steady, its flame matching her calm focus. She'd
+found the answer. This was working.
+
+#### Page 18 (Right) - Realizing something is missing
+
+**Visual:**
+Elise stands and looks up from her small circle of restored flowers.
+The meadow stretches endlessly in every direction, thousands of grey
+flowers fading into the horizon. The lantern flame wavers as doubt
+creeps in. Her shoulders sag slightly. One flower at a time against
+all of this.
+
+**Text:**
+Then Elise stood and looked up. The meadow stretched forever. Thousands
+of grey flowers, tens of thousands, more than she could ever reach. The
+lantern flame wavered as her heart sank. Her way worked, but it was so
+slow. How could attention to one flower matter against all this grey?
+
+--------------------------------------------------------------------------------
+
+### Spread 8: el-08.yaml
+**Node Type:** Solo | **Beat:** All-is-lost / emotional low
+
+#### Description
+
+Elise faces a vast garden where everything has faded to grey, and she doubts her small, gentle approach can make any difference.
+
+#### Page 19 (Left) - External obstacles intensify
+
+**Visual:**
+Elise stands at the edge of an enormous garden stretching to the horizon,
+thousands of flowers, bushes, and trees all drained of color, rendered in
+shades of grey and pale ash. Elegant paths wind through colorless flowerbeds.
+A fountain flows with grey water in the distance. The sky above is overcast
+and heavy. The scale is overwhelming.
+
+**Text:**
+The garden stretched forever. Thousands of flowers, all grey. Trees that
+should have shimmered stood like pencil sketches waiting for color that would
+never come. Elise's careful, gentle approach had restored a few blooms. A
+few. Looking at this vast emptiness, those few felt like nothing at all.
+
+#### Page 20 (Right) - Inner doubt and discouragement
+
+**Visual:**
+Elise stands very still, arms wrapped around herself in a self-protective hug,
+chin tucked down. Her watercolor set lies fallen on the ground beside her feet.
+Tears glisten on her cheeks, quiet crying showing deep sadness. In the near
+foreground, one small flower retains a hint of color, but she hasn't noticed it.
+
+**Text:**
+Elise wrapped her arms around herself, trying to hold the pieces together.
+Tears slid down her cheeks, quiet and unstoppable. She was too small. Too
+gentle. Too slow. How could one nine-year-old who just noticed things possibly
+matter against all this grey? Her watercolor set lay forgotten at her feet,
+its colors seeming foolish now.
+
+--------------------------------------------------------------------------------
+
+### Spread 9: el-09.yaml
+**Node Type:** Resonant Node | **Beat:** Deepening choice / inner shift
+
+#### Description
+
+Elise notices a single restored flower still glowing, chooses to continue—and feels an unexpected warmth ripple through the meadow.
+
+#### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Elise kneels beside a single glowing flower in the grey meadow, her
+earlier work still holding its color. Her watercolor set lies open
+beside her, but she's not painting—she's simply looking at the one
+flower she helped. Her expression shifts from despair to something
+softer. One flower mattered.
+
+**Text:**
+Through her tears, Elise saw one flower still glowing. Just one, from
+her earlier work, holding its color against all the grey. It was tiny.
+It was almost nothing. But it was real. She picked up her watercolor
+set. If one flower could matter, then the next one could too.
+
+#### Page 22 (Right) - Feeling the connection
+
+**Visual:**
+Golden threads shimmer into visibility across the meadow, pulsing
+with warm light. Elise looks up, wonder on her face, as she feels
+something like encouragement wash over her. Near her feet, a flower
+begins to restore its color without her touching it. The grey seems
+less heavy.
+
+**Text:**
+Golden light rippled through the air, threads she'd never seen before,
+connecting the whole meadow. Elise felt warmth spread through her chest,
+like someone somewhere was choosing the same courage she was. A flower
+near her feet began to glow—without her even touching it. She wasn't
+doing this alone.
+
+--------------------------------------------------------------------------------
+
+### Spread 10: el-ma-mi-mo-mx-no-10.yaml (joint with MA, MI, MO, MX, NO)
+**Node Type:** Meeting Node | **Beat:** Climax: big action
+
+#### Description
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+
+#### Page 23 (Left) - Facing the final challenge together
+
+**Visual:**
+The Heart Crystal rises like a building before six children gathered in a circle at
+its base. The massive crystalline structure shows deep fractures, each crack glowing
+with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall),
+and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair,
+graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2,
+dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different
+facet of the Crystal, hesitation visible in their postures. The forest clearing pulses
+with dimming light.
+
+**Text:**
+The Heart Crystal towered above them, cracks spreading like lightning across its
+surface. Golden light leaked from every fracture, stories dissolving into nothing.
+Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
+Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+#### Page 24 (Right) - Taking decisive action - the moment of convergence
+
+**Visual:**
+All six children press their hands against the Crystal simultaneously. Each facet
+they touch glows brilliant gold, and streams of light spiral upward from their palms
+into the structure. The cracks begin to seal, golden threads weaving through them
+like stitches. The children's faces show fierce concentration and wonder. Light
+radiates from the Crystal's core, growing brighter and more stable. The whole clearing
+illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+**Text:**
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
+beneath their palms, humming like a struck bell. Light surged through the cracks,
+knitting them closed. "Don't let go," Max shouted over the rising sound. The
+threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
+bright. The Heart Crystal sang, whole again.
+
+**Meeting Location:** The Heart Crystal clearing, where the massive crystalline structure rises from the forest floor
+
+**Shared Action:** Each child places their hand on a different facet of the Heart Crystal, channeling their courage theme simultaneously to restore the Crystal's integrity
+
+--------------------------------------------------------------------------------
+
+### Spread 11: el-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+#### Description
+
+Elise releases her light into the Heart Crystal, and colors bloom across Kathaél in gentle, natural waves. She receives a token of her gift.
+
+#### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Heart Crystal's threads glow warmly, flowing through its facets with soft
+watercolor washes of lavender, rose, sage, and amber. Elise stands with both
+hands raised to chest height, and resting across her palms is a small, perfect
+paintbrush made of light and golden thread. Her expression shows quiet wonder
+and shy joy. Flowers bloom in soft hues around her.
+
+**Text:**
+Color spread through Kathaél like watercolor on wet paper, gentle and alive.
+The threads glowed with soft hues: lavender, rose, sage, sky blue. Elise
+watched her small light become something vast and beautiful. Then warmth
+gathered in her palms, forming into a paintbrush of starlight. A gift. Proof
+that noticing mattered.
+
+#### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Elise walks along a path lined with flowers in full, gentle color. The
+starlight paintbrush is tucked carefully into her pocket. Creatures of
+Kathaél watch her go: a rabbit hopping in a small circle, birds singing
+softly, a deer bowing its head. In the distance, her ordinary world glows
+warmly between the trees.
+
+**Text:**
+Elise tucked the paintbrush into her pocket, where it hummed with soft warmth.
+The path home was lined with flowers that hadn't been there before, blooming
+in colors she had helped remember. A rabbit hopped beside her for a few steps.
+A deer bowed its head as she passed. Even leaving, she felt like she belonged.
+
+--------------------------------------------------------------------------------
+
+### Spread 12: el-12.yaml
+**Node Type:** Solo | **Beat:** Resolution (emotional) + series button
+
+#### Description
+
+Elise returns to her room and her drawing, but now she sees the light in everything she creates—knowing her gentle attention matters.
+
+#### Page 27 (Left) - Returning to ordinary world
+
+**Visual:**
+Elise sits at her small desk in the same position as the opening, drawing
+with focused joy. The colored pencil in her hand carries a faint shimmer.
+Her watercolor set sits open on the desk, one paintbrush glowing subtly with
+golden light. Her expression is peaceful and content, posture relaxed and
+confident in a new way.
+
+**Text:**
+Elise's room looked exactly the same: desk by the window, drawings on the
+wall, art supplies scattered in their familiar mess. But when she picked up
+her colored pencils, she felt the starlight paintbrush humming in her pocket.
+She began to draw, and this time, she drew differently.
+
+#### Page 28 (Right) - Transformed by the journey
+
+**Visual:**
+Elise's drawing shows a meadow full of flowers in gentle, beautiful colors,
+and every flower on the page glows softly with its own light. On the wall
+behind her, her other drawings have begun to show the same subtle glow.
+Outside, a butterfly with faintly luminescent wings rests on the windowsill,
+watching her draw.
+
+**Text:**
+Every flower she drew seemed to glow, just a little. Not magic. Just attention.
+Elise noticed every color, every shadow, every small thing that mattered.
+Outside her window, an ordinary butterfly sat on the sill, its wings catching
+light in a way that might have been magical. Elise smiled. Her gentle way of
+seeing was exactly enough.
+
+--------------------------------------------------------------------------------
+
+## Narrative Node Analysis
+
+This story connects with other characters at 5 point(s):
+
+### Meeting Node with Micah (MI)
+
+#### Before (from Micah's story)
+
+##### Spread 1: mi-01.yaml
+**Node Type:** Solo | **Beat:** Ordinary world + desire hint
+
+###### Description
+
+Micah bounces through his day in constant motion, running and climbing, until he discovers a shimmering doorway that appears only when he pauses for just a moment.
+
+###### Page 5 (Left) - Character in their ordinary world
+
+**Visual:**
+Micah (9 years old, black hair, athletic half-Japanese build, medium height) vaults over
+a park bench mid-run, arms extended for balance. His body is captured in dynamic motion,
+one foot touching the bench, the other in the air. Behind him, a trail of scattered
+belongings marks his path: a dropped jacket, an abandoned skateboard, a forgotten water
+bottle. Other kids play in the background but Micah moves faster than all of them. His
+expression shows pure energy and restlessness. The park is full of afternoon sunlight.
+
+**Text:**
+Micah couldn't stay still. Ever. He ran when other kids walked. He climbed when they
+sat. His body needed to move, move, move, or it felt like he'd explode. In the park,
+he vaulted benches and raced invisible opponents. Stopping felt impossible. Stopping
+felt wrong. He was always chasing the next thing.
+
+###### Page 6 (Right) - First hint of something different
+
+**Visual:**
+Micah has stopped mid-run to tie his shoe, kneeling on one knee. In this rare moment
+of stillness, a shimmering portal of golden light appears before him, hovering between
+two trees. His face shows surprise as he looks up from his laces, mouth open in an
+astonished "whoa." Golden threads drift out from the portal, moving gently in contrast
+to his usual frantic energy. One thread floats close to his face. The portal pulses
+softly, waiting. He's frozen in this unusual pause.
+
+**Text:**
+But then his shoelace came untied and he had to stop. Just for a second. That's when
+he saw it: a doorway made of light, shimmering between the trees. It hadn't been there
+before. His hand paused on his lace. The light pulsed gently, like it was breathing.
+Without thinking, Micah reached toward it. The moment his fingers touched the glow, everything shifted.
+
+#### Shared/Connected Page
+
+##### Spread 2: el-mi-02.yaml (joint with MI)
+**Node Type:** Meeting Node | **Beat:** Inciting incident
+
+###### Description
+
+Elise and Micah discover each other in a grove where performances have frozen mid-act, both noticing that Kathaél's magic is failing and deciding to help together.
+
+###### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+A grove filled with magical performers frozen in mid-performance. A dancer balances
+on one toe, her arms extended in an impossible arc, completely motionless. Musicians
+hold instruments mid-note, their expressions captured in concentration. Elise (9
+years old, long brown hair, graceful and slim) enters the clearing, her eyes wide
+with concern. She reaches tentatively toward the frozen dancer. Golden threads
+overhead flicker weakly, their glow fading. The whole scene has a twilight quality,
+as if time itself is struggling.
+
+**Text:**
+Elise stepped into the grove and stopped cold. Performers everywhere, frozen like
+statues. A dancer hung mid-leap, one foot pointed, arms spread. Musicians held
+silent instruments. Even the trees seemed to hold their breath. "What happened
+to you?" she whispered, reaching toward the dancer's outstretched hand.
+
+###### Page 8 (Right) - Decision to act together
+
+**Visual:**
+Micah (9 years old, black hair, athletic half-Japanese build, constantly in motion)
+enters from the opposite side, also reaching toward the frozen dancer. His hand and
+Elise's nearly touch. Both children's faces show recognition and relief at finding
+someone else who sees the problem. The golden threads pulse once, weakly, as if
+acknowledging their combined presence. The frozen performers remain motionless,
+but the cousins' determination creates a subtle warmth in the air.
+
+**Text:**
+A sound made her turn. Micah stood on the other side of the frozen dancer, his
+hand extended just like hers. "Elise!" His face broke into a grin despite the
+strangeness around them. "You see it too. They're stuck." She nodded. "The magic
+is fading." Micah's expression turned serious. "Then let's fix it. Together."
+
+**Meeting Location:** A grove where magical performances are frozen in time, dancers and musicians caught mid-movement
+
+**Shared Action:** Both children reach toward a frozen dancer at the same moment, their hands meeting as they realize the magic needs their help
+
+#### After (from Micah's story)
+
+##### Spread 3: mi-03.yaml
+**Node Type:** Solo | **Beat:** Attempt #1 (simple/obvious)
+
+###### Description
+
+Micah tries to untangle the threads by darting around quickly, grabbing and pulling, but his frantic movement only makes the tangles worse and drives the threads away.
+
+###### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Micah sprints through a clearing in Kathaél, arms outstretched trying to catch golden
+threads that float in the air. His body is a blur of motion, captured mid-leap as he
+jumps to reach a high thread. Threads scatter away from him like startled birds, their
+light flickering nervously. His expression shows intense focus and determination. The
+forest around him seems to pull back from his frantic energy. Leaves swirl in the wake
+of his movement. A tangle of threads hovers just out of reach, pulling tighter.
+
+**Text:**
+Micah saw the tangled threads and knew exactly what to do: catch them, untangle them,
+fix them. Fast. He darted through the clearing, hands grabbing for the glowing strands.
+But they slipped away before he could catch them. He ran faster, jumped higher. The
+threads scattered like frightened fish, tangling worse with each frantic grab.
+
+###### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Micah stands panting in the center of the clearing, hands on his knees, catching his
+breath. Around him, threads hang in worse tangles than before, their light dimmer and
+more agitated. Some have knotted together into tight clumps. His face shows frustration
+and confusion, sweat on his brow. A wise old owl perches on a nearby branch, watching
+him with knowing eyes. The forest is perfectly still except for Micah's heavy breathing.
+A single calm thread hovers far away, as if keeping its distance.
+
+**Text:**
+Micah stopped, breathing hard. The threads were worse now. Tighter. Darker. He'd made
+things worse by trying to help. An owl blinked at him from a branch. "Speed isn't always
+strength," it said quietly. Micah wanted to argue, to run again, to do something. But
+the owl just watched, patient and still. Maybe fast wasn't the answer. But what else did he know how to do?
+
+### Meeting Node with Maya (MA)
+
+#### Before (from Maya's story)
+
+##### Spread 2: ma-02.yaml
+**Node Type:** Solo | **Beat:** Inciting incident
+
+###### Description
+
+Maya touches the glowing dancer and finds herself pulled into Kathaél, where performances and dances are frozen mid-movement.
+
+###### Page 7 (Left) - Discovery of the problem
+
+**Visual:**
+Maya stands between worlds, her paint-stained fingers touching a shimmering
+portal where her painting transformed into a doorway. Through it, she sees
+a meadow with frozen dancers—shadow figures stuck mid-leap, mid-spin,
+unable to complete their movements. Golden threads connect them but flicker
+weakly. Her athletic build is poised on tiptoes, ready to leap through.
+
+**Text:**
+When Maya touched the glowing dancer, the painting opened like a door.
+Through it she saw a meadow filled with frozen performances—dancers
+stuck mid-leap, musicians silent with instruments raised, performers
+captured in moments that should have flowed into the next. Golden threads
+connected them all, flickering like candles about to die. Something was
+very wrong.
+
+###### Page 8 (Right) - Decision to act
+
+**Visual:**
+Maya steps fully into Kathaél, standing in the meadow of frozen performances.
+Her Madrid bedroom fades to translucent behind her. She spins once,
+testing the space, and frozen dancers seem to lean toward her motion.
+Golden threads from the Heart Crystal drift closer. Her expression shows
+bold determination mixed with excited curiosity.
+
+**Text:**
+Maya stepped through, and her bedroom dissolved like watercolor in rain.
+The meadow surrounded her, silent where it should have been full of music
+and movement. She spun experimentally, and the frozen dancers seemed to
+sway toward her, yearning. "You need someone to help you finish," Maya
+understood. She grinned, bold and ready. "Perfect. I love a challenge."
+
+#### Shared/Connected Page
+
+##### Spread 3: el-ma-03.yaml (joint with MA)
+**Node Type:** Meeting Node | **Beat:** Attempt #1 (simple/obvious)
+
+###### Description
+
+Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+
+###### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Maya leaps and spins in the center of a faded meadow, her movements bold
+and energetic. She wears her signature pink-streaked hair flying as she
+dances, trying to bring life back through movement. Grey flowers surround
+her, unresponsive. In the distance, a figure with paint-stained hands
+kneels among the flowers.
+
+**Text:**
+Maya leaped high, arms stretched wide, spinning through the meadow like
+wind itself. If colors were fading, she'd dance them back to life. Her
+feet pounded the earth in rhythm, bold and decisive. The flowers barely
+stirred. She landed hard, breathing fast, and spun again. Nothing. In
+the distance, someone knelt among the grey blooms, moving carefully.
+
+###### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
+Both girls freeze mid-motion as recognition hits. Maya's expression shifts
+from determined to shocked to delighted. Elise's eyes widen with surprise
+and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
+their presence.
+
+**Text:**
+"Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
+her painting, eyes going wide. "Maya?!" They stared at each other for
+one breathless second. Then both burst out laughing, the sound bright
+and startled in the grey meadow. "What are YOU doing here?" they said
+at exactly the same time. The threads overhead pulsed warmer, as if
+recognizing their connection.
+
+#### After (from Maya's story)
+
+##### Spread 4: ma-mo-04.yaml (joint with MO)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+###### Description
+
+Maya and little Mona find each other at a studio where colors refuse to stay on canvas, discovering that creative courage might hold an unexpected answer.
+
+###### Page 11 (Left) - Seeking guidance from creativity
+
+**Visual:**
+A magical artist's studio built in the branches of an ancient tree, sunlight
+streaming through large windows. Canvases line the walls, but their paintings
+are fading like watercolors left in rain. Maya (9 years old, sandy-blond hair
+with pink streak, bold and athletic) stands at an easel, brush in hand, watching
+in frustration as the blue she just applied drains to gray. Paint supplies scatter
+the wooden floor. Through the window, golden threads drift past, their light
+flickering weakly.
+
+**Text:**
+Maya dragged her brush across the canvas. Brilliant blue bloomed for just a second,
+then faded to nothing. "Come on," she muttered, trying again. Same thing. Every
+color she tried turned gray within heartbeats. The studio that usually burst with
+life felt like it was holding its breath, waiting for something.
+
+###### Page 12 (Right) - Receiving direction through fearless creativity
+
+**Visual:**
+Little Mona (2 years old, dark curly hair, bright curious eyes) sits on a stool
+beside Maya, painting with fearless abandon. Where Mona's brush touches the canvas,
+colors STAY - vivid reds, brilliant yellows, deep purples. Maya leans in, amazed,
+watching this tiny artist create with complete confidence. Mona grins, tilting her
+head as she adds another bold stroke. The golden threads outside pulse brighter,
+responding to Mona's courage. Maya's canvas begins to hold color where she paints
+without fear.
+
+**Text:**
+A small voice piped up. "Paint with me!" Mona stood at the next easel, her brush
+already moving. Where she painted, colors blazed and held. Maya stared. "How are
+you doing that?" Mona giggled, adding a sunburst of yellow. "Just be you!" Maya
+took a breath, pushed away her worries, and painted. This time, the color stayed.
+
+**Meeting Location:** An artist's studio in the trees where paintings lose their color as fast as they're applied
+
+**Shared Action:** Both children paint side by side, watching their work fade, until Mona's fearless strokes reveal that courage creates lasting color
+
+### Meeting Node with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Spread 3: no-03.yaml
+**Node Type:** Solo | **Beat:** Attempt #1 (simple/obvious)
+
+###### Description
+
+Noah confidently tries to intellectually decode the stuck stories and write endings based on his analysis, but they reject every logically crafted conclusion he offers.
+
+###### Page 9 (Left) - Trying the obvious solution
+
+**Visual:**
+Noah kneels beside a floating thread, notebook open, pen moving confidently.
+Glowing letters appear in the air beside the frozen story-words. The thread
+flickers, rejecting his ending, scattering his words like sparks. More failed
+attempts litter the mossy ground around him.
+
+**Text:**
+"Okay, I can figure this out." Noah knelt beside the frozen story and uncapped
+his pen. "She reached for the door and found her brother waiting." He analyzed
+the pattern: reunion equals resolution. "Perfect!" Noah announced. The thread
+trembled... then spat his words back at him like watermelon seeds. Letters
+bounced off his forehead. "Ow! Okay, not perfect!"
+
+###### Page 10 (Right) - Realizing it doesn't work
+
+**Visual:**
+Noah sits against a tree trunk, surrounded by fading letters from failed
+endings bouncing off like rubber balls. His notebook shows crossed-out attempts.
+The frozen story-thread hangs incomplete nearby, unmoved. A fox with knowing
+eyes watches from the underbrush, looking almost amused.
+
+**Text:**
+Five more endings. Ten. Every single one dissolved or bounced back. Noah sat
+back, puzzled. "Weird. Those were solid endings." The fox in the underbrush
+chittered, and somehow Noah understood: Right for who? Noah tilted his head.
+"You mean... the stories want something different?" The fox flicked its tail
+and trotted deeper into the forest. Noah jumped up. "Wait, are you taking me
+somewhere?"
+
+#### Shared/Connected Page
+
+##### Spread 4: el-no-04.yaml (joint with NO)
+**Node Type:** Meeting Node | **Beat:** Attempt #2 (ask the expert)
+
+###### Description
+
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+
+###### Page 11 (Left) - Seeking guidance
+
+**Visual:**
+A crossroads beneath an ancient willow where forest paths meet. Golden threads
+flow through the branches, some frayed and flickering. Noah stands on the left
+path, notebook tucked under his arm, reaching toward a thread. In the distance,
+the Heart Crystal pulses weakly, more threads drifting loose.
+
+**Text:**
+"I've tried everything." Noah followed the threads to a crossroads beneath
+an ancient willow, hoping someone here might know what he was missing. The
+Crystal glowed through the trees, dimmer than before, more threads
+unraveling. He reached toward one, and it hummed warmly. But the path it
+suggested led deeper into unfamiliar territory.
+
+###### Page 12 (Right) - Receiving direction with warning
+
+**Visual:**
+Elise stands on the right path, watercolor set at her wrist, observing a
+different thread. Between the children, threads flow and intersect, creating
+a lattice of golden light. Both turn toward each other, curious. The willow's
+branches glow brighter where their paths nearly touch.
+
+**Text:**
+Noah spotted her at the same moment she spotted him. A girl with paint-stained
+fingers, reaching for the threads just like he was. "Are you trying to help
+them too?" he called. She nodded. "They keep rejecting everything I try."
+"Same." Something warm spread through his chest. He wasn't alone in this.
+The threads between them pulsed brighter and felt warm, like sunshine on skin.
+
+#### After (from Noah's story)
+
+##### Spread 5: mx-no-05.yaml (joint with MX)
+**Node Type:** Meeting Node | **Beat:** Attempt #3 (bigger world / stakes up)
+
+###### Description
+
+Max and Noah meet in a vast clearing where hundreds of stories are frozen. Both discover they've been using similar analytical approaches that don't work.
+
+###### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Max stands at the edge of a vast clearing where hundreds of golden threads
+hang suspended, all frayed and flickering. He holds a notebook filled with
+diagrams and systems for solving the problem. His expression shows alarm at
+the scale. In the distance, another figure with a notebook approaches, looking
+equally overwhelmed.
+
+**Text:**
+The clearing stretched impossibly wide. Hundreds of frozen stories hung in
+the air, all fraying at the edges. Max gripped his notebook tighter, systems
+and diagrams filling every page. He'd tried organizing them by type, by
+pattern, by structure. Nothing worked. The Crystal pulsed dimmer in the
+distance. A flower nearby turned to dust. "This is really bad."
+
+###### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+Max and Noah stand face to face, both holding notebooks covered in crossed-out
+attempts. Behind them, a storyteller in a patched coat gestures wildly at
+a flowchart, his formulaic approach causing a thread to smoke and knot.
+Both boys step back simultaneously, recognizing their own mistakes in
+the storyteller's methods.
+
+**Text:**
+"You want to help stories? I have the formula!" The storyteller lunged
+forward, grabbing threads. "Twelve steps, perfectly predictable!" A thread
+writhed and knotted, smoking. Max and another boy with sandy hair dove
+forward at the same time. "Stop!" they shouted together. They looked at
+each other, both breathing hard, both holding notebooks. The other boy's
+eyes widened. "You've been trying to analyze them too?"
+
+### Meeting Node with Mona (MO)
+
+#### Before (from Mona's story)
+
+##### Spread 5: mo-05.yaml
+**Node Type:** Solo | **Beat:** Attempt #3 (bigger world / stakes up)
+
+###### Description
+
+Mona ventures into crystalline caves where threads gather in darkness, meeting a flashy fox who suggests forcing the threads to glow, but Mona's gentle approach proves wiser.
+
+###### Page 13 (Left) - Entering unfamiliar territory
+
+**Visual:**
+Mona stands at the entrance to a crystalline cave where massive facets of the Heart Crystal
+form the walls, creating rainbow prisms of light. Deep inside, golden threads hang motionless
+in the shadows. The cave mouth towers above her small form. She holds a glowing mushroom in
+one hand like a tiny lantern, its soft blue light illuminating her determined face. The
+contrast between the bright entrance and dark interior creates dramatic lighting. Small
+crystal formations jut from the ground like miniature forests.
+
+**Text:**
+Mona followed the threads to a place she'd never seen before. A cave made of giant
+crystals stretched into darkness. So many threads hung inside, all dim and still. It
+looked scary, but Mona had learned that new things were usually just different, not bad.
+She picked up a glowing mushroom and walked in, her light bobbing with each toddling step.
+
+###### Page 14 (Right) - Encountering misleading help
+
+**Visual:**
+Inside the cave, a magnificent fox with fur that sparkles like diamonds stands on a crystal
+outcropping above Mona. The fox gestures dramatically with one paw at the dim threads,
+its expression confident and showy. Mona looks up at the fox, tilting her head skeptically.
+The fox's sparkling appearance contrasts with the genuine soft glow of Mona's mushroom.
+Behind them, threads hang waiting. The fox's shadow looms large on the crystal wall,
+making it seem more impressive than it is.
+
+**Text:**
+A sparkling fox appeared on the rocks above. "You want those threads bright again? Easy!
+Just shake them really hard!" The fox demonstrated with wild pawing motions. Mona watched,
+head tilted. At home, shaking things too hard made them break. She looked at the fox, then
+at the threads. "Gentle better," she said quietly. The fox huffed. "Suit yourself, little one."
+
+#### Shared/Connected Page
+
+##### Spread 6: el-mo-06.yaml (joint with MO)
+**Node Type:** Meeting Node | **Beat:** Midpoint: new insight / pattern
+
+###### Description
+
+Elise finds Mona quietly observing the Heart Crystal threads, and together they notice a pattern that more forceful approaches missed.
+
+###### Page 15 (Left) - Recognizing what doesn't work
+
+**Visual:**
+A serene glade carpeted with soft emerald moss and dotted with small luminous
+mushrooms. Golden threads flow through the air like gentle streams of light,
+weaving between ancient trees. Elise (9 years old, long brown hair, slim and
+graceful) enters the clearing, looking tired from previous efforts. She spots
+little Mona (2 years old, dark curly hair, bright curious eyes) sitting cross-legged
+on the moss, perfectly still, just watching the threads dance. The light is soft
+and warm, creating a peaceful atmosphere.
+
+**Text:**
+Elise had tried everything. Pulling threads, painting patterns, following the
+obvious paths. Nothing worked. She stepped into the quiet glade and stopped.
+A tiny girl sat in the moss, utterly still, watching golden threads flow past
+her face. The threads seemed... calmer here. Gentler.
+
+###### Page 16 (Right) - Discovering a new pattern through stillness
+
+**Visual:**
+Elise sits beside Mona on the moss, both children now motionless and observing.
+The golden threads flow closer to them, almost curious, responding to their quiet
+presence. One thread hovers near Mona's outstretched palm, not pulled but drawn.
+Elise's expression shows dawning realization. The threads glow brighter around
+them, their movement more fluid and alive than when approached with force. Soft
+particles of light drift through the air like gentle snow.
+
+**Text:**
+Elise sat beside her. Together they watched, silent. The threads drifted closer,
+curious about their stillness. "Soft," Mona whispered. "Gentle." Elise nodded slowly.
+The threads had been running from grabbing hands, from desperate attempts. But here,
+with just watching and waiting, they came willingly. "You're right," Elise breathed.
+"They want us to be present, not pushy."
+
+**Meeting Location:** A quiet glade where Heart Crystal threads flow through like streams of light
+
+**Shared Action:** Both sit still and watch the threads, noticing they respond to gentle presence rather than forceful intervention
+
+#### After (from Mona's story)
+
+##### Spread 7: mo-07.yaml
+**Node Type:** Solo | **Beat:** Rising stakes: almost works
+
+###### Description
+
+Mona's gentle, fearless approach awakens many threads, but she notices the biggest, most important threads near the Heart Crystal remain dark, too high for her to reach.
+
+###### Page 17 (Left) - Making progress toward goal
+
+**Visual:**
+Mona sits in a clearing filled with golden threads that now glow brightly around her,
+floating and dancing in the air like happy ribbons. She laughs and claps her hands as
+threads spiral around her, their light warm and strong. A dozen threads have unwound
+themselves simply from her presence and fearless joy. Small creatures have gathered to
+watch: rabbits, birds, a deer at the clearing's edge. Her face radiates pure delight.
+The forest seems brighter, more alive.
+
+**Text:**
+All around Mona, threads were waking up. They swirled and danced, glowing like sunshine.
+She laughed and they spun faster, responding to her joy. Everywhere she went, just being
+herself made the threads remember how to shine. Animals gathered to watch the tiny girl
+who fixed things without even trying. She was so happy she could help.
+
+###### Page 18 (Right) - Realizing something is missing
+
+**Visual:**
+Mona looks up at the massive Heart Crystal visible through the trees, its facets towering
+far above her. Thick golden threads connect to the Crystal's highest points, but these
+remain dim and lifeless despite all her progress. Her small hand reaches upward, but the
+distance is impossibly vast for a two-year-old. Her expression shows determination mixed
+with the first hint of uncertainty. The contrast between the glowing threads around her
+and the dark threads above is stark. Stars begin to appear in the twilight sky.
+
+**Text:**
+But then Mona looked up. Way, way up. The biggest threads of all connected to the
+Heart Crystal high above the trees. Those threads were still dark. She reached toward
+them, but they were too far away, even standing on her tiptoes. Her smile faded a
+little. How could she help the threads she couldn't reach?
+
+### Meeting Node with Maya (MA)
+
+#### Before (from Maya's story)
+
+##### Spread 9: ma-09.yaml
+**Node Type:** Solo | **Beat:** Deepening choice / inner shift
+
+###### Description
+
+Maya remembers why she started dancing—for herself—and chooses to perform authentically regardless of judgment.
+
+###### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Maya stands, pushing her pink-streaked hair back determinedly. The
+shadow-audiences still loom, but she's not looking at them anymore.
+She's looking at the grey butterfly, at the weak thread, at the empty
+stage that's waiting. Her posture shifts to bold and ready. Paint-stained
+hands open at her sides.
+
+**Text:**
+Maya stood. The shadow-audiences were still there, still judging. But
+she remembered her bedroom, painting dancers because she loved how they
+moved. Not for teachers. Not for perfect technique. For the joy of it.
+"I didn't come here to perform for you," Maya said to the shadows. Her
+voice grew stronger. "I came here to be myself."
+
+###### Page 22 (Right) - Discovering the missed clue
+
+**Visual:**
+Maya dances boldly, authentically, mixing every style she loves. The
+shadow-audiences dissolve like smoke. Golden threads shimmer into
+visibility, connecting her to warmth beyond the stage—someone else
+choosing courage at the same moment. The butterfly's wings bloom with
+color. Flowers grow where she dances. The stage transforms.
+
+**Text:**
+Maya danced—big bold leaps, silly spins, mixing ballet with hip-hop
+with moves she just invented. The shadow-audiences dissolved. Golden
+light rippled through the air, warm as a hug from someone far away being
+brave at exactly the same moment. The butterfly's wings burst into color.
+Flowers bloomed where her feet touched the stage. "Being myself," Maya
+laughed, "is exactly enough."
+
+#### Shared/Connected Page
+
+##### Spread 10: el-ma-mi-mo-mx-no-10.yaml (joint with MA, MI, MO, MX, NO)
+**Node Type:** Meeting Node | **Beat:** Climax: big action
+
+###### Description
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+
+###### Page 23 (Left) - Facing the final challenge together
+
+**Visual:**
+The Heart Crystal rises like a building before six children gathered in a circle at
+its base. The massive crystalline structure shows deep fractures, each crack glowing
+with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall),
+and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair,
+graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2,
+dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different
+facet of the Crystal, hesitation visible in their postures. The forest clearing pulses
+with dimming light.
+
+**Text:**
+The Heart Crystal towered above them, cracks spreading like lightning across its
+surface. Golden light leaked from every fracture, stories dissolving into nothing.
+Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
+Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+###### Page 24 (Right) - Taking decisive action - the moment of convergence
+
+**Visual:**
+All six children press their hands against the Crystal simultaneously. Each facet
+they touch glows brilliant gold, and streams of light spiral upward from their palms
+into the structure. The cracks begin to seal, golden threads weaving through them
+like stitches. The children's faces show fierce concentration and wonder. Light
+radiates from the Crystal's core, growing brighter and more stable. The whole clearing
+illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+**Text:**
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
+beneath their palms, humming like a struck bell. Light surged through the cracks,
+knitting them closed. "Don't let go," Max shouted over the rising sound. The
+threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
+bright. The Heart Crystal sang, whole again.
+
+**Meeting Location:** The Heart Crystal clearing, where the massive crystalline structure rises from the forest floor
+
+**Shared Action:** Each child places their hand on a different facet of the Heart Crystal, channeling their courage theme simultaneously to restore the Crystal's integrity
+
+#### After (from Maya's story)
+
+##### Spread 11: ma-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+###### Description
+
+The performance facet blazes with authentic expression, and Maya receives paint that glows with courage.
+
+###### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Heart Crystal blazes with every color imaginable, the performance
+facet spinning and dancing with light. Maya's authentic performance
+weaves into the structure, its wild energy making the whole crystal
+more vibrant. Between her hands appears a small paint pot filled with
+colors that shift and glow. The butterfly from before circles, wings
+brilliant.
+
+**Text:**
+The Crystal blazed with every color Maya had ever loved and some she'd
+never imagined. Her wild authentic performance wove itself into the
+pattern, and somehow its boldness made everything more beautiful. Light
+gathered in her palms until a paint pot appeared—small, perfect, filled
+with colors that glowed and shifted. The butterfly landed on her shoulder,
+wings brilliant. "I was always enough," Maya breathed.
+
+###### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Maya walks home along a path lined with performing flowers and dancing
+trees, the paint pot secure in her hands. Around her, frozen performances
+complete themselves—each one unique, authentic, true. A fox dances past.
+Her Madrid bedroom window glows warmly in the distance, her bold paintings
+visible through the glass.
+
+**Text:**
+Maya walked home, the paint pot warm in her hands. All around, frozen
+performances finished themselves—each dancer finding their own style,
+each artist creating their own truth. A fox danced past and Maya laughed,
+spinning with it. "Thank you," she called to Kathaél. The window to her
+bedroom gleamed ahead, her bold colorful paintings waiting.
+
+### Meeting Node with Micah (MI)
+
+#### Before (from Micah's story)
+
+##### Spread 9: mi-09.yaml
+**Node Type:** Solo | **Beat:** Deepening choice / inner shift
+
+###### Description
+
+Micah remembers what the tortoise said about presence not pressure, and chooses to sit and breathe not because he has to, but because he cares enough to try the hardest thing for him.
+
+###### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Micah stands before the path leading to the Heart Crystal, fists clenched at his sides.
+His whole body vibrates with the urge to run toward it, to attack the problem with
+speed and energy. But his eyes are closed, and he's taking slow, deliberate breaths.
+His expression shows intense internal struggle. One foot lifts slightly, wanting to
+sprint, but he plants it back down. The wise tortoise from earlier watches from a
+distance, nodding slowly. Micah's choice is visible in every tense muscle choosing stillness.
+
+**Text:**
+Micah stood at the path's edge. Every part of him screamed to run at those tangles,
+to fight them with speed and strength. But he remembered the tortoise's words: presence,
+not pressure. He closed his eyes. Breathed. Once. Twice. This wasn't giving up. This
+was the bravest thing he'd ever tried. Choosing to be still when everything in him wanted
+to move. "Okay," he whispered. "I'll try."
+
+###### Page 22 (Right) - Discovering the missed clue through breath
+
+**Visual:**
+Micah sits perfectly still beneath the Heart Crystal, eyes closed, breathing slowly
+and deeply. His body has finally relaxed into the stillness instead of fighting it.
+Around him, golden threads drift down like gentle snow, drawn to his calm presence.
+The massive tangles near the Crystal begin to pulse in rhythm with his breathing: in,
+they tighten; out, they loosen. His breath is literally unwinding them. Soft golden
+light spreads from him in ripples with each exhale. His face shows peaceful concentration.
+The forest holds its breath with him.
+
+**Text:**
+He sat. He breathed. In, slow and deep. Out, letting everything go. The threads near
+the Crystal began to pulse with his breath. In. Out. In. Out. With each exhale, the
+tangles loosened, just a little. His stillness wasn't weakness. It was its own kind
+of power. The hardest kind. The kind that took real courage. The threads unwound
+themselves, following the rhythm of his breathing. It was working.
+
+#### Shared/Connected Page
+
+##### Spread 10: el-ma-mi-mo-mx-no-10.yaml (joint with MA, MI, MO, MX, NO)
+**Node Type:** Meeting Node | **Beat:** Climax: big action
+
+###### Description
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+
+###### Page 23 (Left) - Facing the final challenge together
+
+**Visual:**
+The Heart Crystal rises like a building before six children gathered in a circle at
+its base. The massive crystalline structure shows deep fractures, each crack glowing
+with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall),
+and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair,
+graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2,
+dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different
+facet of the Crystal, hesitation visible in their postures. The forest clearing pulses
+with dimming light.
+
+**Text:**
+The Heart Crystal towered above them, cracks spreading like lightning across its
+surface. Golden light leaked from every fracture, stories dissolving into nothing.
+Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
+Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+###### Page 24 (Right) - Taking decisive action - the moment of convergence
+
+**Visual:**
+All six children press their hands against the Crystal simultaneously. Each facet
+they touch glows brilliant gold, and streams of light spiral upward from their palms
+into the structure. The cracks begin to seal, golden threads weaving through them
+like stitches. The children's faces show fierce concentration and wonder. Light
+radiates from the Crystal's core, growing brighter and more stable. The whole clearing
+illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+**Text:**
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
+beneath their palms, humming like a struck bell. Light surged through the cracks,
+knitting them closed. "Don't let go," Max shouted over the rising sound. The
+threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
+bright. The Heart Crystal sang, whole again.
+
+**Meeting Location:** The Heart Crystal clearing, where the massive crystalline structure rises from the forest floor
+
+**Shared Action:** Each child places their hand on a different facet of the Heart Crystal, channeling their courage theme simultaneously to restore the Crystal's integrity
+
+#### After (from Micah's story)
+
+##### Spread 11: mi-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+###### Description
+
+The ancient tangles unwind completely thanks to Micah's brave stillness, and he receives a golden thread that pulses with his breath as he prepares to return home.
+
+###### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+Micah sits in lotus position before the Heart Crystal, which now blazes with perfect
+light. The massive tangles have completely unwound, threads flowing freely in all
+directions like rivers of gold. His eyes are open now, face showing quiet pride and
+amazement. The wise tortoise approaches slowly and places a single glowing thread
+across Micah's palm. The thread pulses gently in rhythm with Micah's calm breathing.
+Forest creatures gather in celebration: the owl, the rabbit, even the hummingbird
+hovers nearby, finally still. Peace radiates through the clearing.
+
+**Text:**
+The last tangle unwound. The Heart Crystal sang with light, every thread free and
+flowing. Micah opened his eyes slowly, almost afraid to move and break the spell.
+He'd done it. Not by being fast or strong, but by being still. The tortoise smiled.
+"You learned what few ever do," it said, offering a glowing thread. "That sometimes
+the bravest thing is simply to breathe."
+
+###### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Micah walks calmly toward the shimmering portal home, no longer running or bouncing.
+His pace is measured and peaceful. The golden thread wraps around his wrist like a
+bracelet, pulsing softly with each breath he takes. He looks back at the glowing
+forest and the Crystal one last time, one hand raised in a wave. The creatures wave
+back. His expression shows he's changed: still energetic, but now carrying stillness
+inside him too. The portal glows gently, ready to take him home. Sunset colors fill the sky.
+
+**Text:**
+Micah walked toward the portal. Walked, not ran. The golden thread on his wrist pulsed
+with his breath, a constant reminder. The forest around him glowed with the light of
+untangled threads. Part of him wanted to stay and explore, to run and climb and play.
+But home called. And now he carried something new inside: the knowledge that he could
+be still when he needed to. That pausing was its own kind of strength.
+
+### Meeting Node with Mona (MO)
+
+#### Before (from Mona's story)
+
+##### Spread 9: mo-09.yaml
+**Node Type:** Solo | **Beat:** Deepening choice / inner shift
+
+###### Description
+
+Mona wakes from her rest with new understanding. Her courage to try has already lit so many threads that their combined light reaches the Heart Crystal, completing the connection she couldn't make alone.
+
+###### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Mona sits up from her rest, refreshed and smiling. Dawn light filters through the trees,
+creating golden beams. She looks around at all the threads she helped, now glowing
+brilliantly around the clearing. Her expression shows a moment of realization as she
+notices how the threads connect to each other, forming chains of light that lead upward.
+She stands, brushing moss from her clothes with determination. Her bunny sits propped
+against the tree. Small creatures gather again, sensing her renewed energy.
+
+**Text:**
+Mona woke up as sun touched her face. She felt better, stronger. Looking around, she
+saw all the threads she'd helped, glowing bright and happy. Each one connected to another,
+and another. She stood up, not because she had to, but because she wanted to. There were
+still threads that needed a friend. And being a friend was what Mona did best.
+
+###### Page 22 (Right) - Discovering the missed clue
+
+**Visual:**
+Mona stands in the center of the clearing with her arms spread wide in joy. Around her,
+the threads she helped glow so brightly they create streams of light flowing upward toward
+the Heart Crystal. These lower threads connect to higher threads, which connect to even
+higher ones, creating a luminous pathway she couldn't see before. The light travels up
+and up until it reaches the massive threads at the Crystal's peak, which begin to pulse
+with awakening light. Her face shows pure wonder and delight. The whole forest glows.
+
+**Text:**
+Then she saw it. The threads she'd helped weren't just glowing for themselves. Their
+light flowed upward, touching other threads, which touched others, creating a river of
+light all the way to the top. She didn't need to reach the high threads herself. Her
+courage to try had started something that spread everywhere. "It works!" she shouted, spinning in a circle.
+
+#### Shared/Connected Page
+
+##### Spread 10: el-ma-mi-mo-mx-no-10.yaml (joint with MA, MI, MO, MX, NO)
+**Node Type:** Meeting Node | **Beat:** Climax: big action
+
+###### Description
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+
+###### Page 23 (Left) - Facing the final challenge together
+
+**Visual:**
+The Heart Crystal rises like a building before six children gathered in a circle at
+its base. The massive crystalline structure shows deep fractures, each crack glowing
+with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall),
+and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair,
+graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2,
+dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different
+facet of the Crystal, hesitation visible in their postures. The forest clearing pulses
+with dimming light.
+
+**Text:**
+The Heart Crystal towered above them, cracks spreading like lightning across its
+surface. Golden light leaked from every fracture, stories dissolving into nothing.
+Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
+Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+###### Page 24 (Right) - Taking decisive action - the moment of convergence
+
+**Visual:**
+All six children press their hands against the Crystal simultaneously. Each facet
+they touch glows brilliant gold, and streams of light spiral upward from their palms
+into the structure. The cracks begin to seal, golden threads weaving through them
+like stitches. The children's faces show fierce concentration and wonder. Light
+radiates from the Crystal's core, growing brighter and more stable. The whole clearing
+illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+**Text:**
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
+beneath their palms, humming like a struck bell. Light surged through the cracks,
+knitting them closed. "Don't let go," Max shouted over the rising sound. The
+threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
+bright. The Heart Crystal sang, whole again.
+
+**Meeting Location:** The Heart Crystal clearing, where the massive crystalline structure rises from the forest floor
+
+**Shared Action:** Each child places their hand on a different facet of the Heart Crystal, channeling their courage theme simultaneously to restore the Crystal's integrity
+
+#### After (from Mona's story)
+
+##### Spread 11: mo-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+###### Description
+
+The Heart Crystal's threads glow brilliantly thanks to Mona's fearless trying, and she receives a golden thread to keep as the magical doorway prepares to take her home.
+
+###### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+Mona stands before the massive Heart Crystal, which now blazes with light from all its
+facets. Golden threads flow from it in all directions like rivers of sunshine, completely
+untangled and vibrant. The entire forest celebrates around her: birds sing, flowers bloom
+instantly, trees shimmer with renewed life. A wise deer approaches and bows its head,
+placing a single glowing thread in Mona's small palm. The thread wraps gently around her
+wrist like a bracelet, pulsing with warm light. Her face shows pure joy and pride.
+
+**Text:**
+The Heart Crystal sang with light. Every thread glowed strong and free, flowing through
+Kathaél like rivers of joy. Mona had done it. Not by being big or strong, but by being
+brave enough to try new things without fear. A deer lowered its head, offering her a
+golden thread. "A gift," it said gently. "To remember that trying is its own kind of magic."
+
+###### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Mona walks back through the glowing forest toward the shimmering portal she first came
+through, visible between the trees ahead. She looks back over her shoulder at the
+brilliant Heart Crystal and the friends she made: the rabbit, the deer, the birds all
+gathered to watch her go. She waves with one hand, the golden thread bracelet glowing
+on her wrist. Her expression mixes happiness with a touch of wistfulness. The portal
+pulses gently, calling her home. Sunset paints the sky in warm colors.
+
+**Text:**
+Mona walked toward the glowing doorway that would take her home. She turned back to
+wave at all the creatures watching. The threads danced in the air, brighter than ever.
+Part of her wanted to stay and play here forever. But home had toys and her family and
+her own bed. The thread on her wrist pulsed warmly. She could come back. Maybe trying new things meant going home was just another adventure.
+
+### Meeting Node with Max (MX)
+
+#### Before (from Max's story)
+
+##### Spread 9: mx-09.yaml
+**Node Type:** Solo | **Beat:** Deepening choice / inner shift
+
+###### Description
+
+Max decides to attempt fixing the broken challenge not despite his big mistake, but through it—using the wreckage as raw material for something new.
+
+###### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Max stands, rain-soaked, and walks back toward the destroyed challenge.
+He picks up a broken piece of metal, testing its weight. His posture
+shows determination mixed with uncertainty. The bird from before watches
+with approval. His notebook lies closed on the ground—he's not following
+a system anymore.
+
+**Text:**
+Max stood. He didn't know how to fix this. Didn't have a system or
+technique. But the thread was still there, weak but alive. He walked
+back to the wreckage and picked up a broken beam. Maybe he couldn't
+restore what was. But maybe he could build something new from the
+mistake. "Okay," he said to the wreckage. "Let's try."
+
+###### Page 22 (Right) - Discovering the missed clue
+
+**Visual:**
+Max works with the broken pieces, not trying to rebuild the original
+perfectly but creating something new from the ruins. As he connects
+pieces, golden threads weave between them, stronger than before. A
+warmth spreads through the air—someone else's courage reaching him.
+The challenge begins glowing, different but alive.
+
+**Text:**
+Max pieced together broken beams, twisted metal, collapsed ropes—not
+rebuilding what was, but making something new. The threads wove between
+his hands, humming. Warmth flooded through him, bright and unexpected,
+like someone far away was being brave at the exact same moment. The
+challenge glowed to life, different from the original but stronger.
+"Mistakes don't have to be endings," Max breathed.
+
+#### Shared/Connected Page
+
+##### Spread 10: el-ma-mi-mo-mx-no-10.yaml (joint with MA, MI, MO, MX, NO)
+**Node Type:** Meeting Node | **Beat:** Climax: big action
+
+###### Description
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+
+###### Page 23 (Left) - Facing the final challenge together
+
+**Visual:**
+The Heart Crystal rises like a building before six children gathered in a circle at
+its base. The massive crystalline structure shows deep fractures, each crack glowing
+with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall),
+and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair,
+graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2,
+dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different
+facet of the Crystal, hesitation visible in their postures. The forest clearing pulses
+with dimming light.
+
+**Text:**
+The Heart Crystal towered above them, cracks spreading like lightning across its
+surface. Golden light leaked from every fracture, stories dissolving into nothing.
+Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
+Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+###### Page 24 (Right) - Taking decisive action - the moment of convergence
+
+**Visual:**
+All six children press their hands against the Crystal simultaneously. Each facet
+they touch glows brilliant gold, and streams of light spiral upward from their palms
+into the structure. The cracks begin to seal, golden threads weaving through them
+like stitches. The children's faces show fierce concentration and wonder. Light
+radiates from the Crystal's core, growing brighter and more stable. The whole clearing
+illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+**Text:**
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
+beneath their palms, humming like a struck bell. Light surged through the cracks,
+knitting them closed. "Don't let go," Max shouted over the rising sound. The
+threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
+bright. The Heart Crystal sang, whole again.
+
+**Meeting Location:** The Heart Crystal clearing, where the massive crystalline structure rises from the forest floor
+
+**Shared Action:** Each child places their hand on a different facet of the Heart Crystal, channeling their courage theme simultaneously to restore the Crystal's integrity
+
+#### After (from Max's story)
+
+##### Spread 11: mx-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+###### Description
+
+The Heart Crystal blazes with renewed strength, and Max receives a wristband that glows when he persists through difficulty.
+
+###### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Heart Crystal blazes with light, every facet glowing strong. Max's
+challenge weaves into the crystal structure, its imperfect form creating
+new patterns. Between his hands materializes a simple wristband woven
+from golden thread, glowing softly. The fox from earlier watches with
+approval, tail swishing.
+
+**Text:**
+The Crystal blazed like a star, every facet strong again. Max's imperfect
+challenge wove itself into the pattern, and somehow its rough edges made
+the whole structure more resilient. Light gathered in his palms, warm
+and solid, until a wristband appeared—simple, golden, pulsing gently.
+The fox sat nearby, watching. Max grinned. "I really didn't quit."
+
+###### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Max walks along a glowing path toward home, the wristband warm on his
+wrist. Around him, challenge courses complete themselves, incorporating
+mistakes into their designs instead of erasing them. A rabbit hops
+alongside him. His driveway with the basketball hoop glows warmly in
+the distance between trees.
+
+**Text:**
+Max walked home, the wristband humming against his wrist. All around,
+frozen challenges began moving again, their designs incorporating the
+stumbles and adjustments that made them real. A rabbit hopped beside
+him for a few steps, then darted away. "Thank you," Max called to the
+forest. The basketball hoop in his driveway gleamed ahead, looking
+somehow different.
+
+### Meeting Node with Noah (NO)
+
+#### Before (from Noah's story)
+
+##### Spread 9: no-09.yaml
+**Node Type:** Resonant Node | **Beat:** Deepening choice / inner shift
+
+###### Description
+
+Noah releases his need to understand everything, choosing to trust without comprehension. His courage ripples through the Heart Crystal, and he feels someone else's bravery answering his own.
+
+###### Page 21 (Left) - Making the choice to continue
+
+**Visual:**
+Noah sits in the grove of tangled stories, posture changed. His notebook
+lies closed on the ground. His hands rest open in his lap, palms up, empty.
+His expression shows surrender that is also peace. The tangled threads
+around him wait, still faintly glowing.
+
+**Text:**
+Noah picked up his notebook from the mud, wiped it gently, and set it on a dry
+stone. Not thrown away. Just... set aside. "I can't decode what these stories need."
+His hands opened, empty. No pen. No analysis. Just honesty. The fox from earlier
+had been right. The stories knew their own endings. They just needed someone brave
+enough to be present without understanding everything.
+
+###### Page 22 (Right) - Feeling the connection
+
+**Visual:**
+Golden threads shimmer into visibility around Noah, pulsing with soft
+light connecting him to something beyond the grove. His eyes widen with
+wonder. The tangled story-threads begin to unknot, slowly writing
+themselves. Warmth suffuses the scene like sunrise.
+
+**Text:**
+Golden light shimmered through the air, warm on his skin. Noah gasped as joy
+flooded through him—not his own joy, but someone else's, someone far away being
+brave at the exact same moment. The girl at the crossroads? The threads around
+him trembled, then began writing themselves, words blooming like flowers. "We're
+doing this together," he whispered. "Even if we can't see each other."
+
+#### Shared/Connected Page
+
+##### Spread 10: el-ma-mi-mo-mx-no-10.yaml (joint with MA, MI, MO, MX, NO)
+**Node Type:** Meeting Node | **Beat:** Climax: big action
+
+###### Description
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+
+###### Page 23 (Left) - Facing the final challenge together
+
+**Visual:**
+The Heart Crystal rises like a building before six children gathered in a circle at
+its base. The massive crystalline structure shows deep fractures, each crack glowing
+with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall),
+and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair,
+graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2,
+dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different
+facet of the Crystal, hesitation visible in their postures. The forest clearing pulses
+with dimming light.
+
+**Text:**
+The Heart Crystal towered above them, cracks spreading like lightning across its
+surface. Golden light leaked from every fracture, stories dissolving into nothing.
+Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
+Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+###### Page 24 (Right) - Taking decisive action - the moment of convergence
+
+**Visual:**
+All six children press their hands against the Crystal simultaneously. Each facet
+they touch glows brilliant gold, and streams of light spiral upward from their palms
+into the structure. The cracks begin to seal, golden threads weaving through them
+like stitches. The children's faces show fierce concentration and wonder. Light
+radiates from the Crystal's core, growing brighter and more stable. The whole clearing
+illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+**Text:**
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
+beneath their palms, humming like a struck bell. Light surged through the cracks,
+knitting them closed. "Don't let go," Max shouted over the rising sound. The
+threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
+bright. The Heart Crystal sang, whole again.
+
+**Meeting Location:** The Heart Crystal clearing, where the massive crystalline structure rises from the forest floor
+
+**Shared Action:** Each child places their hand on a different facet of the Heart Crystal, channeling their courage theme simultaneously to restore the Crystal's integrity
+
+#### After (from Noah's story)
+
+##### Spread 11: no-11.yaml
+**Node Type:** Solo | **Beat:** Resolution (external)
+
+###### Description
+
+Noah's story completes itself, the Heart Crystal heals, and he receives a blank page that glows with possibility.
+
+###### Page 25 (Left) - Goal achieved, external reward
+
+**Visual:**
+The Crystal blazes like a star, every facet glowing. Noah's thread flows into
+the story-facet, finding its place in the crystalline structure. Light refracts
+through every facet in rainbow colors. Noah holds both hands at chest height,
+and between them hovers a single blank page glowing with soft golden light.
+The fox from earlier watches from the edge, approving.
+
+**Text:**
+The Crystal blazed like a star, every facet glowing. Noah's thread wove itself
+into the pattern, finding an ending that surprised and delighted him. The fox
+sat nearby, tail swishing. Light gathered in Noah's palms, warm and tingly, until
+a blank page appeared—glowing with possibility. "A beginning," he breathed. "Not
+an ending."
+
+###### Page 26 (Right) - Beginning the return
+
+**Visual:**
+Noah walks along a glowing path, the blank page tucked against his chest.
+Around him, frozen story-threads complete themselves one by one, words
+blooming like flowers. The forest feels alive. His ordinary world glows
+warmly in the distance.
+
+**Text:**
+All around him, stories finished themselves with gentle chime sounds. Threads
+that had hung frozen finally found their endings. The rabbit hopped past and
+Noah laughed, giddy with relief and joy. "Thank you," he called to the forest.
+He hoped the girl at the crossroads could feel this too. The blank page warmed
+against his heart as he walked home.
+
