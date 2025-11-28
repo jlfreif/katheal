@@ -1,0 +1,51 @@
+# Mona - Spread 5
+# Bigger world: Ventures into crystal caves
+# Emotional beat: ADVENTURE → CHALLENGE → PERSISTENCE
+# Character theme: Courage to Try Something New
+
+id: mo-05
+spread: 5
+node_type: solo
+beat: "Attempt #3 (bigger world / stakes up)"
+
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
+
+description: Mona ventures into crystalline caves where threads gather in darkness, meeting a flashy fox who suggests forcing the threads to glow, but Mona's gentle approach proves wiser.
+
+scenes:
+  - page: left
+    page_number: 13
+    focus: Entering unfamiliar territory
+
+    visual: |
+      Mona stands at the entrance to a crystalline cave where massive facets of the Heart Crystal
+      form the walls, creating rainbow prisms of light. Deep inside, golden threads hang motionless
+      in the shadows. The cave mouth towers above her small form. She holds a glowing mushroom in
+      one hand like a tiny lantern, its soft blue light illuminating her determined face. The
+      contrast between the bright entrance and dark interior creates dramatic lighting. Small
+      crystal formations jut from the ground like miniature forests.
+
+    text: |
+      Mona followed the threads to a place she'd never seen before. A cave made of giant
+      crystals stretched into darkness. So many threads hung inside, all dim and still. It
+      looked scary, but Mona had learned that new things were usually just different, not bad.
+      She picked up a glowing mushroom and walked in, her light bobbing with each toddling step.
+
+  - page: right
+    page_number: 14
+    focus: Encountering misleading help
+
+    visual: |
+      Inside the cave, a magnificent fox with fur that sparkles like diamonds stands on a crystal
+      outcropping above Mona. The fox gestures dramatically with one paw at the dim threads,
+      its expression confident and showy. Mona looks up at the fox, tilting her head skeptically.
+      The fox's sparkling appearance contrasts with the genuine soft glow of Mona's mushroom.
+      Behind them, threads hang waiting. The fox's shadow looms large on the crystal wall,
+      making it seem more impressive than it is.
+
+    text: |
+      A sparkling fox appeared on the rocks above. "You want those threads bright again? Easy!
+      Just shake them really hard!" The fox demonstrated with wild pawing motions. Mona watched,
+      head tilted. At home, shaking things too hard made them break. She looked at the fox, then
+      at the threads. "Gentle better," she said quietly. The fox huffed. "Suit yourself, little one."

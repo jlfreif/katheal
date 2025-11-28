@@ -1,0 +1,52 @@
+# Micah - Spread 6
+# Midpoint: Realizes rushing makes everything worse
+# Emotional beat: COLLAPSE → RECOGNITION → INSIGHT
+# Character theme: Courage to Take a Breath
+
+id: mi-06
+spread: 6
+node_type: solo
+beat: "Midpoint: new insight / pattern"
+
+hook: A pattern or clue emerges, suggesting a new direction based on observation.
+payoff: New approach is tried based on the insight from previous spread.
+
+description: Micah collapses from exhaustion in the chaotic grove and, in forced stillness, finally notices that the threads calm when he stops moving.
+
+scenes:
+  - page: left
+    page_number: 15
+    focus: Recognizing what doesn't work
+
+    visual: |
+      Micah has collapsed onto the ground, sprawled on his back, completely exhausted. His
+      chest heaves as he gasps for air. Around him, the whirlwind continues but he's too
+      tired to move anymore. Sweat drips down his face. His limbs feel like lead. The
+      hummingbird has zipped away to bother someone else. For the first time in the story,
+      Micah is completely, utterly still, not by choice but by necessity. His eyes are closed.
+      The chaotic threads continue their frantic dance above him.
+
+    text: |
+      Micah couldn't move anymore. His legs gave out and he collapsed, breathing so hard his
+      lungs burned. The hummingbird buzzed off to find faster prey. He lay there, forced into
+      stillness for the first time in his life. Every muscle screamed. His heart hammered.
+      Moving faster hadn't helped. It had only made him too tired to help at all.
+
+  - page: right
+    page_number: 16
+    focus: Discovering a new pattern
+
+    visual: |
+      Micah lies still on the ground, eyes now open and watching. Above him, the chaotic
+      threads are beginning to slow their frantic movement. As his breathing calms, the
+      threads calm too. One thread drifts down toward his outstretched hand, moving gently
+      instead of wildly. His expression shows dawning wonder and realization. The whirlwind
+      around the clearing starts to ease. Golden light filters through more peacefully. The
+      correlation is clear: his stillness creates their stillness.
+
+    text: |
+      As he lay there catching his breath, something changed. The wild threads above him
+      started to slow. His breathing slowed. The threads slowed with it. One floated down
+      to hover above his hand, calm and gentle. Micah's eyes went wide. They weren't matching
+      his speed anymore. They were matching his stillness. The pattern clicked. Stop moving.
+      Start breathing. That was the answer.

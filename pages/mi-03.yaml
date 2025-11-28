@@ -1,0 +1,51 @@
+# Micah - Spread 3
+# First attempt: Tries to fix threads by moving fast
+# Emotional beat: ACTION → FAILURE → FRUSTRATION
+# Character theme: Courage to Take a Breath
+
+id: mi-03
+spread: 3
+node_type: solo
+beat: "Attempt #1 (simple/obvious)"
+
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
+
+description: Micah tries to untangle the threads by darting around quickly, grabbing and pulling, but his frantic movement only makes the tangles worse and drives the threads away.
+
+scenes:
+  - page: left
+    page_number: 9
+    focus: Trying the obvious solution
+
+    visual: |
+      Micah sprints through a clearing in Kathaél, arms outstretched trying to catch golden
+      threads that float in the air. His body is a blur of motion, captured mid-leap as he
+      jumps to reach a high thread. Threads scatter away from him like startled birds, their
+      light flickering nervously. His expression shows intense focus and determination. The
+      forest around him seems to pull back from his frantic energy. Leaves swirl in the wake
+      of his movement. A tangle of threads hovers just out of reach, pulling tighter.
+
+    text: |
+      Micah saw the tangled threads and knew exactly what to do: catch them, untangle them,
+      fix them. Fast. He darted through the clearing, hands grabbing for the glowing strands.
+      But they slipped away before he could catch them. He ran faster, jumped higher. The
+      threads scattered like frightened fish, tangling worse with each frantic grab.
+
+  - page: right
+    page_number: 10
+    focus: Realizing it doesn't work
+
+    visual: |
+      Micah stands panting in the center of the clearing, hands on his knees, catching his
+      breath. Around him, threads hang in worse tangles than before, their light dimmer and
+      more agitated. Some have knotted together into tight clumps. His face shows frustration
+      and confusion, sweat on his brow. A wise old owl perches on a nearby branch, watching
+      him with knowing eyes. The forest is perfectly still except for Micah's heavy breathing.
+      A single calm thread hovers far away, as if keeping its distance.
+
+    text: |
+      Micah stopped, breathing hard. The threads were worse now. Tighter. Darker. He'd made
+      things worse by trying to help. An owl blinked at him from a branch. "Speed isn't always
+      strength," it said quietly. Micah wanted to argue, to run again, to do something. But
+      the owl just watched, patient and still. Maybe fast wasn't the answer. But what else did he know how to do?

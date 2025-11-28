@@ -1,0 +1,53 @@
+# Micah - Spread 12
+# Resolution (emotional): Transformed by learning to breathe
+# Emotional beat: RETURN → BALANCE → TRANSFORMATION
+# Character theme: Courage to Take a Breath
+
+id: mi-12
+spread: 12
+node_type: solo
+beat: "Resolution (emotional) + series button"
+
+hook: Final moment of reflection showing ongoing connection or meaning.
+payoff: Landing complete - ordinary world echoes opening but transformed.
+
+description: Micah returns to the park where his journey began, still energetic and active, but now able to pause and breathe when needed, finding power in both movement and stillness.
+
+scenes:
+  - page: left
+    page_number: 27
+    focus: Returning to ordinary world
+
+    visual: |
+      Micah stands in the same park where his journey began, in almost the exact spot where
+      he knelt to tie his shoe. Everything looks familiar: the benches, the trees, the other
+      kids playing. But his posture is different. He stands still for a moment, just breathing,
+      watching the world around him. The golden thread bracelet glows softly on his wrist.
+      Other kids run past but he doesn't immediately chase them. His expression shows someone
+      who's learned something important. The scene mirrors the opening but his energy is changed.
+
+    text: |
+      Micah was back in the park. Same trees. Same benches. Same restless energy inside him
+      wanting to run and climb and move. But now he paused. Just for a moment. Breathed.
+      The golden thread on his wrist pulsed with his breath, warm and steady. The world
+      didn't feel so urgent anymore. There was time to be still. And time to move.
+
+  - page: right
+    page_number: 28
+    focus: Transformed by the journey
+
+    visual: |
+      Micah runs through the park with other kids, vaulting over the same bench from the
+      opening scene. But now when he lands, he pauses mid-run to take a breath, grinning.
+      The golden thread glows brighter as he breathes. Around him, subtle magic appears:
+      the air seems clearer, his movements more graceful and intentional rather than frantic.
+      He's still in motion, still energetic, but there's rhythm to it now. He's discovered
+      balance. His expression shows joy mixed with peace. He can be both: active AND still.
+
+    text: |
+      Then he ran. Because he still loved running. Still loved climbing and jumping and
+      moving through the world at top speed. But now, when his lungs burned or his thoughts
+      raced too fast, he knew what to do. He could stop. Breathe. Find his center. Then
+      move again. The golden thread pulsed on his wrist. Being still wasn't the opposite
+      of being active. It was the thing that made being active even better. Micah grinned
+      and took a deep breath. He had so much energy for what came next.

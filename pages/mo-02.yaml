@@ -1,0 +1,51 @@
+# Mona - Spread 2
+# Inciting incident: Discovers threads are tangled and sad
+# Emotional beat: WONDER → CONCERN → DECISION
+# Character theme: Courage to Try Something New
+
+id: mo-02
+spread: 2
+node_type: solo
+beat: "Inciting incident"
+
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Mona steps into Kathaél and discovers beautiful golden threads that are tangled and dim, deciding with her innocent courage to help them.
+
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
+
+    visual: |
+      Mona stands in a luminous forest clearing in Kathaél, surrounded by ancient trees with
+      glowing moss at their bases. Golden threads fill the air around her, but many are knotted
+      and tangled together, their light flickering weakly. Some threads droop toward the ground,
+      lifeless. Mona's expression shifts from wonder to concern as she notices a particularly
+      sad-looking cluster of threads hanging limp near her face. She reaches up to touch one
+      gently. The clearing has a twilight quality, beautiful but troubled.
+
+    text: |
+      Mona gasped. She stood in a forest that glowed. Golden threads floated everywhere, but
+      something was wrong. Many were twisted into knots, their light going dim. A thread
+      drifted past her cheek, barely glowing at all. It looked sad. Mona's brow furrowed.
+      Why were the pretty threads hurting?
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Mona crouches down, both hands reaching toward a tangle of threads resting on the mossy
+      ground. Her face shows pure determination despite her young age, tilted head focused on
+      the problem. A small luminous rabbit sits nearby, watching her with interest. The threads
+      near Mona begin to glow slightly brighter, responding to her fearless presence. Her curly
+      hair catches the golden light. Behind her, paths branch out in multiple directions through
+      the forest, all lined with more threads waiting to be helped.
+
+    text: |
+      Mona didn't know words like "magic" or "problem" yet. But she knew when something
+      needed help. At home, when her blocks fell down, she built them back up. When her
+      stuffed bunny looked lonely, she gave it hugs. These threads needed help too. She
+      reached for the nearest tangle. "I fix!"

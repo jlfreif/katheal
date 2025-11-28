@@ -1,0 +1,51 @@
+# Mona - Spread 8
+# All is lost: Tired and discouraged
+# Emotional beat: EXHAUSTION → DOUBT → COMFORT
+# Character theme: Courage to Try Something New
+
+id: mo-08
+spread: 8
+node_type: solo
+beat: "All-is-lost / emotional low"
+
+hook: Self-doubt surfaces, questioning whether continuing is worth it.
+payoff: Something affirms that the effort matters and creates emotional reconnection.
+
+description: Mona grows tired from trying to reach the unreachable threads, sitting down in exhaustion, but discovers that even resting with honest presence creates light.
+
+scenes:
+  - page: left
+    page_number: 19
+    focus: External obstacles intensify
+
+    visual: |
+      Mona sits slumped on the mossy ground at the base of a massive tree, looking up at the
+      impossibly high Heart Crystal above. She looks exhausted for the first time, her usual
+      bright energy dimmed. Her small shoulders droop. The threads around her still glow from
+      her earlier help, but the high threads remain dark and unreachable. Twilight deepens
+      into night. She rubs her eyes with one small fist. A stuffed bunny she brought from home
+      sits beside her, looking equally tired.
+
+    text: |
+      Mona was tired. She'd tried climbing trees but couldn't reach high enough. She'd called
+      to the threads but they didn't come down. Her legs hurt from so much walking. For the
+      first time since coming to this magical place, she felt small. Really, really small. She
+      sat down hard and rubbed her eyes. "Too far," she whispered.
+
+  - page: right
+    page_number: 20
+    focus: Inner doubt and discouragement, then comfort
+
+    visual: |
+      Mona lies curled on her side on the soft moss, hugging her stuffed bunny close. Her eyes
+      are closed, nearly asleep from exhaustion. But as she rests, something beautiful happens:
+      the threads she helped earlier begin to drift down around her like a gentle blanket of
+      light, drawn by her honest weariness. They glow softly, creating a cocoon of warmth. The
+      rabbit from earlier hops close, keeping watch. Small fireflies join the glow. Her face
+      relaxes into peace. The threads respond to her authentic presence, tired or not.
+
+    text: |
+      Mona closed her eyes, hugging her bunny. Maybe she was too little to help the big
+      threads. Maybe two-year-olds couldn't fix everything. But then she felt warmth. The
+      threads she'd already helped floated down around her like a hug, glowing softly. They
+      wrapped her in light, as if saying thank you. She wasn't alone. She'd helped so many already.

@@ -1,0 +1,53 @@
+# Micah - Spread 7
+# Rising stakes: Practicing stillness but it's so hard
+# Emotional beat: TRYING → STRUGGLING → ALMOST
+# Character theme: Courage to Take a Breath
+
+id: mi-07
+spread: 7
+node_type: solo
+beat: "Rising stakes: almost works"
+
+hook: Success is close but incomplete, with a detail revealing what's still needed.
+payoff: What's missing is revealed to be distant or difficult to reach.
+
+description: Micah practices being still and breathing, successfully calming many threads, but the deepest tangles near the Heart Crystal require longer stillness than he can manage yet.
+
+scenes:
+  - page: left
+    page_number: 17
+    focus: Making progress toward goal
+
+    visual: |
+      Micah sits cross-legged in a quiet clearing, hands resting on his knees in a meditation
+      pose. His body trembles with the effort of staying still. His jaw is clenched with
+      concentration. Around him, golden threads drift peacefully, responding to his forced
+      calm. Several threads have untangled themselves and glow brightly. But his foot taps
+      involuntarily. His fingers twitch. Staying still is clearly taking enormous effort.
+      Sweat beads on his forehead despite the gentle forest breeze. Small creatures watch,
+      encouraging.
+
+    text: |
+      Micah sat still. It was the hardest thing he'd ever done. His whole body wanted to run,
+      to jump, to move. But he breathed. In. Out. Slow. The threads around him relaxed,
+      unwinding like tight muscles after a stretch. It was working! He just had to keep...
+      staying... still. His foot tapped. No! Stop. Breathe. This took more courage than any climb.
+
+  - page: right
+    page_number: 18
+    focus: Realizing something is missing
+
+    visual: |
+      Micah's forced stillness breaks as he jumps up in frustration, unable to maintain it
+      any longer. He points toward the massive Heart Crystal visible through the trees, where
+      the deepest, oldest tangles pulse with dark, agitated energy. These ancient knots remain
+      untouched despite his progress. His expression shows frustration mixed with exhaustion.
+      The threads he'd calmed begin to drift back toward chaos as his energy spikes again.
+      The gap between his capability and the need is starkly visible. He's breathing hard again.
+
+    text: |
+      But then his body betrayed him. He jumped up, unable to sit another second. "I can't
+      do this!" The words burst out. Near the Heart Crystal, the biggest tangles still
+      pulsed dark and tight. Those needed someone who could be still for longer than a few
+      breaths. Someone who could stay calm when everything felt urgent. He looked at his
+      shaking hands. Was he even capable of that kind of stillness?

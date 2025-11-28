@@ -1,0 +1,53 @@
+# Mona - Spread 12
+# Resolution (emotional): Transformed by courage to try
+# Emotional beat: HOME → REFLECTION → TRANSFORMATION
+# Character theme: Courage to Try Something New
+
+id: mo-12
+spread: 12
+node_type: solo
+beat: "Resolution (emotional) + series button"
+
+hook: Final moment of reflection showing ongoing connection or meaning.
+payoff: Landing complete - ordinary world echoes opening but transformed.
+
+description: Mona returns to her NYC apartment transformed by her adventure, now seeing her ordinary world through eyes that know trying new things creates magic everywhere.
+
+scenes:
+  - page: left
+    page_number: 27
+    focus: Returning to ordinary world
+
+    visual: |
+      Mona sits back on her play mat in the sunny New York City apartment, exactly where she
+      started. Her blocks are still scattered around her. Everything looks the same, but
+      something feels different. She looks at her regular toys with new interest, the golden
+      thread bracelet glowing softly on her wrist. Sunlight streams through the window normally
+      now, no magical portal visible. She picks up a block, examining it like it might hold
+      secrets. Her expression shows quiet wonder, seeing familiar things in a new way.
+
+    text: |
+      Mona was home. Her apartment looked exactly the same as when she left. Blocks on the
+      floor. Toys waiting. But she felt different. The golden thread on her wrist caught the
+      sunlight, reminding her that trying new things led to magic. She looked at her blocks
+      and wondered what she could build today that she'd never tried before.
+
+  - page: right
+    page_number: 28
+    focus: Transformed by the journey
+
+    visual: |
+      Mona stands reaching toward the window where the portal appeared, but now she's building
+      a new tower of blocks that reaches higher than ever before, wobbling but holding. The
+      golden thread on her wrist glows in response to her fearless creating. Around the room,
+      subtle hints of magic appear: dust motes catch light like tiny golden threads, shadows
+      seem warmer, colors more vibrant. She grins with pure confidence and joy, already planning
+      her next big try. The city beyond the window seems full of possibilities. She's the same
+      little girl, but braver.
+
+    text: |
+      Mona stacked her blocks higher than ever, not worried about them falling. If they fell,
+      she'd just try again. That's what brave people did. The golden thread pulsed on her
+      wrist, and for just a moment, she thought she saw regular dust motes glow like the
+      threads in Kathaél. Magic wasn't just in magical places. It happened every time you
+      were brave enough to try something new. Mona smiled. She had so many new things to try.

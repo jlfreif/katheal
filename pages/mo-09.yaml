@@ -1,0 +1,51 @@
+# Mona - Spread 9
+# Inner shift: Realizes she doesn't need to reach them all
+# Emotional beat: REST → INSIGHT → RENEWED PURPOSE
+# Character theme: Courage to Try Something New
+
+id: mo-09
+spread: 9
+node_type: solo
+beat: "Deepening choice / inner shift"
+
+hook: A previously overlooked detail suddenly connects to something from earlier.
+payoff: Returning to prior element with new understanding makes solution clear.
+
+description: Mona wakes from her rest with new understanding. Her courage to try has already lit so many threads that their combined light reaches the Heart Crystal, completing the connection she couldn't make alone.
+
+scenes:
+  - page: left
+    page_number: 21
+    focus: Making the choice to continue
+
+    visual: |
+      Mona sits up from her rest, refreshed and smiling. Dawn light filters through the trees,
+      creating golden beams. She looks around at all the threads she helped, now glowing
+      brilliantly around the clearing. Her expression shows a moment of realization as she
+      notices how the threads connect to each other, forming chains of light that lead upward.
+      She stands, brushing moss from her clothes with determination. Her bunny sits propped
+      against the tree. Small creatures gather again, sensing her renewed energy.
+
+    text: |
+      Mona woke up as sun touched her face. She felt better, stronger. Looking around, she
+      saw all the threads she'd helped, glowing bright and happy. Each one connected to another,
+      and another. She stood up, not because she had to, but because she wanted to. There were
+      still threads that needed a friend. And being a friend was what Mona did best.
+
+  - page: right
+    page_number: 22
+    focus: Discovering the missed clue
+
+    visual: |
+      Mona stands in the center of the clearing with her arms spread wide in joy. Around her,
+      the threads she helped glow so brightly they create streams of light flowing upward toward
+      the Heart Crystal. These lower threads connect to higher threads, which connect to even
+      higher ones, creating a luminous pathway she couldn't see before. The light travels up
+      and up until it reaches the massive threads at the Crystal's peak, which begin to pulse
+      with awakening light. Her face shows pure wonder and delight. The whole forest glows.
+
+    text: |
+      Then she saw it. The threads she'd helped weren't just glowing for themselves. Their
+      light flowed upward, touching other threads, which touched others, creating a river of
+      light all the way to the top. She didn't need to reach the high threads herself. Her
+      courage to try had started something that spread everywhere. "It works!" she shouted, spinning in a circle.

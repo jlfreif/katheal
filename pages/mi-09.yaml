@@ -1,0 +1,54 @@
+# Micah - Spread 9
+# Inner shift: Choosing to breathe is courage
+# Emotional beat: CHOICE → COMMITMENT → BREAKTHROUGH
+# Character theme: Courage to Take a Breath
+
+id: mi-09
+spread: 9
+node_type: solo
+beat: "Deepening choice / inner shift"
+
+hook: A previously overlooked detail suddenly connects to something from earlier.
+payoff: Returning to prior element with new understanding makes solution clear.
+
+description: Micah remembers what the tortoise said about presence not pressure, and chooses to sit and breathe not because he has to, but because he cares enough to try the hardest thing for him.
+
+scenes:
+  - page: left
+    page_number: 21
+    focus: Making the choice to continue
+
+    visual: |
+      Micah stands before the path leading to the Heart Crystal, fists clenched at his sides.
+      His whole body vibrates with the urge to run toward it, to attack the problem with
+      speed and energy. But his eyes are closed, and he's taking slow, deliberate breaths.
+      His expression shows intense internal struggle. One foot lifts slightly, wanting to
+      sprint, but he plants it back down. The wise tortoise from earlier watches from a
+      distance, nodding slowly. Micah's choice is visible in every tense muscle choosing stillness.
+
+    text: |
+      Micah stood at the path's edge. Every part of him screamed to run at those tangles,
+      to fight them with speed and strength. But he remembered the tortoise's words: presence,
+      not pressure. He closed his eyes. Breathed. Once. Twice. This wasn't giving up. This
+      was the bravest thing he'd ever tried. Choosing to be still when everything in him wanted
+      to move. "Okay," he whispered. "I'll try."
+
+  - page: right
+    page_number: 22
+    focus: Discovering the missed clue through breath
+
+    visual: |
+      Micah sits perfectly still beneath the Heart Crystal, eyes closed, breathing slowly
+      and deeply. His body has finally relaxed into the stillness instead of fighting it.
+      Around him, golden threads drift down like gentle snow, drawn to his calm presence.
+      The massive tangles near the Crystal begin to pulse in rhythm with his breathing: in,
+      they tighten; out, they loosen. His breath is literally unwinding them. Soft golden
+      light spreads from him in ripples with each exhale. His face shows peaceful concentration.
+      The forest holds its breath with him.
+
+    text: |
+      He sat. He breathed. In, slow and deep. Out, letting everything go. The threads near
+      the Crystal began to pulse with his breath. In. Out. In. Out. With each exhale, the
+      tangles loosened, just a little. His stillness wasn't weakness. It was its own kind
+      of power. The hardest kind. The kind that took real courage. The threads unwound
+      themselves, following the rhythm of his breathing. It was working.

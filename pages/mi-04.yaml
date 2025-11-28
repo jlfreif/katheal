@@ -1,0 +1,52 @@
+# Micah - Spread 4
+# Ask the expert: Seeks wise helper but struggles to slow down
+# Emotional beat: SEEKING → LISTENING → STRUGGLE
+# Character theme: Courage to Take a Breath
+
+id: mi-04
+spread: 4
+node_type: solo
+beat: "Attempt #2 (ask the expert)"
+
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Micah finds a wise tortoise who offers guidance about stillness, but Micah fidgets and bounces, struggling to slow down enough to truly listen to the advice.
+
+scenes:
+  - page: left
+    page_number: 11
+    focus: Seeking guidance
+
+    visual: |
+      Micah kneels before an ancient tortoise with a shell covered in glowing moss and tiny
+      luminous mushrooms. The tortoise sits perfectly still beside a quiet pond that reflects
+      the trees above. Micah's body shows restless energy even while kneeling: one foot tapping,
+      fingers drumming on his leg, shoulders tense. The tortoise regards him with calm, ancient
+      eyes. Golden threads drift peacefully in the background, drawn to the tortoise's stillness.
+      Micah leans forward impatiently, wanting answers NOW.
+
+    text: |
+      Micah found a tortoise older than the trees. "Please," he said, trying to sit still but
+      already bouncing on his knees. "How do I fix the threads?" The tortoise blinked slowly.
+      "The threads respond to presence, not pressure. You must learn to..." Micah shifted,
+      tapped his foot, cracked his knuckles. Being still felt like holding his breath underwater.
+
+  - page: right
+    page_number: 12
+    focus: Receiving direction with warning
+
+    visual: |
+      The tortoise gestures with one ancient foot toward a path that leads into a dense,
+      shadowy part of the forest where threads hang thick and troubled. Micah has already
+      stood up, ready to bolt toward it, body coiled with energy. The tortoise's expression
+      shows gentle concern. A warning hangs in the air like mist. The path ahead looks
+      tangled and chaotic, matching Micah's internal state. Threads along the path pulse
+      erratically, agitated and wild. Micah doesn't notice the warning, already planning his approach.
+
+    text: |
+      "There," the tortoise said, pointing a wrinkled foot toward a shadowed path. "Many
+      threads gather in the wild places. But Micah, listen: they will match your energy.
+      If you go in rushing, you'll find only chaos. You must..." But Micah was already up,
+      already moving. "Got it! Thanks!" He sprinted toward the path, missing the tortoise's
+      sad shake of its head. The warning about stillness hadn't sunk in at all.

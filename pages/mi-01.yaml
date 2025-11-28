@@ -1,0 +1,51 @@
+# Micah - Spread 1
+# Opening: Ordinary world - constant motion, restless energy
+# Emotional beat: MOVEMENT → RESTLESSNESS → DISCOVERY
+# Character theme: Courage to Take a Breath
+
+id: mi-01
+spread: 1
+node_type: solo
+beat: Ordinary world + desire hint
+
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Micah bounces through his day in constant motion, running and climbing, until he discovers a shimmering doorway that appears only when he pauses for just a moment.
+
+scenes:
+  - page: left
+    page_number: 5
+    focus: Character in their ordinary world
+
+    visual: |
+      Micah (9 years old, black hair, athletic half-Japanese build, medium height) vaults over
+      a park bench mid-run, arms extended for balance. His body is captured in dynamic motion,
+      one foot touching the bench, the other in the air. Behind him, a trail of scattered
+      belongings marks his path: a dropped jacket, an abandoned skateboard, a forgotten water
+      bottle. Other kids play in the background but Micah moves faster than all of them. His
+      expression shows pure energy and restlessness. The park is full of afternoon sunlight.
+
+    text: |
+      Micah couldn't stay still. Ever. He ran when other kids walked. He climbed when they
+      sat. His body needed to move, move, move, or it felt like he'd explode. In the park,
+      he vaulted benches and raced invisible opponents. Stopping felt impossible. Stopping
+      felt wrong. He was always chasing the next thing.
+
+  - page: right
+    page_number: 6
+    focus: First hint of something different
+
+    visual: |
+      Micah has stopped mid-run to tie his shoe, kneeling on one knee. In this rare moment
+      of stillness, a shimmering portal of golden light appears before him, hovering between
+      two trees. His face shows surprise as he looks up from his laces, mouth open in an
+      astonished "whoa." Golden threads drift out from the portal, moving gently in contrast
+      to his usual frantic energy. One thread floats close to his face. The portal pulses
+      softly, waiting. He's frozen in this unusual pause.
+
+    text: |
+      But then his shoelace came untied and he had to stop. Just for a second. That's when
+      he saw it: a doorway made of light, shimmering between the trees. It hadn't been there
+      before. His hand paused on his lace. The light pulsed gently, like it was breathing.
+      Without thinking, Micah reached toward it. The moment his fingers touched the glow, everything shifted.

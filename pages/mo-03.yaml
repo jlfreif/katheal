@@ -1,0 +1,51 @@
+# Mona - Spread 3
+# First attempt: Tries to untangle threads like toys
+# Emotional beat: TRYING → LEARNING → DISCOVERY
+# Character theme: Courage to Try Something New
+
+id: mo-03
+spread: 3
+node_type: solo
+beat: "Attempt #1 (simple/obvious)"
+
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
+
+description: Mona tries to untangle the threads like she would her toys at home, discovering they respond differently than expected, but her fearless approach begins to help.
+
+scenes:
+  - page: left
+    page_number: 9
+    focus: Trying the obvious solution
+
+    visual: |
+      Mona sits cross-legged on the mossy ground, surrounded by golden threads. She pulls at
+      a knotted cluster with both hands, tongue poking out in concentration like she does when
+      playing with her toys. The threads shimmer and shift but don't untangle the way she
+      expects. Some float away from her grasp like bubbles. Her expression shows puzzlement but
+      no frustration. Luminous mushrooms glow softly around her. A small blue bird perches on a
+      nearby branch, tilting its head to watch her work.
+
+    text: |
+      Mona grabbed the tangled threads and pulled, just like when her necklaces got knotted.
+      But these threads slipped through her fingers like water. She tried again, more gently.
+      They floated away before she could catch them. "Silly threads," she said, not mad, just
+      curious. They didn't work like toys at all.
+
+  - page: right
+    page_number: 10
+    focus: Realizing it doesn't work but discovering something
+
+    visual: |
+      Mona stops pulling and simply sits still, one hand resting palm-up on her knee. A single
+      golden thread hovers above her open palm, glowing brighter than before. Her face shows
+      pure wonder and delight as the thread begins to slowly unwind itself, responding to her
+      calm presence. More threads drift closer to her, drawn by her fearless, patient energy.
+      The blue bird has flown down to sit near her foot. Sunlight filters through leaves above,
+      creating dappled patterns on the moss.
+
+    text: |
+      Mona stopped trying to fix them and just sat very still. A thread floated to her hand
+      all by itself. It glowed brighter, warmer. She giggled softly, and the thread began to
+      unknot on its own, like it wanted to be untangled. "Oh!" More threads drifted closer.
+      Maybe they needed something different than pulling. Maybe they just needed a friend.

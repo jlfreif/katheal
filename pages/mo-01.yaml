@@ -1,0 +1,51 @@
+# Mona - Spread 1
+# Opening: Ordinary world in NYC, discovering Kathaél
+# Emotional beat: CURIOSITY → DISCOVERY → WONDER
+# Character theme: Courage to Try Something New
+
+id: mo-01
+spread: 1
+node_type: solo
+beat: Ordinary world + desire hint
+
+hook: Something new or unusual appears, creating curiosity about what it is.
+payoff: The discovery is fully revealed, establishing the story goal.
+
+description: Little Mona discovers a shimmering doorway in her New York City apartment that leads to a magical realm filled with golden threads and light.
+
+scenes:
+  - page: left
+    page_number: 5
+    focus: Character in their ordinary world
+
+    visual: |
+      Mona (2 years old, dark curly hair, bright curious eyes, medium height for her age)
+      sits on a colorful play mat in a sunny New York City apartment. Wooden blocks scatter
+      around her as she builds a wobbly tower. Sunlight streams through a large window showing
+      city buildings outside. Toys dot the floor around her: stuffed animals, picture books, a
+      small xylophone. She tilts her head, looking at something just beyond the window where
+      the light seems to shimmer strangely. Her expression shows pure curiosity.
+
+    text: |
+      Mona stacked another block on her tower, giggling when it wobbled but stayed up. She
+      loved making things. Her apartment was full of sunshine and toys and places to explore.
+      But something caught her eye near the window. The light didn't look quite right, like
+      it was dancing when nothing moved.
+
+  - page: right
+    page_number: 6
+    focus: First hint of something different
+
+    visual: |
+      Mona stands close to the window where a shimmering portal of golden light has appeared,
+      hovering in the air like a vertical pool of sunshine. Her small hand reaches toward it,
+      fingers spread wide with wonder. Golden threads drift out from the portal, floating past
+      her face like gentle fireflies. The normal city view through the window contrasts sharply
+      with the magical shimmer. Her eyes are wide with delight, mouth open in an excited "oh!"
+      The portal pulses softly, inviting and warm.
+
+    text: |
+      Mona toddled closer. The strange light grew brighter, forming a doorway made of pure
+      sunshine. Golden threads floated through it like birthday ribbons. She'd never seen
+      anything so pretty. Her hand stretched out, and the moment her fingers touched the
+      light, everything changed.
