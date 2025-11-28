@@ -1,0 +1,91 @@
+# Shared page: Maya and Max - Spread 7
+# Meeting Node: Building on their mirrored discovery from Spread 6
+# Emotional beat: AUTHENTIC APPROACH → MUTUAL SUPPORT → RISING CONFIDENCE
+# Stakes reinforced: They're closer to the solution but need each other's strengths
+
+id: ma-mx-07
+spread: 7
+node_type: meeting
+beat: "Rising stakes: almost works"
+
+hook: Success is close but incomplete, with a detail revealing what's still needed.
+payoff: What's missing is revealed to be distant or difficult to reach.
+
+description: Maya and Max meet at a bridge of starlight, each having discovered their authentic courage, and realize they can accomplish together what neither could alone.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+location: An ancient bridge made of crystallized starlight spanning a deep ravine
+
+shared_action: Both children step onto the bridge from opposite ends, meeting in the middle where their combined courage makes the unstable bridge solidify
+
+dialogue_packets:
+  - speaker: maya
+    line: "This bridge keeps shifting. I can't get across alone."
+    works_from_pov: [ma, mx]
+  - speaker: max
+    line: "Same from my side. But look, when we're both on it..."
+    works_from_pov: [ma, mx]
+  - speaker: maya
+    line: "It's getting stronger. Our courage is connecting!"
+    works_from_pov: [ma, mx]
+  - speaker: max
+    line: "Keep going. We're almost there."
+    works_from_pov: [ma, mx]
+
+image_alignment:
+  scene_id: starlight-bridge-convergence-007
+  shared_elements:
+    - Bridge of crystallized starlight over deep ravine
+    - Stars and golden threads woven into bridge structure
+    - Mist swirling in ravine below
+    - Bridge becoming more solid where both children walk
+  pov_variants:
+    - character_code: ma
+      camera_position: slightly behind Maya, showing her stepping onto bridge with Max visible from other end
+      focal_character: maya
+      background_characters: [max]
+    - character_code: mx
+      camera_position: slightly behind Max, showing him stepping onto bridge with Maya visible from other end
+      focal_character: max
+      background_characters: [maya]
+
+scenes:
+  - page: left
+    page_number: 17
+    focus: Making progress toward goal
+
+    visual: |
+      An ancient bridge spanning a deep ravine, constructed entirely of crystallized
+      starlight that shimmers and shifts like liquid light made solid. Maya (9 years
+      old, sandy-blond hair with pink streak, bold and athletic) stands at one end,
+      one foot testing the bridge's surface which ripples under her weight. Max (12
+      years old, straight red hair, tall and slim) stands at the opposite end, also
+      testing the bridge. The structure flickers between solid and translucent. Mist
+      swirls in the ravine far below. Golden threads weave through the starlight,
+      pulsing gently.
+
+    text: |
+      The bridge stretched between them, made of starlight that wouldn't quite hold still.
+      Maya tested it with one foot. It rippled like water. "Guess I'm trying this," she
+      called across to the red-haired boy on the other side. "Me too," Max shouted back.
+      They stepped on at the same moment. The bridge shuddered, then hummed.
+
+  - page: right
+    page_number: 18
+    focus: Realizing something is still missing
+
+    visual: |
+      Maya and Max walk toward the center of the bridge from opposite ends, their
+      combined weight and courage causing the starlight to crystallize and solidify
+      beneath their feet. Where they meet in the middle, the bridge glows brightest and
+      most stable. Both children grin at each other with recognition and relief. Golden
+      threads spiral up from the bridge, forming a path forward. Behind them, the bridge
+      remains semi-transparent, but ahead where they must go together, it becomes clearer
+      and more solid. The ravine below still yawns dark and deep.
+
+    text: |
+      With each step they took, the bridge grew more solid. Where they met in the middle,
+      it blazed steady and strong. "It's working," Maya laughed. "Together," Max agreed,
+      high-fiving her. But ahead, the path disappeared into mist. The bridge showed them
+      something else was needed. Something distant. They'd have to find the others.

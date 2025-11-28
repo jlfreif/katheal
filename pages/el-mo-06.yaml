@@ -1,0 +1,90 @@
+# Shared page: Elise and Mona - Spread 6
+# Meeting Node: Recognition of patterns and quiet observation
+# Emotional beat: OBSERVATION → SHARED INSIGHT → NEW UNDERSTANDING
+# Stakes reinforced: The pattern becomes visible through fresh eyes
+
+id: el-mo-06
+spread: 6
+node_type: meeting
+beat: "Midpoint: new insight / pattern"
+
+hook: A pattern or clue emerges, suggesting a new direction based on observation.
+payoff: New approach is tried based on the insight from previous spread.
+
+description: Elise finds Mona quietly observing the Heart Crystal threads, and together they notice a pattern that more forceful approaches missed.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+location: A quiet glade where Heart Crystal threads flow through like streams of light
+
+shared_action: Both sit still and watch the threads, noticing they respond to gentle presence rather than forceful intervention
+
+dialogue_packets:
+  - speaker: elise
+    line: "You see it too, don't you? How they move when you just... watch?"
+    works_from_pov: [el, mo]
+  - speaker: mona
+    line: "Soft. Gentle."
+    works_from_pov: [el, mo]
+  - speaker: elise
+    line: "Exactly. Not pulling. Just being here."
+    works_from_pov: [el, mo]
+  - speaker: mona
+    line: "Threads happy."
+    works_from_pov: [el, mo]
+
+image_alignment:
+  scene_id: quiet-observation-glade-006
+  shared_elements:
+    - Glade with soft moss and luminous mushrooms
+    - Golden threads flowing like streams through the air
+    - Dappled sunlight through leaves above
+    - Gentle, reverent atmosphere
+  pov_variants:
+    - character_code: el
+      camera_position: slightly behind Elise, showing her seated with Mona beside her
+      focal_character: elise
+      background_characters: [mona]
+    - character_code: mo
+      camera_position: slightly behind Mona, showing her small form next to Elise
+      focal_character: mona
+      background_characters: [elise]
+
+scenes:
+  - page: left
+    page_number: 15
+    focus: Recognizing what doesn't work
+
+    visual: |
+      A serene glade carpeted with soft emerald moss and dotted with small luminous
+      mushrooms. Golden threads flow through the air like gentle streams of light,
+      weaving between ancient trees. Elise (9 years old, long brown hair, slim and
+      graceful) enters the clearing, looking tired from previous efforts. She spots
+      little Mona (2 years old, dark curly hair, bright curious eyes) sitting cross-legged
+      on the moss, perfectly still, just watching the threads dance. The light is soft
+      and warm, creating a peaceful atmosphere.
+
+    text: |
+      Elise had tried everything. Pulling threads, painting patterns, following the
+      obvious paths. Nothing worked. She stepped into the quiet glade and stopped.
+      A tiny girl sat in the moss, utterly still, watching golden threads flow past
+      her face. The threads seemed... calmer here. Gentler.
+
+  - page: right
+    page_number: 16
+    focus: Discovering a new pattern through stillness
+
+    visual: |
+      Elise sits beside Mona on the moss, both children now motionless and observing.
+      The golden threads flow closer to them, almost curious, responding to their quiet
+      presence. One thread hovers near Mona's outstretched palm, not pulled but drawn.
+      Elise's expression shows dawning realization. The threads glow brighter around
+      them, their movement more fluid and alive than when approached with force. Soft
+      particles of light drift through the air like gentle snow.
+
+    text: |
+      Elise sat beside her. Together they watched, silent. The threads drifted closer,
+      curious about their stillness. "Soft," Mona whispered. "Gentle." Elise nodded slowly.
+      The threads had been running from grabbing hands, from desperate attempts. But here,
+      with just watching and waiting, they came willingly. "You're right," Elise breathed.
+      "They want us to be present, not pushy."

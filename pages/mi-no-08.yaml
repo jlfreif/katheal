@@ -1,0 +1,96 @@
+# Shared page: Micah and Noah - Spread 8
+# Meeting Node: Cousins reconnect at emotional low point
+# Emotional beat: EXHAUSTION → MUTUAL SUPPORT → RENEWED DETERMINATION
+# Stakes reinforced: Giving up seems easier, but connection revives hope
+
+id: mi-no-08
+spread: 8
+node_type: meeting
+beat: "All-is-lost / emotional low"
+
+hook: Self-doubt surfaces, questioning whether continuing is worth it.
+payoff: Something affirms that the effort matters and creates emotional reconnection.
+
+description: Noah and Micah find each other exhausted and discouraged, but their cousin bond and shared breath help them remember why they started.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+location: A clearing where the golden threads hang motionless and dim, reflecting the characters' emotional state
+
+shared_action: Both cousins sit together, taking synchronized breaths, using Micah's courage theme (Take a Breath) to reset and recommit
+
+dialogue_packets:
+  - speaker: noah
+    line: "I don't know if I can figure this out. I've tried everything I know."
+    works_from_pov: [mi, no]
+  - speaker: micah
+    line: "Hey. Breathe with me. Just breathe."
+    works_from_pov: [mi, no]
+  - speaker: noah
+    line: "Like this?"
+    works_from_pov: [mi, no]
+  - speaker: micah
+    line: "Yeah. In and out. We don't have to figure it out right now. Just breathe."
+    works_from_pov: [mi, no]
+  - speaker: noah
+    line: "I can feel it helping. Thanks, Micah."
+    works_from_pov: [mi, no]
+  - speaker: micah
+    line: "We're cousins. We've got each other."
+    works_from_pov: [mi, no]
+
+image_alignment:
+  scene_id: cousins-breathe-together-008
+  shared_elements:
+    - Clearing with dimmed golden threads hanging still
+    - Fallen log where both boys sit
+    - Twilight atmosphere with fading light
+    - Threads beginning to pulse gently as boys breathe together
+  pov_variants:
+    - character_code: mi
+      camera_position: slightly behind Micah, showing him seated next to Noah
+      focal_character: micah
+      background_characters: [noah]
+    - character_code: no
+      camera_position: slightly behind Noah, showing him seated next to Micah
+      focal_character: noah
+      background_characters: [micah]
+
+scenes:
+  - page: left
+    page_number: 19
+    focus: External obstacles intensify and inner doubt surfaces
+
+    visual: |
+      A quiet clearing in twilight where golden threads hang motionless in the air,
+      their glow dimmed to barely visible. Noah (12 years old, sandy blond voluminous
+      hair, medium build) sits slumped on a fallen log, head in his hands, looking
+      utterly exhausted. Micah (9 years old, black hair, athletic half-Japanese build)
+      approaches from the treeline, also moving slowly with fatigue. The atmosphere is
+      heavy and gray. Creatures that normally helped have retreated. The silence feels
+      oppressive. Both boys look defeated.
+
+    text: |
+      Noah sat with his head in his hands. Every brilliant idea had failed. The threads
+      hung lifeless, ignoring him. Footsteps approached, and he didn't even look up until
+      a familiar voice said, "Noah?" His cousin Micah dropped onto the log beside him,
+      just as tired, just as discouraged. "I can't do this," Noah whispered.
+
+  - page: right
+    page_number: 20
+    focus: Something affirms the effort matters
+
+    visual: |
+      Noah and Micah sit side by side on the log, both taking deep, synchronized breaths.
+      Micah's hand rests on Noah's shoulder. As they breathe together, the golden threads
+      in the clearing begin to pulse gently, responding to their renewed presence. The
+      light grows warmer, softer. Both boys' expressions shift from defeat to quiet
+      determination. A small luminous creature peeks out from behind a tree, curious
+      about the change. The twilight feels less heavy, more hopeful. The threads sway
+      slightly, as if waking up.
+
+    text: |
+      "Breathe with me," Micah said quietly. "In. Out." Noah matched his cousin's rhythm.
+      In. Hold. Out. Slowly. The tightness in his chest eased. His racing thoughts slowed.
+      The threads overhead stirred, pulsing with their breath. "Better?" Micah asked.
+      Noah nodded. "Yeah. We're not done yet." "No way," Micah grinned. "We're just getting started."

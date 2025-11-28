@@ -1,93 +1,87 @@
 # To view this character's complete story, run:
-#   python3 scripts/show_story.py el
+#   python3 scripts/show_story.py mo
 #
 # If you encounter any issues with page formatting or consistency, run:
 #   python3 scripts/validate_structure.py
 
 # Id is a two-letter code for the character
-id: el
+id: mo
 
-# What do we know about Elise as a character
+# What do we know about Mona as a character
 attributes:
   # Name is the full name of the character
-  name: Elise
+  name: Mona
 
   # Gender of the character
   gender: female
 
   # How old is the character
-  age: 9
+  age: 2
 
   # List top 3-5 values that motivate this character
   # Examples: Adventure, Creativity, Justice, Family, Knowledge
   core_values_motivations:
-    - Doing the right thing
-    - Compassion
-    - Developing inner strength
-    - Artistic exploration
-    - Helping others
-    - Precision and focus
+    - Learning new things
+    - Understanding the world
+    - Making new friends
+    - Imagination
 
   # Summarize the character's personality in 3-5 words or short phrases
   # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
   key_personality_traits:
-    - Observant and detail-oriented
-    - Imaginative daydreamer
-    - Strong and quietly confident
-    - Perceptive and grounded
-    - Silly
+    - Playful investigator
+    - Warm and friendly
+    - Spirited and playful
+    - Artistic and expressive
 
   # Activities or skills that reveal the character's interests and talents
   # Examples: Painting, Coding, Hiking, Storytelling, Chess
   # Note: Can inform interactive choices or story branching
   hobbies_interests_skills:
-    - Drawing or painting
-    - Dancing
+    - Gymboree
+    - Playing with blocks and other baby toys
+    - Trying new foods
 
   # How does this character usually respond to stress, challenge, or reward?
   # Examples: Calm under pressure, Quick to frustration, Reflective and empathetic
   # Note: Useful for scripting dialogue, choices, or character arcs
   emotional_profile_typical_reactions:
-    - Gets anxious but pushes through
-    - Shy pride when rewarded
-    - Empathetic towards others
-    - Deep feeling
-    - Gets frustrated but persists
-
-  internal_conflict: |
-    Elise is strong, grounded, and perceptive with a quiet confidence.
-    She sometimes doubts whether her quiet, intuitive style of strength "counts" in big stories—
-    not because she lacks confidence in herself, but because she compares her approach
-    to more outwardly heroic models.
-    Her journey involves realizing that her perceptive strength and steady presence
-    are essential to the Heart Crystal.
+    - Seeks help when needed
+    - Delights in puzzles
+    - Becomes energized by challenges
+    - Emotionally expressive
+    - Empathetic
 
   # How does the character relate to others and the world around them?
   # Examples: Team-oriented, Prefers solitude, Competitive
   # Note: Can shape interactions, alliances, and story outcomes
   social_context_relationships:
+    - Independent only child
     - Gentle encourager
-    - Observer who joins selectively
-    - Noticing everything kind of kid
-    - Sometimes reserved, sometimes silly and playful
+    - Wise friend energy
+    - Loved by teachers
+    - Fascinated by people
+    - Fascinated by how things work
 
   # Signature habits, inside jokes, special belongings
   memorable_details:
-    - Sings to herself
-    - Creates dances in front of the mirror
-    - Likes bathroom humor
-    - Likes to cuddle
+    - Loves to play with toys
+    - Lives in New York City
+    - Learning to speak English
+    - Loves her cousins
+    - Very smiley
+    - Tilts her head when looking at someone
 
   # This will be sent to the prompting system.
   # The description should include the age of the character
   visual_description:
-    - 9 years old
-    - Female
-    - Long brown hair and hazel eyes
-    - Slim build
-    - Medium height
-    - Graceful movements
-    - Grounded and calm presence
+    - 2 years old
+    - Medium height for her age
+    - Balanced build
+    - Wavy to curly short dark brown to black hair
+    - Dark brown eyes
+    - Can walk confidently
+    - Curious and bright-eyed expression
 
   # What story genres does the character (or the reader) enjoy most?
   # This will inform the writing style and plot direction.
@@ -96,9 +90,9 @@ attributes:
   # Magical Realism, Slice of Life, Nature/Outdoors, Superhero, Fables
   # Choose 1-3 genres that resonate most
   preferred_story_genres:
-    - Fantasy
     - Fairy Tales
     - Friendship
+    - Humor
 
   # Which courage theme should guide the character's story?
   # Choose the theme that best fits the character's journey and growth.
@@ -139,18 +133,18 @@ attributes:
 # Storybook Pages (ordered list)
 # Initially this list is empty when we create the character
 # But more will get added as we follow the story creation steps
-# (see Readme.md).
-# NOTE: Pages should be shown without path `el-01.yaml` rather than `pages/el-01.yaml`
+# (see claude.md).
+# NOTE: Pages should be shown without path `mo-01.yaml` rather than `pages/mo-01.yaml`
 story:
-  - el-01.yaml
-  - el-mi-02.yaml
-  - el-ma-03.yaml
-  - el-no-04.yaml
-  - el-05.yaml
+  - mo-01.yaml
+  - mo-02.yaml
+  - mo-03.yaml
+  - ma-mo-04.yaml
+  - mo-05.yaml
   - el-mo-06.yaml
-  - el-07.yaml
-  - el-08.yaml
-  - el-09.yaml
+  - mo-07.yaml
+  - mo-08.yaml
+  - mo-09.yaml
   - el-ma-mi-mo-mx-no-10.yaml
-  - el-11.yaml
-  - el-12.yaml
+  - mo-11.yaml
+  - mo-12.yaml

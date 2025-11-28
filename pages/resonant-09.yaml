@@ -1,0 +1,83 @@
+# Resonant Node Definition - Spread 9
+# Emotional ripple connecting Elise and Noah across distance
+
+id: resonant-09
+spread: 9
+node_type: resonant
+
+beat: "Deepening choice / inner shift"
+
+# Placement rule verification
+placement_rule:
+  requirement: Must follow a moment of character growth
+  verification: |
+    At spread 8, both Elise and Noah faced their emotional low points and doubts.
+    At spread 9, they each choose to continue not from obligation but from care.
+    This resonant moment captures their inner shift and how it ripples across Kathaél,
+    strengthening each other even across distance.
+
+# Emotional state packets - per character
+emotional_state_packets:
+  - character_code: el
+    emotional_state: quiet determination
+    trigger: |
+      Elise remembers the fading meadow, the frozen performances, the stories losing
+      color. Not because she has to fix them, but because they matter to her.
+      That care rekindl es her resolve.
+    manifestation: |
+      Her shoulders straighten. Her breathing deepens. She places her hand over
+      her heart and feels warmth spreading through her chest. Her eyes clear with
+      renewed purpose.
+
+  - character_code: no
+    emotional_state: renewed courage
+    trigger: |
+      Noah realizes that trying to understand everything before acting kept him
+      paralyzed. He can choose to be present even without perfect answers. That
+      shift opens new possibilities.
+    manifestation: |
+      His jaw sets with determination. He closes his notebook, no longer needing
+      to analyze every detail. He looks at the path ahead with fresh eyes, seeing
+      possibility where before he saw only obstacles.
+
+# Ripple effect - how one character's shift affects another's world
+ripple_effects:
+  - source_character: el
+    target_character: no
+    effect: |
+      As Elise's determination solidifies into quiet resolve, Noah - far away in
+      a different part of Kathaél - feels an inexplicable warmth wash over him,
+      as if someone believes in his journey. The air around him brightens subtly.
+
+  - source_character: no
+    target_character: el
+    effect: |
+      As Noah's courage returns through choosing presence over understanding, Elise -
+      in her distant grove - notices the shadows become less oppressive. A gentle
+      breeze carries something that feels like encouragement from someone who
+      understands her path.
+
+# Symbolic resonance phenomenon
+symbolic_resonance:
+  phenomenon: golden_thread_shimmer
+  description: |
+    The Heart Crystal's threads, usually flowing invisibly through Kathaél,
+    briefly shimmer into visibility across the entire realm. Both characters,
+    in different locations, see the same golden light pulse through the air,
+    connecting their moments of courageous choice.
+  manifestation_details:
+    - Golden threads appear in the air, pulsing gently with heartbeat rhythm
+    - The light is warm, reassuring, alive
+    - It persists for several heartbeats before fading
+    - Characters may not understand intellectually what happened, but they feel less alone
+    - The threads form subtle patterns suggesting connection to others making brave choices
+    - A sense of being part of something larger than themselves
+
+# Connection to world themes
+world_connection: |
+  This resonant moment embodies Kathaél's Courage Rule: when one heart chooses
+  bravely, ripples spread through the Heart Crystal, strengthening others who
+  are also being brave. Elise and Noah's inner shifts create golden threads
+  that flow into the Crystal and pulse outward, connecting their courage even
+  across distance. They're learning that honest presence creates connection,
+  even without understanding how.
