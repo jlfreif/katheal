@@ -1,0 +1,68 @@
+# Mirrored Node Definition - Spread 7
+# Connects Elise and Noah through parallel experiences of persistence
+
+id: mirrored-07
+spread: 7
+node_type: mirrored
+
+beat: "Rising stakes: almost works"
+
+# The shared thematic element that connects all scenes
+shared_theme_key: persistence_through_difficulty
+
+theme_description: |
+  Both Elise and Noah face parallel challenges where their progress is real but incomplete.
+  Each persists through difficulty, getting closer to their goal but recognizing
+  something essential is still missing. The lantern motif symbolizes their flickering
+  but enduring determination.
+
+# Symbolic motif - appears in both character pages
+symbolic_motif:
+  name: flickering_lantern
+  description: A magical lantern whose flame responds to persistence and trust
+  meaning: Light that nearly goes out but keeps burning when courage persists
+  visual_cues:
+    - Lantern flame dims when character doubts
+    - Brightens when character perseveres
+    - Never fully extinguishes as long as they keep trying
+    - Warm golden glow that pulses with determination
+
+# Scenario variants - how each character experiences the mirrored theme
+scenario_variants:
+  - character_code: el
+    location: A winding path through dense forest
+    challenge_description: |
+      Elise follows a path that keeps shifting and changing. Just when she thinks
+      she's found the way, it dissolves and reforms. Her lantern guides her, but
+      its light flickers with every moment of doubt.
+    motif_manifestation: |
+      A small lantern floats ahead of her on the path. When she trusts and follows,
+      it glows steady. When she hesitates or second-guesses, it dims. But it never
+      fully goes out.
+    emotional_arc: Doubt → Trust → Progress (incomplete)
+
+  - character_code: no
+    location: A library of unfinished stories with moving shelves
+    challenge_description: |
+      Noah searches for the right story to complete, but the library reshapes itself
+      constantly. His lantern illuminates different sections, but just as he finds
+      something promising, the shelves shift. He must persist despite the instability.
+    motif_manifestation: |
+      A lantern sits on his table, its flame flickering as the library changes around
+      him. When he focuses on one story at a time instead of trying to understand
+      everything, the flame brightens. But the solution still eludes him.
+    emotional_arc: Frustration → Focus → Progress (incomplete)
+
+# Spread alignment - must match across all books
+spread_alignment:
+  spread_number: 7
+  story_beat: "Rising stakes: almost works"
+  hook: Success is close but incomplete, with a detail revealing what's still needed.
+  payoff: What's missing is revealed to be distant or difficult to reach.
+
+# Connection to world themes
+world_connection: |
+  The flickering lantern represents the Heart Crystal's response to persistence.
+  Even when solutions aren't complete, the act of continuing with trust keeps
+  the light alive. Both characters are learning that progress doesn't require
+  perfect understanding - just honest effort.

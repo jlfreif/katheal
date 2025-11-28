@@ -1,0 +1,89 @@
+# Shared page: Micah and Mona - Spread 2
+# Meeting Node: Two young explorers discover Kathaél together
+# Emotional beat: CURIOSITY → SHARED WONDER → PARTNERSHIP
+# Stakes reinforced: Something is wrong with the stories and colors
+
+id: mi-mo-02
+spread: 2
+node_type: meeting
+beat: "Inciting incident"
+
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Micah and little Mona discover each other in a fading meadow, both noticing that Kathaél's colors are dimming and deciding to investigate together.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+location: A meadow where wildflowers are losing their color, near the edge of a luminous forest
+
+shared_action: Both children reach toward a fading flower at the same moment, their fingers nearly touching as they notice the magical realm is in trouble
+
+dialogue_packets:
+  - speaker: micah
+    line: "Hey, did you see that? The colors just... went away."
+    works_from_pov: [mi, mo]
+  - speaker: mona
+    line: "Colors go? Fix it!"
+    works_from_pov: [mi, mo]
+  - speaker: micah
+    line: "Yeah. Let's fix it. You want to come with me?"
+    works_from_pov: [mi, mo]
+  - speaker: mona
+    line: "Together!"
+    works_from_pov: [mi, mo]
+
+image_alignment:
+  scene_id: fading-meadow-discovery-002
+  shared_elements:
+    - Meadow with wildflowers losing saturation
+    - Luminous forest visible in background
+    - Golden threads drifting overhead but dimming
+    - Afternoon light with magical quality fading
+  pov_variants:
+    - character_code: mi
+      camera_position: slightly behind Micah, showing him crouching toward flower with Mona visible ahead
+      focal_character: micah
+      background_characters: [mona]
+    - character_code: mo
+      camera_position: slightly behind Mona, showing her small form reaching toward flower with Micah visible ahead
+      focal_character: mona
+      background_characters: [micah]
+
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
+
+    visual: |
+      A wide meadow filled with wildflowers that appear to be losing their vibrant colors,
+      like watercolors fading in real time. Micah (9 years old, half-Japanese with black
+      hair and black eyes, athletic build) stands in the center, one hand extended toward
+      a flower that shifts from brilliant purple to pale gray. Little Mona (2 years old,
+      dark curly hair, curious bright eyes) toddles nearby, her head tilted as she watches
+      the same phenomenon with wonder. Golden threads drift overhead but their glow
+      flickers weakly. The forest behind them still glimmers with some magic.
+
+    text: |
+      Micah watched the purple flower drain to gray right before his eyes. One second
+      it blazed violet, the next it faded like old paint. "That's not supposed to
+      happen," he muttered. A sound made him turn. A tiny girl, maybe two years old,
+      stood three steps away, pointing at the same flower. Her eyes were huge and bright.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act together
+
+    visual: |
+      Micah crouches down to Mona's height, both children now at eye level as they
+      examine a fading flower together. Their hands nearly touch as they reach toward
+      it. Mona's expression shows determination despite her young age. Micah grins,
+      recognizing a fellow adventurer. More flowers around them continue fading, creating
+      a sense of urgency. Golden threads in the sky point toward the luminous forest,
+      suggesting a direction to explore.
+
+    text: |
+      "Colors go?" Mona said, her voice small but certain. Micah grinned. She got it,
+      even at her age. "Yeah, they're disappearing. Want to figure out why?" She nodded
+      so hard her curls bounced. "Together!" she declared. Micah stood, and Mona grabbed
+      his hand. The threads overhead pulsed once, as if approving their partnership.

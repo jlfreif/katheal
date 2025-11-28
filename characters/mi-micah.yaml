@@ -132,4 +132,16 @@ attributes:
 # But more will get added as we follow the story creation steps
 # (see claude.md).
 # NOTE: Pages should be shown without path `mi-01.yaml` rather than `pages/mi-01.yaml`
-story: []
+story:
+  - mi-01.yaml
+  - mi-mo-02.yaml
+  - mi-03.yaml
+  - mi-04.yaml
+  - mi-05.yaml
+  - mi-06.yaml
+  - mi-07.yaml
+  - mi-no-08.yaml
+  - mi-09.yaml
+  - el-ma-mi-mo-mx-no-10.yaml
+  - mi-11.yaml
+  - mi-12.yaml
