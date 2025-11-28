@@ -1,0 +1,91 @@
+# Shared page: Maya and Mona - Spread 4
+# Meeting Node: Artistic spirits seek creative guidance
+# Emotional beat: SEEKING HELP → CREATIVE INSIGHT → NEW DIRECTION
+# Stakes reinforced: Art and expression are fading from Kathaél
+
+id: ma-mo-04
+spread: 4
+node_type: meeting
+beat: "Attempt #2 (ask the expert)"
+
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Maya and little Mona find each other at a studio where colors refuse to stay on canvas, discovering that creative courage might hold an unexpected answer.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+location: An artist's studio in the trees where paintings lose their color as fast as they're applied
+
+shared_action: Both children paint side by side, watching their work fade, until Mona's fearless strokes reveal that courage creates lasting color
+
+dialogue_packets:
+  - speaker: maya
+    line: "Every color I try just... disappears. How do you make yours stay?"
+    works_from_pov: [ma, mo]
+  - speaker: mona
+    line: "Not scared! Just paint!"
+    works_from_pov: [ma, mo]
+  - speaker: maya
+    line: "You're right. I've been worrying too much about getting it perfect."
+    works_from_pov: [ma, mo]
+  - speaker: mona
+    line: "Be you! Colors happy!"
+    works_from_pov: [ma, mo]
+
+image_alignment:
+  scene_id: fading-colors-studio-004
+  shared_elements:
+    - Tree-house studio with large windows
+    - Canvases showing partially faded artwork
+    - Paintbrushes and palettes scattered about
+    - Sunlight streaming through leaves
+    - Colors starting to stick where courage is present
+  pov_variants:
+    - character_code: ma
+      camera_position: slightly behind Maya at her easel, showing her painting with Mona visible beside her
+      focal_character: maya
+      background_characters: [mona]
+    - character_code: mo
+      camera_position: slightly behind Mona at her easel, showing her small form painting boldly with Maya visible beside her
+      focal_character: mona
+      background_characters: [maya]
+
+scenes:
+  - page: left
+    page_number: 11
+    focus: Seeking guidance from creativity
+
+    visual: |
+      A magical artist's studio built in the branches of an ancient tree, sunlight
+      streaming through large windows. Canvases line the walls, but their paintings
+      are fading like watercolors left in rain. Maya (9 years old, sandy-blond hair
+      with pink streak, bold and athletic) stands at an easel, brush in hand, watching
+      in frustration as the blue she just applied drains to gray. Paint supplies scatter
+      the wooden floor. Through the window, golden threads drift past, their light
+      flickering weakly.
+
+    text: |
+      Maya dragged her brush across the canvas. Brilliant blue bloomed for just a second,
+      then faded to nothing. "Come on," she muttered, trying again. Same thing. Every
+      color she tried turned gray within heartbeats. The studio that usually burst with
+      life felt like it was holding its breath, waiting for something.
+
+  - page: right
+    page_number: 12
+    focus: Receiving direction through fearless creativity
+
+    visual: |
+      Little Mona (2 years old, dark curly hair, bright curious eyes) sits on a stool
+      beside Maya, painting with fearless abandon. Where Mona's brush touches the canvas,
+      colors STAY - vivid reds, brilliant yellows, deep purples. Maya leans in, amazed,
+      watching this tiny artist create with complete confidence. Mona grins, tilting her
+      head as she adds another bold stroke. The golden threads outside pulse brighter,
+      responding to Mona's courage. Maya's canvas begins to hold color where she paints
+      without fear.
+
+    text: |
+      A small voice piped up. "Paint with me!" Mona stood at the next easel, her brush
+      already moving. Where she painted, colors blazed and held. Maya stared. "How are
+      you doing that?" Mona giggled, adding a sunburst of yellow. "Just be you!" Maya
+      took a breath, pushed away her worries, and painted. This time, the color stayed.

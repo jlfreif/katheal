@@ -134,7 +134,7 @@ attributes:
 # NOTE: Pages should be shown without path `mi-01.yaml` rather than `pages/mi-01.yaml`
 story:
   - mi-01.yaml
-  - mi-mo-02.yaml
+  - el-mi-02.yaml
   - mi-03.yaml
   - mi-04.yaml
   - mi-05.yaml

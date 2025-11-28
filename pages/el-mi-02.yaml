@@ -1,0 +1,93 @@
+# Shared page: Elise and Micah - Spread 2
+# Meeting Node: Cousins discover Kathaél's fading magic together
+# Emotional beat: DISCOVERY → SHARED DETERMINATION → PARTNERSHIP
+# Stakes reinforced: The realm's magic is actively dimming
+
+id: el-mi-02
+spread: 2
+node_type: meeting
+beat: "Inciting incident"
+
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Elise and Micah discover each other in a grove where performances have frozen mid-act, both noticing that Kathaél's magic is failing and deciding to help together.
+
+# === MEETING NODE SPECIFIC FIELDS ===
+
+location: A grove where magical performances are frozen in time, dancers and musicians caught mid-movement
+
+shared_action: Both children reach toward a frozen dancer at the same moment, their hands meeting as they realize the magic needs their help
+
+dialogue_packets:
+  - speaker: elise
+    line: "Micah? Is that you?"
+    works_from_pov: [el, mi]
+  - speaker: micah
+    line: "Elise! What are you doing here? Look at them, they're just... stuck."
+    works_from_pov: [el, mi]
+  - speaker: elise
+    line: "I think the magic is fading. We should try to help."
+    works_from_pov: [el, mi]
+  - speaker: micah
+    line: "Yeah. Together?"
+    works_from_pov: [el, mi]
+  - speaker: elise
+    line: "Together."
+    works_from_pov: [el, mi]
+
+image_alignment:
+  scene_id: frozen-performances-discovery-002
+  shared_elements:
+    - Grove with magical performances frozen mid-act
+    - Dancers suspended in impossible poses
+    - Musicians with instruments raised but silent
+    - Fading golden threads overhead
+    - Twilight atmosphere with dimming magic
+  pov_variants:
+    - character_code: el
+      camera_position: slightly behind Elise, showing her reaching toward frozen dancer with Micah visible ahead
+      focal_character: elise
+      background_characters: [micah]
+    - character_code: mi
+      camera_position: slightly behind Micah, showing him reaching toward frozen dancer with Elise visible ahead
+      focal_character: micah
+      background_characters: [elise]
+
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
+
+    visual: |
+      A grove filled with magical performers frozen in mid-performance. A dancer balances
+      on one toe, her arms extended in an impossible arc, completely motionless. Musicians
+      hold instruments mid-note, their expressions captured in concentration. Elise (9
+      years old, long brown hair, graceful and slim) enters the clearing, her eyes wide
+      with concern. She reaches tentatively toward the frozen dancer. Golden threads
+      overhead flicker weakly, their glow fading. The whole scene has a twilight quality,
+      as if time itself is struggling.
+
+    text: |
+      Elise stepped into the grove and stopped cold. Performers everywhere, frozen like
+      statues. A dancer hung mid-leap, one foot pointed, arms spread. Musicians held
+      silent instruments. Even the trees seemed to hold their breath. "What happened
+      to you?" she whispered, reaching toward the dancer's outstretched hand.
+
+  - page: right
+    page_number: 8
+    focus: Decision to act together
+
+    visual: |
+      Micah (9 years old, black hair, athletic half-Japanese build, constantly in motion)
+      enters from the opposite side, also reaching toward the frozen dancer. His hand and
+      Elise's nearly touch. Both children's faces show recognition and relief at finding
+      someone else who sees the problem. The golden threads pulse once, weakly, as if
+      acknowledging their combined presence. The frozen performers remain motionless,
+      but the cousins' determination creates a subtle warmth in the air.
+
+    text: |
+      A sound made her turn. Micah stood on the other side of the frozen dancer, his
+      hand extended just like hers. "Elise!" His face broke into a grin despite the
+      strangeness around them. "You see it too. They're stuck." She nodded. "The magic
+      is fading." Micah's expression turned serious. "Then let's fix it. Together."

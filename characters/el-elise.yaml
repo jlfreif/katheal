@@ -143,7 +143,7 @@ attributes:
 # NOTE: Pages should be shown without path `el-01.yaml` rather than `pages/el-01.yaml`
 story:
   - el-01.yaml
-  - el-02.yaml
+  - el-mi-02.yaml
   - el-ma-03.yaml
   - el-no-04.yaml
   - el-05.yaml
