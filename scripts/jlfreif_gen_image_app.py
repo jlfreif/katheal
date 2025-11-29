@@ -125,14 +125,6 @@ def load_character_descriptions(character_codes):
 
 def create_enhanced_prompt(scene_data, visual_style, character_descriptions, char_ref_images, style_ref_images):
     """Create an enhanced prompt including visual style, character descriptions, and reference image info."""
-    # DEBUG: Log what we're receiving
-    st.write("🔍 DEBUG (create_enhanced_prompt): Function called")
-    visual_preview = scene_data.get("visual", "")[:80] + "..." if len(scene_data.get("visual", "")) > 80 else scene_data.get("visual", "")
-    text_preview = scene_data.get("text", "")[:80] + "..." if len(scene_data.get("text", "")) > 80 else scene_data.get("text", "")
-    st.write(f"   - scene_data visual: {visual_preview}")
-    st.write(f"   - scene_data text: {text_preview}")
-    st.write(f"   - character_descriptions keys: {list(character_descriptions.keys()) if character_descriptions else 'None'}")
-
     prompt_parts = []
 
     # Meta instructions
@@ -179,7 +171,6 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
 
     # Image description section
     visual = scene_data.get("visual", "").strip()
-    st.write(f"🔍 DEBUG: Extracted visual from scene_data (length: {len(visual)})")
     if visual:
         prompt_parts.append("--- SCENE TO ILLUSTRATE ---")
         prompt_parts.append(f"{visual}")
@@ -187,15 +178,11 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
 
     # Image text section
     text = scene_data.get("text", "").strip()
-    st.write(f"🔍 DEBUG: Extracted text from scene_data (length: {len(text)})")
     if text:
         prompt_parts.append("--- TEXT TO INCLUDE IN IMAGE ---")
         prompt_parts.append(f"{text}")
 
-    final_prompt = "\n".join(prompt_parts)
-    st.write(f"🔍 DEBUG: Final prompt length: {len(final_prompt)} characters")
-
-    return final_prompt
+    return "\n".join(prompt_parts)
 
 
 @st.cache_data(show_spinner=False)
@@ -269,106 +256,34 @@ for page_file in page_files:
         display_name = f"{page_file.stem} - {page_side}"
         page_options.append((display_name, page_file, page_side, page_data))
 
-# DEBUG: Show first few page options
-st.write(f"🔍 DEBUG: Built {len(page_options)} page options")
-st.write("First 5 page options:")
-for i, (name, path, side, data) in enumerate(page_options[:5]):
-    st.write(f"  {i}: {name} -> {path.name} (id: {data.get('id', 'N/A')})")
+# Debug toggle
+show_debug = st.checkbox("Show debug output", value=False)
+
+if show_debug:
+    st.write(f"🔍 DEBUG: Built {len(page_options)} page options")
+    st.write("First 5 page options:")
+    for i, (name, path, side, data) in enumerate(page_options[:5]):
+        st.write(f"  {i}: {name} -> {path.name} (id: {data.get('id', 'N/A')})")
 
 if not page_options:
     st.error("No pages found in the pages/ directory")
 else:
-    # Select a page
+    # Select multiple pages
     display_names = [opt[0] for opt in page_options]
-    selected_display = st.selectbox("Select a page:", display_names, index=0)
+    selected_displays = st.multiselect(
+        "Select pages to generate (choose one or more):",
+        display_names,
+        default=[display_names[0]] if display_names else []
+    )
 
-    # Find the selected page data
-    selected_idx = display_names.index(selected_display)
-    _, page_path, page_side, page_data = page_options[selected_idx]
+    if not selected_displays:
+        st.warning("Please select at least one page to generate images.")
+    else:
+        st.success(f"📚 {len(selected_displays)} page(s) selected for generation")
 
-    # DEBUG: Show what was selected
-    st.info(f"🔍 DEBUG: Selected '{selected_display}' (index: {selected_idx})")
-    st.info(f"🔍 DEBUG: Page path: {page_path.name}")
-    st.info(f"🔍 DEBUG: Page side: {page_side}")
-    st.info(f"🔍 DEBUG: Page ID from YAML: {page_data.get('id', 'NOT FOUND')}")
-
-    # Get character codes from page filename
-    char_codes = get_character_codes_from_page(page_path.name)
-    st.info(f"🔍 DEBUG: Extracted character codes: {char_codes}")
-
-    # Load character-specific references
-    char_ref_images = get_character_reference_images(char_codes)
-    character_descriptions = load_character_descriptions(char_codes)
-
-    # DEBUG: Show character info loaded
-    st.info(f"🔍 DEBUG: Character descriptions loaded: {list(character_descriptions.keys())}")
-    if character_descriptions:
-        for char_name, desc in character_descriptions.items():
-            st.write(f"   - {char_name}: {len(desc)} visual attributes")
-
-    # Display character reference images in sidebar
-    if char_ref_images:
-        with st.sidebar:
-            st.subheader("👤 Character References")
-            for char_code, images in char_ref_images.items():
-                st.write(f"**{char_code.upper()}**")
-                for img_path in images:
-                    st.image(str(img_path), caption=img_path.name, use_container_width=True)
-
-    # Find the specific scene for this page side
-    scenes = page_data.get("scenes", [])
-    st.info(f"🔍 DEBUG: Total scenes in page_data: {len(scenes)}")
-    for idx, scene in enumerate(scenes):
-        st.write(f"   Scene {idx}: page='{scene.get('page')}' (looking for '{page_side}')")
-
-    selected_scene = None
-    for scene in scenes:
-        if scene.get("page") == page_side:
-            selected_scene = scene
-            break
-
-    st.info(f"🔍 DEBUG: Selected scene found: {selected_scene is not None}")
-
-    if selected_scene:
-        st.subheader(f"Page: {page_path.name} - {page_side.capitalize()}")
-
-        # DEBUG: Show scene content
-        visual_preview = selected_scene.get("visual", "")[:100] + "..." if len(selected_scene.get("visual", "")) > 100 else selected_scene.get("visual", "")
-        text_preview = selected_scene.get("text", "")[:100] + "..." if len(selected_scene.get("text", "")) > 100 else selected_scene.get("text", "")
-        st.info(f"🔍 DEBUG: Scene visual preview: {visual_preview}")
-        st.info(f"🔍 DEBUG: Scene text preview: {text_preview}")
-
-        # Show character info if available
-        if char_codes:
-            st.info(f"Characters in this page: {', '.join([c.upper() for c in char_codes])}")
-
-        # Create and display the enhanced prompt
-        prompt = create_enhanced_prompt(
-            selected_scene,
-            visual_style,
-            character_descriptions,
-            char_ref_images,
-            style_refs
-        )
-
-        # DEBUG: Check what prompt was created
-        prompt_scene_section = prompt[prompt.find("--- SCENE TO ILLUSTRATE ---"):prompt.find("--- SCENE TO ILLUSTRATE ---")+150] if "--- SCENE TO ILLUSTRATE ---" in prompt else "NOT FOUND"
-        st.write(f"🔍 DEBUG: Prompt SCENE section preview: {prompt_scene_section}")
-
-        st.text_area(
-            "Prompt for image generation:", value=prompt, height=400, key="prompt"
-        )
-
-        # Character descriptions expander
-        if character_descriptions:
-            with st.expander("View Character Descriptions"):
-                for char_name, desc_list in character_descriptions.items():
-                    st.write(f"**{char_name}:**")
-                    for item in desc_list:
-                        st.write(f"- {item}")
-
-        # Image generation controls
+        # Global settings for all pages
         st.divider()
+        st.subheader("Generation Settings")
         col1, col2 = st.columns([3, 1])
         with col1:
             aspect_ratio = st.selectbox(
@@ -384,78 +299,204 @@ else:
                 index=0,  # Default to Pro
             )
 
-        # Gen image button
-        if st.button("Gen image", type="primary", use_container_width=True):
+        # Gen images button
+        if st.button("Generate All Images", type="primary", use_container_width=True):
             model_display = "Nano Banana Pro" if "3-pro" in model else "Nano Banana Flash"
 
-            # Create a status expander for logs
-            with st.status(f"Generating with {model_display}...", expanded=True) as status:
-                st.write(f"🔄 Calling model: {model}")
-                st.write(f"📝 Prompt length: {len(prompt)} characters")
-                st.write(f"📐 Aspect ratio: {aspect_ratio}")
+            # Process each selected page
+            for page_idx, selected_display in enumerate(selected_displays):
+                st.divider()
+                st.header(f"Page {page_idx + 1}/{len(selected_displays)}: {selected_display}")
 
-                if char_ref_images:
-                    total_refs = sum(len(imgs) for imgs in char_ref_images.values())
-                    st.write(f"👤 Character references: {total_refs} image(s)")
+                # Find the selected page data
+                selected_option_idx = display_names.index(selected_display)
+                _, page_path, page_side, page_data = page_options[selected_option_idx]
 
-                if style_refs:
-                    st.write(f"🎨 Style references: {len(style_refs)} image(s)")
+                if show_debug:
+                    st.info(f"🔍 DEBUG: Selected '{selected_display}' (index: {selected_option_idx})")
+                    st.info(f"🔍 DEBUG: Page path: {page_path.name}")
+                    st.info(f"🔍 DEBUG: Page side: {page_side}")
+                    st.info(f"🔍 DEBUG: Page ID from YAML: {page_data.get('id', 'NOT FOUND')}")
 
-                generated_images = generate_image_with_gemini(
-                    prompt, aspect_ratio=aspect_ratio, model=model
+                # Get character codes from page filename
+                char_codes = get_character_codes_from_page(page_path.name)
+                if show_debug:
+                    st.info(f"🔍 DEBUG: Extracted character codes: {char_codes}")
+
+                # Load character-specific references
+                char_ref_images = get_character_reference_images(char_codes)
+                character_descriptions = load_character_descriptions(char_codes)
+
+                if show_debug:
+                    st.info(f"🔍 DEBUG: Character descriptions loaded: {list(character_descriptions.keys())}")
+                    if character_descriptions:
+                        for char_name, desc in character_descriptions.items():
+                            st.write(f"   - {char_name}: {len(desc)} visual attributes")
+
+                # Find the specific scene for this page side
+                scenes = page_data.get("scenes", [])
+                if show_debug:
+                    st.info(f"🔍 DEBUG: Total scenes in page_data: {len(scenes)}")
+                    for idx, scene in enumerate(scenes):
+                        st.write(f"   Scene {idx}: page='{scene.get('page')}' (looking for '{page_side}')")
+
+                selected_scene = None
+                for scene in scenes:
+                    if scene.get("page") == page_side:
+                        selected_scene = scene
+                        break
+
+                if show_debug:
+                    st.info(f"🔍 DEBUG: Selected scene found: {selected_scene is not None}")
+
+                if not selected_scene:
+                    st.error(f"Could not find scene for {page_side} page in {page_path.name}")
+                    continue
+
+                # Show character info if available
+                if char_codes:
+                    st.info(f"Characters: {', '.join([c.upper() for c in char_codes])}")
+
+                if show_debug:
+                    visual_preview = selected_scene.get("visual", "")[:100] + "..." if len(selected_scene.get("visual", "")) > 100 else selected_scene.get("visual", "")
+                    text_preview = selected_scene.get("text", "")[:100] + "..." if len(selected_scene.get("text", "")) > 100 else selected_scene.get("text", "")
+                    st.info(f"🔍 DEBUG: Scene visual preview: {visual_preview}")
+                    st.info(f"🔍 DEBUG: Scene text preview: {text_preview}")
+
+                # Create the enhanced prompt
+                prompt = create_enhanced_prompt(
+                    selected_scene,
+                    visual_style,
+                    character_descriptions,
+                    char_ref_images,
+                    style_refs
                 )
 
-                st.write(f"✅ Response received")
-                st.write(f"Generated images count: {len(generated_images)}")
+                if show_debug:
+                    prompt_scene_section = prompt[prompt.find("--- SCENE TO ILLUSTRATE ---"):prompt.find("--- SCENE TO ILLUSTRATE ---")+150] if "--- SCENE TO ILLUSTRATE ---" in prompt else "NOT FOUND"
+                    st.write(f"🔍 DEBUG: Prompt SCENE section preview: {prompt_scene_section}")
 
-                if generated_images:
-                    st.write(f"First image type: {type(generated_images[0])}")
-                    status.update(label=f"✅ Generation complete!", state="complete")
+                # Show prompt in expander
+                with st.expander("View Prompt"):
+                    st.text_area(
+                        "Prompt for image generation:",
+                        value=prompt,
+                        height=300,
+                        key=f"prompt_{page_idx}_{selected_display}"
+                    )
+
+                # Generate image
+                with st.status(f"Generating with {model_display}...", expanded=True) as status:
+                    st.write(f"🔄 Calling model: {model}")
+                    st.write(f"📝 Prompt length: {len(prompt)} characters")
+                    st.write(f"📐 Aspect ratio: {aspect_ratio}")
+
+                    if char_ref_images:
+                        total_refs = sum(len(imgs) for imgs in char_ref_images.values())
+                        st.write(f"👤 Character references: {total_refs} image(s)")
+
+                    if style_refs:
+                        st.write(f"🎨 Style references: {len(style_refs)} image(s)")
+
+                    generated_images = generate_image_with_gemini(
+                        prompt, aspect_ratio=aspect_ratio, model=model
+                    )
+
+                    st.write(f"✅ Response received")
+                    st.write(f"Generated images count: {len(generated_images)}")
+
+                    if generated_images:
+                        st.write(f"First image type: {type(generated_images[0])}")
+                        status.update(label=f"✅ Generation complete!", state="complete")
+                    else:
+                        status.update(label="⚠️ No images generated", state="error")
+
+                if generated_images and len(generated_images) > 0:
+                    st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
+
+                    # Display the generated images
+                    for idx, image_part in enumerate(generated_images):
+                        st.subheader(f"Generated Image {idx + 1}")
+
+                        # Get the image object and access its PIL representation
+                        img_obj = image_part.as_image()
+                        pil_image = img_obj._pil_image
+
+                        st.image(
+                            pil_image,
+                            caption=f"{selected_display} - {aspect_ratio} - {model_display}",
+                            use_container_width=True,
+                        )
+
+                        # Option to save the image
+                        import io
+                        buf = io.BytesIO()
+                        pil_image.save(buf, format='PNG')
+                        file_safe_name = selected_display.replace(" ", "_").replace("/", "-")
+                        st.download_button(
+                            label=f"Download {selected_display} - Image {idx + 1}",
+                            data=buf.getvalue(),
+                            file_name=f"{file_safe_name}_img{idx + 1}.png",
+                            mime="image/png",
+                            key=f"download_{page_idx}_{idx}"
+                        )
                 else:
-                    status.update(label="⚠️ No images generated", state="error")
+                    st.warning("No images were generated. Please try again.")
 
-            if generated_images and len(generated_images) > 0:
-                st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
-                st.balloons()
+            # All done
+            st.divider()
+            st.success(f"🎉 Completed generation for all {len(selected_displays)} page(s)!")
+            st.balloons()
 
-                # Display the generated images
-                for idx, image_part in enumerate(generated_images):
-                    st.subheader(f"Generated Image {idx + 1}")
+        # Preview section for selected pages (before generation)
+        else:
+            st.divider()
+            st.subheader("Preview Selected Pages")
+            for page_idx, selected_display in enumerate(selected_displays):
+                # Find the selected page data
+                selected_option_idx = display_names.index(selected_display)
+                _, page_path, page_side, page_data = page_options[selected_option_idx]
 
-                    # Get the image object and access its PIL representation
-                    img_obj = image_part.as_image()
+                # Get character codes
+                char_codes = get_character_codes_from_page(page_path.name)
+                char_ref_images = get_character_reference_images(char_codes)
+                character_descriptions = load_character_descriptions(char_codes)
 
-                    # Access the actual PIL image from the Image object
-                    pil_image = img_obj._pil_image
+                # Display character reference images in sidebar
+                if char_ref_images and page_idx == 0:  # Only show for first page to avoid clutter
+                    with st.sidebar:
+                        st.subheader("👤 Character References")
+                        for char_code, images in char_ref_images.items():
+                            st.write(f"**{char_code.upper()}**")
+                            for img_path in images:
+                                st.image(str(img_path), caption=img_path.name, use_container_width=True)
 
-                    st.image(
-                        pil_image,
-                        caption=f"{aspect_ratio} - {model_display}",
-                        use_container_width=True,
-                    )
+                # Find the scene
+                scenes = page_data.get("scenes", [])
+                selected_scene = None
+                for scene in scenes:
+                    if scene.get("page") == page_side:
+                        selected_scene = scene
+                        break
 
-                    # Option to save the image
-                    import io
-                    buf = io.BytesIO()
-                    pil_image.save(buf, format='PNG')
-                    st.download_button(
-                        label=f"Download Image {idx + 1}",
-                        data=buf.getvalue(),
-                        file_name=f"generated_image_{idx + 1}.png",
-                        mime="image/png"
-                    )
-            else:
-                st.warning("No images were generated. Please try again.")
+                if selected_scene:
+                    with st.expander(f"📄 {selected_display}", expanded=(page_idx == 0)):
+                        st.write(f"**Characters:** {', '.join([c.upper() for c in char_codes])}" if char_codes else "No characters")
 
-        st.divider()
+                        # Show scene text preview
+                        text_preview = selected_scene.get("text", "").strip()
+                        if text_preview:
+                            st.write("**Text:**")
+                            st.write(text_preview[:200] + "..." if len(text_preview) > 200 else text_preview)
 
-        # Display the YAML content in an expander
-        with st.expander("View parsed YAML"):
-            st.json(selected_scene)
+                        # Show visual description preview
+                        visual_preview = selected_scene.get("visual", "").strip()
+                        if visual_preview:
+                            st.write("**Visual Description:**")
+                            st.write(visual_preview[:200] + "..." if len(visual_preview) > 200 else visual_preview)
 
-        # Show the raw YAML in an expander
-        with st.expander("View raw YAML file"):
-            with open(page_path, "r") as f:
-                st.code(f.read(), language="yaml")
-    else:
-        st.error(f"Could not find scene for {page_side} page")
+                        # Show parsed YAML
+                        with st.expander("View Full YAML"):
+                            st.json(selected_scene)
+                else:
+                    st.error(f"Could not find scene for {selected_display}")
