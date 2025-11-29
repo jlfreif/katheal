@@ -1,0 +1,51 @@
+# Micah - Spread 4: Second Attempt
+# Emotional beat: DETERMINATION → STRUGGLE
+# Escalation: Trying stillness feels unnatural and incomplete
+# World rule hint: Stillness alone isn't enough without breath
+
+id: mi-04
+spread: 4
+node_type: solo
+beat: "Attempt #2 (more complex)"
+
+hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
+payoff: Journey into new territory begins with dramatic departure from familiar world.
+
+description: Micah attempts to stay completely still near the threads, fighting every instinct to move, but his restless energy builds inside him making the threads respond erratically to his internal tension.
+
+scenes:
+  - page: left
+    page_number: 11
+    focus: Trying a new approach with difficulty
+
+    visual: |
+      Micah stands rigid and completely still beneath the golden threads, fists clenched
+      at his sides, body visibly tense with the effort of not moving. Threads hover nearby
+      but wobble uncertainly, responding to his internal struggle. His jaw is tight, sweat
+      beads on his forehead. The moth from before circles around him, still calm, as if
+      waiting for something.
+
+    text: |
+      Micah planted his feet and forced himself to freeze. No running. No jumping. Just...
+      still. His muscles twitched with the need to move. His fingers curled into fists.
+      "Stay still," he whispered through gritted teeth. The threads drifted closer, but
+      they wavered, sensing the tension coiled inside him like a spring. Being motionless
+      wasn't the same as being calm.
+
+  - page: right
+    page_number: 12
+    focus: Discovering the journey continues deeper
+
+    visual: |
+      Micah's rigid stance has collapsed slightly—he's bent forward, hands on his knees,
+      breathing raggedly. The threads have pulled back again, flickering. But now a path
+      of softly glowing stones appears before him, leading deeper into the forest toward
+      a place where the light is gentler. The moth hovers at the path's beginning, wings
+      creating a slow, rhythmic pattern. An invitation.
+
+    text: |
+      His legs started bouncing despite his best effort. The stillness broke like a snapped
+      rubber band, and Micah gasped, moving again. The threads scattered. "I can't do this!"
+      But the moth landed on a stone at his feet, and suddenly he noticed: a path of glowing
+      stones leading toward softer light. Not asking him to stop moving, but to move...
+      differently. Micah straightened, curious. "Okay. Show me."

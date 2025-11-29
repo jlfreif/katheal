@@ -1,0 +1,51 @@
+# Micah - Spread 5: Third Attempt
+# Emotional beat: DISCOVERY → BREAKTHROUGH
+# Escalation: Finding balance between movement and breath
+# World rule hint: True courage combines motion with mindful breathing
+
+id: mi-05
+spread: 5
+node_type: solo
+beat: "Attempt #3 (creative approach)"
+
+hook: Creative solution shows promise but isn't quite sufficient yet.
+payoff: Partial success proves the approach works, suggesting full solution is near.
+
+description: Micah discovers he can move slowly while breathing deliberately, practicing a flowing parkour sequence timed to his breath, and the threads begin to respond positively.
+
+scenes:
+  - page: left
+    page_number: 13
+    focus: Testing a creative solution
+
+    visual: |
+      Micah moves in slow motion through a parkour vault, his body flowing gracefully over
+      a fallen log. His eyes are half-closed, focused inward. Visible breath mist forms in
+      the air (despite it not being cold) showing his deliberate breathing pattern. Golden
+      threads nearby sway gently toward him, following his rhythm. The moth flies alongside
+      him, matching his pace.
+
+    text: |
+      Micah breathed in and stepped forward. Breathe out, reach for the log. Breathe in,
+      vault over. Each movement stretched slow and intentional, matched to his breath.
+      It felt strange—parkour at quarter-speed—but also... right. The threads drifted
+      closer, pulsing in time with his breathing. "Okay," he whispered between breaths.
+      "We're getting somewhere."
+
+  - page: right
+    page_number: 14
+    focus: Partial success showing the path forward
+
+    visual: |
+      Micah completes his slow sequence and pauses, breathing steadily. Three golden threads
+      have woven themselves into a small, stable pattern near his hands, glowing brighter
+      than before. But dozens more still flicker in the distance, too far to reach. His face
+      shows both pride and understanding—this works, but there's more to learn. The forest
+      ahead seems to pulse with deeper challenges.
+
+    text: |
+      Three threads wove together in his hands, stable and bright. Micah grinned, still
+      breathing slowly, deliberately. It worked! But dozens more flickered beyond his reach,
+      and the Heart Crystal's glow remained dim. This was progress—breathing while moving,
+      moving while breathing—but it wasn't enough yet. He looked toward where the threads
+      led, deeper into Kathaél. "One step at a time," he told himself. "One breath at a time."

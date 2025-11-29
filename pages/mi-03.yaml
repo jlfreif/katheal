@@ -1,0 +1,52 @@
+# Micah - Spread 3: First Attempt
+# Emotional beat: CONFIDENCE → FRUSTRATION
+# Escalation: Micah's usual approach (constant movement) makes things worse
+# World rule hint: Frantic energy can't fix what needs stillness
+
+id: mi-03
+spread: 3
+node_type: solo
+beat: "Attempt #1 (simple/obvious)"
+
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
+
+description: Micah confidently tries to fix the failing threads through movement and physical energy—running beneath them, jumping to reach them, spinning to redirect them—but each action makes them flicker faster.
+
+scenes:
+  - page: left
+    page_number: 9
+    focus: Trying the obvious solution
+
+    visual: |
+      Micah leaps high into the air, arms stretched toward a cluster of dimming golden
+      threads overhead. His athletic form is fully extended in an impressive jump. But
+      the threads scatter away from his touch like startled birds, flickering more
+      frantically. Other threads he's already touched lie on the ground, pulsing erratically.
+      His face shows determination mixed with confusion.
+
+    text: |
+      "I've got this." Micah sprinted beneath the threads and jumped, reaching high.
+      But they scattered from his fingers like scared fish. "Okay, different approach."
+      He tried running in patterns, creating wind to guide them. The threads flickered
+      faster, more unstable. He spun beneath them, redirecting his energy upward. Two
+      more snapped and fell. "Come on!"
+
+  - page: right
+    page_number: 10
+    focus: Realizing it doesn't work
+
+    visual: |
+      Micah stands still for the first time, breathing hard, surrounded by fallen threads
+      that pulse weakly on the mossy ground. More threads overhead flicker dangerously.
+      His shoulders slump slightly—unusual for him. A small luminous moth circles his
+      head slowly, deliberately, its wings beating in a calm, steady rhythm that contrasts
+      with his frantic energy.
+
+    text: |
+      Micah stopped, chest heaving. More threads had fallen. His usual approach—move
+      faster, try harder, never stop—wasn't working. A glowing moth circled his head,
+      wings beating slow and steady. It landed on his shoulder, and somehow he understood:
+      Not everything needs speed. "But I don't know how to be slow," Micah whispered.
+      The moth's wings pulsed gently, like a quiet heartbeat. Micah took one careful
+      breath. "Okay. I'll try."
