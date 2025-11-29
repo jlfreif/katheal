@@ -244,7 +244,7 @@ with st.sidebar:
 pages_dir = Path("pages")
 page_files = sorted(pages_dir.glob("*.yaml"))
 
-# Build a list of (display_name, file_path, page_side) tuples
+# Build a list of (display_name, file_path, page_side, page_data) tuples
 page_options = []
 for page_file in page_files:
     with open(page_file, "r") as f:
@@ -255,6 +255,12 @@ for page_file in page_files:
         page_side = scene.get("page", "unknown")
         display_name = f"{page_file.stem} - {page_side}"
         page_options.append((display_name, page_file, page_side, page_data))
+
+# DEBUG: Show first few page options
+st.write(f"🔍 DEBUG: Built {len(page_options)} page options")
+st.write("First 5 page options:")
+for i, (name, path, side, data) in enumerate(page_options[:5]):
+    st.write(f"  {i}: {name} -> {path.name} (id: {data.get('id', 'N/A')})")
 
 if not page_options:
     st.error("No pages found in the pages/ directory")
@@ -267,12 +273,25 @@ else:
     selected_idx = display_names.index(selected_display)
     _, page_path, page_side, page_data = page_options[selected_idx]
 
+    # DEBUG: Show what was selected
+    st.info(f"🔍 DEBUG: Selected '{selected_display}' (index: {selected_idx})")
+    st.info(f"🔍 DEBUG: Page path: {page_path.name}")
+    st.info(f"🔍 DEBUG: Page side: {page_side}")
+    st.info(f"🔍 DEBUG: Page ID from YAML: {page_data.get('id', 'NOT FOUND')}")
+
     # Get character codes from page filename
     char_codes = get_character_codes_from_page(page_path.name)
+    st.info(f"🔍 DEBUG: Extracted character codes: {char_codes}")
 
     # Load character-specific references
     char_ref_images = get_character_reference_images(char_codes)
     character_descriptions = load_character_descriptions(char_codes)
+
+    # DEBUG: Show character info loaded
+    st.info(f"🔍 DEBUG: Character descriptions loaded: {list(character_descriptions.keys())}")
+    if character_descriptions:
+        for char_name, desc in character_descriptions.items():
+            st.write(f"   - {char_name}: {len(desc)} visual attributes")
 
     # Display character reference images in sidebar
     if char_ref_images:
@@ -285,14 +304,26 @@ else:
 
     # Find the specific scene for this page side
     scenes = page_data.get("scenes", [])
+    st.info(f"🔍 DEBUG: Total scenes in page_data: {len(scenes)}")
+    for idx, scene in enumerate(scenes):
+        st.write(f"   Scene {idx}: page='{scene.get('page')}' (looking for '{page_side}')")
+
     selected_scene = None
     for scene in scenes:
         if scene.get("page") == page_side:
             selected_scene = scene
             break
 
+    st.info(f"🔍 DEBUG: Selected scene found: {selected_scene is not None}")
+
     if selected_scene:
         st.subheader(f"Page: {page_path.name} - {page_side.capitalize()}")
+
+        # DEBUG: Show scene content
+        visual_preview = selected_scene.get("visual", "")[:100] + "..." if len(selected_scene.get("visual", "")) > 100 else selected_scene.get("visual", "")
+        text_preview = selected_scene.get("text", "")[:100] + "..." if len(selected_scene.get("text", "")) > 100 else selected_scene.get("text", "")
+        st.info(f"🔍 DEBUG: Scene visual preview: {visual_preview}")
+        st.info(f"🔍 DEBUG: Scene text preview: {text_preview}")
 
         # Show character info if available
         if char_codes:
