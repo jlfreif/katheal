@@ -11,7 +11,7 @@ beat: Inciting incident
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah follows the fraying thread into Kathaél, where he discovers stories frozen mid-sentence and learns the Heart Crystal is cracking.
+description: Noah follows the fraying thread into Kathaél, runs through the glowing forest discovering stories frozen mid-sentence, and learns the Heart Crystal is cracking.
 
 scenes:
   - page: left
@@ -19,33 +19,34 @@ scenes:
     focus: Discovery of the problem
 
     visual: |
-      Noah stands at the threshold between his backyard and a luminous forest,
-      gripping the golden thread. One foot on ordinary grass, one on glowing moss.
-      Dozens of golden threads hang suspended around him, all frayed and flickering.
-      In the distance, a massive crystal structure rises between ancient trees, its facets pulsing weakly.
+      Noah runs forward through the threshold between his backyard and a luminous forest,
+      one hand gripping the golden thread. His other hand reaches out to balance himself
+      as he moves from ordinary grass onto glowing moss. Dozens of golden threads hang
+      suspended around him, all frayed and flickering. In the distance, a massive crystal
+      structure rises between ancient trees, its facets pulsing weakly.
 
     text: |
-      The thread tugged Noah forward, and he grabbed it. The moment his fingers closed
-      around it, everything shifted. One step took him through his backyard fence into a
-      glowing forest that definitely hadn't been there two seconds ago. "Whoa." Golden threads
-      hung everywhere, all frayed at the ends, flickering like dying stars. In the distance,
-      something massive and glowing rose between the trees—a crystal structure with facets
-      that pulsed weakly, cracks spreading across its surface.
+      The thread tugged Noah forward, and he ran with it. One step through the fence,
+      and everything shifted—his backyard became a glowing forest that definitely hadn't
+      been there before. "Whoa!" Golden threads hung everywhere, flickering like dying
+      stars. He jogged between them, eyes wide. In the distance, something massive rose
+      between the trees—a crystal with facets that pulsed weakly, cracks spreading across
+      its surface.
 
   - page: right
     page_number: 8
     focus: Decision to act
 
     visual: |
-      Noah kneels beside a thread at eye level, its frayed end pulsing weakly.
+      Noah crouches beside a thread at eye level, his hand hovering near its frayed end.
       Words shimmer in the air like ghostly text: "She reached for the door and..."
-      then nothing. A rabbit with knowing eyes watches from nearby. The great
+      then nothing. A rabbit with knowing eyes watches from nearby, ears alert. The great
       crystal structure glows dimly in the background, more threads drifting free.
 
     text: |
-      "She reached for the door and..." The words floated beside a silver tree,
-      then stopped. Noah's eyes widened. "Whoa. These are actual stories!" He reached
-      toward the floating words, and they hummed under his fingertips like a purring cat.
-      A rabbit with ancient eyes met his gaze. When it blinked, Noah understood: if the
-      threads kept fraying, the stories would die forever. The rabbit tilted its head
-      toward the Crystal. Noah grinned. "I'm a writer. This is going to be awesome."
+      "She reached for the door and..." The words floated beside a silver tree, then
+      stopped. Noah's eyes widened. "These are actual stories!" He reached toward the
+      floating words, and they hummed under his fingertips like a purring cat. A rabbit
+      with ancient eyes met his gaze. When it blinked, Noah understood: if the threads
+      kept fraying, the stories would die forever. The rabbit tilted its head toward
+      the Crystal. Noah jumped to his feet. "I'm a writer. I can help with this."
