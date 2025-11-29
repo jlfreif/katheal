@@ -8,7 +8,7 @@ beat: Ordinary world + desire hint
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Elise draws quietly in her room, noticing that one of her drawings seems to shimmer with a light that doesn't come from her lamp.
+description: Elise dances in front of her mirror creating choreography, then notices one of her drawings on the wall shimmer with a light that doesn't come from her lamp.
 
 scenes:
   - page: left
@@ -16,30 +16,33 @@ scenes:
     focus: Character in their ordinary world
 
     visual: |
-      Elise sits at a small desk by her window, hunched forward over a drawing. Her
-      right hand holds a golden-yellow colored pencil hovering above the paper. Several
-      pencils scatter across the desk near an open box of art supplies. Her expression
-      is peaceful and absorbed in creative flow. Drawings cover the wall behind her.
+      Elise dances in front of a full-length mirror in her room, arms flowing gracefully
+      through the air in a lyrical movement. Her long brown hair moves with her turns.
+      She's humming to herself, creating choreography, completely absorbed. Drawings
+      cover the wall behind her—forests, flowers, magical places. Her art supplies
+      scatter across a desk by the window.
 
     text: |
-      Elise drew a forest with a winding path and flowers that looked like they held
-      secrets. She loved imagining quiet places where magic might hide. Her colored
-      pencils moved slowly, carefully, the way she did everything. Outside her window,
-      the afternoon light was ordinary, but on her page, she was making something that
-      felt alive.
+      Elise spun slowly in front of her mirror, arms flowing like water. She was creating
+      a dance about a forest path she'd drawn earlier—each movement telling the story her
+      pictures couldn't quite capture. Her feet traced patterns on the floor. She hummed
+      a melody that matched her turns. This was how she thought best: through movement,
+      through dance.
 
   - page: right
     page_number: 6
     focus: First hint of something different
 
     visual: |
-      Elise's head tilts slightly, eyes widening with curiosity. On her paper, one
-      small flower she just finished glows with soft golden light that doesn't match
-      the lamp. The flower pulses gently, as if breathing. Her pencil hovers frozen
-      above the page. Afternoon light streams through the window behind her.
+      Elise has stopped mid-movement, one arm still extended, turning to look at the
+      wall behind her. One of her drawings—a small flower—glows with soft golden light
+      that doesn't match the lamp. The flower pulses gently, as if breathing in rhythm
+      with her. Her eyes widen with curiosity. Her body naturally begins to sway toward
+      it, drawn by the light.
 
     text: |
-      The flower on her paper started to glow. Elise blinked, but the light didn't
-      disappear. It pulsed softly, like a tiny heartbeat, warm and golden in a way
-      that had nothing to do with her lamp. Her pencil hung still in the air. She
-      leaned closer, watching the impossible light breathe.
+      She spun toward the wall and froze mid-movement. The flower in her drawing was
+      glowing. Elise blinked, but the light didn't disappear. It pulsed softly, like
+      a tiny heartbeat, warm and golden in a way that had nothing to do with her lamp.
+      Her body swayed toward it instinctively, pulled by curiosity. She stepped closer,
+      watching the impossible light breathe.

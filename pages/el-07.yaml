@@ -9,7 +9,7 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Elise's patient attention restores flowers one by one, but the endless scale of the fading threatens to overwhelm her.
+description: Elise's gentle dance restores flowers one by one as she moves through the meadow, but the endless scale of the fading threatens to overwhelm her.
 
 scenes:
   - page: left
@@ -17,30 +17,30 @@ scenes:
     focus: Making progress toward goal
 
     visual: |
-      Elise kneels in a meadow, hands cupped around a flower that glows with
-      restored color. Around her, a small circle of healed blooms creates an
-      island of beauty. A lantern hangs from a crooked post nearby, its flame
-      burning steady. Her expression shows peaceful focus. This is working.
+      Elise dances slowly through a meadow, moving from flower to flower with graceful,
+      flowing gestures. As her hands pass over each bloom, it glows with restored color.
+      Around her path, a trail of healed flowers creates an island of beauty. A lantern
+      hangs from a crooked post nearby, its flame burning steady. Her expression shows
+      peaceful focus. This is working.
 
     text: |
-      Flower by flower, Elise brought color back. She cupped each bloom with
-      patient attention, and one by one they remembered their beauty. The
-      lantern nearby burned steady, its flame matching her calm focus. She'd
-      found the answer. This was working.
+      Flower by flower, Elise danced them back to life. She moved through the meadow
+      with gentle turns and flowing gestures, and where her dance touched, blooms
+      remembered their beauty. The lantern nearby burned steady, its flame matching
+      her calm focus. She'd found the answer. This was working.
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
 
     visual: |
-      Elise stands and looks up from her small circle of restored flowers.
-      The meadow stretches endlessly in every direction, thousands of grey
-      flowers fading into the horizon. The lantern flame wavers as doubt
-      creeps in. Her shoulders sag slightly. One flower at a time against
-      all of this.
+      Elise stops mid-dance and looks up from her small trail of restored flowers.
+      The meadow stretches endlessly in every direction, thousands of grey flowers
+      fading into the horizon. The lantern flame wavers as doubt creeps in. Her
+      arms lower to her sides. One dance, one flower at a time, against all of this.
 
     text: |
-      Then Elise stood and looked up. The meadow stretched forever. Thousands
-      of grey flowers, tens of thousands, more than she could ever reach. The
-      lantern flame wavered as her heart sank. Her way worked, but it was so
-      slow. How could attention to one flower matter against all this grey?
+      Then Elise stopped and looked up. The meadow stretched forever. Thousands of
+      grey flowers, tens of thousands, more than she could ever reach. The lantern
+      flame wavered as her heart sank. Her gentle dance worked, but it was so slow.
+      How could one quiet movement, one flower at a time, matter against all this grey?

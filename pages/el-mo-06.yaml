@@ -11,13 +11,13 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Elise finds Mona quietly observing the Heart Crystal threads, and together they notice a pattern that more forceful approaches missed.
+description: Elise finds Mona quietly sitting and observing, and begins a slow, meditative dance beside her. Together their gentle presence reveals that threads respond to peaceful attention rather than force.
 
 # === MEETING NODE SPECIFIC FIELDS ===
 
 location: A quiet glade where Heart Crystal threads flow through like streams of light
 
-shared_action: Both sit still and watch the threads, noticing they respond to gentle presence rather than forceful intervention
+shared_action: Mona sits still while Elise does slow, flowing dance movements beside her - together creating gentle, patient presence that draws threads closer
 
 dialogue_packets:
   - speaker: elise
@@ -59,32 +59,33 @@ scenes:
       A serene glade carpeted with soft emerald moss and dotted with small luminous
       mushrooms. Golden threads flow through the air like gentle streams of light,
       weaving between ancient trees. Elise (9 years old, long brown hair, slim and
-      graceful) enters the clearing, looking tired from previous efforts. She spots
+      graceful) steps into the clearing, catching her breath from running. She spots
       little Mona (2 years old, dark curly hair, bright curious eyes) sitting cross-legged
       on the moss, perfectly still, just watching the threads dance. The light is soft
       and warm, creating a peaceful atmosphere.
 
     text: |
-      Elise had tried everything. Pulling threads, painting patterns, following the
-      obvious paths. Nothing worked. She stepped into the quiet glade and stopped.
-      A tiny girl sat in the moss, utterly still, watching golden threads flow past
-      her face. The threads seemed... calmer here. Gentler.
+      Elise had tried everything. Pulling threads, painting patterns, forcing her dance
+      to be bigger. Nothing worked. She stepped into the quiet glade and stopped. A tiny
+      girl sat in the moss, utterly still, watching golden threads flow past her face.
+      The threads seemed... calmer here. Gentler.
 
   - page: right
     page_number: 16
-    focus: Discovering a new pattern through stillness
+    focus: Discovering a new pattern through gentle movement
 
     visual: |
-      Elise sits beside Mona on the moss, both children now motionless and observing.
-      The golden threads flow closer to them, almost curious, responding to their quiet
-      presence. One thread hovers near Mona's outstretched palm, not pulled but drawn.
-      Elise's expression shows dawning realization. The threads glow brighter around
-      them, their movement more fluid and alive than when approached with force. Soft
+      Mona sits cross-legged on the moss, perfectly still, watching. Beside her, Elise
+      moves in slow, meditative dance—arms flowing like gentle water, turns measured
+      and peaceful. The golden threads flow closer to both of them, drawn by their quiet
+      presence. One thread hovers near Mona's palm while another weaves around Elise's
+      gracefully extended hand. Elise's expression shows dawning realization. Soft
       particles of light drift through the air like gentle snow.
 
     text: |
-      Elise sat beside her. Together they watched, silent. The threads drifted closer,
-      curious about their stillness. "Soft," Mona whispered. "Gentle." Elise nodded slowly.
-      The threads had been running from grabbing hands, from desperate attempts. But here,
-      with just watching and waiting, they came willingly. "You're right," Elise breathed.
-      "They want us to be present, not pushy."
+      Elise began to dance beside Mona, but this time differently. Slow. Meditative.
+      Her arms flowed like gentle water, each turn measured and peaceful. The threads
+      drifted closer, curious about their quiet presence. "Soft," Mona whispered.
+      "Gentle." Elise nodded, continuing her flowing dance. The threads had been running
+      from force. But here, with gentle movement and patient presence, they came willingly.
+      "You're right," Elise breathed. "Gentle can be strong."

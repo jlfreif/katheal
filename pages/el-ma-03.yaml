@@ -11,7 +11,7 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Maya and Elise discover each other in a fading meadow, both trying obvious solutions that don't work. The cousins recognize each other with joy and surprise.
+description: Maya and Elise discover each other in a fading meadow, both trying to bring color back through dance. Maya's bold, energetic style and Elise's graceful, flowing style each fail alone, but they recognize each other with joy.
 
 scenes:
   - page: left
@@ -19,34 +19,33 @@ scenes:
     focus: Trying the obvious solution
 
     visual: |
-      Maya leaps and spins in the center of a faded meadow, her movements bold
-      and energetic. She wears her signature pink-streaked hair flying as she
-      dances, trying to bring life back through movement. Grey flowers surround
-      her, unresponsive. In the distance, a figure with paint-stained hands
-      kneels among the flowers.
+      Maya leaps high in the center of a faded meadow, arms stretched wide, hair
+      with its pink streak flying as she spins with bold, explosive energy. Her
+      movements are powerful and decisive. Grey flowers surround her, barely stirring.
+      In the distance, another figure moves through the flowers with slow, graceful
+      gestures—arms flowing like water, turning in lyrical circles.
 
     text: |
-      Maya leaped high, arms stretched wide, spinning through the meadow like
-      wind itself. If colors were fading, she'd dance them back to life. Her
-      feet pounded the earth in rhythm, bold and decisive. The flowers barely
-      stirred. She landed hard, breathing fast, and spun again. Nothing. In
-      the distance, someone knelt among the grey blooms, moving carefully.
+      Maya leaped high, arms stretched wide, spinning through the meadow like wind
+      itself. If colors were fading, she'd dance them back to life! Her feet pounded
+      the earth in rhythm, bold and decisive. The flowers barely stirred. She landed
+      hard and spun again. Nothing. In the distance, someone moved through the grey
+      blooms with slow, graceful turns—so different from Maya's style.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
 
     visual: |
-      Elise sits back on her heels, paintbrush lowering, as Maya bounds over.
-      Both girls freeze mid-motion as recognition hits. Maya's expression shifts
-      from determined to shocked to delighted. Elise's eyes widen with surprise
-      and joy. Grey flowers surround them. Golden threads pulse overhead, connecting
-      their presence.
+      Elise stands in a graceful pose, arms extended, having just completed a flowing
+      turn, as Maya bounds over mid-leap. Both girls freeze as recognition hits.
+      Maya's expression shifts from determined to shocked to delighted. Elise's eyes
+      widen with surprise and joy. Grey flowers surround them. Golden threads pulse
+      overhead, connecting their presence.
 
     text: |
-      "Elise?" Maya skidded to a stop, dust flying. Her cousin looked up from
-      her painting, eyes going wide. "Maya?!" They stared at each other for
-      one breathless second. Then both burst out laughing, the sound bright
-      and startled in the grey meadow. "What are YOU doing here?" they said
-      at exactly the same time. The threads overhead pulsed warmer, as if
-      recognizing their connection.
+      "Elise?" Maya skidded to a stop mid-leap. Her cousin looked up from her dance,
+      arms still extended in a graceful line. "Maya?!" They stared at each other for
+      one breathless second. Then both burst out laughing, the sound bright and
+      startled in the grey meadow. "What are YOU doing here?" they said at exactly
+      the same time. The threads overhead pulsed warmer, as if recognizing their connection.

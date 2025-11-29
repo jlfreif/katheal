@@ -11,7 +11,7 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah confidently tries to intellectually decode the stuck stories and write endings based on his analysis, but they reject every logically crafted conclusion he offers.
+description: Noah confidently tries multiple different approaches—writing endings, speaking them aloud, even acting them out with gestures—but each method fails in a visibly different way.
 
 scenes:
   - page: left
@@ -19,32 +19,31 @@ scenes:
     focus: Trying the obvious solution
 
     visual: |
-      Noah kneels beside a floating thread, notebook open, pen moving confidently.
-      Glowing letters appear in the air beside the frozen story-words. The thread
-      flickers, rejecting his ending, scattering his words like sparks. More failed
-      attempts litter the mossy ground around him.
+      Noah stands beside a floating thread, gesturing dramatically with both hands as he
+      speaks an ending aloud. Glowing letters appear in the air, then bounce off the thread
+      like rubber balls, scattering around him. His notebook lies open on the ground, already
+      showing crossed-out attempts. More failed letter-fragments litter the mossy ground.
 
     text: |
-      "Okay, I can figure this out." Noah knelt beside the frozen story and uncapped
-      his pen. "She reached for the door and found her brother waiting." He analyzed
-      the pattern: reunion equals resolution. "Perfect!" Noah announced. The thread
-      trembled... then spat his words back at him like watermelon seeds. Letters
-      bounced off his forehead. "Ow! Okay, not perfect!"
+      "Okay, I can figure this out." Noah started writing endings, but the thread spat
+      the words back. So he tried speaking them instead, hands moving expressively as he
+      narrated. The letters bounced off him like dodgeballs. "Ow!" He dropped to the
+      ground and tried acting it out, pantomiming a reunion scene. The thread whipped
+      away from his reaching fingers.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
 
     visual: |
-      Noah sits against a tree trunk, surrounded by fading letters from failed
-      endings bouncing off like rubber balls. His notebook shows crossed-out attempts.
-      The frozen story-thread hangs incomplete nearby, unmoved. A fox with knowing
-      eyes watches from the underbrush, looking almost amused.
+      Noah paces back and forth in front of the frozen story-thread, running his hand
+      through his hair in frustration. Failed letters dissolve in the air around him.
+      His notebook shows three different methods attempted: written, spoken, performed.
+      A fox with knowing eyes watches from the underbrush, looking almost amused.
 
     text: |
-      Five more endings. Ten. Every single one dissolved or bounced back. Noah sat
-      back, puzzled. "Weird. Those were solid endings." The fox in the underbrush
-      chittered, and somehow Noah understood: Right for who? Noah tilted his head.
+      Noah paced, thinking hard. Writing didn't work. Speaking didn't work. Acting
+      it out definitely didn't work. "What am I missing?" The fox in the underbrush
+      chittered, and somehow Noah understood: Right for who? Noah stopped mid-stride.
       "You mean... the stories want something different?" The fox flicked its tail
-      and trotted deeper into the forest. Noah jumped up. "Wait, are you taking me
-      somewhere?"
+      and trotted deeper into the forest. Noah grabbed his notebook and jogged after it.
