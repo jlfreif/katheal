@@ -1,0 +1,58 @@
+# Mona - Spread 5: Deeper Challenge
+# Emotional beat: CONFIDENCE → UNCERTAINTY → PERSISTENCE
+# After meeting Maya: Learned that courage creates lasting color
+# New challenge: Must try something that feels too big for someone so small
+# Connection to courage theme: Sometimes trying new things means trying things others think you can't do
+
+id: mo-05
+spread: 5
+node_type: solo
+beat: "Midpoint revelation"
+
+hook: Discovery or revelation that reframes the entire quest or raises the stakes significantly.
+payoff: Clear understanding of what's truly required, with path forward visible but daunting.
+
+description: Mona discovers a garden of giant musical flowers that have stopped singing because no one has been brave enough to try their game, and she must attempt to play them despite being so small.
+
+scenes:
+  - page: left
+    page_number: 13
+    focus: The stakes become clearer
+
+    visual: |
+      Mona stands at the edge of a garden filled with enormous flower-bells,
+      each taller than a grown-up. The flowers are gray and silent, hanging
+      limp on their stems. Musical notes float frozen in the air around them
+      like ice crystals. Mona looks tiny in comparison, craning her neck to
+      see the tops of the flowers. Her glowing block pulses urgently. A wise
+      old turtle sits nearby on a rock, watching her with ancient eyes.
+
+    text: |
+      The garden was full of giant flower-bells, taller than any grown-up Mona
+      knew. But they weren't singing. A turtle as old as stories blinked at her.
+      "The Singing Flowers forgot their music," he said slowly. "They ring when
+      someone tries their game—hopscotch on the colored stones. But the stones
+      are far apart. Too far for little legs." The turtle looked sad. "No one's
+      been brave enough to try in a very long time."
+
+  - page: right
+    page_number: 14
+    focus: Accepting the difficult path
+
+    visual: |
+      Mona approaches the first colored stone, which is far from the second one—
+      a distance that would be a normal step for an older child but is a big
+      leap for a toddler. She stands at the edge, looking at the gap, her
+      expression showing both uncertainty and determination. Her hands curl into
+      little fists. The glowing block sits on the first stone, encouraging her.
+      The gray flower-bells loom overhead, waiting. A tiny spark of color appears
+      at the base of the nearest flower.
+
+    text: |
+      Mona toddled to the first stone. Red! She loved red. But the next stone—
+      yellow—was so far away. Too far for her little legs. She looked at the
+      gap, then at the sad gray flowers, then at her glowing block. It hummed:
+      You can try! Mona took a big breath. Mama said trying was how you learned.
+      Maya said courage made colors stay. Mona didn't know if she could jump
+      that far. But she could try! She bent her knees, wiggled her bottom, and—
+      jumped!

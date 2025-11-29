@@ -1,0 +1,59 @@
+# Mona - Spread 9: Preparation for Climax
+# Emotional beat: HOPE → DETERMINATION → READINESS
+# Realization: Trying together means everyone's courage combines
+# Building toward: The convergence where all six children unite
+# Connection to courage theme: The courage to try can inspire others to try too
+
+id: mo-09
+spread: 9
+node_type: solo
+beat: "Preparation/gathering allies"
+
+hook: Gathering resources, allies, or final understanding needed for climax.
+payoff: Ready for final confrontation with clear plan and renewed determination.
+
+description: Mona and her new friends work together to create a living staircase up the cliff, each creature offering their unique way of trying something new to help.
+
+scenes:
+  - page: left
+    page_number: 21
+    focus: Planning the new approach together
+
+    visual: |
+      Mona sits in a circle with her gathered friends at the base of the cliff.
+      The butterfly flutters above, the turtle gestures with one wise flipper,
+      the bunny points up the cliff with its nose, and the flower-bells sway
+      as if listening. Mona's glowing block sits in the center of the circle,
+      pulsing brighter now. She's animated, gesturing with her little hands,
+      her expression bright with new hope. The creatures lean in, engaged in
+      planning.
+
+    text: |
+      "How can we try together?" Mona asked. The butterfly spiraled up. "I could
+      carry things!" The bunny thumped a strong hind leg. "I can make good jumps!"
+      The turtle nodded slowly. "I can be steady steps that don't move." Even the
+      flower-bells chimed softly, offering to hold vines. Mona's eyes got big and
+      shiny. "Everyone trying makes new paths!" Her block glowed warmer, responding
+      to her joy. Together they could do what one small girl couldn't do alone.
+
+  - page: right
+    page_number: 22
+    focus: Working together toward the goal
+
+    visual: |
+      The creatures form a living, moving staircase up the cliff. The turtle
+      provides the first steady steps. The bunny creates jumping platforms at
+      mid-height. The butterfly carries a vine that the flower-bells hold,
+      creating a handrail. Mona begins to climb, her glowing block blazing
+      bright again, lighting the way. With each step she takes with her friends'
+      help, color returns to that part of Kathaél—flowers blooming, stones
+      brightening. Other children's voices call out in the distance.
+
+    text: |
+      They built a path of trying! The turtle became steady steps. The bunny
+      bounced up to make platforms. The butterfly strung flower-vines as handrails.
+      Mona climbed, one wobbly step at a time, but never alone. Her friends tried
+      with her. And with each step, light spread—flowers bloomed, colors returned,
+      music played! From the top of the cliff, Mona could see other lights moving
+      through Kathaél. Other children! Other helpers! Her heart jumped. "Try
+      together!" she called out, and her voice echoed like a bell across the land.
