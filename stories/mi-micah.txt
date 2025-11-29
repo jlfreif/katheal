@@ -11,23 +11,34 @@ Courage Theme: Courage to Take a Breath
 [Spread 1: mi-01.yaml - FILE NOT FOUND]
 
 
---------------------------------------------------------------------------------
+================================================================================
 SPREAD 2: Inciting incident
 [MEETING NODE]
+
+Elise and Micah discover each other in a grove where performances have frozen mid-act, both noticing that Kathaél's magic is failing and deciding to help together.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+Page 7 (Left) - Discovery of the problem
 --------------------------------------------------------------------------------
 
+[VISUAL]
+A grove filled with magical performers frozen in mid-performance. A dancer balances on one toe, her arms extended in an impossible arc, completely motionless. Musicians hold instruments mid-note, their expressions captured in concentration. Elise (9 years old, long brown hair, graceful and slim) enters the clearing, her eyes wide with concern. She reaches tentatively toward the frozen dancer. Golden threads overhead flicker weakly, their glow fading. The whole scene has a twilight quality, as if time itself is struggling.
 
-Elise danced into the grove and stopped mid-turn, breathless. Performers everywhere,
-frozen like statues. A dancer hung mid-leap, one foot pointed, arms spread—exactly
-the pose Elise had just been practicing. Musicians held silent instruments. Even
-the trees seemed to hold their breath. "What happened to you?" she whispered,
-reaching toward the dancer's outstretched hand.
+[TEXT]
+Elise danced into the grove and stopped mid-turn, breathless. Performers everywhere, frozen like statues. A dancer hung mid-leap, one foot pointed, arms spread—exactly the pose Elise had just been practicing. Musicians held silent instruments. Even the trees seemed to hold their breath. "What happened to you?" she whispered, reaching toward the dancer's outstretched hand.
 
 
-A sound made her turn. Micah stood on the other side of the frozen dancer, his
-hand extended just like hers. "Elise!" His face broke into a grin despite the
-strangeness around them. "You see it too. They're stuck." She nodded. "The magic
-is fading." Micah's expression turned serious. "Then let's fix it. Together."
+--------------------------------------------------------------------------------
+Page 8 (Right) - Decision to act together
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Micah (9 years old, black hair, athletic half-Japanese build, constantly in motion) enters from the opposite side, also reaching toward the frozen dancer. His hand and Elise's nearly touch. Both children's faces show recognition and relief at finding someone else who sees the problem. The golden threads pulse once, weakly, as if acknowledging their combined presence. The frozen performers remain motionless, but the cousins' determination creates a subtle warmth in the air.
+
+[TEXT]
+A sound made her turn. Micah stood on the other side of the frozen dancer, his hand extended just like hers. "Elise!" His face broke into a grin despite the strangeness around them. "You see it too. They're stuck." She nodded. "The magic is fading." Micah's expression turned serious. "Then let's fix it. Together."
 
 
 [Spread 3: mi-03.yaml - FILE NOT FOUND]
@@ -45,44 +56,67 @@ is fading." Micah's expression turned serious. "Then let's fix it. Together."
 [Spread 7: mi-07.yaml - FILE NOT FOUND]
 
 
---------------------------------------------------------------------------------
+================================================================================
 SPREAD 8: All-is-lost / emotional low
 [MEETING NODE]
+
+Noah and Micah find each other exhausted and discouraged, but their cousin bond and shared breath help them remember why they started.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+Page 19 (Left) - External obstacles intensify and inner doubt surfaces
 --------------------------------------------------------------------------------
 
+[VISUAL]
+A quiet clearing in twilight where golden threads hang motionless in the air, their glow dimmed to barely visible. Noah (12 years old, sandy blond voluminous hair, medium build) sits slumped on a fallen log, head in his hands, looking utterly exhausted. Micah (9 years old, black hair, athletic half-Japanese build) approaches from the treeline, also moving slowly with fatigue. The atmosphere is heavy and gray. Creatures that normally helped have retreated. The silence feels oppressive. Both boys look defeated.
 
-Noah sat with his head in his hands. Every brilliant idea had failed. The threads
-hung lifeless, ignoring him. Footsteps approached, and he didn't even look up until
-a familiar voice said, "Noah?" His cousin Micah dropped onto the log beside him,
-just as tired, just as discouraged. "I can't do this," Noah whispered.
+[TEXT]
+Noah sat with his head in his hands. Every brilliant idea had failed. The threads hung lifeless, ignoring him. Footsteps approached, and he didn't even look up until a familiar voice said, "Noah?" His cousin Micah dropped onto the log beside him, just as tired, just as discouraged. "I can't do this," Noah whispered.
 
 
-"Breathe with me," Micah said quietly. "In. Out." Noah matched his cousin's rhythm.
-In. Hold. Out. Slowly. The tightness in his chest eased. His racing thoughts slowed.
-The threads overhead stirred, pulsing with their breath. "Better?" Micah asked.
-Noah nodded. "Yeah. We're not done yet." "No way," Micah grinned. "We're just getting started."
+--------------------------------------------------------------------------------
+Page 20 (Right) - Something affirms the effort matters
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Noah and Micah sit side by side on the log, both taking deep, synchronized breaths. Micah's hand rests on Noah's shoulder. As they breathe together, the golden threads in the clearing begin to pulse gently, responding to their renewed presence. The light grows warmer, softer. Both boys' expressions shift from defeat to quiet determination. A small luminous creature peeks out from behind a tree, curious about the change. The twilight feels less heavy, more hopeful. The threads sway slightly, as if waking up.
+
+[TEXT]
+"Breathe with me," Micah said quietly. "In. Out." Noah matched his cousin's rhythm. In. Hold. Out. Slowly. The tightness in his chest eased. His racing thoughts slowed. The threads overhead stirred, pulsing with their breath. "Better?" Micah asked. Noah nodded. "Yeah. We're not done yet." "No way," Micah grinned. "We're just getting started."
 
 
 [Spread 9: mi-09.yaml - FILE NOT FOUND]
 
 
---------------------------------------------------------------------------------
+================================================================================
 SPREAD 10: Climax: big action
 [MEETING NODE]
+
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+Page 23 (Left) - Facing the final challenge together
 --------------------------------------------------------------------------------
 
+[VISUAL]
+The Heart Crystal rises like a building before six children gathered in a circle at its base. The massive crystalline structure shows deep fractures, each crack glowing with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall), and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair, graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2, dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different facet of the Crystal, hesitation visible in their postures. The forest clearing pulses with dimming light.
 
-The Heart Crystal towered above them, cracks spreading like lightning across its
-surface. Golden light leaked from every fracture, stories dissolving into nothing.
-Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
-Micah steadied himself. Even little Mona reached up with both hands, determined.
+[TEXT]
+The Heart Crystal towered above them, cracks spreading like lightning across its surface. Golden light leaked from every fracture, stories dissolving into nothing. Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer. Micah steadied himself. Even little Mona reached up with both hands, determined.
 
 
-"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
-beneath their palms, humming like a struck bell. Light surged through the cracks,
-knitting them closed. "Don't let go," Max shouted over the rising sound. The
-threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
-bright. The Heart Crystal sang, whole again.
+--------------------------------------------------------------------------------
+Page 24 (Right) - Taking decisive action - the moment of convergence
+--------------------------------------------------------------------------------
+
+[VISUAL]
+All six children press their hands against the Crystal simultaneously. Each facet they touch glows brilliant gold, and streams of light spiral upward from their palms into the structure. The cracks begin to seal, golden threads weaving through them like stitches. The children's faces show fierce concentration and wonder. Light radiates from the Crystal's core, growing brighter and more stable. The whole clearing illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+[TEXT]
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm beneath their palms, humming like a struck bell. Light surged through the cracks, knitting them closed. "Don't let go," Max shouted over the rising sound. The threads poured from their courage, weaving into the Crystal. Mona laughed, pure and bright. The Heart Crystal sang, whole again.
 
 
 [Spread 11: mi-11.yaml - FILE NOT FOUND]

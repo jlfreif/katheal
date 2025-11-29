@@ -8,232 +8,356 @@ Courage Theme: Courage to Be Yourself
 
 
 
---------------------------------------------------------------------------------
+================================================================================
 SPREAD 1: Ordinary world + desire hint
---------------------------------------------------------------------------------
 
-
-Elise spun slowly in front of her mirror, arms flowing like water. She was creating
-a dance about a forest path she'd drawn earlier—each movement telling the story her
-pictures couldn't quite capture. Her feet traced patterns on the floor. She hummed
-a melody that matched her turns. This was how she thought best: through movement,
-through dance.
-
-
-She spun toward the wall and froze mid-movement. The flower in her drawing was
-glowing. Elise blinked, but the light didn't disappear. It pulsed softly, like
-a tiny heartbeat, warm and golden in a way that had nothing to do with her lamp.
-Her body swayed toward it instinctively, pulled by curiosity. She stepped closer,
-watching the impossible light breathe.
+Elise dances in front of her mirror creating choreography, then notices one of her drawings on the wall shimmer with a light that doesn't come from her lamp.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 5 (Left) - Character in their ordinary world
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise dances in front of a full-length mirror in her room, arms flowing gracefully through the air in a lyrical movement. Her long brown hair moves with her turns. She's humming to herself, creating choreography, completely absorbed. Drawings cover the wall behind her—forests, flowers, magical places. Her art supplies scatter across a desk by the window.
+
+[TEXT]
+Elise spun slowly in front of her mirror, arms flowing like water. She was creating a dance about a forest path she'd drawn earlier—each movement telling the story her pictures couldn't quite capture. Her feet traced patterns on the floor. She hummed a melody that matched her turns. This was how she thought best: through movement, through dance.
+
+
+--------------------------------------------------------------------------------
+Page 6 (Right) - First hint of something different
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise has stopped mid-movement, one arm still extended, turning to look at the wall behind her. One of her drawings—a small flower—glows with soft golden light that doesn't match the lamp. The flower pulses gently, as if breathing in rhythm with her. Her eyes widen with curiosity. Her body naturally begins to sway toward it, drawn by the light.
+
+[TEXT]
+She spun toward the wall and froze mid-movement. The flower in her drawing was glowing. Elise blinked, but the light didn't disappear. It pulsed softly, like a tiny heartbeat, warm and golden in a way that had nothing to do with her lamp. Her body swayed toward it instinctively, pulled by curiosity. She stepped closer, watching the impossible light breathe.
+
+
+================================================================================
 SPREAD 2: Inciting incident
 [MEETING NODE]
---------------------------------------------------------------------------------
 
-
-Elise danced into the grove and stopped mid-turn, breathless. Performers everywhere,
-frozen like statues. A dancer hung mid-leap, one foot pointed, arms spread—exactly
-the pose Elise had just been practicing. Musicians held silent instruments. Even
-the trees seemed to hold their breath. "What happened to you?" she whispered,
-reaching toward the dancer's outstretched hand.
-
-
-A sound made her turn. Micah stood on the other side of the frozen dancer, his
-hand extended just like hers. "Elise!" His face broke into a grin despite the
-strangeness around them. "You see it too. They're stuck." She nodded. "The magic
-is fading." Micah's expression turned serious. "Then let's fix it. Together."
+Elise and Micah discover each other in a grove where performances have frozen mid-act, both noticing that Kathaél's magic is failing and deciding to help together.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 7 (Left) - Discovery of the problem
+--------------------------------------------------------------------------------
+
+[VISUAL]
+A grove filled with magical performers frozen in mid-performance. A dancer balances on one toe, her arms extended in an impossible arc, completely motionless. Musicians hold instruments mid-note, their expressions captured in concentration. Elise (9 years old, long brown hair, graceful and slim) enters the clearing, her eyes wide with concern. She reaches tentatively toward the frozen dancer. Golden threads overhead flicker weakly, their glow fading. The whole scene has a twilight quality, as if time itself is struggling.
+
+[TEXT]
+Elise danced into the grove and stopped mid-turn, breathless. Performers everywhere, frozen like statues. A dancer hung mid-leap, one foot pointed, arms spread—exactly the pose Elise had just been practicing. Musicians held silent instruments. Even the trees seemed to hold their breath. "What happened to you?" she whispered, reaching toward the dancer's outstretched hand.
+
+
+--------------------------------------------------------------------------------
+Page 8 (Right) - Decision to act together
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Micah (9 years old, black hair, athletic half-Japanese build, constantly in motion) enters from the opposite side, also reaching toward the frozen dancer. His hand and Elise's nearly touch. Both children's faces show recognition and relief at finding someone else who sees the problem. The golden threads pulse once, weakly, as if acknowledging their combined presence. The frozen performers remain motionless, but the cousins' determination creates a subtle warmth in the air.
+
+[TEXT]
+A sound made her turn. Micah stood on the other side of the frozen dancer, his hand extended just like hers. "Elise!" His face broke into a grin despite the strangeness around them. "You see it too. They're stuck." She nodded. "The magic is fading." Micah's expression turned serious. "Then let's fix it. Together."
+
+
+================================================================================
 SPREAD 3: Attempt #1 (simple/obvious)
 [MEETING NODE]
---------------------------------------------------------------------------------
 
-
-Maya leaped high, arms stretched wide, spinning through the meadow like wind
-itself. If colors were fading, she'd dance them back to life! Her feet pounded
-the earth in rhythm, bold and decisive. The flowers barely stirred. She landed
-hard and spun again. Nothing. In the distance, someone moved through the grey
-blooms with slow, graceful turns—so different from Maya's style.
-
-
-"Elise?" Maya skidded to a stop mid-leap. Her cousin looked up from her dance,
-arms still extended in a graceful line. "Maya?!" They stared at each other for
-one breathless second. Then both burst out laughing, the sound bright and
-startled in the grey meadow. "What are YOU doing here?" they said at exactly
-the same time. The threads overhead pulsed warmer, as if recognizing their connection.
+Maya and Elise discover each other in a fading meadow, both trying to bring color back through dance. Maya's bold, energetic style and Elise's graceful, flowing style each fail alone, but they recognize each other with joy.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 9 (Left) - Trying the obvious solution
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Maya leaps high in the center of a faded meadow, arms stretched wide, hair with its pink streak flying as she spins with bold, explosive energy. Her movements are powerful and decisive. Grey flowers surround her, barely stirring. In the distance, another figure moves through the flowers with slow, graceful gestures—arms flowing like water, turning in lyrical circles.
+
+[TEXT]
+Maya leaped high, arms stretched wide, spinning through the meadow like wind itself. If colors were fading, she'd dance them back to life! Her feet pounded the earth in rhythm, bold and decisive. The flowers barely stirred. She landed hard and spun again. Nothing. In the distance, someone moved through the grey blooms with slow, graceful turns—so different from Maya's style.
+
+
+--------------------------------------------------------------------------------
+Page 10 (Right) - Realizing it doesn't work
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise stands in a graceful pose, arms extended, having just completed a flowing turn, as Maya bounds over mid-leap. Both girls freeze as recognition hits. Maya's expression shifts from determined to shocked to delighted. Elise's eyes widen with surprise and joy. Grey flowers surround them. Golden threads pulse overhead, connecting their presence.
+
+[TEXT]
+"Elise?" Maya skidded to a stop mid-leap. Her cousin looked up from her dance, arms still extended in a graceful line. "Maya?!" They stared at each other for one breathless second. Then both burst out laughing, the sound bright and startled in the grey meadow. "What are YOU doing here?" they said at exactly the same time. The threads overhead pulsed warmer, as if recognizing their connection.
+
+
+================================================================================
 SPREAD 4: Attempt #2 (ask the expert)
 [MEETING NODE]
---------------------------------------------------------------------------------
 
-
-"I've tried everything." Noah followed the threads to a crossroads beneath
-an ancient willow, hoping someone here might know what he was missing. The
-Crystal glowed through the trees, dimmer than before, more threads
-unraveling. He reached toward one, and it hummed warmly. But the path it
-suggested led deeper into unfamiliar territory.
-
-
-Noah spotted her at the same moment she spotted him. A girl moving through the
-light with graceful, flowing gestures, reaching for the threads just like he was.
-"Are you trying to help them too?" he called. She nodded, arms still extended.
-"They keep rejecting everything I try." "Same." Something warm spread through his
-chest. He wasn't alone in this. The threads between them pulsed brighter and felt
-warm, like sunshine on skin.
+Noah and Elise cross paths at a luminous crossroads where the Heart Crystal's threads converge, discovering they're both trying to help and neither has all the answers.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 11 (Left) - Seeking guidance
+--------------------------------------------------------------------------------
+
+[VISUAL]
+A crossroads beneath an ancient willow where forest paths meet. Golden threads flow through the branches, some frayed and flickering. Noah stands on the left path, notebook tucked under his arm, reaching toward a thread. In the distance, the Heart Crystal pulses weakly, more threads drifting loose.
+
+[TEXT]
+"I've tried everything." Noah followed the threads to a crossroads beneath an ancient willow, hoping someone here might know what he was missing. The Crystal glowed through the trees, dimmer than before, more threads unraveling. He reached toward one, and it hummed warmly. But the path it suggested led deeper into unfamiliar territory.
+
+
+--------------------------------------------------------------------------------
+Page 12 (Right) - Receiving direction with warning
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise moves along the right path with flowing, dance-like steps, her arms extended gracefully toward a different thread. Between the children, threads flow and intersect, creating a lattice of golden light. Both turn toward each other, curious. The willow's branches glow brighter where their paths nearly touch.
+
+[TEXT]
+Noah spotted her at the same moment she spotted him. A girl moving through the light with graceful, flowing gestures, reaching for the threads just like he was. "Are you trying to help them too?" he called. She nodded, arms still extended. "They keep rejecting everything I try." "Same." Something warm spread through his chest. He wasn't alone in this. The threads between them pulsed brighter and felt warm, like sunshine on skin.
+
+
+================================================================================
 SPREAD 5: Attempt #3 (bigger world / stakes up)
---------------------------------------------------------------------------------
 
-
-The plaza looked worse than anywhere else. Trees stood grey as pencil sketches,
-their shimmer completely gone. The ground, which should have glowed, was as
-dull as pavement. Elise clutched her watercolor set to her chest, her heart
-sinking. If her gentle approach couldn't help a single flower, how could she
-possibly restore all of this?
-
-
-"Bold!" The artist-spirit swept enormous brushes through the air, splattering
-neon colors everywhere. "Loud! That's how you fix fading!" Elise looked at
-the trees the spirit had painted: harsh orange, electric purple, colors that
-hurt to see. The watching animals had fled. Something in Elise's chest pulled
-tight. This felt wrong. Very wrong.
+Elise meets a dazzling artist-spirit who insists that bold, loud colors are the answer, but the approach feels wrong to her gentle nature.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 13 (Left) - Entering unfamiliar territory
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise stands at the edge of a circular plaza where the fading is severe. Trees that should shimmer are nearly grey, the ground dull and lifeless. Her watercolor set hangs from her wrist as she surveys the damaged landscape. Golden threads overhead are barely visible, thin as spider silk. Her posture shows quiet concern.
+
+[TEXT]
+The plaza looked worse than anywhere else. Trees stood grey as pencil sketches, their shimmer completely gone. The ground, which should have glowed, was as dull as pavement. Elise clutched her watercolor set to her chest, her heart sinking. If her gentle approach couldn't help a single flower, how could she possibly restore all of this?
+
+
+--------------------------------------------------------------------------------
+Page 14 (Right) - Encountering misleading help
+--------------------------------------------------------------------------------
+
+[VISUAL]
+A dramatic figure draped in clashing scarves of electric purple, harsh orange, and screaming pink gestures wildly with giant paint-dripping brushes. Behind the spirit, trees have been "restored" with garish, unnatural colors that clash with each other. Elise takes a small step backward, one hand raised, her expression showing polite uncertainty.
+
+[TEXT]
+"Bold!" The artist-spirit swept enormous brushes through the air, splattering neon colors everywhere. "Loud! That's how you fix fading!" Elise looked at the trees the spirit had painted: harsh orange, electric purple, colors that hurt to see. The watching animals had fled. Something in Elise's chest pulled tight. This felt wrong. Very wrong.
+
+
+================================================================================
 SPREAD 6: Midpoint: new insight / pattern
 [MEETING NODE]
---------------------------------------------------------------------------------
 
-
-Elise had tried everything. Pulling threads, painting patterns, forcing her dance
-to be bigger. Nothing worked. She stepped into the quiet glade and stopped. A tiny
-girl sat in the moss, utterly still, watching golden threads flow past her face.
-The threads seemed... calmer here. Gentler.
-
-
-Elise began to dance beside Mona, but this time differently. Slow. Meditative.
-Her arms flowed like gentle water, each turn measured and peaceful. The threads
-drifted closer, curious about their quiet presence. "Soft," Mona whispered.
-"Gentle." Elise nodded, continuing her flowing dance. The threads had been running
-from force. But here, with gentle movement and patient presence, they came willingly.
-"You're right," Elise breathed. "Gentle can be strong."
+Elise finds Mona quietly sitting and observing, and begins a slow, meditative dance beside her. Together their gentle presence reveals that threads respond to peaceful attention rather than force.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 15 (Left) - Recognizing what doesn't work
+--------------------------------------------------------------------------------
+
+[VISUAL]
+A serene glade carpeted with soft emerald moss and dotted with small luminous mushrooms. Golden threads flow through the air like gentle streams of light, weaving between ancient trees. Elise (9 years old, long brown hair, slim and graceful) steps into the clearing, catching her breath from running. She spots little Mona (2 years old, dark curly hair, bright curious eyes) sitting cross-legged on the moss, perfectly still, just watching the threads dance. The light is soft and warm, creating a peaceful atmosphere.
+
+[TEXT]
+Elise had tried everything. Pulling threads, painting patterns, forcing her dance to be bigger. Nothing worked. She stepped into the quiet glade and stopped. A tiny girl sat in the moss, utterly still, watching golden threads flow past her face. The threads seemed... calmer here. Gentler.
+
+
+--------------------------------------------------------------------------------
+Page 16 (Right) - Discovering a new pattern through gentle movement
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Mona sits cross-legged on the moss, perfectly still, watching. Beside her, Elise moves in slow, meditative dance—arms flowing like gentle water, turns measured and peaceful. The golden threads flow closer to both of them, drawn by their quiet presence. One thread hovers near Mona's palm while another weaves around Elise's gracefully extended hand. Elise's expression shows dawning realization. Soft particles of light drift through the air like gentle snow.
+
+[TEXT]
+Elise began to dance beside Mona, but this time differently. Slow. Meditative. Her arms flowed like gentle water, each turn measured and peaceful. The threads drifted closer, curious about their quiet presence. "Soft," Mona whispered. "Gentle." Elise nodded, continuing her flowing dance. The threads had been running from force. But here, with gentle movement and patient presence, they came willingly. "You're right," Elise breathed. "Gentle can be strong."
+
+
+================================================================================
 SPREAD 7: Rising stakes: almost works
 [MIRRORED NODE]
---------------------------------------------------------------------------------
 
-
-Flower by flower, Elise danced them back to life. She moved through the meadow
-with gentle turns and flowing gestures, and where her dance touched, blooms
-remembered their beauty. The lantern nearby burned steady, its flame matching
-her calm focus. She'd found the answer. This was working.
-
-
-Then Elise stopped and looked up. The meadow stretched forever. Thousands of
-grey flowers, tens of thousands, more than she could ever reach. The lantern
-flame wavered as her heart sank. Her gentle dance worked, but it was so slow.
-How could one quiet movement, one flower at a time, matter against all this grey?
+Elise's gentle dance restores flowers one by one as she moves through the meadow, but the endless scale of the fading threatens to overwhelm her.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 17 (Left) - Making progress toward goal
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise dances slowly through a meadow, moving from flower to flower with graceful, flowing gestures. As her hands pass over each bloom, it glows with restored color. Around her path, a trail of healed flowers creates an island of beauty. A lantern hangs from a crooked post nearby, its flame burning steady. Her expression shows peaceful focus. This is working.
+
+[TEXT]
+Flower by flower, Elise danced them back to life. She moved through the meadow with gentle turns and flowing gestures, and where her dance touched, blooms remembered their beauty. The lantern nearby burned steady, its flame matching her calm focus. She'd found the answer. This was working.
+
+
+--------------------------------------------------------------------------------
+Page 18 (Right) - Realizing something is missing
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise stops mid-dance and looks up from her small trail of restored flowers. The meadow stretches endlessly in every direction, thousands of grey flowers fading into the horizon. The lantern flame wavers as doubt creeps in. Her arms lower to her sides. One dance, one flower at a time, against all of this.
+
+[TEXT]
+Then Elise stopped and looked up. The meadow stretched forever. Thousands of grey flowers, tens of thousands, more than she could ever reach. The lantern flame wavered as her heart sank. Her gentle dance worked, but it was so slow. How could one quiet movement, one flower at a time, matter against all this grey?
+
+
+================================================================================
 SPREAD 8: All-is-lost / emotional low
---------------------------------------------------------------------------------
 
-
-The garden stretched forever. Thousands of flowers, all grey. Elise spun from
-bloom to bloom, dancing as fast as she could, trying to restore them all. Her
-gentle approach had worked on a few flowers, but looking at this vast emptiness,
-those few felt like nothing. So she danced harder, faster, pushing herself to
-cover more ground.
-
-
-Her legs gave out. Elise collapsed on the ground, too exhausted to move, tears
-sliding down her cheeks. She'd tried to dance through the whole garden. Tried
-to be big enough, fast enough, strong enough. But she was too small. Too gentle.
-Too slow. How could one nine-year-old who just danced quietly possibly matter
-against all this grey?
+Elise tries to dance through an enormous fading garden to restore it all at once, but exhausts herself completely and collapses, doubting her gentle approach can make any difference.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 19 (Left) - External obstacles intensify
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise dances frantically through an enormous garden stretching to the horizon, thousands of grey flowers and colorless trees everywhere. She spins from flower to flower, arms reaching, movements becoming less graceful and more desperate. Her hair flies wildly. Sweat shows on her face. The scale is overwhelming—paths wind endlessly through grey flowerbeds. The sky above is overcast and heavy.
+
+[TEXT]
+The garden stretched forever. Thousands of flowers, all grey. Elise spun from bloom to bloom, dancing as fast as she could, trying to restore them all. Her gentle approach had worked on a few flowers, but looking at this vast emptiness, those few felt like nothing. So she danced harder, faster, pushing herself to cover more ground.
+
+
+--------------------------------------------------------------------------------
+Page 20 (Right) - Inner doubt and discouragement
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise has collapsed on the ground, lying on her side among grey flowers, completely exhausted. Her arms are sprawled out, unable to move. Tears slide down her cheeks. Her dance has stopped—her body gave out. In the near foreground, one small flower retains a hint of color from her earlier touch, but she's too defeated to notice. The garden stretches endlessly behind her, untouched.
+
+[TEXT]
+Her legs gave out. Elise collapsed on the ground, too exhausted to move, tears sliding down her cheeks. She'd tried to dance through the whole garden. Tried to be big enough, fast enough, strong enough. But she was too small. Too gentle. Too slow. How could one nine-year-old who just danced quietly possibly matter against all this grey?
+
+
+================================================================================
 SPREAD 9: Deepening choice / inner shift
 [RESONANT NODE]
---------------------------------------------------------------------------------
 
-
-Through her tears, Elise saw one flower still glowing. Just one, from her
-earlier dance, holding its color against all the grey. It was tiny. It was
-almost nothing. But it was real. She pushed herself to her feet, legs still
-shaking. If one flower could matter, then the next one could too. She began
-to move again—slow, gentle, her true way.
-
-
-Golden light rippled through the air, threads she'd never seen before,
-connecting the whole meadow. Elise danced, slow and gentle, and felt warmth
-spread through her chest—like someone somewhere was choosing the same courage
-she was. Flowers near her feet began to glow as she moved past, responding to
-her dance without her even trying. She wasn't doing this alone.
+Elise notices a single restored flower still glowing, chooses to continue—and feels an unexpected warmth ripple through the meadow.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 21 (Left) - Making the choice to continue
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise sits up slowly, wiping tears from her face, and sees a single glowing flower in the grey meadow—her earlier work still holding its color. She rises to her feet, unsteady at first, then steadier. Her expression shifts from despair to something softer, more determined. One flower mattered.
+
+[TEXT]
+Through her tears, Elise saw one flower still glowing. Just one, from her earlier dance, holding its color against all the grey. It was tiny. It was almost nothing. But it was real. She pushed herself to her feet, legs still shaking. If one flower could matter, then the next one could too. She began to move again—slow, gentle, her true way.
+
+
+--------------------------------------------------------------------------------
+Page 22 (Right) - Feeling the connection
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Golden threads shimmer into visibility across the meadow, pulsing with warm light. Elise dances slowly, gracefully, arms flowing through the air. Wonder lights her face as she feels something like encouragement wash over her. Near her feet, flowers begin to restore their color as she moves past, responding to her renewed dance. The grey seems less heavy.
+
+[TEXT]
+Golden light rippled through the air, threads she'd never seen before, connecting the whole meadow. Elise danced, slow and gentle, and felt warmth spread through her chest—like someone somewhere was choosing the same courage she was. Flowers near her feet began to glow as she moved past, responding to her dance without her even trying. She wasn't doing this alone.
+
+
+================================================================================
 SPREAD 10: Climax: big action
 [MEETING NODE]
---------------------------------------------------------------------------------
 
-
-The Heart Crystal towered above them, cracks spreading like lightning across its
-surface. Golden light leaked from every fracture, stories dissolving into nothing.
-Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer.
-Micah steadied himself. Even little Mona reached up with both hands, determined.
-
-
-"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm
-beneath their palms, humming like a struck bell. Light surged through the cracks,
-knitting them closed. "Don't let go," Max shouted over the rising sound. The
-threads poured from their courage, weaving into the Crystal. Mona laughed, pure and
-bright. The Heart Crystal sang, whole again.
+All six children converge at the Heart Crystal's base as it fractures and dims, each bringing their unique courage to mend the realm's core together.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 23 (Left) - Facing the final challenge together
+--------------------------------------------------------------------------------
+
+[VISUAL]
+The Heart Crystal rises like a building before six children gathered in a circle at its base. The massive crystalline structure shows deep fractures, each crack glowing with escaping golden light. Noah (12, sandy blond hair), Max (12, red hair, tall), and Micah (9, black hair, athletic) stand on one side. Elise (9, long brown hair, graceful), Maya (9, sandy-blond with pink streak, bold stance), and little Mona (2, dark curly hair, bright-eyed) stand on the other. Each child reaches toward a different facet of the Crystal, hesitation visible in their postures. The forest clearing pulses with dimming light.
+
+[TEXT]
+The Heart Crystal towered above them, cracks spreading like lightning across its surface. Golden light leaked from every fracture, stories dissolving into nothing. Noah glanced at the others. Max nodded. Maya took a breath. Elise stepped closer. Micah steadied himself. Even little Mona reached up with both hands, determined.
+
+
+--------------------------------------------------------------------------------
+Page 24 (Right) - Taking decisive action - the moment of convergence
+--------------------------------------------------------------------------------
+
+[VISUAL]
+All six children press their hands against the Crystal simultaneously. Each facet they touch glows brilliant gold, and streams of light spiral upward from their palms into the structure. The cracks begin to seal, golden threads weaving through them like stitches. The children's faces show fierce concentration and wonder. Light radiates from the Crystal's core, growing brighter and more stable. The whole clearing illuminates with warm, pulsing radiance as the Crystal hums with restored power.
+
+[TEXT]
+"Now," Noah called. Six hands touched six facets at once. The Crystal blazed warm beneath their palms, humming like a struck bell. Light surged through the cracks, knitting them closed. "Don't let go," Max shouted over the rising sound. The threads poured from their courage, weaving into the Crystal. Mona laughed, pure and bright. The Heart Crystal sang, whole again.
+
+
+================================================================================
 SPREAD 11: Resolution (external)
---------------------------------------------------------------------------------
 
-
-Color spread through Kathaél like watercolor on wet paper, gentle and alive.
-The threads glowed with soft hues: lavender, rose, sage, sky blue. Elise
-watched her small light become something vast and beautiful. Then warmth
-gathered in her palms, forming into a paintbrush of starlight. A gift. Proof
-that noticing mattered.
-
-
-Elise tucked the paintbrush into her pocket, where it hummed with soft warmth.
-The path home was lined with flowers that hadn't been there before, blooming
-in colors she had helped remember. A rabbit hopped beside her for a few steps.
-A deer bowed its head as she passed. Even leaving, she felt like she belonged.
+Elise releases her light into the Heart Crystal, and colors bloom across Kathaél in gentle, natural waves. She receives a token of her gift.
+================================================================================
 
 
 --------------------------------------------------------------------------------
+Page 25 (Left) - Goal achieved, external reward
+--------------------------------------------------------------------------------
+
+[VISUAL]
+The Heart Crystal's threads glow warmly, flowing through its facets with soft watercolor washes of lavender, rose, sage, and amber. Elise stands with both hands raised to chest height, and resting across her palms is a small, perfect paintbrush made of light and golden thread. Her expression shows quiet wonder and shy joy. Flowers bloom in soft hues around her.
+
+[TEXT]
+Color spread through Kathaél like watercolor on wet paper, gentle and alive. The threads glowed with soft hues: lavender, rose, sage, sky blue. Elise watched her small light become something vast and beautiful. Then warmth gathered in her palms, forming into a paintbrush of starlight. A gift. Proof that noticing mattered.
+
+
+--------------------------------------------------------------------------------
+Page 26 (Right) - Beginning the return
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise walks along a path lined with flowers in full, gentle color. The starlight paintbrush is tucked carefully into her pocket. Creatures of Kathaél watch her go: a rabbit hopping in a small circle, birds singing softly, a deer bowing its head. In the distance, her ordinary world glows warmly between the trees.
+
+[TEXT]
+Elise tucked the paintbrush into her pocket, where it hummed with soft warmth. The path home was lined with flowers that hadn't been there before, blooming in colors she had helped remember. A rabbit hopped beside her for a few steps. A deer bowed its head as she passed. Even leaving, she felt like she belonged.
+
+
+================================================================================
 SPREAD 12: Resolution (emotional) + series button
+
+Elise returns to her room and her drawing, but now she sees the light in everything she creates—knowing her gentle attention matters.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+Page 27 (Left) - Returning to ordinary world
 --------------------------------------------------------------------------------
 
+[VISUAL]
+Elise's room looks exactly the same as the opening: drawings on the wall, art supplies on her desk, mirror reflecting the afternoon light. But Elise herself is different. She stands in front of her mirror again, beginning a slow dance, but this time her movements carry a new confidence. The starlight paintbrush glows softly in her pocket. Her expression is peaceful, centered, sure.
 
-Elise's room looked exactly the same: drawings on the wall, art supplies
-scattered in their familiar mess, mirror reflecting the afternoon light.
-But when she stood in front of the mirror and began to dance, something was
-different. She moved with the same gentle grace, but now she knew—truly
-knew—that her quiet way mattered.
+[TEXT]
+Elise's room looked exactly the same: drawings on the wall, art supplies scattered in their familiar mess, mirror reflecting the afternoon light. But when she stood in front of the mirror and began to dance, something was different. She moved with the same gentle grace, but now she knew—truly knew—that her quiet way mattered.
 
 
-She spun slowly, arms flowing like water, and watched herself in the mirror.
-The same girl. The same gentle movements. But now she understood that flowing
-could be as powerful as forcing, that quiet could change the world. Her dance
-was exactly enough. Outside her window, an ordinary butterfly sat on the sill,
-its wings catching light. Elise smiled and kept dancing.
+--------------------------------------------------------------------------------
+Page 28 (Right) - Transformed by the journey
+--------------------------------------------------------------------------------
+
+[VISUAL]
+Elise dances in front of her mirror with flowing, graceful movements, arms extended in a lyrical gesture. As she moves, faint golden light trails from her fingertips, dancing with her. The drawings on the wall behind her show a subtle glow. Outside the window, a butterfly with faintly luminescent wings watches. Her reflection shows both who she was and who she's become—the same, but more fully herself.
+
+[TEXT]
+She spun slowly, arms flowing like water, and watched herself in the mirror. The same girl. The same gentle movements. But now she understood that flowing could be as powerful as forcing, that quiet could change the world. Her dance was exactly enough. Outside her window, an ordinary butterfly sat on the sill, its wings catching light. Elise smiled and kept dancing.
