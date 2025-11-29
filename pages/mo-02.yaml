@@ -1,0 +1,56 @@
+# Mona - Spread 2: Inciting Incident
+# Emotional beat: WONDER → DETERMINATION
+# Stakes revealed: Colors are fading; things are losing their joy
+# World rule introduced: Trying new things brings back brightness
+
+id: mo-02
+spread: 2
+node_type: solo
+beat: Inciting incident
+
+hook: The path forward runs out or becomes unclear, raising uncertainty.
+payoff: The wider world opens up with multiple options and first plan emerges.
+
+description: Mona follows the glowing block through a doorway of light into Kathaél, discovers toys and flowers losing their colors, and meets a sad butterfly that can't remember how to fly.
+
+scenes:
+  - page: left
+    page_number: 7
+    focus: Discovery of the problem
+
+    visual: |
+      Mona toddles through a shimmering doorway made of golden light, still
+      clutching the glowing block. She emerges into a magical meadow where
+      everything looks slightly faded—flowers that should be bright pink are
+      pale, toys scattered on the grass have dull colors. She walks forward
+      with her characteristic confident waddle, looking around with wide,
+      curious eyes. The glowing block pulses brighter against the faded world.
+
+    text: |
+      The block tugged at Mona's hand, pulling her forward. One wobbly step,
+      then another, and whoosh! Everything changed. Mona stood in a big meadow
+      full of flowers and toys, but something was wrong. The flowers looked
+      tired. A doll's dress used to be red—Mona could tell—but now it was
+      almost gray. She frowned. That wasn't right. Things should be bright
+      and happy!
+
+  - page: right
+    page_number: 8
+    focus: Decision to act
+
+    visual: |
+      Mona crouches down to eye level with a beautiful butterfly whose wings
+      are fading from vibrant blue to pale gray. The butterfly sits on a wilted
+      flower, wings drooping. Mona's hand reaches out gently, her expression
+      serious and empathetic despite her young age. Her glowing block sits beside
+      her on the grass, pulsing softly. In the background, more faded toys and
+      flowers stretch into the distance toward a dimly glowing crystal structure.
+
+    text: |
+      A butterfly landed on Mona's knee. Its wings were see-through and sad,
+      like they forgot how to be blue. "Can't fly," it whispered in a voice
+      like wind chimes. "Too scared. Forgot how." Mona's little face got very
+      serious. She knew that feeling—when something new seemed too big and
+      scary. But Mona also knew a secret: trying was how you learned! She
+      picked up her glowing block and held it out to the butterfly. "Try with
+      me?" The butterfly's wings flickered, just a little bit brighter.

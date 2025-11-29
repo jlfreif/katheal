@@ -1,0 +1,58 @@
+# Mona - Spread 8: Dark Moment
+# Emotional beat: DESPAIR → REALIZATION → HOPE
+# Lowest point: Ready to give up and go home
+# Turning point: Remembers that trying doesn't mean doing it alone
+# Connection to courage theme: Courage to try also means courage to ask for help
+
+id: mo-08
+spread: 8
+node_type: solo
+beat: "Dark night of the soul"
+
+hook: Emotional low point where the character questions themselves or their purpose.
+payoff: Insight or memory reignites hope and provides new approach to the challenge.
+
+description: Mona almost gives up and wants to go home, but the creatures she's already helped gather around to remind her that her trying gave them courage too, and trying together might be the answer.
+
+scenes:
+  - page: left
+    page_number: 19
+    focus: The emotional low point
+
+    visual: |
+      Mona stands facing away from the cliff, her glowing block nearly dark
+      now, held loosely in one hand. She's turned back toward the direction
+      of home, tears on her cheeks. The world around her is the most faded
+      we've seen it—almost monochrome, with just hints of color remaining.
+      Even the sky looks gray. Her posture shows defeat, shoulders hunched,
+      head down. The cliff looms behind her, impossible and uncaring.
+
+    text: |
+      Mona turned away from the cliff. Her block was almost dark now, barely
+      glowing at all. Everything looked gray and sad and tired. She wanted to
+      go home. Home to Mama and her regular blocks and her soft mat at Gymboree
+      where the towers were just the right size for little hands. She'd tried
+      so hard. She'd been so brave. But brave wasn't enough when you were this
+      small. "Want to go home," she whispered, bottom lip trembling.
+
+  - page: right
+    page_number: 20
+    focus: The spark of hope returns
+
+    visual: |
+      The creatures Mona has helped throughout her journey gather around her—
+      the blue butterfly, the spotted bunny, the wise turtle, even the flower-
+      bells seem to lean toward her. They form a circle of support around the
+      small girl. The butterfly lands on her shoulder. The bunny nuzzles her
+      hand. The turtle meets her eyes with ancient wisdom. Mona looks up,
+      surprised, as their presence makes the glowing block pulse slightly
+      brighter in her hand.
+
+    text: |
+      Soft wings brushed Mona's cheek. The butterfly landed on her shoulder,
+      blue and bright. "You helped me try," it said. The spotted bunny hopped
+      over, nuzzling her hand. The turtle smiled his slow smile. "You taught
+      us courage, little one," he rumbled. "Trying isn't just for one. Sometimes
+      trying means trying together." Mona's eyes widened. Together? Her block
+      pulsed a little brighter. She'd never thought about that. Maybe... maybe
+      she didn't have to climb alone?

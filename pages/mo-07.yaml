@@ -1,0 +1,58 @@
+# Mona - Spread 7: Major Setback
+# Emotional beat: EXHAUSTION → DOUBT → FEAR
+# After meeting Elise: Learned about patience and gentleness
+# Crisis: Trying new things hasn't been enough; Mona feels too small and too tired
+# Connection to courage theme: What if trying isn't working anymore?
+
+id: mo-07
+spread: 7
+node_type: solo
+beat: "Crisis/Major setback"
+
+hook: Loss or failure with consequences that make the goal seem impossible now.
+payoff: Character at lowest point, forced to let go of previous approach/belief.
+
+description: Mona reaches a cliff that's too high to climb, her glowing block flickers and dims, and for the first time she feels like maybe she's too little to help.
+
+scenes:
+  - page: left
+    page_number: 17
+    focus: The setback hits hard
+
+    visual: |
+      Mona stands at the base of a steep cliff, looking up at a glowing path
+      that spirals upward far above her head. The cliff is made of smooth,
+      colorful stones but they're spaced too far apart for her to reach. Her
+      glowing block, which has been bright throughout her journey, now flickers
+      weakly in her hand. She looks very small against the massive cliff face.
+      The sky above is starting to dim. Faded creatures gather behind her,
+      watching hopefully, but Mona's shoulders slump.
+
+    text: |
+      The path went up. Way, way up. Mona tilted her head back until her neck
+      hurt, but she still couldn't see the top. Big kids could climb this.
+      Grown-ups could climb this. But Mona? Her legs were so short. Her arms
+      were so little. She tried to reach the first handhold, stretching on
+      her tiptoes, but her fingers didn't even come close. The glowing block
+      in her hand flickered. Dimmed. It was getting tired too.
+
+  - page: right
+    page_number: 18
+    focus: Moment of deepest doubt
+
+    visual: |
+      Mona sits down on the ground, the flickering block cradled in her lap.
+      For the first time in her journey, she looks small and defeated. Her
+      head is down, curly hair hiding her face. Around her, the world continues
+      to fade—flowers wilting, colors draining, even the butterfly from earlier
+      losing some of its blue. A tear rolls down Mona's cheek. The turtle from
+      the garden approaches slowly. The light in Kathaél grows dimmer.
+
+    text: |
+      Mona sat down hard, her block flickering in her lap like a tiny heartbeat
+      getting slower. She'd tried so many new things. She'd jumped the big jumps.
+      She'd helped the butterfly. She'd painted with Maya and sat gentle with
+      Elise. But this cliff was too much for someone so small. A tear rolled
+      down her cheek. "Too little," she whispered. "I'm just too little." Maybe
+      trying wasn't always enough. Maybe sometimes you could be too small to help,
+      no matter how brave you were.
