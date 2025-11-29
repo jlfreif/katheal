@@ -1,0 +1,51 @@
+# Micah - Spread 6: Midpoint Discovery
+# Emotional beat: PRACTICE → INSIGHT
+# Escalation: Understanding that breathing transforms overwhelming moments
+# World rule hint: Pause creates power
+
+id: mi-06
+spread: 6
+node_type: solo
+beat: "Midpoint: new insight / pattern"
+
+hook: A pattern or clue emerges, suggesting a new direction based on observation.
+payoff: New approach is tried based on the insight from previous spread.
+
+description: Micah faces an overwhelming cascade of falling threads and realizes that taking a deliberate breath in the chaos allows him to see clearly and act effectively instead of reacting frantically.
+
+scenes:
+  - page: left
+    page_number: 15
+    focus: Facing an overwhelming moment
+
+    visual: |
+      Dozens of golden threads suddenly cascade down around Micah like falling stars, creating
+      chaos in the air. His body tenses instinctively, muscles coiling to jump, run, react—
+      his usual response to chaos. But his eyes are wide, recognizing this is too much for
+      frantic action. The threads swirl in confusing patterns, some dimming rapidly. His
+      fists clench. The overwhelm is visible in his posture.
+
+    text: |
+      Threads rained down like falling stars—too many, too fast. Micah's body coiled to
+      react, to run, to catch them all at once. His heart hammered. His muscles screamed
+      "Move! Now!" The chaos swirled around him, and he felt that familiar panic rising:
+      everything happening at once, too much to handle, no time to think.
+
+  - page: right
+    page_number: 16
+    focus: Discovering the power of pause
+
+    visual: |
+      Micah stands in the center of the falling threads with eyes closed, one hand on his
+      chest, taking a deep, visible breath. Everything around him seems to slow slightly—
+      the threads' fall becomes more graceful, less chaotic. His face is calm, concentrated.
+      As he breathes out slowly, several threads near him stabilize mid-air, beginning to
+      glow brighter. The moth from before circles him approvingly.
+
+    text: |
+      Then—almost without thinking—Micah closed his eyes and breathed. One deep breath in.
+      The chaos didn't stop, but something inside him settled. He breathed out slowly, and
+      when he opened his eyes, the falling threads looked different: not random, but patterned.
+      His breath created space between the panic and the action. "Whoa," he whispered. In
+      that pause, he could see what to do. Three threads stabilized in his calm presence.
+      The breath wasn't stopping him from moving—it was helping him move better.

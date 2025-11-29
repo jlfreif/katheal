@@ -1,0 +1,52 @@
+# Micah - Spread 7: Rising Stakes
+# Emotional beat: PROGRESS → DOUBT
+# Escalation: Success is visible but the scale is overwhelming
+# World rule hint: Individual action works but may not be enough alone
+
+id: mi-07
+spread: 7
+node_type: solo
+beat: "Rising stakes: almost works"
+
+hook: Success is close but incomplete, with a detail revealing what's still needed.
+payoff: What's missing is revealed to be distant or difficult to reach.
+
+description: Micah successfully weaves threads together using breath-paced movement, restoring small sections of the magical network, but realizes the Heart Crystal's damage spans far beyond what he can reach alone.
+
+scenes:
+  - page: left
+    page_number: 17
+    focus: Making real progress
+
+    visual: |
+      Micah moves through a series of slow, flowing parkour movements—stepping onto a stone,
+      balancing on a beam, vaulting gently over a log—each motion perfectly timed to his
+      breathing. Golden threads weave themselves together in his wake, creating a restored
+      section of the magical network that glows steadily. His face shows focused determination
+      and pride. This technique is working.
+
+    text: |
+      Breathe in, step up. Breathe out, reach forward. Micah moved through his sequence,
+      and the threads responded beautifully, weaving themselves together wherever his
+      breath-paced movements led. Behind him, a whole section of the network glowed stable
+      and bright. He grinned without breaking his rhythm. "Yes! It's working!" One breath,
+      one movement, one thread at a time.
+
+  - page: right
+    page_number: 18
+    focus: Realizing the overwhelming scale
+
+    visual: |
+      Micah pauses mid-movement and looks toward the horizon. The Heart Crystal rises in
+      the distance, still fractured with countless cracks spreading outward like a shattered
+      windshield. Thousands of threads hang loose and flickering across the entire forest,
+      far more than his small restored section. His confident expression falters. His
+      shoulders sag slightly as the enormity hits him.
+
+    text: |
+      Micah paused to catch his breath and looked up. The Heart Crystal towered in the
+      distance, cracks spreading across its surface like lightning. Thousands of threads—
+      tens of thousands—hung loose across the whole forest. His restored section was just
+      a tiny patch of light in an ocean of failing magic. "How can I..." His voice trailed
+      off. The breath caught in his chest, but this time not from focus—from doubt. One
+      person, one breath at a time, against all that?
