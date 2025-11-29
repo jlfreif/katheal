@@ -125,6 +125,14 @@ def load_character_descriptions(character_codes):
 
 def create_enhanced_prompt(scene_data, visual_style, character_descriptions, char_ref_images, style_ref_images):
     """Create an enhanced prompt including visual style, character descriptions, and reference image info."""
+    # DEBUG: Log what we're receiving
+    st.write("🔍 DEBUG (create_enhanced_prompt): Function called")
+    visual_preview = scene_data.get("visual", "")[:80] + "..." if len(scene_data.get("visual", "")) > 80 else scene_data.get("visual", "")
+    text_preview = scene_data.get("text", "")[:80] + "..." if len(scene_data.get("text", "")) > 80 else scene_data.get("text", "")
+    st.write(f"   - scene_data visual: {visual_preview}")
+    st.write(f"   - scene_data text: {text_preview}")
+    st.write(f"   - character_descriptions keys: {list(character_descriptions.keys()) if character_descriptions else 'None'}")
+
     prompt_parts = []
 
     # Meta instructions
@@ -171,6 +179,7 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
 
     # Image description section
     visual = scene_data.get("visual", "").strip()
+    st.write(f"🔍 DEBUG: Extracted visual from scene_data (length: {len(visual)})")
     if visual:
         prompt_parts.append("--- SCENE TO ILLUSTRATE ---")
         prompt_parts.append(f"{visual}")
@@ -178,11 +187,15 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
 
     # Image text section
     text = scene_data.get("text", "").strip()
+    st.write(f"🔍 DEBUG: Extracted text from scene_data (length: {len(text)})")
     if text:
         prompt_parts.append("--- TEXT TO INCLUDE IN IMAGE ---")
         prompt_parts.append(f"{text}")
 
-    return "\n".join(prompt_parts)
+    final_prompt = "\n".join(prompt_parts)
+    st.write(f"🔍 DEBUG: Final prompt length: {len(final_prompt)} characters")
+
+    return final_prompt
 
 
 @st.cache_data(show_spinner=False)
@@ -337,6 +350,10 @@ else:
             char_ref_images,
             style_refs
         )
+
+        # DEBUG: Check what prompt was created
+        prompt_scene_section = prompt[prompt.find("--- SCENE TO ILLUSTRATE ---"):prompt.find("--- SCENE TO ILLUSTRATE ---")+150] if "--- SCENE TO ILLUSTRATE ---" in prompt else "NOT FOUND"
+        st.write(f"🔍 DEBUG: Prompt SCENE section preview: {prompt_scene_section}")
 
         st.text_area(
             "Prompt for image generation:", value=prompt, height=400, key="prompt"
