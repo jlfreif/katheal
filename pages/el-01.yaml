@@ -1,48 +1,46 @@
-# Elise - Spread 1: Opening
+# Elise - Spread 1: Ordinary World
 
 id: el-01
 spread: 1
 node_type: solo
-beat: Ordinary world + desire hint
-
+beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Elise dances in front of her mirror creating choreography, then notices one of her drawings on the wall shimmer with a light that doesn't come from her lamp.
+description: Elise practices her dance routine in her room, expressing herself through movement, when something magical appears.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
-
     visual: |
-      Elise dances in front of a full-length mirror in her room, arms flowing gracefully
-      through the air in a lyrical movement. Her long brown hair moves with her turns.
-      She's humming to herself, creating choreography, completely absorbed. Drawings
-      cover the wall behind her—forests, flowers, magical places. Her art supplies
-      scatter across a desk by the window.
-
+      Elise's bedroom with a large mirror against one wall, afternoon sunlight streaming through
+      the window creating patterns on the wooden floor. Elise (9 years old, long brown hair in
+      a ponytail, slim build, wearing black leggings and her provence t-shirt) stands before
+      the mirror practicing a dance routine. Her arms extend gracefully, one leg raised, body
+      moving fluidly through the choreography. Stuffed animals sit on her bed watching. Dance
+      posters cover the walls. Her expression shows focus and joy, completely absorbed in the
+      movement. She hums a melody that matches her steps. The room feels safe and familiar.
     text: |
-      Elise spun slowly in front of her mirror, arms flowing like water. She was creating
-      a dance about a forest path she'd drawn earlier—each movement telling the story her
-      pictures couldn't quite capture. Her feet traced patterns on the floor. She hummed
-      a melody that matched her turns. This was how she thought best: through movement,
-      through dance.
+      Elise spun across her bedroom floor, arms flowing like water, humming a melody only she
+      could hear. The mirror showed her reflection moving through the routine—extend, turn, leap,
+      land. Dancing was how she thought, how she felt, how she made sense of everything. Each
+      movement told a story only her body knew how to speak.
 
   - page: right
     page_number: 6
     focus: First hint of something different
-
     visual: |
-      Elise has stopped mid-movement, one arm still extended, turning to look at the
-      wall behind her. One of her drawings—a small flower—glows with soft golden light
-      that doesn't match the lamp. The flower pulses gently, as if breathing in rhythm
-      with her. Her eyes widen with curiosity. Her body naturally begins to sway toward
-      it, drawn by the light.
-
+      Elise mid-spin when she notices something in the mirror that isn't her reflection. Behind
+      her reflected image, a shimmer of golden light ripples across the glass like water. She
+      freezes in position, one arm still extended, staring at the mirror with wide eyes. The
+      golden shimmer forms threads that seem to move in time with her humming, pulsing gently.
+      Her room looks normal, but in the mirror, the golden threads weave through her reflection,
+      creating patterns in the air. Her expression shifts from focus to wonder. The atmosphere
+      crackles with possibility.
     text: |
-      She spun toward the wall and froze mid-movement. The flower in her drawing was
-      glowing. Elise blinked, but the light didn't disappear. It pulsed softly, like
-      a tiny heartbeat, warm and golden in a way that had nothing to do with her lamp.
-      Her body swayed toward it instinctively, pulled by curiosity. She stepped closer,
-      watching the impossible light breathe.
+      She froze mid-turn. In the mirror, golden threads appeared where none should be, weaving
+      through the air behind her reflection. They pulsed in rhythm with her humming, dancing
+      to the same melody. Elise turned to look behind her. Nothing. But when she faced the
+      mirror again, the threads danced on, beckoning her to follow them somewhere her ordinary
+      room couldn't contain.

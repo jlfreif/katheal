@@ -1,53 +1,46 @@
-# Micah - Spread 12: Resolution (Emotional)
-# Emotional beat: INTEGRATION → GROWTH
-# Connection to Spread 1: Same activity, transformed approach
-# Theme crystallized: Courage to take a breath means finding power in pause
-# Callbacks: Constant motion → Now motion with mindful breath
+# Micah - Spread 12: Emotional Resolution
 
 id: mi-12
 spread: 12
 node_type: solo
 beat: "Resolution (emotional) + series button"
-
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Micah returns to practicing parkour in his backyard but now moves with deliberate breathing, finding greater control and joy in the rhythm of breath and motion.
+description: Micah returns to his room transformed, practicing parkour with powerful pauses.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
-
     visual: |
-      Micah's backyard looks the same: wooden obstacles, balance beams, rope swing, trombone
-      case on the porch. Micah stands at the starting position for his parkour run, same as
-      the opening. But his posture is different—centered, grounded, one hand resting briefly
-      on the golden compass around his neck. He takes a visible breath before beginning. The
-      afternoon light is warm and golden.
-
+      Micah's room, the same obstacle course setup as the opening. Micah stands in the center,
+      the wind chime from Kathaél hanging on his bedpost, glowing softly. He looks at his parkour
+      course with new understanding—the same furniture, but he approaches it differently now.
+      His expression shows peaceful energy. The atmosphere is familiar but transformed by wisdom
+      gained.
     text: |
-      Micah's backyard looked the same: wooden rails, balance beams, his trombone waiting
-      on the porch. "Faster," he'd told himself before. Now he stood at the start of his
-      run and smiled at the memory. The compass around his neck pulsed gently, warm against
-      his chest. He touched it once, then took a deep breath. Not to stop moving. To move
-      better.
+      Micah stood in his room, same obstacle course as before Kathaél. But he wasn't the same.
+      The wind chime hung on his bedpost, glowing gentle reminder. He looked at his parkour
+      setup—chair backs, pillows, bedframe—all the same. But now he knew. Motion was powerful.
+      But pause made it more powerful. He took a breath, feeling center settle into his bones.
+      Then he was ready to move.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
-
     visual: |
-      Micah flows through his parkour sequence in a beautiful rhythm—vault over the rail
-      perfectly timed to his exhale, land and roll on the inhale, rise again with breath.
-      His movement is just as athletic but more controlled, more graceful. The golden compass
-      glows softly at his chest. At the edge of the yard, a golden thread shimmers in the
-      air, and the moth from Kathaél watches with approval. His expression shows pure joy.
-
+      Micah moves through his parkour course with breathtaking grace and power—vaulting over the
+      chair (preceded by centered breath), landing on the pillow (with controlled pause), climbing
+      the bedpost (from gathered stillness). Each movement is more powerful than his frantic
+      earlier attempts because it comes from centered pause. The wind chime rings with his breathing.
+      Golden threads appear faintly in his ordinary room, Kathaél's magic woven through every
+      intentional breath. His expression shows joyful powerful energy. The scene feels triumphant—
+      magic lived through balance of motion and stillness.
     text: |
-      Breathe in, run. Breathe out, vault. Micah moved through his sequence, and it felt
-      like flying. The same obstacles, the same movements, but now they flowed together—
-      motion and breath as one rhythm. When chaos came, he'd know what to do. Pause. Breathe.
-      See clearly. Then move with purpose. The compass pulsed in time with his heartbeat.
-      Courage wasn't constant motion. It was knowing when to pause, when to breathe, when
-      to jump. And right now, it was time to jump.
+      Micah breathed, then vaulted. Paused, then climbed. Centered, then leaped. Each movement
+      blazed with power because it came from stillness. The wind chime rang in rhythm with his
+      breathing. Golden threads appeared in the air, responding to his centered motion. Kathaél's
+      magic lived in every pause, every breath, every moment he chose stillness before movement.
+      This was his courage: taking a breath when overwhelmed, finding center in chaos. Pause
+      wasn't weakness. It was power gathering itself to act.

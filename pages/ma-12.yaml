@@ -1,51 +1,47 @@
-# Maya's page - Spread 12
-# Resolution (emotional) + series button
-# Maya returns home transformed, painting with new confidence in her authentic self
+# Maya - Spread 12: Emotional Resolution
 
 id: ma-12
 spread: 12
 node_type: solo
 beat: "Resolution (emotional) + series button"
-
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Maya returns to her Madrid bedroom and her painting, but now she creates with full confidence in her authentic style.
+description: Maya returns to her room transformed, painting with fearless authenticity.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
-
     visual: |
-      Maya sits cross-legged on her bedroom floor in the same position as
-      the opening, surrounded by paint supplies. But now the magical paint
-      pot from Kathaél sits among her ordinary paints, glowing softly. Her
-      pink-streaked hair catches light the same way, but her posture radiates
-      confidence. The music plays. She's painting with bold joyful energy.
-
+      Maya's room in Madrid, the same space as the opening. Her easel holds the painting she
+      was working on before Kathaél. Maya stands before it with the crystal paint pot in hand,
+      looking at her previous work with new eyes. The room looks the same but she sees it
+      differently. Her expression shows confident self-knowledge. The atmosphere is familiar but
+      transformed by complete self-acceptance.
     text: |
-      Maya's bedroom looked the same: afternoon light, paint everywhere, music
-      playing softly. But she didn't feel the same. She picked up her brush
-      and opened the magical paint pot. The colors inside shifted and glowed,
-      responding to her boldness. "Okay," she said to her blank paper. "Let's
-      make something wild and true."
+      Maya stood in her room, looking at the painting she'd been working on before Kathaél. Bold,
+      yes. But she'd still been holding back a little, afraid her real colors might be too much.
+      The crystal paint pot pulsed at her belt. She wasn't afraid anymore. Being too much wasn't
+      possible when you were being yourself. She picked up her brush, ready to paint with fearless
+      authenticity.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
-
     visual: |
-      Maya paints with fierce joy—bold strokes, mixed colors, energy flying
-      off the page. The painting shows dancers in her own style: wild, authentic,
-      uniquely Maya. Parts of it glow with golden light. Her other paintings
-      on the walls seem brighter. Through the window, a golden thread shimmers.
-      The colorful butterfly from Kathaél rests on the windowsill, watching.
-
+      Maya paints with complete freedom and joy, adding wild, unexpected colors to her canvas—
+      shades that shouldn't work together but do, patterns that seem chaotic but create perfect
+      harmony. The crystal paint pot glows brilliantly. On the canvas, faint golden threads appear
+      in the paint, Kathaél's magic woven through her art. The pink streak in her hair blazes
+      bright. She laughs as she paints, dancing while she works, adding purple polka dots just
+      because she wants to. Small sparkles of color drift through her room. Her whole being
+      radiates bold authenticity. The scene feels triumphant—magic lived through complete self-
+      expression.
     text: |
-      Maya painted like herself—big bold strokes, colors that clashed and sang,
-      energy that couldn't be contained. Not perfect. Not proper. Just true.
-      Parts of her painting glowed with golden light, the same light she'd
-      brought to Kathaél. Outside her window, a golden thread danced in Madrid
-      sunlight. The butterfly from the meadow sat on her sill, wings brilliant.
-      Maya grinned. "Being yourself," she said, "is the best adventure."
+      Maya painted without fear, mixing colors her art teacher would hate, adding patterns that
+      broke every rule, being completely, wildly, boldly herself. The crystal paint pot glowed.
+      Golden threads wove through her work. Kathaél's magic lived in every authentic choice, every
+      moment she chose to be fully herself without apology. She grinned, adding a bright orange
+      swirl just because it made her happy. This was her courage. This was her magic. Being
+      exactly who she was, loud and bright and unafraid.

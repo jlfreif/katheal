@@ -4,44 +4,43 @@ id: el-05
 spread: 5
 node_type: solo
 beat: "Attempt #3 (bigger world / stakes up)"
-
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Elise meets a dazzling artist-spirit who insists that bold, loud colors are the answer, but the approach feels wrong to her gentle nature.
+description: Elise ventures deeper into Kathaél and meets a silver fox offering shortcuts that seem too good to be true.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
-
     visual: |
-      Elise stands at the edge of a circular plaza where the fading is severe. Trees
-      that should shimmer are nearly grey, the ground dull and lifeless. Her watercolor
-      set hangs from her wrist as she surveys the damaged landscape. Golden threads
-      overhead are barely visible, thin as spider silk. Her posture shows quiet concern.
-
+      A dense part of the forest where trees grow twisted and strange, their trunks spiraling
+      upward, branches creating a canopy that blocks most light. The path beneath Elise's feet
+      shifts subtly, stones rearranging themselves. She walks carefully, hands out for balance,
+      eyes wide as she takes in the strangeness. Glowing mushrooms dot the shadows. Whispers
+      seem to come from the trees themselves. A silver fox sits on a moss-covered boulder ahead,
+      watching her with intelligent, gleaming eyes. Its fur shimmers like mercury. The atmosphere
+      feels both beautiful and untrustworthy. Elise's posture shows caution mixed with curiosity.
     text: |
-      The plaza looked worse than anywhere else. Trees stood grey as pencil sketches,
-      their shimmer completely gone. The ground, which should have glowed, was as
-      dull as pavement. Elise clutched her watercolor set to her chest, her heart
-      sinking. If her gentle approach couldn't help a single flower, how could she
-      possibly restore all of this?
+      The deeper forest felt different. Trees twisted in ways that made no sense, paths shifted
+      when she wasn't looking, and whispers drifted through leaves that shouldn't be able to speak.
+      Elise moved carefully, each step uncertain. A silver fox appeared on a boulder, its eyes
+      too knowing, its smile too wide. "Lost?" it asked smoothly. "I know all the shortcuts."
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
-
     visual: |
-      A dramatic figure draped in clashing scarves of electric purple, harsh orange,
-      and screaming pink gestures wildly with giant paint-dripping brushes. Behind
-      the spirit, trees have been "restored" with garish, unnatural colors that clash
-      with each other. Elise takes a small step backward, one hand raised, her
-      expression showing polite uncertainty.
-
+      The silver fox gestures with one paw toward a shimmering portal that appears in the air—a
+      circle of swirling colors promising an easy path. Elise stands before it, hands clasped
+      together uncertainly, tilting her head as she studies both the portal and the fox. The
+      fox's expression is confident and persuasive. Through the portal, she can see what looks
+      like the Heart Crystal, close and easy to reach. But something about the portal's edges
+      flicker wrongly, colors not quite natural. Elise's face shows the internal debate between
+      wanting the easy answer and trusting her instincts. The atmosphere is tense with decision.
     text: |
-      "Bold!" The artist-spirit swept enormous brushes through the air, splattering
-      neon colors everywhere. "Loud! That's how you fix fading!" Elise looked at
-      the trees the spirit had painted: harsh orange, electric purple, colors that
-      hurt to see. The watching animals had fled. Something in Elise's chest pulled
-      tight. This felt wrong. Very wrong.
+      The fox waved its paw and a portal shimmered open, showing the Heart Crystal just steps
+      away. "Why struggle when you can skip ahead?" it purred. Elise's heart wanted to believe
+      it. But her body knew better—the portal's edges flickered wrong, like a dance step out of
+      rhythm. Before she could decide, the fox stepped through. The portal snapped shut with a
+      sharp crack, and the fox's yelp echoed before fading. Some shortcuts led nowhere good.

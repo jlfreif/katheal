@@ -1,54 +1,47 @@
-# Noah - Spread 7: Rising Stakes (Mirrored Node)
-# Synchrony Node 2: SHARED DIFFICULTY + PERSISTENCE
-# Emotional beat: PROGRESS → SELF-FRUSTRATION
-# Symbolic motif: Lantern responds to trust/honesty
-# Connection hint: Noah senses he's not alone in struggling
+# Noah's Individual Page for Mirrored Node at Spread 7
 
 id: no-07
 spread: 7
 node_type: mirrored
-node_definition: mirrored-07.yaml
 beat: "Rising stakes: almost works"
-
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah's new approach works, but he keeps trying to understand the ending before it arrives, his hand reaching forward despite himself, unable to fully trust the process.
+description: Noah almost completes a story but must learn to trust the ending rather than control it.
 
 scenes:
   - page: left
     page_number: 17
     focus: Making progress toward goal
-
     visual: |
-      Noah stands before a golden thread slowly writing itself, words forming in soft
-      light. His hands hover nearby, fingers twitching with the urge to help. He grips
-      his own wrist with his other hand to hold himself back. A lantern burns steady
-      on a stone beside him. Behind him, several completed threads glow, proof his
-      new approach works when he lets it.
-
+      A magical library where golden story-threads float in the air like ribbons, forming words
+      and sentences. Noah stands on a floating platform of books, hands outstretched toward a
+      nearly-complete story that shimmers before him. The words glow: "And then she discovered..."
+      with the ending hovering just out of reach. He's so close—the story is almost finished.
+      Other completed stories float around him, their threads woven into solid, glowing narratives.
+      A candle burns on a nearby floating desk, its flame bright and steady. His expression shows
+      intense focus and hope. The atmosphere crackles with almost-success.
     text: |
-      "The traveler found the path and..." Words appeared one by one, the story
-      writing itself. Noah's hands hovered, fingers twitching. His pen hand kept
-      creeping forward like it had a mind of its own. "Come on," he muttered,
-      gripping his wrist with his other hand to hold it back. "Let it finish."
-      The lantern beside him burned steady. He wondered if the girl at the crossroads
-      was figuring things out too.
+      Noah reached for the story's ending, watching it form word by word. He could almost
+      grasp it—the perfect conclusion, the right resolution. The story pulsed, nearly complete.
+      Around him, other stories hung finished and whole, proof that it could be done. The candle
+      flame burned steady and bright. Just a little more. Just one more sentence and he'd have it.
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
-
     visual: |
-      Noah's hand has shot forward, pen gripping the thread despite his efforts.
-      The story-thread freezes mid-word, rejecting his interference. The lantern
-      flame sputters and dims. His expression shows frustration with himself as
-      he steps back, running his free hand through his hair. The glow around
-      the thread fades dangerously.
-
+      The story-thread slips through Noah's fingers and changes, the ending shifting to something
+      different than what he planned. He stands with arms outstretched, face showing frustration
+      and confusion as the words rearrange themselves. The candle flame flickers wildly but
+      doesn't go out, casting dancing shadows. The story isn't ending how he wanted, but it's
+      still ending—its threads weaving into a pattern he didn't predict. In the distance, through
+      the floating books, he can see a door he hadn't noticed before, glowing faintly. His
+      expression shifts from control to acceptance. The atmosphere is uncertain but alive with
+      possibility.
     text: |
-      But the pause stretched too long. Noah's hand shot out—he couldn't help it,
-      couldn't stop—his pen touched the thread: "...and found exactly what he needed!"
-      The thread froze. The glow died. The lantern went dark. "NO!" Noah stepped back,
-      running his hand through his hair. He stared at his treacherous fingers. "I was
-      so close. Why is waiting so hard?"
+      The ending shifted. Changed. Became something he hadn't planned. Noah tried to guide it
+      back, but the story had its own ideas, weaving itself into a conclusion he didn't predict.
+      The candle flickered but stayed lit. He wasn't in control. The story was. And maybe that
+      was okay. Through the shelves, he spotted a door glowing faintly. That's where he'd find
+      what he needed—not in controlling the ending, but in trusting it.

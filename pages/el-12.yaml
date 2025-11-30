@@ -1,49 +1,47 @@
-# Elise - Spread 12: Resolution (Emotional)
+# Elise - Spread 12: Emotional Resolution
 
 id: el-12
 spread: 12
 node_type: solo
 beat: "Resolution (emotional) + series button"
-
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Elise returns to her room and her drawing, but now she sees the light in everything she creates—knowing her gentle attention matters.
+description: Elise returns to her room transformed, dancing with new freedom and confidence in herself.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
-
     visual: |
-      Elise's room looks exactly the same as the opening: drawings on the wall, art
-      supplies on her desk, mirror reflecting the afternoon light. But Elise herself
-      is different. She stands in front of her mirror again, beginning a slow dance,
-      but this time her movements carry a new confidence. The starlight paintbrush
-      glows softly in her pocket. Her expression is peaceful, centered, sure.
-
+      Elise's bedroom, the same mirror and space as the opening, but seen differently now.
+      Afternoon light still streams through the window. Elise stands before the mirror, the
+      blue pendant visible around her neck, pulsing gently. She's in the same starting position
+      as the first page, but her posture is different—more relaxed, more centered, more herself.
+      Her expression shows quiet confidence. Golden threads shimmer faintly in the mirror's
+      reflection, a reminder of where she's been. Her stuffed animals seem to watch with knowing
+      smiles. The room feels simultaneously familiar and transformed, ordinary but touched by magic.
     text: |
-      Elise's room looked exactly the same: drawings on the wall, art supplies
-      scattered in their familiar mess, mirror reflecting the afternoon light.
-      But when she stood in front of the mirror and began to dance, something was
-      different. She moved with the same gentle grace, but now she knew—truly
-      knew—that her quiet way mattered.
+      Elise stood in her room, the mirror reflecting her familiar space. Same dance floor, same
+      posters, same afternoon light. But she wasn't the same. The pendant glowed warm beneath her
+      shirt, a secret reminder of Kathaél. She lifted her arms into position, ready to dance.
+      The difference was inside her now—a certainty that being herself, exactly as she was, was
+      the most important performance she'd ever give.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
-
     visual: |
-      Elise dances in front of her mirror with flowing, graceful movements, arms
-      extended in a lyrical gesture. As she moves, faint golden light trails from
-      her fingertips, dancing with her. The drawings on the wall behind her show
-      a subtle glow. Outside the window, a butterfly with faintly luminescent wings
-      watches. Her reflection shows both who she was and who she's become—the same,
-      but more fully herself.
-
+      Elise dances with complete freedom and joy, spinning across her room with abandon. Her
+      hair flies out, her movements are both graceful and wild, perfectly technical and wonderfully
+      silly. She laughs as she dances. In the mirror, golden threads appear faintly, dancing
+      with her—a connection to Kathaél that hasn't faded. The pendant glows bright. Her whole
+      being radiates confidence and authentic expression. Small sparkles of light drift through
+      her ordinary room like magic leaking through. Her expression shows pure happiness, centered
+      in who she truly is. The scene feels triumphant but grounded, magical but real.
     text: |
-      She spun slowly, arms flowing like water, and watched herself in the mirror.
-      The same girl. The same gentle movements. But now she understood that flowing
-      could be as powerful as forcing, that quiet could change the world. Her dance
-      was exactly enough. Outside her window, an ordinary butterfly sat on the sill,
-      its wings catching light. Elise smiled and kept dancing.
+      Elise spun and leaped, adding a silly wiggle just because it felt right. She sang out loud,
+      making up words, not caring if they rhymed. In the mirror, golden threads danced with her,
+      faint but real. Kathaél hadn't disappeared. It lived in every authentic choice, every
+      moment she chose to be herself. She laughed, arms thrown wide, and the pendant blazed
+      brilliant blue. This was her magic. This was her courage. This was enough.

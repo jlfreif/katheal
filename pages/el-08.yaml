@@ -4,45 +4,44 @@ id: el-08
 spread: 8
 node_type: solo
 beat: "All-is-lost / emotional low"
-
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Elise tries to dance through an enormous fading garden to restore it all at once, but exhausts herself completely and collapses, doubting her gentle approach can make any difference.
+description: Elise exhausted and doubting, watches her authentic expression start to fade, but finds a reason to keep going.
 
 scenes:
   - page: left
     page_number: 19
     focus: External obstacles intensify
-
     visual: |
-      Elise dances frantically through an enormous garden stretching to the horizon,
-      thousands of grey flowers and colorless trees everywhere. She spins from flower
-      to flower, arms reaching, movements becoming less graceful and more desperate.
-      Her hair flies wildly. Sweat shows on her face. The scale is overwhelming—paths
-      wind endlessly through grey flowerbeds. The sky above is overcast and heavy.
-
+      A darkening grove where Elise sits slumped against a tree trunk, legs drawn up, arms wrapped
+      around her knees. Her usually graceful posture is collapsed and heavy. Around her, the
+      flowers she helped revive earlier are wilting again, their colors fading. Golden threads
+      that once danced in the air now lie limp on the ground. Shadows creep closer from the
+      forest edges. Her dance shoes are dusty and worn. Her face shows deep exhaustion, eyes
+      half-closed, expression defeated. The grove that was once bright with her authentic expression
+      now dims back toward grey. The atmosphere weighs heavy with failure and fading hope.
     text: |
-      The garden stretched forever. Thousands of flowers, all grey. Elise spun from
-      bloom to bloom, dancing as fast as she could, trying to restore them all. Her
-      gentle approach had worked on a few flowers, but looking at this vast emptiness,
-      those few felt like nothing. So she danced harder, faster, pushing herself to
-      cover more ground.
+      Elise couldn't move anymore. Every dance she'd performed, every song she'd sung, every
+      authentic expression—it was all fading back to grey. She'd tried so hard to be herself,
+      to bring life through movement, but the effort had drained her empty. Around her, the
+      grove dimmed. The flowers wilted. Even the golden threads gave up, lying still and lifeless
+      on the forest floor.
 
   - page: right
     page_number: 20
     focus: Inner doubt and discouragement
-
     visual: |
-      Elise has collapsed on the ground, lying on her side among grey flowers, completely
-      exhausted. Her arms are sprawled out, unable to move. Tears slide down her cheeks.
-      Her dance has stopped—her body gave out. In the near foreground, one small flower
-      retains a hint of color from her earlier touch, but she's too defeated to notice.
-      The garden stretches endlessly behind her, untouched.
-
+      Elise still slumped against the tree, but her head is turned to watch a small bird on a
+      nearby branch. The bird, no bigger than her thumb, sings a tiny melody and hops in a little
+      dance, completely unselfconscious. Its movement is imperfect but joyful, pure and free.
+      One wilted flower beneath the bird's branch perks up slightly, responding to the simple
+      authentic expression. Elise's eyes focus on this, her expression shifting from defeat to
+      quiet recognition. A single golden thread near the bird begins to glow faintly. The shadows
+      pause their advance. The tiniest spark of hope flickers in Elise's eyes.
     text: |
-      Her legs gave out. Elise collapsed on the ground, too exhausted to move, tears
-      sliding down her cheeks. She'd tried to dance through the whole garden. Tried
-      to be big enough, fast enough, strong enough. But she was too small. Too gentle.
-      Too slow. How could one nine-year-old who just danced quietly possibly matter
-      against all this grey?
+      A tiny bird landed nearby, barely bigger than her thumb. It hopped and chirped its own
+      silly dance, completely unafraid of looking foolish, just being itself. One flower beneath
+      it brightened, responding to that simple truth. Elise watched, throat tight. Even the
+      smallest authentic expression mattered. Even when exhausted, even when failing, the choice
+      to keep showing up counted for something. She wasn't ready to stop yet.

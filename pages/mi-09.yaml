@@ -1,51 +1,45 @@
 # Micah - Spread 9: Inner Shift
-# Emotional beat: RENEWED → CONNECTION
-# Escalation: Choosing to breathe and continue despite overwhelm
-# World rule hint: One breath shared creates ripples beyond what's visible
 
 id: mi-09
 spread: 9
 node_type: solo
 beat: "Deepening choice / inner shift"
-
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Micah returns to the overwhelming cascade of threads from earlier but this time chooses to breathe deliberately, and his calm courage ripples outward affecting threads far beyond his immediate reach.
+description: Micah chooses to practice breath even when overwhelmed and discovers it becomes instinct.
 
 scenes:
   - page: left
     page_number: 21
-    focus: Making the choice to try differently
-
+    focus: Making the choice to continue
     visual: |
-      Micah stands before the same overwhelming cascade of falling threads from spread 6,
-      but his posture is different now—grounded, centered. His eyes are open but calm.
-      One hand rests on his chest, feeling his own heartbeat. The chaos swirls around him
-      but he's not tensed to flee or fight it. He's choosing to be present with it.
-
+      Micah sits in meditation pose in the garden, eyes closed, deliberately practicing breathing
+      even though his body wants to move. His hands rest on his knees, shoulders relaxed but
+      alive with contained energy. Small twitches still show—this is still hard—but he's
+      committed to it. Golden light glows faintly around him, responding to his choice. The
+      atmosphere shows determined practice, choosing the hard thing because it matters.
     text: |
-      Micah stood before the chaos again—the same cascade of threads that had overwhelmed
-      him before. But this time he didn't tense to run or fight. He put one hand on his
-      chest, feeling his heartbeat racing, and made a choice. "Breathe," he whispered to
-      himself, just like he'd told Noah. "Just breathe." In. Hold. Out. The panic didn't
-      disappear, but he didn't let it control him.
+      Micah sat and breathed. Just breathed. His body wanted to jump up and run, but he stayed.
+      One breath. Then another. Then another. It was still hard. His muscles still twitched. But
+      he kept choosing it, kept practicing, kept coming back to breath even when overwhelmed by
+      the urge to move. The crane had said it would become instinct if he practiced enough. He
+      had to trust that.
 
   - page: right
     page_number: 22
-    focus: Discovering unexpected reach
-
+    focus: Discovering the missed clue
     visual: |
-      As Micah breathes calmly in the center of the chaos, golden light radiates outward from
-      him in gentle pulses matching his breath. Threads throughout the entire clearing begin
-      to stabilize, not just the ones near him—the calm ripples outward like rings on water.
-      His eyes widen with wonder as he realizes his breath is affecting threads he can't even
-      reach. The forest glows brighter.
-
+      Chaos erupts in the garden—the golden speed creature returns zipping around wildly, wind
+      whips up, everything designed to overwhelm and trigger Micah's frantic response. But Micah's
+      eyes snap open and without thinking, he takes a breath. Just one. Automatic. His body
+      centers instantly, and from that centered stillness, he moves with perfect precision and
+      catches the speed creature effortlessly. Golden light explodes through the garden. His
+      expression shows amazed joy—it worked without thinking! The atmosphere celebrates the
+      moment skill becomes instinct.
     text: |
-      Golden light pulsed outward with each breath, spreading like ripples on water. Threads
-      stabilized not just near him, but across the whole clearing. Distant threads he couldn't
-      touch responded to his calm presence, his willingness to breathe through the overwhelm.
-      Micah felt it then—warmth flooding through him, joy and determination that wasn't just
-      his own. Someone else, somewhere in Kathaél, was being brave at the same moment. "We're
-      not alone," he breathed. "None of us are alone."
+      The speed creature returned, zipping chaotic circles around him, trying to trigger his old
+      frantic response. Micah's eyes opened. His body wanted to chase immediately. But before he
+      moved—without even thinking about it—he took a breath. Just one. His center held. And from
+      that stillness, he moved with perfect precision and caught the creature in one smooth motion.
+      He'd done it. Breath had become instinct. He could pause even when overwhelmed.

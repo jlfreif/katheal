@@ -1,51 +1,47 @@
-# Max's page - Spread 8
-# All-is-lost / emotional low
-# Max faces his biggest mistake and believes he's ruined everything beyond repair
+# Max - Spread 8: All Is Lost
 
 id: mx-08
 spread: 8
 node_type: solo
 beat: "All-is-lost / emotional low"
-
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Max confronts a training ground destroyed by his earlier attempts, believing his mistakes have made things worse instead of better.
+description: Max exhausted from failed experiments, doubts his ability to help, but discovers value in the process.
 
 scenes:
   - page: left
     page_number: 19
     focus: External obstacles intensify
-
     visual: |
-      Max stands in a training ground littered with broken obstacles, twisted
-      metal, collapsed structures—all his earlier "perfect" attempts that
-      failed catastrophically. Rain begins to fall. The Heart Crystal in
-      the distance cracks with an audible sound. A challenge course nearby
-      crumbles to dust. His tall athletic frame looks small against the damage.
-
+      A workshop inside a hollow tree, littered with Max's failed experimental attempts. Broken
+      contraptions everywhere—devices that sparked then died, mechanisms that moved wrong, inventions
+      that almost worked but didn't. Max sits slumped on the floor, back against the wall, tools
+      scattered around him. His usually energetic posture is collapsed. His notebook lies open
+      showing pages of crossed-out ideas. The clockwork deer sits nearby, still frozen. Everything
+      he's tried has failed. His expression shows deep exhaustion and self-doubt. The workshop
+      feels oppressive with accumulated failure.
     text: |
-      The training ground stretched before him, destroyed. Every challenge
-      he'd tried to complete perfectly lay in ruins—twisted metal, broken
-      beams, courses that would never work again. Rain started falling, cold
-      and heavy. The Crystal cracked louder. A nearby course collapsed to
-      dust. "I thought I could fix this," Max whispered. "I just made
-      everything worse."
+      Max stared at the pile of failures surrounding him. Every playful experiment, every curious
+      try, every courageous attempt—all broken. His analytical approach hadn't worked. Playful
+      exploration hadn't worked. Nothing worked. The deer stayed frozen, and he was out of ideas.
+      Maybe he wasn't good enough for Kathaél's magic. Maybe some problems were meant to stay
+      unsolved.
 
   - page: right
     page_number: 20
     focus: Inner doubt and discouragement
-
     visual: |
-      Max sits slumped against a fallen obstacle, rain soaking his red hair,
-      notebook abandoned beside him with pages smeared. His arms rest on his
-      knees, head down. A small bird lands on the wreckage nearby, not singing,
-      just present. One weak golden thread still glows faintly in the debris.
-
+      Max still slumped, but his eyes focus on one particular failed experiment—a tiny clockwork
+      mouse that moves in circles. It's broken, yes, but it moves. It tried. Around the workshop,
+      he notices other "failures" that actually taught him something: the gear that sparked showed
+      him energy patterns, the spring that snapped revealed tension points, the bird that flew
+      crooked still flew. His expression begins to shift from defeat to dawning realization. The
+      clockwork deer's thread glows faintly, as if sensing his shift. The atmosphere lightens
+      slightly, hope creeping back in.
     text: |
-      Max sank down against the wreckage, rain streaming down his face. His
-      notebook lay beside him, all his systems and techniques smeared into
-      illegible ink. He'd tried so hard. Analyzed everything. Kept going
-      through small mistakes. But these big mistakes? The bird above didn't
-      move. Just stayed. Max noticed the thread still glowing weakly in the
-      debris. Even ruined, it hadn't completely died.
+      A broken clockwork mouse whirred nearby, spinning in circles. Failed, yes. But moving. Trying.
+      Max looked at his failures with new eyes. Each one had taught him something. The experiments
+      that didn't work showed him what did. That was science. That was invention. Not getting it
+      right immediately, but learning from every attempt. He'd been so focused on final success,
+      he'd missed the value of the process. Maybe trying mattered more than succeeding.

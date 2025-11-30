@@ -1,56 +1,46 @@
 # Mona - Spread 2: Inciting Incident
-# Emotional beat: WONDER → DETERMINATION
-# Stakes revealed: Colors are fading; things are losing their joy
-# World rule introduced: Trying new things brings back brightness
 
 id: mo-02
 spread: 2
 node_type: solo
-beat: Inciting incident
-
+beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Mona follows the glowing block through a doorway of light into Kathaél, discovers toys and flowers losing their colors, and meets a sad butterfly that can't remember how to fly.
+description: Mona discovers a playground where all the toys are frozen and children need someone brave enough to try them first.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
-
     visual: |
-      Mona toddles through a shimmering doorway made of golden light, still
-      clutching the glowing block. She emerges into a magical meadow where
-      everything looks slightly faded—flowers that should be bright pink are
-      pale, toys scattered on the grass have dull colors. She walks forward
-      with her characteristic confident waddle, looking around with wide,
-      curious eyes. The glowing block pulses brighter against the faded world.
-
+      A magical playground in Kathaél with swings that don't swing, a slide with no one sliding,
+      a sandbox with toys frozen mid-scoop. Everything is still and waiting. Mona toddles into
+      the playground, holding her stuffed bunny, looking around with wide eyes. The equipment is
+      beautiful—colorful and inviting—but completely motionless. Golden threads connect the toys
+      but they're dim and lifeless. A few other children stand at the edges, too afraid to try
+      anything. Mona tilts her head, confused. Playgrounds are for playing. Why is everyone just
+      standing? The atmosphere feels suspended, waiting for someone to be brave enough to start.
     text: |
-      The block tugged at Mona's hand, pulling her forward. One wobbly step,
-      then another, and whoosh! Everything changed. Mona stood in a big meadow
-      full of flowers and toys, but something was wrong. The flowers looked
-      tired. A doll's dress used to be red—Mona could tell—but now it was
-      almost gray. She frowned. That wasn't right. Things should be bright
-      and happy!
+      Mona toddled into a playground where nothing moved. Swings hung still. The slide sat empty.
+      Toys lay frozen in the sand. Other children stood at the edges, watching but not playing.
+      Mona looked at them, then at the swings, then back. "Swing?" she asked, confused. One older
+      kid shook his head. "Might not work. Might be scary." But playgrounds were for playing.
 
   - page: right
     page_number: 8
     focus: Decision to act
-
     visual: |
-      Mona crouches down to eye level with a beautiful butterfly whose wings
-      are fading from vibrant blue to pale gray. The butterfly sits on a wilted
-      flower, wings drooping. Mona's hand reaches out gently, her expression
-      serious and empathetic despite her young age. Her glowing block sits beside
-      her on the grass, pulsing softly. In the background, more faded toys and
-      flowers stretch into the distance toward a dimly glowing crystal structure.
-
+      Mona walks determinedly toward the swings despite the other children's warnings, her little
+      legs moving with toddler purpose. She still clutches her bunny but reaches for a swing
+      with her other hand. Her expression shows a mix of uncertainty and brave determination—
+      that toddler courage that hasn't learned to overthink. The swing begins to glow faintly
+      as she approaches. Other children lean forward, watching. A golden thread brightens. The
+      atmosphere shifts from frozen waiting to anticipatory hope. This tiny girl might be small,
+      but she's willing to try.
     text: |
-      A butterfly landed on Mona's knee. Its wings were see-through and sad,
-      like they forgot how to be blue. "Can't fly," it whispered in a voice
-      like wind chimes. "Too scared. Forgot how." Mona's little face got very
-      serious. She knew that feeling—when something new seemed too big and
-      scary. But Mona also knew a secret: trying was how you learned! She
-      picked up her glowing block and held it out to the butterfly. "Try with
-      me?" The butterfly's wings flickered, just a little bit brighter.
+      Mona walked to the swings. Her tummy felt fluttery—the way it did before trying something
+      new. But new things could be fun. You just had to try them. She grabbed the swing's chain,
+      bunny tucked under one arm. The swing glowed a little, like it was waking up. "I try," she
+      announced to the watching children. Being brave was scary. But also important. She climbed
+      on. The swing swayed gently, coming alive under her courage.

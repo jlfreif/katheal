@@ -1,52 +1,40 @@
-# Shared page: Elise and Mona - Spread 6
-# Meeting Node: Recognition of patterns and quiet observation
-# Emotional beat: OBSERVATION → SHARED INSIGHT → NEW UNDERSTANDING
-# Stakes reinforced: The pattern becomes visible through fresh eyes
+# Meeting Node: Elise & Mona at Spread 6
 
 id: el-mo-06
 spread: 6
 node_type: meeting
 beat: "Midpoint: new insight / pattern"
-
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Elise finds Mona quietly sitting and observing, and begins a slow, meditative dance beside her. Together their gentle presence reveals that threads respond to peaceful attention rather than force.
+description: Elise meets Mona and they discover that authentic expression, not forced performance, awakens things.
 
-# === MEETING NODE SPECIFIC FIELDS ===
+location: A grove where musical instruments hang from trees, silent and waiting
 
-location: A quiet glade where Heart Crystal threads flow through like streams of light
-
-shared_action: Mona sits still while Elise does slow, flowing dance movements beside her - together creating gentle, patient presence that draws threads closer
+shared_action: Both try making sounds authentically rather than perfectly
 
 dialogue_packets:
   - speaker: elise
-    line: "You see it too, don't you? How they move when you just... watch?"
+    line: "What if we're trying too hard to be perfect?"
     works_from_pov: [el, mo]
   - speaker: mona
-    line: "Soft. Gentle."
-    works_from_pov: [el, mo]
-  - speaker: elise
-    line: "Exactly. Not pulling. Just being here."
-    works_from_pov: [el, mo]
-  - speaker: mona
-    line: "Threads happy."
+    line: "Play! Play!"
     works_from_pov: [el, mo]
 
 image_alignment:
-  scene_id: quiet-observation-glade-006
+  scene_id: instrument-grove-006
   shared_elements:
-    - Glade with soft moss and luminous mushrooms
-    - Golden threads flowing like streams through the air
-    - Dappled sunlight through leaves above
-    - Gentle, reverent atmosphere
+    - instruments hanging from branches
+    - wind chimes
+    - soft grass clearing
+    - afternoon light
   pov_variants:
     - character_code: el
-      camera_position: slightly behind Elise, showing her seated with Mona beside her
+      camera_position: showing Elise reaching for instrument with Mona playing nearby
       focal_character: elise
       background_characters: [mona]
     - character_code: mo
-      camera_position: slightly behind Mona, showing her small form next to Elise
+      camera_position: showing Mona banging on chimes with Elise watching
       focal_character: mona
       background_characters: [elise]
 
@@ -54,38 +42,36 @@ scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
-
     visual: |
-      A serene glade carpeted with soft emerald moss and dotted with small luminous
-      mushrooms. Golden threads flow through the air like gentle streams of light,
-      weaving between ancient trees. Elise (9 years old, long brown hair, slim and
-      graceful) steps into the clearing, catching her breath from running. She spots
-      little Mona (2 years old, dark curly hair, bright curious eyes) sitting cross-legged
-      on the moss, perfectly still, just watching the threads dance. The light is soft
-      and warm, creating a peaceful atmosphere.
-
+      A peaceful grove where various instruments hang from tree branches like fruit: small drums,
+      bells, flutes, and wind chimes. All are silent and still despite a gentle breeze. Elise
+      stands in the center, reaching carefully toward a hanging harp, her movements precise and
+      controlled as if afraid to disturb anything. A tiny figure toddles into the grove—Mona,
+      her face lit with curiosity. She immediately runs to a set of wind chimes hanging low,
+      grabbing them with both hands. The instruments are beautiful but lifeless, their golden
+      threads dim and tangled. Afternoon light filters through the leaves, creating soft patterns
+      on the ground.
     text: |
-      Elise had tried everything. Pulling threads, painting patterns, forcing her dance
-      to be bigger. Nothing worked. She stepped into the quiet glade and stopped. A tiny
-      girl sat in the moss, utterly still, watching golden threads flow past her face.
-      The threads seemed... calmer here. Gentler.
+      Elise reached for the hanging harp, fingers positioned perfectly for the right notes.
+      She'd been trying so hard to play everything correctly, to perform flawlessly. But nothing
+      woke up. Movement caught her eye. A toddler burst into the grove, squealing with delight.
+      Before Elise could warn her to be careful, tiny hands grabbed the wind chimes and shook
+      them wildly.
 
   - page: right
     page_number: 16
-    focus: Discovering a new pattern through gentle movement
-
+    focus: Discovering a new pattern
     visual: |
-      Mona sits cross-legged on the moss, perfectly still, watching. Beside her, Elise
-      moves in slow, meditative dance—arms flowing like gentle water, turns measured
-      and peaceful. The golden threads flow closer to both of them, drawn by their quiet
-      presence. One thread hovers near Mona's palm while another weaves around Elise's
-      gracefully extended hand. Elise's expression shows dawning realization. Soft
-      particles of light drift through the air like gentle snow.
-
+      Mona enthusiastically bangs on the wind chimes, her whole body bouncing with joy, creating
+      chaotic but genuine sounds. Elise watches, her expression shifting from concern to wonder
+      as the chimes begin to glow faintly. The golden threads connecting the chimes brighten and
+      start to untangle. Elise drops her perfect posture and begins to hum a silly, made-up melody,
+      swaying freely. Around them, other instruments shimmer in response. The grove fills with
+      soft golden light. Mona giggles, still shaking the chimes. The atmosphere transforms from
+      careful silence to joyful experimentation.
     text: |
-      Elise began to dance beside Mona, but this time differently. Slow. Meditative.
-      Her arms flowed like gentle water, each turn measured and peaceful. The threads
-      drifted closer, curious about their quiet presence. "Soft," Mona whispered.
-      "Gentle." Elise nodded, continuing her flowing dance. The threads had been running
-      from force. But here, with gentle movement and patient presence, they came willingly.
-      "You're right," Elise breathed. "Gentle can be strong."
+      The chimes rang out, messy and loud and completely imperfect. And they glowed. Their
+      threads brightened, responding to Mona's pure joy. Elise caught her breath. What if they'd
+      been doing it wrong? What if perfect wasn't the point? She dropped her careful posture
+      and hummed something silly, made-up, completely herself. The harp shimmered. Around them,
+      instruments began waking up.

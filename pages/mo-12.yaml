@@ -1,58 +1,45 @@
-# Mona - Spread 12: Resolution (Emotional)
-# Emotional beat: PEACE → JOY → CONFIDENCE
-# Connection to Spread 1: Same position at Gymboree, transformed attitude
-# Theme crystallized: Courage to try something new is always worth it, especially together
-# Callbacks: "Too little" → Now knows her size doesn't limit her courage
+# Mona - Spread 12: Emotional Resolution
 
 id: mo-12
 spread: 12
 node_type: solo
 beat: "Resolution (emotional) + series button"
-
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Mona returns to Gymboree and tries something new—building with another child—sharing the courage she learned in Kathaél.
+description: Mona returns to her playroom transformed, ready to try new things with brave confidence.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
-
     visual: |
-      Mona sits on the same colorful mat at Gymboree, same position as the
-      opening. But now the star-toy from Kathaél sits among her regular blocks,
-      glowing softly. Another toddler sits nearby, looking uncertain at a
-      complicated toy. Mona's expression is peaceful and confident, no longer
-      just playing alone. She's reaching out to the other child with a block,
-      inviting them to play. The teachers smile in the background. The room
-      feels brighter somehow.
-
+      Mona's playroom, the same blocks and toys as the opening. Mona toddles in holding her bunny
+      and the golden star from Kathaél. She looks at her regular blocks with new eyes—the same
+      toys, but she sees them differently now. The golden star glows softly in her hand. Her
+      expression shows peaceful confidence. The atmosphere is familiar but transformed by courage
+      learned and claimed.
     text: |
-      Mona's mat looked the same: bright colors, soft floor, blocks everywhere.
-      But Mona felt different. A little boy sat near her, staring at a puzzle
-      that looked too hard. Mona remembered feeling too small, too little to
-      help. But that was before. She picked up a puzzle piece and held it out
-      to him. "Try together?" The boy blinked, then smiled. "Okay!" Mona's
-      star-toy pulsed warm in her pocket.
+      Mona sat in her playroom with her blocks, same as before Kathaél. But she wasn't the same.
+      The golden star glowed next to bunny, warm and real. She looked at her toys—familiar, safe,
+      but now she noticed new things too. That puzzle she'd never tried because it looked hard.
+      Those stairs she'd been scared to climb. New things waited everywhere, just needing someone
+      brave enough to try them.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
-
     visual: |
-      Mona and the little boy build together, trying to fit blocks into a new
-      shape neither of them has made before. Mona's face shows concentration
-      but also joy—not frustration, just curiosity about what will happen.
-      Her star-toy glows gently beside them, encouraging. Through the window,
-      a golden thread shimmers briefly in the sunlight. The butterfly from
-      Kathaél appears for just a moment, blue and bright, before flying away.
-
+      Mona attempting something new and challenging—standing on a step stool to reach a high shelf
+      where a new toy waits, one she'd been too scared to try before. Bunny is nearby for support.
+      The golden star glows brilliantly on the floor beside her. Golden threads appear faintly
+      in her ordinary room, Kathaél's magic living in every brave choice. She reaches for the new
+      toy with determination and joy. Her expression shows brave excitement. Small sparkles drift
+      through the playroom. The scene feels triumphant but grounded—toddler-level magic made real
+      through courage.
     text: |
-      They tried a new shape together—not a tower, something different. A
-      bridge! When it wobbled, they didn't give up. They tried again. And again.
-      When it finally stood, both children clapped and giggled. Mona looked at
-      her glowing star, then out the window where a blue butterfly danced past.
-      She'd been scared lots of times in Kathaél. Too small, too little, too
-      much. But she tried anyway. And trying—especially together—was how all
-      the best things happened. She couldn't wait to try something new tomorrow.
+      Mona climbed on her step stool, reaching for the toy she'd been too scared to try. Her tummy
+      felt fluttery, but that was okay. Fluttery meant new. New meant exciting. The golden star
+      blazed bright. Tiny golden threads appeared in the air—Kathaél's magic living in every brave
+      try. She grabbed the new toy and smiled big. This was her courage: trying new things even
+      when scary. Every try made the next try easier. She was little, but she was brave.

@@ -1,68 +1,63 @@
-# Mirrored Node Definition - Spread 7
-# Connects Elise and Noah through parallel experiences of persistence
+# Mirrored Node Definition: Noah & Elise at Spread 7
 
 id: mirrored-07
 spread: 7
 node_type: mirrored
-
 beat: "Rising stakes: almost works"
 
-# The shared thematic element that connects all scenes
-shared_theme_key: persistence_through_difficulty
+shared_theme_key: persistence_through_near_success
 
 theme_description: |
-  Both Elise and Noah face parallel challenges where their progress is real but incomplete.
-  Each persists through difficulty, getting closer to their goal but recognizing
-  something essential is still missing. The lantern motif symbolizes their flickering
-  but enduring determination.
+  Both Noah and Elise experience the frustration of almost succeeding but not quite.
+  They discover that persistence through near-misses requires a different kind of
+  courage than starting fresh.
 
-# Symbolic motif - appears in both character pages
 symbolic_motif:
-  name: flickering_lantern
-  description: A magical lantern whose flame responds to persistence and trust
-  meaning: Light that nearly goes out but keeps burning when courage persists
-  visual_cues:
-    - Lantern flame dims when character doubts
-    - Brightens when character perseveres
-    - Never fully extinguishes as long as they keep trying
-    - Warm golden glow that pulses with determination
+  name: flickering_candle
+  description: A candle flame that wavers between bright and dim, never quite going out
+  meaning: Hope that persists even when success feels uncertain
 
-# Scenario variants - how each character experiences the mirrored theme
 scenario_variants:
-  - character_code: el
-    location: A winding path through dense forest
-    challenge_description: |
-      Elise follows a path that keeps shifting and changing. Just when she thinks
-      she's found the way, it dissolves and reforms. Her lantern guides her, but
-      its light flickers with every moment of doubt.
-    motif_manifestation: |
-      A small lantern floats ahead of her on the path. When she trusts and follows,
-      it glows steady. When she hesitates or second-guesses, it dims. But it never
-      fully goes out.
-    emotional_arc: Doubt → Trust → Progress (incomplete)
-
   - character_code: no
-    location: A library of unfinished stories with moving shelves
+    location: A library of stories where endings keep changing before he can grasp them
     challenge_description: |
-      Noah searches for the right story to complete, but the library reshapes itself
-      constantly. His lantern illuminates different sections, but just as he finds
-      something promising, the shelves shift. He must persist despite the instability.
+      Noah finds himself in a place where he can almost complete a story, but the ending
+      shifts away each time he thinks he has it. He must learn that not controlling the
+      outcome doesn't mean giving up.
     motif_manifestation: |
-      A lantern sits on his table, its flame flickering as the library changes around
-      him. When he focuses on one story at a time instead of trying to understand
-      everything, the flame brightens. But the solution still eludes him.
-    emotional_arc: Frustration → Focus → Progress (incomplete)
+      A candle flame flickers beside him, dimming when he tries to force a specific ending,
+      brightening when he trusts the story's own pattern. The flame never goes out, teaching
+      him that persistence doesn't mean control.
 
-# Spread alignment - must match across all books
-spread_alignment:
-  spread_number: 7
-  story_beat: "Rising stakes: almost works"
-  hook: Success is close but incomplete, with a detail revealing what's still needed.
-  payoff: What's missing is revealed to be distant or difficult to reach.
+  - character_code: el
+    location: A performance hall where dancers almost complete their choreography but freeze before the finale
+    challenge_description: |
+      Elise watches performances that get so close to completion but stop short. She realizes
+      that her fear of imperfect endings has been holding back both her and the performers.
+    motif_manifestation: |
+      A candle illuminates the stage, flickering lower when Elise holds back from the final
+      movement. When she commits to the ending even without knowing if it will be perfect,
+      the flame burns steady and bright.
 
-# Connection to world themes
+spread_alignment: 7
+
 world_connection: |
-  The flickering lantern represents the Heart Crystal's response to persistence.
-  Even when solutions aren't complete, the act of continuing with trust keeps
-  the light alive. Both characters are learning that progress doesn't require
-  perfect understanding - just honest effort.
+  Kathaél rewards those who persist through uncertainty. The realm doesn't require
+  perfect endings, only the courage to keep moving toward them.
+
+scene_templates:
+  left_page:
+    focus: Making progress toward goal
+    text_sentences: 3-4
+    must_include:
+      - Character experiencing near-success
+      - Frustration at being so close but not complete
+      - Candle flickering but not extinguishing
+
+  right_page:
+    focus: Realizing something is missing
+    text_sentences: 3-4
+    must_include:
+      - Understanding what's needed for completion
+      - Candle's behavior showing the way forward
+      - Determination to continue despite uncertainty

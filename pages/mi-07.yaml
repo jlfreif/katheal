@@ -1,52 +1,46 @@
 # Micah - Spread 7: Rising Stakes
-# Emotional beat: PROGRESS → DOUBT
-# Escalation: Success is visible but the scale is overwhelming
-# World rule hint: Individual action works but may not be enough alone
 
 id: mi-07
 spread: 7
 node_type: solo
 beat: "Rising stakes: almost works"
-
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Micah successfully weaves threads together using breath-paced movement, restoring small sections of the magical network, but realizes the Heart Crystal's damage spans far beyond what he can reach alone.
+description: Micah almost masters breath-and-movement together but loses focus at the crucial moment.
 
 scenes:
   - page: left
     page_number: 17
-    focus: Making real progress
-
+    focus: Making progress toward goal
     visual: |
-      Micah moves through a series of slow, flowing parkour movements—stepping onto a stone,
-      balancing on a beam, vaulting gently over a log—each motion perfectly timed to his
-      breathing. Golden threads weave themselves together in his wake, creating a restored
-      section of the magical network that glows steadily. His face shows focused determination
-      and pride. This technique is working.
-
+      Micah moves through the garden combining breath with motion—each jump punctuated by pause,
+      each movement preceded by centered breath. He flows beautifully from platform to platform,
+      golden light trailing his movements. Breath, leap. Pause, roll. Center, vault. His movements
+      are more powerful and graceful than ever before because they come from stillness rather
+      than chaos. The garden glows in response. Other creatures watch in awe. His expression shows
+      focused joy. The atmosphere celebrates this new integrated approach—almost perfected.
     text: |
-      Breathe in, step up. Breathe out, reach forward. Micah moved through his sequence,
-      and the threads responded beautifully, weaving themselves together wherever his
-      breath-paced movements led. Behind him, a whole section of the network glowed stable
-      and bright. He grinned without breaking his rhythm. "Yes! It's working!" One breath,
-      one movement, one thread at a time.
+      Micah moved through the garden in a new way. Breathe, then leap. Pause, then vault. Center,
+      then climb. Each movement came from stillness, from breath, from gathered power rather than
+      scattered energy. He was faster than before, stronger, more graceful. The garden glowed
+      bright, celebrating this balance of motion and pause. He was so close to mastering it. One
+      more perfect sequence and he'd have it.
 
   - page: right
     page_number: 18
-    focus: Realizing the overwhelming scale
-
+    focus: Realizing something is missing
     visual: |
-      Micah pauses mid-movement and looks toward the horizon. The Heart Crystal rises in
-      the distance, still fractured with countless cracks spreading outward like a shattered
-      windshield. Thousands of threads hang loose and flickering across the entire forest,
-      far more than his small restored section. His confident expression falters. His
-      shoulders sag slightly as the enormity hits him.
-
+      At the crucial final moment, Micah gets excited and forgets to breathe, falling back into
+      frantic motion. He stumbles, loses his balance, falls awkwardly. The golden light flickers
+      and dims. He sits on the ground frustrated, realizing he almost had it but his old habits
+      kicked in right when it mattered most. The garden waits patiently but doesn't glow. His
+      expression shows frustrated understanding—knowing what to do isn't the same as doing it
+      when it counts. The atmosphere shows the gap between almost and complete.
     text: |
-      Micah paused to catch his breath and looked up. The Heart Crystal towered in the
-      distance, cracks spreading across its surface like lightning. Thousands of threads—
-      tens of thousands—hung loose across the whole forest. His restored section was just
-      a tiny patch of light in an ocean of failing magic. "How can I..." His voice trailed
-      off. The breath caught in his chest, but this time not from focus—from doubt. One
-      person, one breath at a time, against all that?
+      At the final jump, Micah got excited and forgot. Forgot to breathe. Forgot to pause. Fell
+      back into frantic motion without thought. He stumbled and fell, losing the flow. The light
+      dimmed. He sat frustrated, chest heaving. He knew how to breathe and pause. He'd done it
+      perfectly moments ago. But when things got intense, when it really mattered, his body
+      defaulted back to chaos. Knowing wasn't enough. He had to make it automatic, even when
+      overwhelmed.

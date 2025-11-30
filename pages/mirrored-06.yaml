@@ -1,64 +1,64 @@
-# Mirrored Node Definition - Spread 6
-# Max and Maya discover their true approaches through parallel insights
+# Mirrored Node Definition: Max & Maya at Spread 6
 
 id: mirrored-06
 spread: 6
 node_type: mirrored
-
 beat: "Midpoint: new insight / pattern"
 
 shared_theme_key: discovering_authentic_approach
 
 theme_description: |
-  Both Max and Maya realize that their initial attempts were trying to be
-  something they're not. Max learns that mistakes are part of his path,
-  while Maya discovers that being authentically herself is her strength.
+  Both Max and Maya discover that authentic expression matters more than forced perfection.
+  They each find their own way to connect with Kathaél's magic by being themselves rather
+  than trying to follow rules or formulas.
 
 symbolic_motif:
-  name: courage_compass
-  description: A compass that doesn't point north but toward what feels most true
-  meaning: Courage isn't found in external direction but in following your authentic self
+  name: flickering_lantern
+  description: A lantern that brightens when someone is being authentic and dims when they're forcing it
+  meaning: Authenticity creates light; pretense creates darkness
 
 scenario_variants:
   - character_code: mx
-    location: A rocky training ground where puzzles reshape themselves
+    location: A workshop filled with broken inventions and failed experiments
     challenge_description: |
-      Max faces a challenge course that keeps changing every time he makes
-      a mistake. He's exhausted from starting over perfectly each time.
+      Max faces a room full of his failed attempts to solve Kathaél's problems through
+      logic and formulas. He realizes his analytical approach has been missing something:
+      genuine curiosity rather than need for perfect answers.
     motif_manifestation: |
-      A compass hangs from a post, its needle spinning wildly when Max tries
-      to follow the "right" path, but pointing steady when he accepts his
-      mistakes and keeps going.
+      A lantern hangs in the workshop, flickering dimly when Max tries to force solutions
+      through pure logic. When he allows himself to explore playfully, curious about what
+      might happen rather than what should happen, the lantern blazes bright.
 
   - character_code: ma
-    location: A stage in a forgotten amphitheater with shifting audiences
+    location: A gallery of faded paintings that need color and life
     challenge_description: |
-      Maya performs on a stage where shadow-audiences keep demanding
-      different versions of her performance. She's trying to please them all.
+      Maya enters a space where her attempts to paint "correctly" have failed. She realizes
+      that being bold and authentic in her art matters more than following artistic rules.
     motif_manifestation: |
-      A compass rests at the stage's edge, its needle spinning when Maya
-      performs what she thinks others want, but pointing true when she
-      dances authentically.
+      A lantern illuminates the gallery, dimming when Maya tries to paint what she thinks
+      she should paint. When she paints from her heart, wild and true, the lantern glows
+      brilliantly and the paintings come alive.
 
 spread_alignment: 6
 
 world_connection: |
-  Kathaél rewards authentic presence over perfect performance. The Heart
-  Crystal responds to honesty, not to trying to be what others expect.
+  This mirrored moment reflects Kathaél's response to sincerity. The realm strengthens
+  when people bring their authentic selves, not when they try to be what they think
+  they should be.
 
 scene_templates:
   left_page:
     focus: Recognizing what doesn't work
     text_sentences: 3-4
     must_include:
-      - Character exhausted from trying too hard
-      - Moment of stopping/sitting/resting
-      - First glimpse of the courage compass
+      - Character seeing their failed attempts
+      - Realization that their approach has been inauthentic
+      - First glimpse of the lantern
 
   right_page:
     focus: Discovering a new pattern
     text_sentences: 3-4
     must_include:
-      - Character tries something authentic
-      - Courage compass responds positively
-      - Realization about their true approach
+      - Character trying authentic approach
+      - Lantern responding with bright light
+      - Things beginning to work when being authentic

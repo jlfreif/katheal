@@ -1,51 +1,47 @@
-# Micah - Spread 4: Second Attempt
-# Emotional beat: DETERMINATION → STRUGGLE
-# Escalation: Trying stillness feels unnatural and incomplete
-# World rule hint: Stillness alone isn't enough without breath
+# Micah - Spread 4: Ask the Expert
 
 id: mi-04
 spread: 4
 node_type: solo
-beat: "Attempt #2 (more complex)"
-
+beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Micah attempts to stay completely still near the threads, fighting every instinct to move, but his restless energy builds inside him making the threads respond erratically to his internal tension.
+description: Micah learns from the crane about breath and stillness, who sends him to the hardest place where he must be completely still.
 
 scenes:
   - page: left
     page_number: 11
-    focus: Trying a new approach with difficulty
-
+    focus: Seeking guidance
     visual: |
-      Micah stands rigid and completely still beneath the golden threads, fists clenched
-      at his sides, body visibly tense with the effort of not moving. Threads hover nearby
-      but wobble uncertainly, responding to his internal struggle. His jaw is tight, sweat
-      beads on his forehead. The moth from before circles around him, still calm, as if
-      waiting for something.
-
+      The crane demonstrates slow, deliberate movement—lifting one leg gracefully, holding the
+      pose, breathing steadily, then setting it down with perfect control. Each movement is
+      intentional, powerful through precision not speed. Micah watches from sitting position,
+      still catching his breath, trying to understand. The crane's calmness radiates outward in
+      golden ripples. Micah's restless energy contrasts sharply with the crane's centered peace.
+      His expression shows frustrated confusion—this goes against everything he knows. The
+      atmosphere is teaching through contrast.
     text: |
-      Micah planted his feet and forced himself to freeze. No running. No jumping. Just...
-      still. His muscles twitched with the need to move. His fingers curled into fists.
-      "Stay still," he whispered through gritted teeth. The threads drifted closer, but
-      they wavered, sensing the tension coiled inside him like a spring. Being motionless
-      wasn't the same as being calm.
+      The crane moved one leg. Slowly. So slowly. Then placed it down. Each movement was
+      deliberate, powerful, complete. "Breath first," it said. "Then movement. Never movement
+      without breath. Speed without stillness is just chaos." Micah fidgeted, already wanting
+      to move. "But how do I learn to be still? I don't know how." The crane's eyes were kind
+      but serious.
 
   - page: right
     page_number: 12
-    focus: Discovering the journey continues deeper
-
+    focus: Receiving direction with warning
     visual: |
-      Micah's rigid stance has collapsed slightly—he's bent forward, hands on his knees,
-      breathing raggedly. The threads have pulled back again, flickering. But now a path
-      of softly glowing stones appears before him, leading deeper into the forest toward
-      a place where the light is gentler. The moth hovers at the path's beginning, wings
-      creating a slow, rhythmic pattern. An invitation.
-
+      The crane points one wing toward a distant garden barely visible through mist—a place so
+      quiet and still it seems to shimmer with enforced peace. Wind chimes hang motionless despite
+      breeze. Everything is deliberate, slow, centered. Micah stares at it with visible dread,
+      his whole body already tensing against the idea. The crane watches him with patient
+      understanding. The atmosphere is heavy with difficult challenge—this will be the hardest
+      thing Micah has ever done. Not because it's physically demanding, but because it requires
+      him to stop.
     text: |
-      His legs started bouncing despite his best effort. The stillness broke like a snapped
-      rubber band, and Micah gasped, moving again. The threads scattered. "I can't do this!"
-      But the moth landed on a stone at his feet, and suddenly he noticed: a path of glowing
-      stones leading toward softer light. Not asking him to stop moving, but to move...
-      differently. Micah straightened, curious. "Okay. Show me."
+      The crane pointed toward a garden in the distance, where everything moved slow as honey,
+      where wind chimes hung silent and stillness was required. "There. Learn to breathe. Learn
+      to pause. Learn to be still." Micah's stomach dropped. Running until exhausted was easy
+      compared to this. His body already itched to move. "I don't think I can." The crane nodded.
+      "That's why you must. The hardest courage is not moving when you want to."

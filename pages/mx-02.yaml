@@ -1,50 +1,47 @@
-# Max's page - Spread 2
-# Inciting incident
-# Max follows the thread into Kathaél and discovers the Heart Crystal crisis
+# Max - Spread 2: Inciting Incident
 
 id: mx-02
 spread: 2
 node_type: solo
-beat: Inciting incident
-
+beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Max follows the thread into Kathaél and discovers a world where courage fuels magic, but the Heart Crystal is cracking from abandoned attempts.
+description: Max discovers Kathaél's broken mechanisms and realizes they failed because someone tried to over-engineer them.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
-
     visual: |
-      Max stands at the threshold between his backyard and a glowing forest,
-      gripping the golden thread. One foot on grass, one on luminous moss.
-      Challenge courses stretch between trees, their obstacles frozen mid-motion.
-      In the distance, the Heart Crystal rises, its facets cracked and dim.
-      His athletic build is poised for action.
-
+      A vast clearing filled with broken mechanical wonders—clockwork creatures frozen mid-step,
+      crystal bridges that should connect but don't, water wheels stopped above flowing streams.
+      Max stands in the center, turning in amazement and growing alarm. Everything is beautifully
+      designed but completely non-functional. Gears scattered across moss. Broken springs. A
+      magnificent clockwork bird lies on its side, wings half-extended. Golden threads that
+      should power these mechanisms hang limp and grey. Max crouches to examine a gear, his
+      expression showing wonder mixed with the detective-mind clicking into action.
     text: |
-      The thread tugged Max forward, and he grabbed it. One step took him from
-      his driveway into a forest that glowed like someone painted it with light.
-      Challenge courses wound between trees, their obstacles frozen wrong, half-built.
-      The golden threads around them flickered weakly. A massive crystal structure
-      rose ahead, cracks spreading across its surface. Something here needed fixing.
+      Max stepped into a graveyard of failed inventions. Clockwork wonders lay broken everywhere—
+      each one brilliantly designed, perfectly calculated, completely overthought. He picked up
+      a gear. The craftsmanship was flawless, but something about it felt forced, joyless. These
+      mechanisms hadn't failed because of bad design. They'd failed because whoever made them
+      had forgotten to let magic be playful.
 
   - page: right
     page_number: 8
     focus: Decision to act
-
     visual: |
-      Max kneels beside a frozen challenge course, touching an obstacle that
-      should move but doesn't. Golden threads connected to it pulse weakly.
-      A fox with knowing eyes watches from nearby. The Heart Crystal glows
-      dimly in the background. Max's expression shows determination and
-      competitive focus kicking in.
-
+      Max stands before a particular clockwork creature—a deer made of brass and crystal, frozen
+      mid-leap. Its internal mechanisms visible through crystal panels show perfect engineering
+      but no life. Max places both hands on it gently, his expression shifting from analytical
+      to empathetic. A faint golden thread connects from his hands to the deer's heart-mechanism.
+      Around him, other broken machines seem to lean in hopefully. His face shows determination—
+      not to fix them with formulas, but to understand what they need. The atmosphere shifts from
+      observation to commitment.
     text: |
-      Max knelt beside a frozen balance beam. It should have been moving, creating
-      a challenge, but it hung still and grey. He pushed it, and it creaked sadly.
-      The threads connected to it flickered like dying stars. A fox watched him
-      with ancient eyes, and somehow Max understood: these challenges had been
-      abandoned mid-attempt. "I don't quit," Max said, standing. "Let me help."
+      One clockwork deer caught his eye, frozen mid-leap, beautiful and dead. Max touched its
+      crystal heart, feeling the mechanism inside—perfect gears, precise timing, zero joy. He
+      understood suddenly. These inventions needed more than engineering. They needed someone to
+      play with them, experiment, try things just to see what happened. "I can help you," he
+      promised the deer. Not with calculations. With curiosity.

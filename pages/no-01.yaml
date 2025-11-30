@@ -1,49 +1,49 @@
-# Noah - Spread 1: Opening
-# Emotional beat: FRUSTRATION → CURIOSITY
-# Stakes hint: The thread is fraying, suggesting urgency
+# Noah - Spread 1: Ordinary World
 
 id: no-01
 spread: 1
 node_type: solo
-beat: Ordinary world + desire hint
-
+beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah sits surrounded by crossed-out stories, frustrated that nothing feels right, until a golden thread appears with an urgent shimmer.
+description: Noah works on his latest story, struggling to find the perfect ending, when something magical interrupts.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
-
     visual: |
-      Noah sits cross-legged on his bedroom floor, surrounded by crumpled papers.
-      His notebook shows crossed-out lines and margin notes. He holds a pen above
-      another failed ending, brow furrowed. A ukulele leans forgotten against
-      his wall. Late afternoon light streams through his window.
-
+      Noah's desk in his room, covered with notebooks, loose papers, and sticky notes. Noah (12
+      years old, sandy blond voluminous hair, medium build, wearing blue hoodie and tan sport
+      pants) hunches over his laptop, fingers flying across the keyboard. Multiple browser tabs
+      show research for his story. Crumpled papers surround his wastebasket showing crossed-out
+      attempts. His ukulele leans against the desk. Bookshelves line the walls, stuffed with
+      adventure novels. His expression shows intense concentration mixed with frustration. The
+      room is cluttered but organized in his own system. Late afternoon light streams through
+      the window.
     text: |
-      "And they lived happily..." Noah scratched out the words. Too easy.
-      He flipped to a fresh page and tried again. "The hero discovered..."
-      No. Still wrong. He groaned and tossed the notebook aside. "Why can't
-      I just finish one story?" Every ending he wrote felt like a door
-      slamming shut on something that wanted to stay open.
+      Noah stared at the blinking cursor, willing the right words to appear. He'd rewritten
+      this ending seventeen times, and none of them felt right. Each version sat crumpled in
+      the wastebasket, proof that knowing a story needed an ending didn't mean knowing what
+      that ending should be. He backspaced the whole paragraph again. There had to be a perfect
+      solution. He just had to find it.
 
   - page: right
     page_number: 6
     focus: First hint of something different
-
     visual: |
-      Noah's head snaps up toward his window. A single golden thread floats
-      in the air, its end frayed and flickering like a candle about to die.
-      The thread pulses urgently, trailing off into nothing. His notebook
-      lies forgotten on the floor beside him.
-
+      Noah's laptop screen glitches, pixels rearranging into golden threads that seem to flow
+      out of the screen into the real world. Noah leans back in his chair, eyes wide, watching
+      as the golden threads weave through the air between him and the laptop, forming words
+      that shimmer: "Some stories need living, not writing." The threads pulse with warm light,
+      beckoning. His notebooks flutter their pages despite no breeze. One thread reaches toward
+      his hand as if inviting him to grab it. His expression shifts from frustration to amazed
+      curiosity. The atmosphere crackles with unexpected possibility.
     text: |
-      A shimmer caught his eye. At the window, a thread of golden light
-      hovered, thin and bright. But something was wrong with it. The end
-      flickered weakly, fraying like a rope about to snap. "That's not
-      supposed to happen," Noah whispered. He reached toward it, and the
-      thread pulsed warmer, tugging gently. It wrapped around his wrist
-      like it was asking—no, needing—his help.
+      The screen flickered. Golden threads poured from his laptop into the real world, weaving
+      through the air like liquid light. Words formed in the threads: "Some stories need living,
+      not writing." Noah's analytical mind tried to make sense of it, but the threads didn't
+      wait for logic. One curled around his wrist, warm and insistent, pulling gently toward
+      somewhere his ordinary room couldn't reach. Adventure, his favorite genre, was calling him
+      to participate.

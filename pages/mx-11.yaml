@@ -1,51 +1,46 @@
-# Max's page - Spread 11
-# Resolution (external)
-# The Crystal heals, and Max receives a token of his growth
+# Max - Spread 11: External Resolution
 
 id: mx-11
 spread: 11
 node_type: solo
 beat: "Resolution (external)"
-
 hook: Return journey begins with hint of future possibility or unresolved element.
 payoff: Character arrives home integrating what they gained from the journey.
 
-description: The Heart Crystal blazes with renewed strength, and Max receives a wristband that glows when he persists through difficulty.
+description: Max receives Kathaél's gift and carries the workshop's wisdom home.
 
 scenes:
   - page: left
     page_number: 25
     focus: Goal achieved, external reward
-
     visual: |
-      The Heart Crystal blazes with light, every facet glowing strong. Max's
-      challenge weaves into the crystal structure, its imperfect form creating
-      new patterns. Between his hands materializes a simple wristband woven
-      from golden thread, glowing softly. The fox from earlier watches with
-      approval, tail swishing.
-
+      The clearing of mechanisms transformed—every clockwork creature moving freely, bridges
+      connecting, water wheels turning, all powered by golden threads. The clockwork deer leaps
+      gracefully beside Max, fully alive. Max stands with hands cupped, receiving a gift from
+      the mechanisms themselves: a small crystal gear that glows with golden light, pulsing with
+      the rhythm of experimentation rather than perfection. Around him, mechanical creatures dance
+      and play, celebrating. His expression shows joy and humble pride. A doorway opens in the
+      clearing, leading home. The atmosphere celebrates success earned through persistence.
     text: |
-      The Crystal blazed like a star, every facet strong again. Max's imperfect
-      challenge wove itself into the pattern, and somehow its rough edges made
-      the whole structure more resilient. Light gathered in his palms, warm
-      and solid, until a wristband appeared—simple, golden, pulsing gently.
-      The fox sat nearby, watching. Max grinned. "I really didn't quit."
+      Every mechanism moved, alive and joyful. The deer bounded around Max, its movements graceful
+      but imperfect, magical because it was real. The mechanical owl descended, dropping a crystal
+      gear into Max's hands—warm and pulsing. He understood. This was Kathaél's gift: the gear
+      that valued trying over perfection, that turned failures into lessons. All his experiments
+      had mattered. The doorway home shimmered, and he was ready.
 
   - page: right
     page_number: 26
     focus: Beginning the return
-
     visual: |
-      Max walks along a glowing path toward home, the wristband warm on his
-      wrist. Around him, challenge courses complete themselves, incorporating
-      mistakes into their designs instead of erasing them. A rabbit hops
-      alongside him. His driveway with the basketball hoop glows warmly in
-      the distance between trees.
-
+      Max walks through the forest toward home, the crystal gear in his pocket glowing softly.
+      He tosses a small pebble playfully, watching it spark with golden light mid-air—Kathaél's
+      magic responding to his playful experimentation. He grins widely, mind already racing with
+      ideas for new inventions to try. The clockwork deer trots beside him for a few steps before
+      bounding back into the forest. Golden threads shimmer faintly in the air. His whole demeanor
+      radiates confident curiosity. The atmosphere celebrates both completion and new beginnings.
     text: |
-      Max walked home, the wristband humming against his wrist. All around,
-      frozen challenges began moving again, their designs incorporating the
-      stumbles and adjustments that made them real. A rabbit hopped beside
-      him for a few steps, then darted away. "Thank you," Max called to the
-      forest. The basketball hoop in his driveway gleamed ahead, looking
-      somehow different.
+      Max walked home with the crystal gear and a transformed perspective. Inventions needed tries,
+      not immediate triumph. Failed experiments weren't wasted—they were research, each attempt
+      revealing what worked and what didn't. The gear glowed warm in his pocket, reminding him
+      that curiosity mattered more than certainty. He couldn't wait to get back to his workshop,
+      to try new things without fear of failure.

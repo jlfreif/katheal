@@ -1,56 +1,40 @@
-# Shared page: Elise and Micah - Spread 2
-# Meeting Node: Cousins discover Kathaél's fading magic together
-# Emotional beat: DISCOVERY → SHARED DETERMINATION → PARTNERSHIP
-# Stakes reinforced: The realm's magic is actively dimming
+# Meeting Node: Elise & Micah at Spread 2
 
 id: el-mi-02
 spread: 2
 node_type: meeting
 beat: "Inciting incident"
-
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Elise and Micah discover each other in a grove where performances have frozen mid-act, both noticing that Kathaél's magic is failing and deciding to help together.
+description: Elise and Micah discover a frozen grove where performances have stopped mid-motion, and decide to help.
 
-# === MEETING NODE SPECIFIC FIELDS ===
+location: A clearing in Kathaél where dancers and singers are frozen mid-performance, their movements captured like statues
 
-location: A grove where magical performances are frozen in time, dancers and musicians caught mid-movement
-
-shared_action: Both children reach toward a frozen dancer at the same moment, their hands meeting as they realize the magic needs their help
+shared_action: Both characters try to restart the performances by mimicking the frozen movements
 
 dialogue_packets:
-  - speaker: elise
-    line: "Micah? Is that you?"
-    works_from_pov: [el, mi]
   - speaker: micah
-    line: "Elise! What are you doing here? Look at them, they're just... stuck."
+    line: "They're stuck. Like someone hit pause."
     works_from_pov: [el, mi]
   - speaker: elise
-    line: "I think the magic is fading. We should try to help."
-    works_from_pov: [el, mi]
-  - speaker: micah
-    line: "Yeah. Together?"
-    works_from_pov: [el, mi]
-  - speaker: elise
-    line: "Together."
+    line: "Maybe if we move with them, they'll start again?"
     works_from_pov: [el, mi]
 
 image_alignment:
-  scene_id: frozen-performances-discovery-002
+  scene_id: frozen-performance-002
   shared_elements:
-    - Grove with magical performances frozen mid-act
-    - Dancers suspended in impossible poses
-    - Musicians with instruments raised but silent
-    - Fading golden threads overhead
-    - Twilight atmosphere with dimming magic
+    - frozen dancers in mid-leap
+    - frozen singers with mouths open
+    - golden threads connecting performers
+    - clearing surrounded by luminous trees
   pov_variants:
     - character_code: el
-      camera_position: slightly behind Elise, showing her reaching toward frozen dancer with Micah visible ahead
+      camera_position: behind Elise as she mirrors a frozen dancer's pose
       focal_character: elise
       background_characters: [micah]
     - character_code: mi
-      camera_position: slightly behind Micah, showing him reaching toward frozen dancer with Elise visible ahead
+      camera_position: behind Micah as he attempts a frozen leap
       focal_character: micah
       background_characters: [elise]
 
@@ -58,37 +42,35 @@ scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
-
     visual: |
-      A grove filled with magical performers frozen in mid-performance. A dancer balances
-      on one toe, her arms extended in an impossible arc, completely motionless. Musicians
-      hold instruments mid-note, their expressions captured in concentration. Elise (9
-      years old, long brown hair, graceful and slim) enters the clearing, her eyes wide
-      with concern. She reaches tentatively toward the frozen dancer. Golden threads
-      overhead flicker weakly, their glow fading. The whole scene has a twilight quality,
-      as if time itself is struggling.
-
+      A forest clearing filled with frozen performers. Three dancers are suspended mid-leap,
+      their bodies arched gracefully in the air, clothes and hair caught in impossible stillness.
+      Two singers stand with mouths open, hands raised expressively, frozen in the middle of a note.
+      Golden threads connect them all, dulled and tangled. Elise (9 years old, long brown hair,
+      slim, wearing black leggings and provence t-shirt) stands at the clearing's edge, one hand
+      reaching toward a frozen dancer, her expression a mix of wonder and concern. Micah (9 years old,
+      black hair, athletic, wearing grey t-shirt and black shorts) crouches near a frozen singer,
+      tilting his head as he examines the golden threads. Morning light filters through the trees,
+      making the frozen scene eerily beautiful.
     text: |
-      Elise danced into the grove and stopped mid-turn, breathless. Performers everywhere,
-      frozen like statues. A dancer hung mid-leap, one foot pointed, arms spread—exactly
-      the pose Elise had just been practicing. Musicians held silent instruments. Even
-      the trees seemed to hold their breath. "What happened to you?" she whispered,
-      reaching toward the dancer's outstretched hand.
+      Elise stepped into the clearing and froze herself. Dancers hung in mid-air, singers
+      held impossible notes, all turned to statues of light and color. Micah appeared from
+      another path, moving fast until he saw what she saw. "They're stuck," he whispered, circling
+      a frozen performer. "Like someone hit pause."
 
   - page: right
     page_number: 8
-    focus: Decision to act together
-
+    focus: Decision to act
     visual: |
-      Micah (9 years old, black hair, athletic half-Japanese build, constantly in motion)
-      enters from the opposite side, also reaching toward the frozen dancer. His hand and
-      Elise's nearly touch. Both children's faces show recognition and relief at finding
-      someone else who sees the problem. The golden threads pulse once, weakly, as if
-      acknowledging their combined presence. The frozen performers remain motionless,
-      but the cousins' determination creates a subtle warmth in the air.
-
+      Elise mirrors the pose of the frozen dancer, standing on one leg with arms extended, trying
+      to match the graceful arch. Micah attempts a frozen leap nearby, his body mid-jump, arms
+      spread wide. Both children are fully engaged, faces showing concentration and effort. The
+      golden threads around them pulse faintly, responding to their movement. The frozen performers
+      remain still, but the threads connecting them brighten slightly where Elise and Micah move.
+      Soft particles of light drift through the air. The forest seems to lean in, watching.
     text: |
-      A sound made her turn. Micah stood on the other side of the frozen dancer, his
-      hand extended just like hers. "Elise!" His face broke into a grin despite the
-      strangeness around them. "You see it too. They're stuck." She nodded. "The magic
-      is fading." Micah's expression turned serious. "Then let's fix it. Together."
+      Elise copied the dancer's pose, extending her arms, lifting one leg. Maybe if they moved
+      with them, the performers would wake up. Micah leaped into the air, matching a frozen
+      jump. For a heartbeat, the golden threads hummed. Then the children landed, and the
+      clearing stayed silent. They'd need more than copying. They'd need to understand what
+      made performances come alive.

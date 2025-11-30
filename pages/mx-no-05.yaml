@@ -1,52 +1,79 @@
-# Shared page: Max and Noah - Spread 5
-# Meeting Node: Two analytical boys discover each other
-# Emotional beat: OVERWHELM → RECOGNITION → MUTUAL UNDERSTANDING
-# Stakes reinforced: Their systematic approaches are making things worse
+# Meeting Node: Max & Noah at Spread 5
 
 id: mx-no-05
 spread: 5
 node_type: meeting
 beat: "Attempt #3 (bigger world / stakes up)"
-
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Max and Noah meet while running from a storyteller whose formulaic approach causes stories to smoke and knot. They discover they've both been using similar analytical methods that don't work.
+description: Max and Noah meet a smooth-talking crow who offers shortcuts that sound too good to be true.
+
+location: A vast clearing filled with broken crystal fragments and tangled golden threads, signs of failed attempts
+
+shared_action: Both listen to a crow's confident advice and watch it fail dramatically
+
+dialogue_packets:
+  - speaker: crow
+    line: "You're overthinking it, boys. Just grab the biggest thread and pull!"
+    works_from_pov: [mx, no]
+  - speaker: max
+    line: "That seems... too simple?"
+    works_from_pov: [mx, no]
+  - speaker: noah
+    line: "But maybe simple is what we're missing?"
+    works_from_pov: [mx, no]
+
+image_alignment:
+  scene_id: crow-clearing-005
+  shared_elements:
+    - large glossy black crow
+    - broken crystal shards on ground
+    - tangled golden threads
+    - vast clearing
+  pov_variants:
+    - character_code: mx
+      camera_position: showing Max listening skeptically with Noah beside him
+      focal_character: max
+      background_characters: [noah]
+    - character_code: no
+      camera_position: showing Noah considering crow's words with Max visible
+      focal_character: noah
+      background_characters: [max]
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
-
     visual: |
-      Noah runs through a vast clearing where hundreds of golden threads hang suspended,
-      all frayed and flickering. He holds his notebook against his chest as he moves.
-      Ahead, a storyteller in a patched coat gestures wildly at threads, and where he
-      touches them, they smoke and writhe. Another boy with red hair and a notebook
-      sprints toward the same scene from a different path.
-
+      A vast clearing littered with broken crystal fragments that catch the light in rainbow
+      flashes. Tangled golden threads lie across the ground like discarded string, knotted and
+      dull. Max (12 years old, straight red hair parted down the middle, tall and slim, wearing
+      black t-shirt and light blue basketball shorts) stands examining a cluster of threads,
+      his expression analytical. Noah enters the clearing from another direction, stopping when
+      he sees the chaos. A large glossy black crow perches on a broken crystal pillar, watching
+      them with shrewd, knowing eyes. The clearing feels like a graveyard of failed attempts.
+      The forest beyond seems to close in around this open space.
     text: |
-      The clearing stretched impossibly wide, hundreds of frozen stories hanging in the
-      air. Noah ran forward, breath catching. "This is... there are so many." A man in
-      a patched coat was grabbing threads, and they smoked under his touch. "You want
-      to help stories? I have the formula!" the storyteller shouted. "Twelve steps,
-      perfectly predictable!" A thread knotted violently, and Noah skidded to a stop.
+      Max stared at the mess of threads and broken crystals scattered across the clearing.
+      Someone had tried to fix things here and failed badly. Footsteps made him turn. Another
+      boy, about his age, stopped at the clearing's edge, taking in the same wreckage. A crow
+      cackled from above. "Ah, more helpers. Perfect."
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
-
     visual: |
-      Max and Noah both dive forward simultaneously, reaching to stop the storyteller
-      from touching more threads. A thread behind them explodes into sparks, forcing
-      them to duck. Both boys stumble backward, panting, holding notebooks covered
-      in crossed-out attempts. Behind them, the storyteller's formula-chart burns
-      and crumbles.
-
+      The crow swoops down between Max and Noah, its wings spread wide, beak open as it talks
+      confidently. One wing points dramatically at the largest, brightest golden thread hanging
+      in the air above them. Max crosses his arms, head tilted skeptically, eyebrows raised.
+      Noah leans forward, hand on his chin, looking torn between doubt and hope. The thread the
+      crow indicates pulses enticingly but something about it feels off—too bright, too easy.
+      The broken crystals at their feet seem to warn against simple solutions. Shadows lengthen
+      across the clearing.
     text: |
-      The storyteller lunged for another thread, and both boys dove forward. "Stop!"
-      they shouted together. A thread sparked and whipped past Noah's ear. He ducked,
-      stumbled, and crashed into someone with red hair. They both fell, breathing
-      hard. "You've been trying to analyze them too?" the other boy gasped, holding
-      up a notebook identical to Noah's. Noah laughed, breathless. "Yeah. And it's
-      not working."
+      "You're overthinking it, boys," the crow said smoothly, gesturing at the brightest thread.
+      "Just grab that one and pull. Easy!" Max's eyes narrowed. "That seems... too simple?"
+      But Noah hesitated. "Maybe simple is what we're missing?" The crow's eyes glinted. Before
+      they could decide, it grabbed the thread itself and yanked. The thread snapped instantly,
+      scattering into dull grey dust. The crow squawked and fled.

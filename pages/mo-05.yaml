@@ -1,58 +1,45 @@
-# Mona - Spread 5: Deeper Challenge
-# Emotional beat: CONFIDENCE → UNCERTAINTY → PERSISTENCE
-# After meeting Maya: Learned that courage creates lasting color
-# New challenge: Must try something that feels too big for someone so small
-# Connection to courage theme: Sometimes trying new things means trying things others think you can't do
+# Mona - Spread 5: Bigger World
 
 id: mo-05
 spread: 5
 node_type: solo
-beat: "Midpoint revelation"
+beat: "Attempt #3 (bigger world / stakes up)"
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
 
-hook: Discovery or revelation that reframes the entire quest or raises the stakes significantly.
-payoff: Clear understanding of what's truly required, with path forward visible but daunting.
-
-description: Mona discovers a garden of giant musical flowers that have stopped singing because no one has been brave enough to try their game, and she must attempt to play them despite being so small.
+description: Mona meets a flashy peacock who shows off instead of trying, learning that showing off isn't the same as being brave.
 
 scenes:
   - page: left
     page_number: 13
-    focus: The stakes become clearer
-
+    focus: Entering unfamiliar territory
     visual: |
-      Mona stands at the edge of a garden filled with enormous flower-bells,
-      each taller than a grown-up. The flowers are gray and silent, hanging
-      limp on their stems. Musical notes float frozen in the air around them
-      like ice crystals. Mona looks tiny in comparison, craning her neck to
-      see the tops of the flowers. Her glowing block pulses urgently. A wise
-      old turtle sits nearby on a rock, watching her with ancient eyes.
-
+      A grand garden with elaborate fountains and ornate statues, much fancier than the simple
+      playground. Mona toddles in looking tiny among the big fancy things. A magnificent peacock
+      struts around, tail feathers fully displayed in brilliant blues and greens, showing off
+      proudly. It preens and poses, very impressed with itself. Mona watches with wide eyes—
+      the peacock is so pretty and confident. Other creatures watch the peacock but nothing is
+      actually happening or moving. The atmosphere is all show, no substance.
     text: |
-      The garden was full of giant flower-bells, taller than any grown-up Mona
-      knew. But they weren't singing. A turtle as old as stories blinked at her.
-      "The Singing Flowers forgot their music," he said slowly. "They ring when
-      someone tries their game—hopscotch on the colored stones. But the stones
-      are far apart. Too far for little legs." The turtle looked sad. "No one's
-      been brave enough to try in a very long time."
+      Mona wandered into a fancy garden, much bigger than the playground. A peacock strutted
+      around, tail spread wide, showing its beautiful feathers. "Look at me!" it called proudly.
+      "I'm so brave! I'm so magnificent!" It posed and preened. Mona tilted her head. The peacock
+      looked brave. But was looking brave the same as being brave?
 
   - page: right
     page_number: 14
-    focus: Accepting the difficult path
-
+    focus: Encountering misleading help
     visual: |
-      Mona approaches the first colored stone, which is far from the second one—
-      a distance that would be a normal step for an older child but is a big
-      leap for a toddler. She stands at the edge, looking at the gap, her
-      expression showing both uncertainty and determination. Her hands curl into
-      little fists. The glowing block sits on the first stone, encouraging her.
-      The gray flower-bells loom overhead, waiting. A tiny spark of color appears
-      at the base of the nearest flower.
-
+      The peacock demonstrates its "bravery" by showing off more, strutting and posing, but when
+      Mona points at a new toy to try, the peacock backs away nervously. "Oh, I don't actually
+      TRY new things," it says, tail drooping. "I just look like I would." Mona's expression
+      shows toddler confusion turning to understanding. She looks from the posing peacock to the
+      untried toy and back. The peacock's beautiful feathers suddenly seem less impressive. A
+      golden thread appears faintly near the toy, not the peacock. The atmosphere shifts from
+      impressive to empty.
     text: |
-      Mona toddled to the first stone. Red! She loved red. But the next stone—
-      yellow—was so far away. Too far for her little legs. She looked at the
-      gap, then at the sad gray flowers, then at her glowing block. It hummed:
-      You can try! Mona took a big breath. Mama said trying was how you learned.
-      Maya said courage made colors stay. Mona didn't know if she could jump
-      that far. But she could try! She bent her knees, wiggled her bottom, and—
-      jumped!
+      "Show me!" Mona said, pointing at a big new toy. The peacock's eyes got wide. "Oh no, I
+      don't actually TRY things. Too scary. I just look brave." Its tail drooped. Mona stared.
+      Looking brave wasn't the same as being brave. Being brave meant actually doing the scary
+      thing. The peacock was just pretending. Mona toddled toward the new toy herself. Real
+      brave meant real trying.

@@ -1,51 +1,47 @@
-# Micah - Spread 5: Third Attempt
-# Emotional beat: DISCOVERY → BREAKTHROUGH
-# Escalation: Finding balance between movement and breath
-# World rule hint: True courage combines motion with mindful breathing
+# Micah - Spread 5: Bigger World
 
 id: mi-05
 spread: 5
 node_type: solo
-beat: "Attempt #3 (creative approach)"
+beat: "Attempt #3 (bigger world / stakes up)"
+hook: Questionable character offers confident solution, creating doubt about whether to trust them.
+payoff: The suggested solution fails spectacularly and obviously wrong.
 
-hook: Creative solution shows promise but isn't quite sufficient yet.
-payoff: Partial success proves the approach works, suggesting full solution is near.
-
-description: Micah discovers he can move slowly while breathing deliberately, practicing a flowing parkour sequence timed to his breath, and the threads begin to respond positively.
+description: Micah meets a hummingbird who claims constant motion is the answer, leading to greater chaos.
 
 scenes:
   - page: left
     page_number: 13
-    focus: Testing a creative solution
-
+    focus: Entering unfamiliar territory
     visual: |
-      Micah moves in slow motion through a parkour vault, his body flowing gracefully over
-      a fallen log. His eyes are half-closed, focused inward. Visible breath mist forms in
-      the air (despite it not being cold) showing his deliberate breathing pattern. Golden
-      threads nearby sway gently toward him, following his rhythm. The moth flies alongside
-      him, matching his pace.
-
+      The edge of the still garden, which Micah hasn't entered yet. A hyperactive hummingbird
+      zips around him in frantic circles, wings beating impossibly fast, never holding still for
+      even a heartbeat. It moves even faster than Micah, chaotic and scattered. Micah watches it
+      with recognition—this is him multiplied, constant motion without pause. The hummingbird
+      speaks in rapid-fire bursts. The garden beyond looks calm and peaceful, but this hummingbird
+      represents Micah's resistance to it. The atmosphere is jittery and unsettled, avoiding the
+      real challenge.
     text: |
-      Micah breathed in and stepped forward. Breathe out, reach for the log. Breathe in,
-      vault over. Each movement stretched slow and intentional, matched to his breath.
-      It felt strange—parkour at quarter-speed—but also... right. The threads drifted
-      closer, pulsing in time with his breathing. "Okay," he whispered between breaths.
-      "We're getting somewhere."
+      At the garden's edge, a hummingbird blurred around Micah in frantic spirals. "Don't listen
+      to that boring crane!" it buzzed. "Stillness is wrong! Motion is life! Speed is everything!
+      I never stop, never pause, never rest, and I'm fine! See?" It zipped faster, making Micah
+      dizzy. The bird's confidence was infectious. Maybe the crane was wrong. Maybe constant
+      motion was the answer after all.
 
   - page: right
     page_number: 14
-    focus: Partial success showing the path forward
-
+    focus: Encountering misleading help
     visual: |
-      Micah completes his slow sequence and pauses, breathing steadily. Three golden threads
-      have woven themselves into a small, stable pattern near his hands, glowing brighter
-      than before. But dozens more still flicker in the distance, too far to reach. His face
-      shows both pride and understanding—this works, but there's more to learn. The forest
-      ahead seems to pulse with deeper challenges.
-
+      The hummingbird attempts to show off its superior approach by moving even faster, but
+      suddenly crashes into a tree, falls, and lies stunned and dizzy on the ground, wings
+      trembling. It moved so fast for so long it literally couldn't see straight anymore. Micah
+      crouches beside it, concerned. The hummingbird's eyes spin in different directions. "Maybe...
+      need... tiny pause..." it admits weakly before passing out from exhaustion. Micah looks
+      from the collapsed hummingbird to the still garden beyond. The atmosphere shifts from
+      avoidance to recognition—he can't run from this lesson forever.
     text: |
-      Three threads wove together in his hands, stable and bright. Micah grinned, still
-      breathing slowly, deliberately. It worked! But dozens more flickered beyond his reach,
-      and the Heart Crystal's glow remained dim. This was progress—breathing while moving,
-      moving while breathing—but it wasn't enough yet. He looked toward where the threads
-      led, deeper into Kathaél. "One step at a time," he told himself. "One breath at a time."
+      The hummingbird sped faster to prove its point, zipping in tighter and tighter circles
+      until—WHAM—it crashed into a tree and dropped like a stone. It lay dazed on the ground,
+      wings twitching, eyes unfocused. "Maybe... pause... good?" it mumbled, then passed out.
+      Micah stared at the tiny exhausted bird. That would be him if he never learned to stop.
+      The still garden waited. He couldn't avoid it anymore.
