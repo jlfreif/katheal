@@ -61,7 +61,7 @@ scene_structure:
 # This template maps out a complete story arc across 12 spreads (24 pages).
 # Each spread contains 2 pages, and each page contains 1 scene with:
 #   - 1 image per page (2 images per spread)
-#   - 3-4 sentences per scene
+#   - 2-3 sentences per scene
 #   - Each story beat is expressed over two scenes (left page + right page)
 #
 # Based on classic story structure: setup, rising action, midpoint,
@@ -71,7 +71,7 @@ scene_structure:
 #   - 12 spreads total
 #   - 2 pages per spread (left page + right page)
 #   - 1 image per page
-#   - 3-4 sentences per scene
+#   - 2-3 sentences per scene
 #   - Each story beat spans both pages of a spread
 #
 # NODE TYPES:
@@ -107,10 +107,10 @@ spreads:
     scenes:
       - page: left
         focus: Character in their ordinary world
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: First hint of something different
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: false
 
   # Spread 2 - Inciting Incident
@@ -125,10 +125,10 @@ spreads:
     scenes:
       - page: left
         focus: Discovery of the problem
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Decision to act
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -144,10 +144,10 @@ spreads:
     scenes:
       - page: left
         focus: Trying the obvious solution
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Realizing it doesn't work
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -163,10 +163,10 @@ spreads:
     scenes:
       - page: left
         focus: Seeking guidance
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Receiving direction with warning
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -182,10 +182,10 @@ spreads:
     scenes:
       - page: left
         focus: Entering unfamiliar territory
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Encountering misleading help
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -201,10 +201,10 @@ spreads:
     scenes:
       - page: left
         focus: Recognizing what doesn't work
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Discovering a new pattern
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -220,10 +220,10 @@ spreads:
     scenes:
       - page: left
         focus: Making progress toward goal
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Realizing something is missing
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -239,10 +239,10 @@ spreads:
     scenes:
       - page: left
         focus: External obstacles intensify
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Inner doubt and discouragement
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -258,10 +258,10 @@ spreads:
     scenes:
       - page: left
         focus: Making the choice to continue
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Discovering the missed clue
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -277,10 +277,10 @@ spreads:
     scenes:
       - page: left
         focus: Facing the final challenge
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Taking decisive action
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
@@ -296,10 +296,10 @@ spreads:
     scenes:
       - page: left
         focus: Goal achieved, external reward
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Beginning the return
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: false
 
   # Spread 12 - Resolution (Emotional) (MUST be character-specific, no nodes)
@@ -314,10 +314,10 @@ spreads:
     scenes:
       - page: left
         focus: Returning to ordinary world
-        text_sentences: 3-4
+        text_sentences: 2-3
       - page: right
         focus: Transformed by the journey
-        text_sentences: 3-4
+        text_sentences: 2-3
     node_allowed: false
 
 # Node Type Definitions
