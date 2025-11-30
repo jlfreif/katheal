@@ -1,51 +1,46 @@
-# Max's page - Spread 9
-# Deepening choice / inner shift
-# Max chooses to try fixing his biggest mistake, even though it seems impossible
+# Max - Spread 9: Inner Shift
 
 id: mx-09
 spread: 9
 node_type: solo
 beat: "Deepening choice / inner shift"
-
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Max decides to attempt fixing the broken challenge not despite his big mistake, but through it—using the wreckage as raw material for something new.
+description: Max chooses to keep experimenting and discovers the key he missed in his earliest attempt.
 
 scenes:
   - page: left
     page_number: 21
     focus: Making the choice to continue
-
     visual: |
-      Max stands, rain-soaked, and walks back toward the destroyed challenge.
-      He picks up a broken piece of metal, testing its weight. His posture
-      shows determination mixed with uncertainty. The bird from before watches
-      with approval. His notebook lies closed on the ground—he's not following
-      a system anymore.
-
+      Max stands up from his slumped position, wiping his eyes, setting his jaw with determination.
+      He picks up the broken clockwork mouse that moves in circles, studying it with fresh perspective.
+      Around him, the failed experiments now look different—not like waste, but like learning.
+      He grabs his tools again, not to fix something perfectly, but to try one more experiment.
+      His posture straightens from defeated to curious. His expression shows renewed purpose mixed
+      with humility. The atmosphere shifts from heavy to energized, possibility returning.
     text: |
-      Max stood. He didn't know how to fix this. Didn't have a system or
-      technique. But the thread was still there, weak but alive. He walked
-      back to the wreckage and picked up a broken beam. Maybe he couldn't
-      restore what was. But maybe he could build something new from the
-      mistake. "Okay," he said to the wreckage. "Let's try."
+      Max pushed himself up. He wasn't done. Every failure had taught him something valuable—he
+      just hadn't been paying attention to the lessons. He picked up the circling mouse, really
+      looking at it this time. What if the "mistakes" were actually showing him something? What
+      if he'd been so focused on the end goal that he'd missed the clues in the process? He
+      grabbed his notebook. Time to try again. Differently this time.
 
   - page: right
     page_number: 22
     focus: Discovering the missed clue
-
     visual: |
-      Max works with the broken pieces, not trying to rebuild the original
-      perfectly but creating something new from the ruins. As he connects
-      pieces, golden threads weave between them, stronger than before. A
-      warmth spreads through the air—someone else's courage reaching him.
-      The challenge begins glowing, different but alive.
-
+      Max's eyes widen in realization as he looks back at his very first failed attempt—the gear
+      that sparked golden. He'd dismissed it as wrong, but now he sees the spark pattern formed
+      a rhythm, a heartbeat. He grabs that gear and places it in the clockwork deer's heart,
+      not calculating, just feeling. Golden threads shimmer into visibility throughout the workshop,
+      connecting all his failed experiments in a web of learning. The deer's thread glows brilliantly.
+      Around him, the broken machines begin to hum softly. His expression shows amazed understanding.
+      The atmosphere blazes with breakthrough joy.
     text: |
-      Max pieced together broken beams, twisted metal, collapsed ropes—not
-      rebuilding what was, but making something new. The threads wove between
-      his hands, humming. Warmth flooded through him, bright and unexpected,
-      like someone far away was being brave at the exact same moment. The
-      challenge glowed to life, different from the original but stronger.
-      "Mistakes don't have to be endings," Max breathed.
+      Max stared at his first failed experiment—the gear that had sparked wrong. Except it hadn't
+      been wrong. The sparks had formed a pattern, a rhythm like a heartbeat. That was what the
+      deer needed. Not perfect mechanism but genuine life. He placed the "failed" gear in the
+      deer's heart. Golden threads blazed. The deer's eyes flickered. Every failed attempt had
+      been teaching him this truth: magic valued trying over triumph.

@@ -1,49 +1,47 @@
-# Maya's page - Spread 1
-# Ordinary world + desire hint
-# Maya in her ordinary world, showing her artistic energy and desire for self-expression
+# Maya - Spread 1: Ordinary World
 
 id: ma-01
 spread: 1
 node_type: solo
-beat: Ordinary world + desire hint
-
+beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Maya paints in her Madrid bedroom, creating bold colorful art, until a shimmer of light appears that doesn't match her paints.
+description: Maya paints in her room when colors begin acting magical and alive.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
-
     visual: |
-      Maya sits cross-legged on her bedroom floor surrounded by paint supplies,
-      her pink-streaked sandy-blond hair catching afternoon light from the
-      window. Bold colorful paintings cover the walls. She's painting a dance
-      scene with energetic brushstrokes, tongue poking out in concentration.
-      Music plays softly in the background.
-
+      Maya's room in Madrid, walls covered with her bold, colorful artwork. Maya (9 years old,
+      wavy shoulder-length sandy-blond hair with distinctive pink streak, athletic build, wearing
+      light blue jeans and pink sweater) stands before an easel, paintbrush in hand, working on
+      a vibrant abstract painting. Paint splatters dot the floor in rainbow colors. Her art shows
+      bold strokes and confident color choices—nothing timid or careful. Dance shoes hang on
+      the wall beside Spanish vocabulary flashcards. Her expression shows fierce concentration
+      and joy. The room reflects her personality: spirited, bold, authentic.
     text: |
-      Maya's brush swept across the paper in bold strokes—bright pink, electric
-      blue, sunshine yellow. She was painting a dancer mid-leap, all energy
-      and motion. "That's not right," she muttered, adding more pink. Then
-      more blue. The painting got bolder, more Maya. 
+      Maya slashed pink across the canvas, then added electric blue without hesitation. Her art
+      teacher always said to plan compositions carefully, but Maya painted from her gut—bold,
+      wild, completely herself. She grabbed orange next, swirling it through the pink. The colors
+      sang together, bright and unafraid. This was how she thought, how she felt, how she showed
+      the world who she really was.
 
   - page: right
     page_number: 6
     focus: First hint of something different
-
     visual: |
-      Maya freezes, paintbrush hovering, as the painted dancer on her paper
-      begins to glow with golden light that has nothing to do with her paints.
-      The glow pulses gently, inviting. Her eyes widen with delighted curiosity.
-      Pink paint drips forgotten from her brush. The light seems to dance in
-      rhythm with music only it can hear.
-
+      The paint on Maya's canvas begins to glow and move, colors swirling on their own, lifting
+      off the canvas into three-dimensional streams of light. Maya steps back, paintbrush frozen
+      mid-air, eyes wide with amazement. The pink she just painted flows into the air like ribbon,
+      the blue follows, the orange dances around them both. They weave together creating patterns
+      more beautiful than she'd planned, forming words in the air: "Your colors need a bigger
+      canvas." Her room's walls seem to shimmer. The atmosphere crackles with colorful magic and
+      unlimited possibility.
     text: |
-      The dancer on her paper started to glow. Maya blinked, but the light
-      didn't fade. It pulsed softly, goldenly, moving like the figure wanted
-      to dance right off the page. Her paint couldn't do that. She leaned
-      closer, brush forgotten. The glow brightened as if responding to her
-      attention. "Whoa," Maya breathed. "Are you magic?"
+      The paint lifted off the canvas, flowing into the air like liquid light. Maya gasped as
+      her colors danced together, weaving patterns she'd never imagined. Pink and blue and orange
+      spiraled into words: "Your colors need a bigger canvas." The walls of her room shimmered,
+      barely containing the magic. One ribbon of pink curled around her wrist, tugging playfully
+      toward somewhere that could hold all her bold, authentic colors.

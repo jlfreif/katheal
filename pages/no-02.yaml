@@ -1,52 +1,47 @@
 # Noah - Spread 2: Inciting Incident
-# Emotional beat: WONDER → DETERMINATION
-# Stakes revealed: Stories are dying; Heart Crystal is cracking
-# World rule introduced: Stories need help to find their endings
 
 id: no-02
 spread: 2
 node_type: solo
-beat: Inciting incident
-
+beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah follows the fraying thread into Kathaél, runs through the glowing forest discovering stories frozen mid-sentence, and learns the Heart Crystal is cracking.
+description: Noah discovers Kathaél's library of unfinished stories and realizes they're dying because no one trusts the process.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
-
     visual: |
-      Noah runs forward through the threshold between his backyard and a luminous forest,
-      one hand gripping the golden thread. His other hand reaches out to balance himself
-      as he moves from ordinary grass onto glowing moss. Dozens of golden threads hang
-      suspended around him, all frayed and flickering. In the distance, a massive crystal
-      structure rises between ancient trees, its facets pulsing weakly.
-
+      An enormous magical library where books and story-scrolls float in the air on golden
+      threads. Many of the threads are fraying and grey, books dimming and fading. Noah stands
+      in the center, spinning to take it all in, hands out in amazement and growing alarm. Some
+      books flicker like dying lights. Scrolls unravel, their words disappearing. A story hovers
+      before him, its ending missing—literally erased, leaving blank pages. The library stretches
+      impossibly far in all directions. Beautiful but clearly suffering. Noah's expression shows
+      wonder mixed with concern. The atmosphere feels urgent but not yet desperate.
     text: |
-      The thread tugged Noah forward, and he ran with it. One step through the fence,
-      and everything shifted—his backyard became a glowing forest that definitely hadn't
-      been there before. "Whoa!" Golden threads hung everywhere, flickering like dying
-      stars. He jogged between them, eyes wide. In the distance, something massive rose
-      between the trees—a crystal with facets that pulsed weakly, cracks spreading across
-      its surface.
+      Noah landed in a library bigger than any building he'd ever seen. Stories floated everywhere
+      on golden threads, but half of them were fading, their threads turning grey and fraying.
+      He caught a falling book. Its pages were blank where the ending should be. All around him,
+      stories died mid-sentence, abandoned by writers who couldn't find the perfect words. The
+      sight made his chest tight. Stories deserved better than this.
 
   - page: right
     page_number: 8
     focus: Decision to act
-
     visual: |
-      Noah crouches beside a thread at eye level, his hand hovering near its frayed end.
-      Words shimmer in the air like ghostly text: "She reached for the door and..."
-      then nothing. A rabbit with knowing eyes watches from nearby, ears alert. The great
-      crystal structure glows dimly in the background, more threads drifting free.
-
+      Noah stands before a particular scroll that glows slightly brighter than the others, its
+      thread still golden but flickering. He reaches out with both hands to steady it, his face
+      showing determination. The scroll unfurls showing a story about a girl seeking her lost
+      voice—it's almost complete but stops abruptly. Noah's expression shifts from analytical
+      to emotionally connected. Around him, other stories seem to lean in, watching, hoping.
+      A golden thread extends from the scroll toward his hand, inviting him to help. His posture
+      straightens with purpose. The atmosphere shifts from discovery to commitment.
     text: |
-      "She reached for the door and..." The words floated beside a silver tree, then
-      stopped. Noah's eyes widened. "These are actual stories!" He reached toward the
-      floating words, and they hummed under his fingertips like a purring cat. A rabbit
-      with ancient eyes met his gaze. When it blinked, Noah understood: if the threads
-      kept fraying, the stories would die forever. The rabbit tilted its head toward
-      the Crystal. Noah jumped to his feet. "I'm a writer. I can help with this."
+      One story pulsed brighter than the rest, fighting to stay alive. Noah grabbed its thread,
+      steadying it. The scroll showed a girl searching for her lost voice, pages filled with
+      beautiful moments that suddenly stopped. Someone had given up right before the ending. Noah's
+      writer's heart recognized the pattern. He'd done this himself, abandoning stories when the
+      perfect ending wouldn't come. "I'll help you," he promised. He'd figure this out somehow.

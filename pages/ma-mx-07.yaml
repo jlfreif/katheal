@@ -1,52 +1,40 @@
-# Shared page: Maya and Max - Spread 7
-# Meeting Node: Building on their mirrored discovery from Spread 6
-# Emotional beat: AUTHENTIC APPROACH → MUTUAL SUPPORT → RISING CONFIDENCE
-# Stakes reinforced: They're closer to the solution but need each other's strengths
+# Meeting Node: Maya & Max at Spread 7
 
 id: ma-mx-07
 spread: 7
 node_type: meeting
 beat: "Rising stakes: almost works"
-
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Maya and Max meet at a bridge of starlight, each having discovered their authentic courage, and realize they can accomplish together what neither could alone.
+description: Maya and Max work together to restore color but discover they're missing one crucial element.
 
-# === MEETING NODE SPECIFIC FIELDS ===
+location: A fading rainbow bridge that needs all colors to be complete
 
-location: An ancient bridge made of crystallized starlight spanning a deep ravine
-
-shared_action: Both children step onto the bridge from opposite ends, meeting in the middle where their combined courage makes the unstable bridge solidify
+shared_action: Both try to restore colors to the bridge but discover one is missing
 
 dialogue_packets:
-  - speaker: maya
-    line: "This bridge keeps shifting. I can't get across alone."
-    works_from_pov: [ma, mx]
   - speaker: max
-    line: "Same from my side. But look, when we're both on it..."
+    line: "We're so close! Just need one more color."
     works_from_pov: [ma, mx]
   - speaker: maya
-    line: "It's getting stronger. Our courage is connecting!"
-    works_from_pov: [ma, mx]
-  - speaker: max
-    line: "Keep going. We're almost there."
+    line: "But where do we find it? We've tried everything here."
     works_from_pov: [ma, mx]
 
 image_alignment:
-  scene_id: starlight-bridge-convergence-007
+  scene_id: rainbow-bridge-007
   shared_elements:
-    - Bridge of crystallized starlight over deep ravine
-    - Stars and golden threads woven into bridge structure
-    - Mist swirling in ravine below
-    - Bridge becoming more solid where both children walk
+    - partial rainbow bridge
+    - swirling mist below
+    - restored colors glowing
+    - one dark gap in spectrum
   pov_variants:
     - character_code: ma
-      camera_position: slightly behind Maya, showing her stepping onto bridge with Max visible from other end
+      camera_position: showing Maya painting with Max working nearby
       focal_character: maya
       background_characters: [max]
     - character_code: mx
-      camera_position: slightly behind Max, showing him stepping onto bridge with Maya visible from other end
+      camera_position: showing Max examining gap with Maya visible
       focal_character: max
       background_characters: [maya]
 
@@ -54,38 +42,37 @@ scenes:
   - page: left
     page_number: 17
     focus: Making progress toward goal
-
     visual: |
-      An ancient bridge spanning a deep ravine, constructed entirely of crystallized
-      starlight that shimmers and shifts like liquid light made solid. Maya (9 years
-      old, sandy-blond hair with pink streak, bold and athletic) stands at one end,
-      one foot testing the bridge's surface which ripples under her weight. Max (12
-      years old, straight red hair, tall and slim) stands at the opposite end, also
-      testing the bridge. The structure flickers between solid and translucent. Mist
-      swirls in the ravine far below. Golden threads weave through the starlight,
-      pulsing gently.
-
+      A magnificent rainbow bridge arcs across a misty chasm, but parts of it are faded and grey.
+      Maya stands on the bridge, hands glowing with vibrant pink and blue energy, touching the
+      faded sections and watching them burst back into color. Max kneels nearby, pressing his
+      palms against another grey section, his face scrunched in concentration as red and orange
+      bloom under his touch. The restored sections glow brilliantly—red, orange, yellow, green,
+      blue—creating a pathway of light across the void. Mist swirls below them. The partially
+      restored bridge is breathtaking, pulsing with life where they've touched it. Hope radiates
+      from both children's faces.
     text: |
-      The bridge stretched between them, made of starlight that wouldn't quite hold still.
-      Maya tested it with one foot. It rippled like water. "Guess I'm trying this," she
-      called across to the red-haired boy on the other side. "Me too," Max shouted back.
-      They stepped on at the same moment. The bridge shuddered, then hummed.
+      Maya pressed her hands against the faded bridge and watched pink bloom under her fingers,
+      spreading like watercolor. Max grinned, making orange and red explode across another section.
+      Together they worked down the bridge, restoring color after color. The rainbow came alive
+      beneath their touch, humming and pulsing. "We're so close!" Max called out, laughing with
+      the thrill of almost succeeding.
 
   - page: right
     page_number: 18
-    focus: Realizing something is still missing
-
+    focus: Realizing something is missing
     visual: |
-      Maya and Max walk toward the center of the bridge from opposite ends, their
-      combined weight and courage causing the starlight to crystallize and solidify
-      beneath their feet. Where they meet in the middle, the bridge glows brightest and
-      most stable. Both children grin at each other with recognition and relief. Golden
-      threads spiral up from the bridge, forming a path forward. Behind them, the bridge
-      remains semi-transparent, but ahead where they must go together, it becomes clearer
-      and more solid. The ravine below still yawns dark and deep.
-
+      Maya and Max stand together before a dark gap in the bridge—a section where violet should
+      be but remains stubbornly grey and lifeless. Both children have their hands pressed against
+      it, faces showing concentration and growing concern. The rest of the bridge glows beautifully
+      around them, making the missing piece even more obvious. Golden threads hover nearby but
+      won't connect to the gap. Beyond the bridge, barely visible through the mist, something
+      purple glimmers in the far distance, deep in the unknown forest. Both children follow the
+      direction with their eyes, realizing where they'll need to go. The gap in the rainbow casts
+      a shadow across their faces.
     text: |
-      With each step they took, the bridge grew more solid. Where they met in the middle,
-      it blazed steady and strong. "It's working," Maya laughed. "Together," Max agreed,
-      high-fiving her. But ahead, the path disappeared into mist. The bridge showed them
-      something else was needed. Something distant. They'd have to find the others.
+      Then they hit the gap. The place where violet should be stayed dark and cold, refusing
+      to respond. Maya tried everything—pink mixed with blue, every shade she could imagine.
+      Max pressed harder, willing the color to appear. Nothing worked. "But where do we find
+      it?" Maya asked, voice small. Through the mist, something purple glimmered far away, deep
+      in the forest they'd been avoiding. That's where they'd have to go.

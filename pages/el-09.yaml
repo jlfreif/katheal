@@ -1,48 +1,49 @@
-# Elise - Spread 9: Inner Shift (Resonant Node)
+# Elise's Individual Page for Resonant Node at Spread 9
 
 id: el-09
 spread: 9
 node_type: resonant
-node_definition: resonant-09.yaml
 beat: "Deepening choice / inner shift"
-
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Elise notices a single restored flower still glowing, chooses to continue—and feels an unexpected warmth ripple through the meadow.
+description: Elise chooses to commit to authentic expression and feels courage rippling from someone far away.
 
 scenes:
   - page: left
     page_number: 21
     focus: Making the choice to continue
-
     visual: |
-      Elise sits up slowly, wiping tears from her face, and sees a single glowing
-      flower in the grey meadow—her earlier work still holding its color. She rises
-      to her feet, unsteady at first, then steadier. Her expression shifts from
-      despair to something softer, more determined. One flower mattered.
-
+      Elise stands alone in the performance hall, the frozen dancers still waiting around her.
+      Evening light streams through windows, casting long shadows. She faces the incomplete
+      choreography, the final leap still undone. Her hands rest over her heart as she takes a
+      deep breath, eyes closed, gathering herself. When she opens her eyes, they show quiet
+      determination. She moves into position for the final sequence, not perfectly poised but
+      genuinely ready. Her whole posture shifts from careful control to centered presence. The
+      atmosphere is hushed and sacred, a moment of choosing courage.
     text: |
-      Through her tears, Elise saw one flower still glowing. Just one, from her
-      earlier dance, holding its color against all the grey. It was tiny. It was
-      almost nothing. But it was real. She pushed herself to her feet, legs still
-      shaking. If one flower could matter, then the next one could too. She began
-      to move again—slow, gentle, her true way.
+      Elise stood before the unfinished dance, remembering why she'd started. Not to be perfect.
+      Not to impress anyone. But to express what lived inside her—the movement, the music, the
+      story her body wanted to tell. That mattered more than getting it exactly right. She placed
+      her hand over her heart, feeling it beat steady and strong. Then she moved into position,
+      ready to leap without knowing how she'd land.
 
   - page: right
     page_number: 22
-    focus: Feeling the connection
-
+    focus: Discovering the missed clue / feeling the connection
     visual: |
-      Golden threads shimmer into visibility across the meadow, pulsing with warm
-      light. Elise dances slowly, gracefully, arms flowing through the air. Wonder
-      lights her face as she feels something like encouragement wash over her. Near
-      her feet, flowers begin to restore their color as she moves past, responding
-      to her renewed dance. The grey seems less heavy.
-
+      Elise mid-leap, body extended in a graceful arc, face showing joy and freedom rather than
+      fear. Golden threads shimmer into visibility throughout the hall, flowing through the air
+      like ribbons of light, connecting her to the dancers and to something far beyond. The
+      frozen performers burst into motion around her, completing their dances with newfound life.
+      A warm glow surrounds her as she flies through the air. The threads pulse with light that
+      seems to come from a distant source, as if someone far away is being brave at the same
+      moment. Her expression is wonder mixed with understanding. The hall fills with golden
+      radiance and movement.
     text: |
-      Golden light rippled through the air, threads she'd never seen before,
-      connecting the whole meadow. Elise danced, slow and gentle, and felt warmth
-      spread through her chest—like someone somewhere was choosing the same courage
-      she was. Flowers near her feet began to glow as she moved past, responding to
-      her dance without her even trying. She wasn't doing this alone.
+      Elise leaped. Not perfectly, but fully, committing to the movement with her whole self.
+      Golden threads blazed through the hall, connecting her leap to something distant—someone
+      else choosing courage at the exact same moment. She felt their bravery strengthen hers,
+      felt her determination flow back to them. The dancers woke completely, moving with joyful
+      freedom. The finale wasn't about perfect technique. It was about showing up, being present,
+      expressing truth. That was the magic Kathaél needed.

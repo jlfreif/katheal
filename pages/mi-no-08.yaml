@@ -1,96 +1,79 @@
-# Shared page: Micah and Noah - Spread 8
-# Meeting Node: Cousins reconnect at emotional low point
-# Emotional beat: EXHAUSTION → MUTUAL SUPPORT → RENEWED DETERMINATION
-# Stakes reinforced: Giving up seems easier, but connection revives hope
+# Meeting Node: Micah & Noah at Spread 8
 
 id: mi-no-08
 spread: 8
 node_type: meeting
 beat: "All-is-lost / emotional low"
-
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Noah and Micah find each other exhausted and discouraged, but their cousin bond and shared breath help them remember why they started.
+description: Micah and Noah meet in exhaustion and doubt, both ready to give up until they help each other see differently.
 
-# === MEETING NODE SPECIFIC FIELDS ===
+location: A dim glade where golden threads are fading to grey, showing the consequences of giving up
 
-location: A clearing where the golden threads hang motionless and dim, reflecting the characters' emotional state
-
-shared_action: Both cousins sit together, taking synchronized breaths, using Micah's courage theme (Take a Breath) to reset and recommit
+shared_action: Both collapse in exhaustion, then encourage each other to keep trying
 
 dialogue_packets:
-  - speaker: noah
-    line: "I don't know if I can figure this out. I've tried everything I know."
-    works_from_pov: [mi, no]
   - speaker: micah
-    line: "Hey. Breathe with me. Just breathe."
+    line: "I can't do this anymore. I've tried everything."
     works_from_pov: [mi, no]
   - speaker: noah
-    line: "Like this?"
+    line: "Me too. Every time I think I've got it, I mess it up again."
     works_from_pov: [mi, no]
   - speaker: micah
-    line: "Yeah. In and out. We don't have to figure it out right now. Just breathe."
-    works_from_pov: [mi, no]
-  - speaker: noah
-    line: "I can feel it helping. Thanks, Micah."
-    works_from_pov: [mi, no]
-  - speaker: micah
-    line: "We're cousins. We've got each other."
+    line: "But... you're still here. That counts for something, right?"
     works_from_pov: [mi, no]
 
 image_alignment:
-  scene_id: cousins-breathe-together-008
+  scene_id: exhausted-glade-008
   shared_elements:
-    - Clearing with dimmed golden threads hanging still
-    - Fallen log where both boys sit
-    - Twilight atmosphere with fading light
-    - Threads beginning to pulse gently as boys breathe together
+    - fading golden threads
+    - dim glade with wilting flowers
+    - mossy log where they sit
+    - grey overtaking gold
   pov_variants:
     - character_code: mi
-      camera_position: slightly behind Micah, showing him seated next to Noah
+      camera_position: showing Micah sitting exhausted with Noah beside him
       focal_character: micah
       background_characters: [noah]
     - character_code: no
-      camera_position: slightly behind Noah, showing him seated next to Micah
+      camera_position: showing Noah slumped forward with Micah visible
       focal_character: noah
       background_characters: [micah]
 
 scenes:
   - page: left
     page_number: 19
-    focus: External obstacles intensify and inner doubt surfaces
-
+    focus: External obstacles intensify
     visual: |
-      A quiet clearing in twilight where golden threads hang motionless in the air,
-      their glow dimmed to barely visible. Noah (12 years old, sandy blond voluminous
-      hair, medium build) sits slumped on a fallen log, head in his hands, looking
-      utterly exhausted. Micah (9 years old, black hair, athletic half-Japanese build)
-      approaches from the treeline, also moving slowly with fatigue. The atmosphere is
-      heavy and gray. Creatures that normally helped have retreated. The silence feels
-      oppressive. Both boys look defeated.
-
+      A dim glade where golden threads that once shimmered brightly are fading to dull grey before
+      their eyes. Flowers wilt and lose their glow. The air feels heavy and tired. Micah stumbles
+      into the clearing, his usually energetic posture slumped, clothes dusty, face showing deep
+      fatigue. Noah sits on a mossy log, head in his hands, shoulders hunched. Around them, the
+      evidence of their separate journeys shows in scattered broken attempts—snapped threads,
+      faded crystals, wilted plants. The forest seems to dim further with each passing moment.
+      The atmosphere is one of defeat and growing darkness.
     text: |
-      Noah sat with his head in his hands. Every brilliant idea had failed. The threads
-      hung lifeless, ignoring him. Footsteps approached, and he didn't even look up until
-      a familiar voice said, "Noah?" His cousin Micah dropped onto the log beside him,
-      just as tired, just as discouraged. "I can't do this," Noah whispered.
+      Micah dragged himself into the glade and stopped. Everything was fading—threads turning
+      grey, flowers dying, light dimming. He'd run out of ideas and energy. A figure on a log
+      looked up with tired eyes. Noah. "I can't do this anymore," Micah said, voice cracking.
+      "I've tried everything." Noah's laugh was bitter. "Me too. Every time I think I've got
+      it, I mess it up again."
 
   - page: right
     page_number: 20
-    focus: Something affirms the effort matters
-
+    focus: Inner doubt and discouragement
     visual: |
-      Noah and Micah sit side by side on the log, both taking deep, synchronized breaths.
-      Micah's hand rests on Noah's shoulder. As they breathe together, the golden threads
-      in the clearing begin to pulse gently, responding to their renewed presence. The
-      light grows warmer, softer. Both boys' expressions shift from defeat to quiet
-      determination. A small luminous creature peeks out from behind a tree, curious
-      about the change. The twilight feels less heavy, more hopeful. The threads sway
-      slightly, as if waking up.
-
+      Both boys sit together on the mossy log, Micah with his head thrown back staring at the
+      darkening sky, Noah with elbows on knees, hands clasped. Between them, a single golden
+      thread still glows faintly, refusing to die completely. Micah's eyes shift to notice it,
+      then to look at Noah. Noah turns to look at Micah at the same moment. Their eyes meet
+      with shared exhaustion but also recognition. The single stubborn thread brightens slightly,
+      responding to their connection. Around them, the fading continues, but that one thread
+      holds steady, warm and golden. The smallest hint of hope glimmers in both their expressions.
     text: |
-      "Breathe with me," Micah said quietly. "In. Out." Noah matched his cousin's rhythm.
-      In. Hold. Out. Slowly. The tightness in his chest eased. His racing thoughts slowed.
-      The threads overhead stirred, pulsing with their breath. "Better?" Micah asked.
-      Noah nodded. "Yeah. We're not done yet." "No way," Micah grinned. "We're just getting started."
+      They sat in heavy silence, watching Kathaél fade around them. But Micah noticed something.
+      One thread between them still glowed, stubborn and warm. "You're still here though," he
+      said quietly. Noah looked up. "So are you." The thread pulsed brighter. Maybe showing up
+      mattered. Maybe trying, even when failing, counted for something. Maybe they hadn't actually
+      given up yet, because here they both were.

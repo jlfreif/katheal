@@ -1,51 +1,47 @@
-# Noah - Spread 9: Inner Shift (Resonant Node)
-# Synchrony Node 3: MUTUAL BRAVERY + COMMITMENT + EMOTIONAL RESONANCE
-# Emotional beat: SURRENDER → CONNECTION/COURAGE
-# World rule: Courage creates connection; honesty ripples outward
-# Symbolic resonance: Golden thread shimmer connects distant hearts
+# Noah's Individual Page for Resonant Node at Spread 9
 
 id: no-09
 spread: 9
 node_type: resonant
-node_definition: resonant-09.yaml
 beat: "Deepening choice / inner shift"
-
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Noah releases his need to understand everything, choosing to trust without comprehension. His courage ripples through the Heart Crystal, and he feels someone else's bravery answering his own.
+description: Noah chooses to keep trying despite failures and feels an unexpected connection across distance.
 
 scenes:
   - page: left
     page_number: 21
     focus: Making the choice to continue
-
     visual: |
-      Noah sits in the grove of tangled stories, posture changed. His notebook
-      lies closed on the ground. His hands rest open in his lap, palms up, empty.
-      His expression shows surrender that is also peace. The tangled threads
-      around him wait, still faintly glowing.
-
+      Noah sits in his story library surrounded by incomplete narratives, pages scattered
+      around him, looking exhausted but determined. His hand rests on a story he's attempted
+      multiple times, each version crossed out or crumpled nearby. Evening light filters through
+      the windows. He takes a deep breath, sets his jaw, and picks up his pen again despite
+      every failure behind him. His posture straightens from defeated to resolved. The atmosphere
+      is quiet and introspective, a moment of internal decision before external action.
     text: |
-      Noah picked up his notebook from the mud, wiped it gently, and set it on a dry
-      stone. Not thrown away. Just... set aside. "I can't decode what these stories need."
-      His hands opened, empty. No pen. No analysis. Just honesty. The fox from earlier
-      had been right. The stories knew their own endings. They just needed someone brave
-      enough to be present without understanding everything.
+      Noah looked at the pile of failed attempts, every crossed-out page a reminder he hadn't
+      gotten it right yet. He could stop. No one would blame him. But stopping meant giving up
+      on something that mattered. He thought about all the stories he loved, how their heroes
+      kept trying even when it seemed impossible. That was the point, wasn't it? He picked up
+      his pen. Not because he knew it would work this time. Because not trying hurt worse than
+      failing.
 
   - page: right
     page_number: 22
-    focus: Feeling the connection
-
+    focus: Discovering the missed clue / feeling the connection
     visual: |
-      Golden threads shimmer into visibility around Noah, pulsing with soft
-      light connecting him to something beyond the grove. His eyes widen with
-      wonder. The tangled story-threads begin to unknot, slowly writing
-      themselves. Warmth suffuses the scene like sunrise.
-
+      Golden threads suddenly shimmer into visibility throughout the library, pulsing with warm
+      light. Noah stands with pen in hand, looking up in wonder as the threads flow around him
+      like aurora borealis, connecting stories to each other in patterns he hadn't seen before.
+      One thread pulses particularly bright, seeming to connect to something far away. He feels
+      warmth in his chest, like someone believes in him. His expression shifts to amazement and
+      renewed hope. On the page before him, words begin to flow easily, the story finding its
+      own path. The library glows with golden light, alive and encouraging.
     text: |
-      Golden light shimmered through the air, warm on his skin. Noah gasped as joy
-      flooded through him—not his own joy, but someone else's, someone far away being
-      brave at the exact same moment. The girl at the crossroads? The threads around
-      him trembled, then began writing themselves, words blooming like flowers. "We're
-      doing this together," he whispered. "Even if we can't see each other."
+      The library blazed with golden light. Threads appeared everywhere, connecting stories in
+      ways he'd missed before. One pulsed warmly, reaching toward something distant, and Noah
+      felt it in his chest—like someone far away was choosing the same courage at the same moment.
+      He wasn't alone. The words flowed onto the page, not forced but invited. The story knew
+      where it wanted to go. He just had to trust it and keep moving.

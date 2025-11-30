@@ -1,52 +1,47 @@
-# Maya's page - Spread 5
-# Attempt #3 (bigger world / stakes up)
-# Maya discovers the true scale and meets someone offering wrong advice
+# Maya - Spread 5: Bigger World
 
 id: ma-05
 spread: 5
 node_type: solo
 beat: "Attempt #3 (bigger world / stakes up)"
-
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Maya enters a vast performance space where hundreds of shows are frozen, and meets a performer who insists on rigid perfection.
+description: Maya meets a chameleon offering to blend colors perfectly, but discovers matching isn't the same as being authentic.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
-
     visual: |
-      Maya stands at the edge of an enormous amphitheater where hundreds of
-      frozen performances fill the space—dancers mid-leap, singers with mouths
-      open, artists with brushes raised. All stuck. All silent. The Heart
-      Crystal pulses dimly in the distance. A nearby dancer crumbles to dust.
-      Maya's eyes widen with alarm at the scale.
-
+      A strange grove where colors shift and change constantly—trees that ripple from green to
+      blue to purple, flowers that can't decide what shade to be, grass that matches whatever
+      stands on it. Maya walks carefully through, watching everything change around her. Nothing
+      stays itself. A large chameleon sits on a branch, its scales shifting through every color
+      of the rainbow in perfect mimicry. Its eyes fix on Maya with knowing intelligence. The
+      grove feels beautiful but unsettling—too much adaptation, not enough authenticity. Maya's
+      expression shows fascination mixed with unease.
     text: |
-      The amphitheater stretched impossibly wide. Hundreds of frozen performances
-      filled every stage, every platform, every corner. Dancers stuck mid-leap.
-      Singers frozen on their notes. Artists captured mid-brushstroke. The
-      Crystal pulsed dimmer in the distance. A nearby dancer crumbled to dust,
-      her performance lost forever. "Oh no," Maya whispered. "This is really,
-      really bad."
+      Maya entered a grove where nothing stayed the same color for more than a heartbeat. Everything
+      shifted, adapted, matched its surroundings. A chameleon watched from a branch, cycling through
+      perfect color matches. "You're trying too hard," it said smoothly. "Watch me. I blend
+      perfectly. No one ever objects to my colors. Let me show you how to make everyone happy."
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
-
     visual: |
-      A dramatic performer in elaborate costume gestures sharply, demonstrating
-      perfect rigid technique. Behind them, frozen dancers strain against
-      invisible rules. The performer snaps at Maya to stand straighter, point
-      her toes more, stop moving so wildly. Maya's natural flowing style
-      clashes with the rigid demands. Her expression shows doubt and discomfort.
-
+      The chameleon demonstrates, its scales shifting to create a perfectly pleasant, perfectly
+      average color—not grey but not vibrant either, carefully calculated to offend no one and
+      delight no one. It gestures for Maya to try the same. Maya holds up her hand, starting to
+      shift her paint colors toward matching, blending, being less bold. The golden threads around
+      her dim dangerously. Her expression shows internal conflict—the appeal of being accepted
+      versus staying true. Before she fully commits, the chameleon's own color fades completely
+      to transparent—it's matched so much it disappeared. Maya jerks back in alarm. The atmosphere
+      shifts from temptation to warning.
     text: |
-      "Posture!" A performer in elaborate costume snapped fingers at Maya.
-      "Technique! Form! You must perform CORRECTLY!" They demonstrated perfect
-      rigid movements, each gesture sharp and controlled. Maya tried to copy,
-      but her body wanted to flow and bounce and add her own flair. The frozen
-      dancers around them seemed to strain harder, as if the rules were choking
-      them. "This feels wrong," Maya said quietly.
+      The chameleon showed her its secret—perfect blending, careful matching, never standing out.
+      "See? No one minds when you match them." Maya almost tried it, almost dulled her bold pink
+      to something safer. But the chameleon kept matching and matching until it faded completely
+      transparent, lost in trying to please everyone. It disappeared with a confused chirp. Maya
+      stepped back, heart pounding. Being yourself might be scary. But disappearing was worse.

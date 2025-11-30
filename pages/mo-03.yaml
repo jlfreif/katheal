@@ -1,58 +1,45 @@
-# Mona - Spread 3: First Challenge
-# Emotional beat: UNCERTAINTY → BRAVE ACTION → JOY
-# First application of courage theme: Helping another creature try something new
-# Partial success: One butterfly flies, but the meadow is still fading
+# Mona - Spread 3: First Attempt
 
 id: mo-03
 spread: 3
 node_type: solo
-beat: "Attempt #1 (direct approach)"
+beat: "Attempt #1 (simple/obvious)"
+hook: Simple solutions fail, prompting the question of who might have better answers.
+payoff: A wise helper appears who offers new perspective or guidance.
 
-hook: Initial attempt meets unexpected resistance or reveals the problem is bigger.
-payoff: First real obstacle overcome but cost or complication emerges.
-
-description: Mona encourages the butterfly to try flying by trying something new herself—standing on one foot—and her fearless example brings color back to the butterfly's wings.
+description: Mona tries to wake all the playground toys at once but learns some things need gentle, one-at-a-time trying.
 
 scenes:
   - page: left
     page_number: 9
-    focus: Attempting the direct solution
-
+    focus: Trying the obvious solution
     visual: |
-      Mona stands in the faded meadow, balancing precariously on one foot with
-      her arms out wide for balance. Her face shows fierce concentration mixed
-      with delight. The glowing block sits at her feet, pulsing warmly. The
-      butterfly watches from a nearby flower, wings still mostly gray. Mona
-      wobbles but keeps trying, her curly hair bouncing with each adjustment.
-      Other faded creatures gather to watch—a pale rabbit, a colorless bird.
-
+      Mona runs from toy to toy touching everything quickly—swing, slide, seesaw, sandbox toys—
+      trying to wake them all up at once. Her little legs move fast, her hands reaching and
+      patting and grabbing. She's enthusiastic and confident, thinking if she just touches
+      everything, it will all wake up. The toys flicker and sputter but don't fully activate,
+      confused by the scattered attention. Other children watch hopefully. Mona's expression shows
+      determined effort, working hard but not seeing results. The atmosphere is one of energetic
+      but misguided effort.
     text: |
-      "I show you!" Mona lifted one foot off the ground. Wobble, wobble. She
-      stuck her arms out, tongue between her teeth. This was new! She'd never
-      balanced on one foot before. Scary! But also... fun? She teetered left,
-      then right, then—she got it! For three whole heartbeats, she stood on
-      one foot, grinning huge. The glowing block blazed brighter. "See? Just
-      try!" The butterfly's wings shimmered, colors starting to seep back in
-      like watercolor paint.
+      Mona ran everywhere, touching everything. "Wake up, swing! Wake up, slide! Wake up, sandbox!"
+      She patted toys, poked swings, climbed on everything fast-fast-fast. If she tried everything,
+      it would all work, right? But the toys flickered and fizzled, starting to wake then falling
+      back asleep. Too many things at once. Mona stopped, breathing hard, confused. Why wasn't it
+      working?
 
   - page: right
     page_number: 10
-    focus: Complication revealed
-
+    focus: Realizing it doesn't work
     visual: |
-      The butterfly soars overhead with wings now brilliant blue and shimmering,
-      trailing sparkles of light. Mona claps her hands above her head, jumping
-      with joy. But as she celebrates, she notices the meadow around them is
-      still fading—flowers wilting further, more toys losing color. In the
-      distance, other creatures watch hopefully. A bunny with fading spots. A
-      ball rolling to a stop, its red stripes turning pink. The crystal structure
-      in the far distance pulses weakly.
-
+      Mona sits on the ground, tired and puzzled, toys flickering weakly around her. A wise old
+      turtle appears, moving slowly and deliberately, its shell decorated with patient spiral
+      patterns. It settles near Mona, meeting her eyes with kind understanding. Mona tilts her
+      head—her signature move when curious. The turtle's slow, deliberate presence contrasts with
+      Mona's scattered rushing. The atmosphere shifts from frantic energy to thoughtful calm.
     text: |
-      The butterfly's wings burst into brilliant blue! It lifted off the flower,
-      wings catching light like stained glass. "I'm flying! I tried and I'm
-      flying!" Mona jumped up and down, clapping. "Yay!" But when she looked
-      around, her smile faded a little. The flowers were still pale. More toys
-      looked sad and gray. A bunny hopped over, its spots almost invisible.
-      Mona's little eyebrows scrunched together. One butterfly wasn't enough.
-      Lots of things needed help to try again.
+      Mona plopped down, tired. A turtle appeared, slow and patient. "Too fast, little one," it
+      said gently. "New things need time. Try one thing. Really try it. Let it wake up slow.
+      Then try the next." Mona looked at all the toys. One at a time? That seemed so slow. But
+      her fast way hadn't worked. The turtle smiled. "Being brave doesn't mean being fast. Sometimes
+      it means being patient."

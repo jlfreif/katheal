@@ -1,51 +1,79 @@
-# Shared page: Elise and Maya - Spread 3
-# Meeting Node: Cousins discover each other in Kathaél
-# Emotional beat: FRUSTRATION → RECOGNITION → HOPE
-# Stakes reinforced: Their individual attempts aren't working, but together they feel stronger
+# Meeting Node: Elise & Maya at Spread 3
 
 id: el-ma-03
 spread: 3
 node_type: meeting
 beat: "Attempt #1 (simple/obvious)"
-
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Maya and Elise discover each other in a fading meadow, both trying to bring color back through dance. Maya's bold, energetic style and Elise's graceful, flowing style each fail alone, but they recognize each other with joy.
+description: Cousins Elise and Maya recognize each other and try obvious solutions that don't work.
+
+location: A meadow where colors have faded and flowers droop, waiting for something to revive them
+
+shared_action: Both try simple fixes like watering flowers and singing to them
+
+dialogue_packets:
+  - speaker: maya
+    line: "Elise? Is that really you?"
+    works_from_pov: [el, ma]
+  - speaker: elise
+    line: "Maya! What are you doing here?"
+    works_from_pov: [el, ma]
+  - speaker: maya
+    line: "Trying to fix this. But nothing's working."
+    works_from_pov: [el, ma]
+
+image_alignment:
+  scene_id: faded-meadow-003
+  shared_elements:
+    - wilted colorful flowers
+    - faded grass
+    - watering can
+    - stream in background
+  pov_variants:
+    - character_code: el
+      camera_position: showing Elise watering flowers with Maya approaching
+      focal_character: elise
+      background_characters: [maya]
+    - character_code: ma
+      camera_position: showing Maya trying to help with Elise visible
+      focal_character: maya
+      background_characters: [elise]
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
-
     visual: |
-      Maya leaps high in the center of a faded meadow, arms stretched wide, hair
-      with its pink streak flying as she spins with bold, explosive energy. Her
-      movements are powerful and decisive. Grey flowers surround her, barely stirring.
-      In the distance, another figure moves through the flowers with slow, graceful
-      gestures—arms flowing like water, turning in lyrical circles.
-
+      A meadow where vibrant flowers droop sadly, their colors muted and grey. Elise kneels
+      beside a wilted patch of blooms, holding a small wooden watering can, pouring water onto
+      the drooping petals. Maya (9 years old, wavy shoulder-length sandy-blond hair with pink
+      streak, wearing light blue jeans and pink sweater) walks into the scene from the right,
+      carrying an armful of what looks like richer soil. Both girls' eyes meet in surprise and
+      recognition. The background shows more faded flowers stretching across the meadow, a
+      small stream winding through, and soft morning mist. The scene feels dull, waiting for
+      life to return.
     text: |
-      Maya leaped high, arms stretched wide, spinning through the meadow like wind
-      itself. If colors were fading, she'd dance them back to life! Her feet pounded
-      the earth in rhythm, bold and decisive. The flowers barely stirred. She landed
-      hard and spun again. Nothing. In the distance, someone moved through the grey
-      blooms with slow, graceful turns.
+      Elise poured water onto the drooping flowers, hoping they'd perk up. They didn't.
+      Footsteps made her turn, and she gasped. "Maya?" Her cousin stood there, arms full
+      of soil, looking just as shocked. "Elise? Is that really you?" They stared at each
+      other, then broke into surprised laughter.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
-
     visual: |
-      Elise stands in a graceful pose, arms extended, having just completed a flowing
-      turn, as Maya bounds over mid-leap. Both girls freeze as recognition hits.
-      Maya's expression shifts from determined to shocked to delighted. Elise's eyes
-      widen with surprise and joy. Grey flowers surround them. Golden threads pulse
-      overhead, connecting their presence.
-
+      Elise and Maya kneel side by side in the meadow, working together on the flowers. Maya
+      pats fresh soil around the stems while Elise hums a gentle melody over them. The flowers
+      remain stubbornly grey and drooping. Both girls sit back on their heels, expressions
+      shifting from hope to puzzlement. A small brown rabbit sits nearby on a mossy rock,
+      watching them with intelligent eyes, head tilted as if amused by their efforts. Golden
+      threads shimmer faintly in the air above the meadow, barely visible. The sun climbs
+      higher, lighting the scene with warm but muted tones.
     text: |
-      "Elise?" Maya skidded to a stop mid-leap. Her cousin looked up from her dance,
-      arms still extended in a graceful line. "Maya?!" They stared at each other for
-      one breathless second. Then both burst out laughing, the sound bright and
-      startled in the grey meadow. "What are YOU doing here?" they said at exactly
-      the same time. The threads overhead pulsed warmer, as if recognizing their connection.
+      Together they tried everything obvious. Maya added soil. Elise sang. They waited.
+      Nothing changed. "It's like the flowers forgot how to be flowers," Maya said, frowning
+      at the grey petals. A rabbit appeared on a nearby rock, watching them with knowing eyes.
+      Maybe simple fixes weren't enough. Maybe they needed to ask someone who understood this
+      world better than they did.

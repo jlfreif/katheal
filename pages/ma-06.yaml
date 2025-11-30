@@ -1,51 +1,48 @@
-# Maya's page - Spread 6
-# Mirrored Node with Max - Discovering authentic approach
-# Maya learns that being herself is more powerful than performing for others
+# Maya's Individual Page for Mirrored Node at Spread 6
 
 id: ma-06
 spread: 6
 node_type: mirrored
 beat: "Midpoint: new insight / pattern"
-
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Maya exhausts herself trying to perform what shadow-audiences want, then discovers that being authentically herself is her true power.
+description: Maya discovers that bold, authentic art brings color back better than careful, rule-following painting.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
-
     visual: |
-      Maya sits cross-legged at the edge of an empty amphitheater stage,
-      breathing hard. Shadow-audiences fill the seats, each row demanding
-      something different. Her pink-streaked hair is disheveled. A compass
-      rests beside her, its needle spinning wildly. She looks exhausted and
-      small.
-
+      An art gallery carved into a hillside, walls lined with faded paintings that have lost
+      their color and life. Maya stands before an easel holding a half-finished painting, her
+      brush poised carefully, trying to paint "correctly" with proper technique. The painting
+      is technically accurate but lifeless, colors muted and dull. Around her, other canvases
+      show her previous attempts—all careful, all faded. A lantern hangs on the wall, its flame
+      barely visible, casting almost no light on her work. Her expression shows concentration
+      mixed with growing doubt. The gallery feels like a museum of dead things rather than a
+      space of creation.
     text: |
-      Maya sat down hard, too tired to keep dancing. One shadow-audience wanted
-      big leaps, another wanted gentle twirls, another wanted perfect technique.
-      She'd tried to give them all what they asked for, and none of it felt
-      right. The compass beside her spun in confused circles. She hugged her
-      knees. "I don't even know what I want anymore."
+      Maya painted carefully, following every rule she'd learned about color and technique.
+      The brushstrokes were perfect. The composition was balanced. And the painting stayed
+      completely lifeless. Around her, the gallery held canvas after canvas of her careful,
+      correct, faded work. The lantern dimmed further, as if her carefulness was smothering
+      its light.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
-
     visual: |
-      Maya stands center stage and dances her own way—bold, playful, mixing
-      styles without caring about perfect form. The shadow-audiences fade
-      away. The compass's needle points straight at her heart, glowing. Real
-      flowers bloom at her feet with each authentic movement, their colors
-      bright and true.
-
+      Maya abandons her careful technique and paints with wild, joyful strokes, her whole
+      body moving with the art. Bright pink, electric blue, vibrant orange splash across the
+      canvas in bold, confident swirls. The pink streak in her hair seems to glow as she works.
+      The lantern on the wall blazes brilliantly now, illuminating the entire gallery. Around
+      her, the faded paintings burst back into color, responding to her authentic boldness.
+      Colors drip and splash, alive and moving. Her expression is pure joy and freedom. The
+      gallery transforms into a celebration of vibrant life.
     text: |
-      Maya stood. She started dancing again, but this time for herself. Bold
-      leaps mixed with silly spins. Her pink-streaked hair flying. Not perfect,
-      not proper, just...Maya. The shadow-audiences dissolved like smoke. The
-      compass needle swung toward her and held steady, pointing at her heart.
-      Flowers bloomed where her feet touched the stage, bright and real and
-      exactly right.
+      Maya threw the rules away. She grabbed colors that made her heart sing—wild pink, shocking
+      blue, sunset orange—and painted like she danced, bold and free and completely herself. The
+      lantern blazed. Her canvas exploded with life. Around her, every faded painting burst back
+      into color, as if they'd been waiting for someone to show them how to be brave. Being
+      authentic mattered more than being correct.

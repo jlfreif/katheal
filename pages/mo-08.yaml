@@ -1,58 +1,46 @@
-# Mona - Spread 8: Dark Moment
-# Emotional beat: DESPAIR → REALIZATION → HOPE
-# Lowest point: Ready to give up and go home
-# Turning point: Remembers that trying doesn't mean doing it alone
-# Connection to courage theme: Courage to try also means courage to ask for help
+# Mona - Spread 8: All Is Lost
 
 id: mo-08
 spread: 8
 node_type: solo
-beat: "Dark night of the soul"
+beat: "All-is-lost / emotional low"
+hook: Self-doubt surfaces, questioning whether continuing is worth it.
+payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-hook: Emotional low point where the character questions themselves or their purpose.
-payoff: Insight or memory reignites hope and provides new approach to the challenge.
-
-description: Mona almost gives up and wants to go home, but the creatures she's already helped gather around to remind her that her trying gave them courage too, and trying together might be the answer.
+description: Mona feels too small and scared to try the big slide, but her bunny reminds her of her courage.
 
 scenes:
   - page: left
     page_number: 19
-    focus: The emotional low point
-
+    focus: External obstacles intensify
     visual: |
-      Mona stands facing away from the cliff, her glowing block nearly dark
-      now, held loosely in one hand. She's turned back toward the direction
-      of home, tears on her cheeks. The world around her is the most faded
-      we've seen it—almost monochrome, with just hints of color remaining.
-      Even the sky looks gray. Her posture shows defeat, shoulders hunched,
-      head down. The cliff looms behind her, impossible and uncaring.
-
+      The base of the enormous twisty slide. From this angle it looks impossibly tall and scary.
+      Mona sits on the ground at its base, looking very tiny compared to the slide's height. She
+      hugs her bunny close, her usual bright smile gone. Around her, the other toys are happy
+      and working, but the big slide stays dark and cold. Shadows seem to grow longer. Her
+      expression shows real toddler fear and doubt—not dramatic despair but simple, genuine "I
+      can't do this." The atmosphere feels overwhelming, the challenge too big for someone so
+      small.
     text: |
-      Mona turned away from the cliff. Her block was almost dark now, barely
-      glowing at all. Everything looked gray and sad and tired. She wanted to
-      go home. Home to Mama and her regular blocks and her soft mat at Gymboree
-      where the towers were just the right size for little hands. She'd tried
-      so hard. She'd been so brave. But brave wasn't enough when you were this
-      small. "Want to go home," she whispered, bottom lip trembling.
+      Mona sat at the bottom of the big slide, feeling very small. It was too tall. Too twisty.
+      Too scary. She'd been brave with lots of things, but this was different. This was really
+      actually scary. Her eyes got hot and prickly. Maybe she was too little. Maybe some things
+      were just too big to try. She hugged bunny tight. "I can't," she whispered.
 
   - page: right
     page_number: 20
-    focus: The spark of hope returns
-
+    focus: Inner doubt and discouragement
     visual: |
-      The creatures Mona has helped throughout her journey gather around her—
-      the blue butterfly, the spotted bunny, the wise turtle, even the flower-
-      bells seem to lean toward her. They form a circle of support around the
-      small girl. The butterfly lands on her shoulder. The bunny nuzzles her
-      hand. The turtle meets her eyes with ancient wisdom. Mona looks up,
-      surprised, as their presence makes the glowing block pulse slightly
-      brighter in her hand.
-
+      Mona still sitting, but she looks at her stuffed bunny in her arms. The bunny seems to
+      look back at her with button eyes, patient and loving. Mona touches the bunny's worn ear—
+      her comfort object that's been with her through every new thing she's ever tried. First
+      steps. First foods. First playground. The bunny reminds her she's tried scary things before.
+      A tiny golden thread appears between Mona and the slide, faint but present. Her expression
+      begins to shift from defeat to thoughtful consideration. The atmosphere lightens slightly,
+      remembering strength.
     text: |
-      Soft wings brushed Mona's cheek. The butterfly landed on her shoulder,
-      blue and bright. "You helped me try," it said. The spotted bunny hopped
-      over, nuzzling her hand. The turtle smiled his slow smile. "You taught
-      us courage, little one," he rumbled. "Trying isn't just for one. Sometimes
-      trying means trying together." Mona's eyes widened. Together? Her block
-      pulsed a little brighter. She'd never thought about that. Maybe... maybe
-      she didn't have to climb alone?
+      Bunny looked at her with button eyes that somehow seemed wise. Mona touched its soft ear,
+      the one she always held when things were scary. Bunny had been with her for every new thing.
+      Walking. First slide. Meeting new friends. All those things had been scary too. But she'd
+      tried them anyway, and they'd been okay. Maybe she could try this too. She didn't have to
+      be big. She just had to be brave.

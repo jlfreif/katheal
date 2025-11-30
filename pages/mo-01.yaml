@@ -1,52 +1,47 @@
-# Mona - Spread 1: Opening
-# Emotional beat: PLAYFUL COMFORT → CURIOSITY
-# Stakes hint: Something new is calling
+# Mona - Spread 1: Ordinary World
 
 id: mo-01
 spread: 1
 node_type: solo
-beat: Ordinary world + desire hint
-
+beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Mona plays happily with her blocks at Gymboree, building towers and knocking them down with delight, until a glowing toy appears that doesn't belong.
+description: Mona plays with blocks in her room when they begin to glow and stack themselves magically.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
-
     visual: |
-      Mona sits on a soft, colorful mat at Gymboree, surrounded by blocks, toys,
-      and other toddlers playing nearby. She's stacking blocks into a wobbly tower,
-      tongue poking out in concentration. Her dark brown wavy hair frames her face as
-      she carefully places one more block on top. The room is bright and cheerful
-      with primary colors everywhere. Parents chat in the background.
-
+      Mona's playroom in her New York City apartment, colorful foam mats on the floor, toys
+      scattered in cheerful chaos. Mona (2 years old, wavy short dark brown ringlets, wearing
+      light blue overalls with brooklyn shirt and white sneakers) sits surrounded by wooden blocks,
+      stacking them with intense toddler concentration. Her chunky hands place blocks carefully,
+      tongue between teeth in focus. Some blocks already stacked, others waiting their turn. A
+      stuffed bunny watches nearby. Sunlight streams through the window. Her expression shows
+      pure joy in simple play. The scene captures toddler life: exploring, experimenting,
+      delighting in small accomplishments.
     text: |
-      Mona placed a red block on top of the blue one. The tower wobbled. She
-      held her breath, eyes wide. It stayed! She clapped her hands and giggled,
-      then knocked the whole thing down with one happy swipe. Crash! Blocks
-      scattered across the mat. A teacher smiled at her. "Good building, Mona!"
-      Building was fun. Knocking down was even more fun!
+      Mona stacked blocks, one on top of another, tongue sticking out as she concentrated. Red
+      block. Then blue. Then yellow. She clapped when they didn't fall. "Tower!" she announced
+      proudly to her bunny. Building things was fun. Each block was a new try, a new challenge.
+      Sometimes they fell. That was okay. She just tried again.
 
   - page: right
     page_number: 6
     focus: First hint of something different
-
     visual: |
-      Mona's head tilts to one side, her signature curious expression, as she
-      notices something strange. Among her familiar blocks sits a glowing cube
-      that pulses with soft golden light. It's the same size as her other blocks
-      but shimmers like starlight. Her hand reaches toward it tentatively. The
-      other toys and children fade slightly into the background as this mysterious
-      block draws all her attention.
-
+      The blocks begin to glow with soft golden light. Mona pulls her hands back, eyes going
+      wide with amazement and a touch of uncertainty. The blocks start stacking themselves,
+      floating gently into the air, building a tower taller than any she could reach. Golden
+      threads connect the blocks, making them dance and spin. One block hovers in front of her
+      face, glowing warm and friendly, as if inviting her to play a new game. Her expression
+      shifts from surprise to delighted curiosity—that toddler moment of "what's THIS?!" The
+      atmosphere sparkles with gentle magic designed not to frighten but to invite.
     text: |
-      Something glowed in the toy pile. Mona crawled closer, head tilted. A block
-      she'd never seen before sat there, all shimmery and warm-looking. Not red,
-      not blue—more like sunshine got turned into a toy. She reached out one
-      finger and touched it. Tingles! Like bubbles on her skin. The block hummed
-      a little song just for her. Mona's eyes got big and round. "Ooh!" She picked
-      it up. It was warm and happy in her hands, and it wanted to show her something.
+      The blocks glowed gold and floated up all by themselves. Mona's eyes got big. "Whoa!" The
+      blocks stacked higher and higher, spinning and dancing in the air. One floated close to her
+      face, warm and friendly. She reached out with one finger to touch it. The block giggled—
+      actually giggled—and bobbed like it wanted to play. New things were sometimes scary. But
+      also exciting. "Play?" she asked the glowing block.

@@ -1,50 +1,48 @@
-# Max's page - Spread 12
-# Resolution (emotional) + series button
-# Max returns home transformed, ready to embrace mistakes as part of growth
+# Max - Spread 12: Emotional Resolution
 
 id: mx-12
 spread: 12
 node_type: solo
 beat: "Resolution (emotional) + series button"
-
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Max returns to his driveway and the basketball challenge, but now he approaches mistakes with curiosity instead of frustration.
+description: Max returns to his workshop transformed, ready to invent with courage and playfulness.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
-
     visual: |
-      Max stands in his driveway in the same position as the opening, basketball
-      in hand, same hoop above the garage. But the chalk marks on the pavement
-      now show a trail of adjustments leading to improvement, not just failures.
-      The wristband glows softly on his wrist. His trombone case still leans
-      against the garage. His expression is calm, curious.
-
+      Max's workshop room, the same setup as the opening. The failed automatic sorter still sits
+      on the desk. Max enters his room and looks at it with completely different eyes. The crystal
+      gear from Kathaél rests on his desk beside the broken invention, glowing faintly. His
+      trombone case, basketball, and blueprints all the same, but he sees them differently now.
+      His expression shows peaceful confidence. The atmosphere is familiar but transformed by
+      new understanding.
     text: |
-      Max's driveway looked the same: afternoon light, basketball hoop, chalk
-      marks on the pavement. But he didn't feel the same. He picked up the
-      basketball, set his position. The wristband hummed on his wrist. "Okay,"
-      he said to the hoop. "Let's see what this attempt shows me."
+      Max sat at his desk, looking at the automatic sorter that had failed before Kathaél. The
+      broken device sat exactly as he'd left it, proof of imperfect attempts. But now it looked
+      different. Not like failure. Like version one. The crystal gear glowed beside it, reminding
+      him that trying mattered more than immediate success. He picked up his tools, ready to
+      experiment. Not to get it perfect. To see what would happen.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
-
     visual: |
-      Max shoots. The ball clangs off the rim—but he grins instead of getting
-      frustrated. He adjusts his stance based on the miss and shoots again.
-      This shot swishes through. The wristband glows brighter. A golden thread
-      shimmers at the edge of his vision, unfinished and inviting. The bird
-      from Kathaél watches from a tree branch.
-
+      Max works on a new experiment, laughing as he tries something ridiculous just to see what
+      happens. Gears and springs scattered playfully across his desk. The crystal gear glows
+      bright, and on his workbench, golden threads appear faintly, responding to his joyful
+      curiosity. He's built three versions already (visible in various states of assembly), each
+      one teaching him something new. His basketball bounces in the corner, having been incorporated
+      into an experiment. Small sparkles drift through his ordinary room. His whole being radiates
+      curious courage. The scene feels triumphant but grounded—magic made practical through
+      playful persistence.
     text: |
-      Clang. The ball bounced off the rim. Max grinned. "Too much force," he
-      muttered, adjusting. He shot again. Swish. The wristband glowed warm
-      against his skin. "Not about being perfect," he said, retrieving the
-      ball. "It's about figuring it out as you go." At the tree's edge, a
-      golden thread caught the light. The bird from Kathaél tilted its head.
-      Max waved. More adventures were definitely coming.
+      Max tried version seven (versions one through six sat nearby, honored as teachers). This
+      one had a ridiculous addition—a spring that probably served no purpose. He laughed, curious
+      what would happen. The crystal gear blazed. Golden threads wove through his work. Kathaél's
+      magic lived in every brave experiment, every playful try. He'd learned his courage: not
+      being right the first time, but having the guts to keep experimenting. Failure wasn't the
+      opposite of success. It was part of the process.
