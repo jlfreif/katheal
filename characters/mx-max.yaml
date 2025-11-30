@@ -26,13 +26,13 @@ attributes:
     - Following through on commitments
     - Making their own choices
     - Making people laugh
-    - Competition
+    - Humor
 
   # Summarize the character's personality in 3-5 words or short phrases
   # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
   key_personality_traits:
     - Inquisitive, always asking "why?"
-    - Bold and decisive
+    - Witty
     - Outgoing and chatty
     - Restless and active
     - Steady and reliable
@@ -54,7 +54,7 @@ attributes:
     - Becomes determined
     - Gets frustrated but persists
     - High-energy with big feelings
-    - Reliable
+    - Finds humor in situations
 
   # How does the character relate to others and the world around them?
   # Examples: Team-oriented, Prefers solitude, Competitive
