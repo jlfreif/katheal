@@ -38,6 +38,8 @@ attributes:
     - Silly and playful
     - Processes feelings through dance
     - Determined and persistent
+    - Silly and playful 
+  
 
   # Activities or skills that reveal the character's interests and talents
   # Examples: Painting, Coding, Hiking, Storytelling, Chess
@@ -57,6 +59,7 @@ attributes:
     - Shy pride when rewarded
     - Empathetic towards others
     - Deep feeling expressed physically
+    - Finds humor in situations
     
 
   internal_conflict: |
