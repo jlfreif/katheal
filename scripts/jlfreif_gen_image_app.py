@@ -265,6 +265,9 @@ for page_file in page_files:
 # Debug toggle
 show_debug = st.checkbox("Show debug output", value=False)
 
+# ALWAYS show session state info
+st.write(f"🔍 Session state has {len(st.session_state.generated_images)} images stored")
+
 if show_debug:
     st.write(f"🔍 DEBUG: Built {len(page_options)} page options")
     st.write("First 5 page options:")
@@ -440,6 +443,7 @@ else:
                             'page_idx': page_idx,
                             'img_idx': idx
                         })
+                        st.write(f"🔍 Stored image {idx+1} in session state. Total now: {len(st.session_state.generated_images)}")
                 else:
                     st.warning("No images were generated. Please try again.")
 
@@ -449,9 +453,11 @@ else:
             st.balloons()
 
         # Display all generated images (persists across reruns)
+        st.write(f"🔍 Checking generated_images: {len(st.session_state.generated_images)} images in session state")
         if st.session_state.generated_images:
             st.divider()
             st.header("Generated Images")
+            st.write(f"🔍 Inside generated images block - about to show ZIP download")
 
             col1, col2 = st.columns([3, 1])
             with col1:
