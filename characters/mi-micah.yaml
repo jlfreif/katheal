@@ -31,7 +31,7 @@ attributes:
   # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
   key_personality_traits:
     - Inquisitive, always asking "why?"
-    - Thrives in suspense
+    - Funny and witty
     - Outgoing and chatty
     - Restless and active
     - Constantly in motion
@@ -52,6 +52,7 @@ attributes:
     - Needs physical movement to reset
     - Internalizes praise
     - High energy
+    - Finds humor in situations
 
   # How does the character relate to others and the world around them?
   # Examples: Team-oriented, Prefers solitude, Competitive
