@@ -142,7 +142,7 @@ Ask the user which type of connection they want. Consult these template files fo
 #### Writing Requirements for All Nodes
 
 **MANDATORY**: Before writing any text, read `WRITING_STYLE.md` and apply:
-- **Text**: 3-4 sentences per scene, show don't tell, active voice, NO em-dashes
+- **Text**: 2-3 sentences per scene, show don't tell, active voice, NO em-dashes
 - **Visual**: 2-4 sentences (40-60 words), describe a SINGLE INSTANT IN TIME
   - Describe WHAT is happening at this exact moment (action, poses, expressions)
   - Describe WHERE things are (positions, spatial relationships, background details)
@@ -211,7 +211,7 @@ Ask the user which type of connection they want. Consult these template files fo
 #### Writing Requirements (from WRITING_STYLE.md)
 
 **Text Field Requirements:**
-- 3-4 sentences per scene (left page + right page)
+- 2-3 sentences per scene (left page + right page)
 - **Show, don't tell**: Never state emotions directly; reveal through physical sensations, actions, and sensory details
 - **Active voice**: Use strong, specific verbs (not "walked" but "trudged, stomped, tiptoed")
 - **Sensory language**: Ground abstract concepts in physical, sensory reality
