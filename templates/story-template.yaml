@@ -7,7 +7,7 @@
 meta:
   target_audience: "Children ages 9-12"
   reading_level: "Independent readers or read-aloud by parents"
-  tone: "Curious, active, adventurous - not anxious or overly introspective"
+  tone: "Curious, active, adventurous - not anxious or overly introspective. Keep the overall tone light and fun. Include moments of humor and playfulness. Characters can have funny reactions to magical situations. Age-appropriate silly moments (physical comedy, wordplay, funny observations). Balance adventure stakes with comedic relief."
 
 world_building:
   central_object: "Heart Crystal"
@@ -15,7 +15,7 @@ world_building:
   note: "NOT Heart-Loom. Use crystal/prism/facet language, not tapestry/weaving/loom"
 
 writing_principles:
-  action_vs_introspection: "70% external action and sensory / 30% internal reaction"
+  action_vs_introspection: "80% external action and sensory / 20% internal reaction"
   primary_focus:
     - "Show characters DOING things (running, climbing, chasing)"
     - "Include sensory details in every scene (sounds, textures, temperatures)"
