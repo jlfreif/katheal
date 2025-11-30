@@ -5,14 +5,14 @@
 ### Demographics
 - **Age Range:** 8-12 years old (middle grade readers)
 - **Reading Level:** Lexile 600-850 (grades 3-6)
-- **Format:** Chapter books with illustrations (2,000-5,000 words per chapter)
-- **Tone:** Warm, adventurous, emotionally resonant without being preachy
+- **Format:** Children's storybook with illustrations 
+- **Tone:** Warm, adventurous, humorous, silly,
 
 ### Key Considerations
 - Accessible vocabulary with occasional "stretch" words in context
 - Emotional depth that respects young readers' intelligence
 - Fast-paced plotting with meaningful character moments
-- Age-appropriate stakes (friendship, family, self-discovery, belonging)
+- Age-appropriate stakes (friendship, family, self-discovery, adventure)
 
 ---
 
@@ -26,7 +26,7 @@
 - **Sensory-Rich**: Appeal to all five senses in every scene
 
 ### Writing Balance Formula
-**Target ratio: 70% external action/sensory / 30% internal reaction**
+**Target ratio: 80% external action/sensory / 20% internal reaction**
 
 Each spread (2 pages) should include:
 - **Physical movement** - Character going somewhere or doing something
@@ -49,7 +49,7 @@ Each spread (2 pages) should include:
 ❌ **Excessive internal monologue** - Limit to brief moments; prioritize external action
 ❌ **Repeated anxiety language** - Avoid overusing "stomach tightened," "cheeks burning"
 ❌ **Self-critical loops** - Characters shouldn't dwell on their failures harshly
-❌ **Heavy philosophical introspection** - Keep it light and action-oriented
+❌ **Heavy philosophical introspection** - Keep it light and action-oriented and witty
 ❌ **Passive observation** - Characters should participate, not just watch
 ❌ **Abstract stakes** - Make consequences visible and concrete
 ❌ **Static scenes** - Something should always be moving or changing
@@ -101,7 +101,8 @@ Characters should:
 - Have physical reactions to emotional moments
 - Grow through experience and experimentation
 - Face external obstacles more than internal ones (60/40 ratio)
-
+- Engage in humor
+  
 ### Magic and Fantasy Elements
 Magic in Kathaél should be:
 - **Visible** - Lights, colors, sparks, glows
@@ -504,95 +505,10 @@ Streams of colored light spiral from floor to ceiling, forming constantly shifti
 
 ✅ **Example:** Lia crouches before an ornate door carved with strange symbols, her fingers tracing the grooves as golden light seeps from the cracks. Her face shows equal parts determination and fear, shoulders tense like she knows there's no going back.
 
----
-
-## 10. Character Voice Guidelines
-
-**Each character should have distinct speech patterns, vocabulary, and physical tells.**
-
-### Maya (Protagonist)
-**Age:** 11
-**Core Traits:** Curious, cautious, analytical, feels deeply but tries to hide it
-**Speech Patterns:**
-- Asks lots of questions
-- Uses "I think" and "maybe" frequently
-- Complete sentences, good grammar
-- Gentle corrections rather than confrontation
-- Apologizes even when it's not her fault
-
-**Vocabulary:** Smart without showing off, uses precise words
-**Physical Tells:**
-- Tucks hair behind her ear when nervous
-- Chews her lip when thinking
-- Crosses arms when defensive
-- Makes eye contact when determined
-
-**Example Dialogue:**
-"Wait, can we think about this for a second? I mean, it might work, but what if it doesn't? Maybe we should have a backup plan. Just in case. I'm not saying we shouldn't try, I just think we should be careful."
-
-### Alex (Best Friend)
-**Age:** 11
-**Core Traits:** Impulsive, loyal, optimistic, acts before thinking
-**Speech Patterns:**
-- Short, punchy sentences
-- Lots of interruptions
-- Uses "come on" and "just" frequently
-- Thinks out loud
-- Bounces between topics
-
-**Vocabulary:** Casual, uses "dude" and "weird" and "cool"
-**Physical Tells:**
-- Can't sit still
-- Talks with his hands
-- Bounces on his toes when excited
-- Runs his hand through his hair when stressed
-
-**Example Dialogue:**
-"Okay okay okay, so here's what we do. We go in, grab the thing, get out. Easy. What? No, I haven't thought about what happens if there's guards. We'll figure it out. We always do. Come on, it'll be fine."
-
-### Lia (Secondary Character)
-**Age:** 12
-**Core Traits:** Practical, protective, sarcastic, secretly scared of being left behind
-**Speech Patterns:**
-- Dry humor
-- Says the thing everyone's thinking
-- Short responses
-- Uses "seriously?" and "really?" often
-- Deflects emotions with jokes
-
-**Vocabulary:** Straightforward, occasionally snarky
-**Physical Tells:**
-- Rolls her eyes
-- Crosses arms
-- Raises one eyebrow
-- Stands between others and danger
-
-**Example Dialogue:**
-"Great plan. Super smart. Love how we're definitely not going to get caught. Oh wait, did I say love? I meant hate. This is a terrible idea and we're all going to regret it. But sure, let's do it anyway."
-
-### Marcus (Mentor/Older Kid)
-**Age:** 14
-**Core Traits:** Knowledgeable, patient, carries responsibility heavily
-**Speech Patterns:**
-- Measured, thoughtful responses
-- Explains things clearly
-- Asks probing questions
-- Admits when he doesn't know
-- "Listen" and "here's the thing"
-
-**Vocabulary:** More advanced, but not condescending
-**Physical Tells:**
-- Runs hand over face when tired
-- Pinches bridge of nose when frustrated
-- Leans against walls
-- Maintains calm body language
-
-**Example Dialogue:**
-"Listen, I get why you'd think that. I thought the same thing at first. But here's the thing: it's not that simple. There are rules, and they exist for a reason. I'm not saying you shouldn't question them. I'm saying understand them first."
 
 ---
 
-## 11. Magic System Rules
+## 10. Magic System Rules
 
 **If your story includes magic, establish clear rules and limitations.**
 
@@ -633,7 +549,7 @@ Streams of colored light spiral from floor to ceiling, forming constantly shifti
 
 ---
 
-## 12. Emotional Beat Construction
+## 11. Emotional Beat Construction
 
 **Build emotional moments using a three-step process: Physical → Action → Realization**
 
@@ -682,7 +598,7 @@ Streams of colored light spiral from floor to ceiling, forming constantly shifti
 
 ---
 
-## 13. Metaphor and Simile Guidelines
+## 12. Metaphor and Simile Guidelines
 
 **Use comparisons sparingly and make them fresh, age-appropriate, and sensory.**
 
@@ -767,31 +683,6 @@ Maya was feeling nervous as she slowly walked toward the door. She felt her hear
 ✅ **After (Red flags eliminated):**
 Maya's stomach twisted into knots. Each step toward the door felt heavier than the last. The handle glowed faint blue in the darkness. Her hand trembled as she reached forward. "Here goes nothing." The words came out barely above a whisper.
 
----
-
-## 15. Word Count Guidelines
-
-### Per Section
-- **Chapter Length:** 2,000-5,000 words
-- **Scene Length:** 500-1,500 words
-- **Action Sequence:** 300-800 words (keep tight and fast)
-- **Dialogue Exchange:** 100-300 words before adding action/description
-- **Description Passage:** 100-200 words maximum before returning to action
-- **Opening Hook:** 150-300 words to grab attention
-- **Chapter Ending:** 50-150 words for cliffhanger or emotional beat
-
-### Total Story Structure (Example)
-- **Total Word Count:** 30,000-50,000 words (typical middle grade novel)
-- **Number of Chapters:** 15-25 chapters
-- **Act 1 (Setup):** 25% of total (7,500-12,500 words)
-- **Act 2 (Rising Action):** 50% of total (15,000-25,000 words)
-- **Act 3 (Climax + Resolution):** 25% of total (7,500-12,500 words)
-
-### Pacing Guidelines
-- **Action/Tension:** Shorter paragraphs, shorter chapters
-- **Reflection/Calm:** Can stretch longer, but never beyond 5,000 words per chapter
-- **Dialogue-Heavy Scenes:** Tend shorter (300-800 words)
-- **Description-Heavy Scenes:** Keep concise (200-500 words)
 
 ---
 
