@@ -77,9 +77,10 @@ attributes:
   # The description should include the age of the character
   visual_description:
     - 12 years old
-    - Straight and neatly brushed red hair
+    - Straight and neatly brushed red hair parted down the middle
     - Slim
     - Tall and athletic
+    - wears a black t-shirt, light blue basketball shorts, and blue basketball shoes
 
   # What story genres does the character (or the reader) enjoy most?
   # This will inform the writing style and plot direction.
