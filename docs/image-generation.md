@@ -9,7 +9,7 @@ The new layout system generates **1 image per page** (not per spread):
 - **12 spreads** per story
 - **2 pages per spread** (left + right)
 - **1 image per page** = 24 images per story
-- **3-4 sentences per scene**
+- **2-3 sentences per scene**
 
 ## Usage
 
@@ -104,7 +104,7 @@ scenes:
     visual: |
       Detailed visual description for left page...
     text: |
-      3-4 sentences of story text for left page...
+      2-3 sentences of story text for left page...
 
   - page: right
     page_number: 6
@@ -112,7 +112,7 @@ scenes:
     visual: |
       Detailed visual description for right page...
     text: |
-      3-4 sentences of story text for right page...
+      2-3 sentences of story text for right page...
 ```
 
 ### Legacy Format (Still Supported)
