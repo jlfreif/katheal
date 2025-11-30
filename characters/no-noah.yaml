@@ -24,26 +24,24 @@ attributes:
     - Thoughtful and analytical
     - Natural leader
     - Outgoing and chatty
-    - Older-souled
+    - Very funny
     - Seeks to understand patterns
     - Loves puzzles or riddles
-    - Expressive with hands and body when excited or frustrated  # NEW
 
   hobbies_interests_skills:
     - Reading (especially clever, suspenseful, and action-rich stories)
     - Writing
     - Basketball
     - Designing board games
-    - Chess
     - Performing or theatre
-    - Urban exploration and climbing  # NEW: adds physical problem-solving dimension
+    - Urban exploration and climbing  
 
   emotional_profile_typical_reactions:
     - Becomes determined but can get overwhelmed
     - Internalizes praise
     - Emotionally expressive
     - Wants to be consoled
-    - Shows frustration through physical movement (pacing, gesturing)  # NEW
+    - Finds humor in situations
 
   internal_conflict: |
     Noah has a strong desire to understand everything before acting, which often means
