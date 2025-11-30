@@ -1,7 +1,7 @@
 # Visual Style Guide for Kathaél Illustrations
 
 ## Overview
-All illustrations should maintain consistent style across all books while allowing each character's aesthetic to shine through.
+All illustrations should maintain consistent style across all books and pages and images of characters while allowing each character's aesthetic to shine through. Artistic style is combination of Oliver Jeffers and Paul Cezanne.
 
 ## Reference Images
 - Character reference images are stored in `ref-images/` directory
@@ -62,47 +62,16 @@ All illustrations should maintain consistent style across all books while allowi
 - Golden light for magic
 - Deep greens and browns for forest
 - Crystal: clear with rainbow refraction
-- Avoid overly saturated or garish colors
-- Noah's story: Warmer, amber-toned palette
-- Elise's story: Softer, more pastel watercolor palette
 
 ## Page Layout
 - 1 illustration per page
 - Images should support but not overwhelm text
-- Leave space for 3-4 sentences of text
+- Leave space for 2-3 sentences of text which should appear in white space at bottom of page
 - Important action should be clear and centered
 - Background details can be rich but shouldn't distract
 
-## Emotional Tone by Story Beat
-
-### Beginning
-- Warm, familiar, slightly wistful
-- Ordinary world feeling safe but slightly restless
-
-### Discovery
-- Awe and wonder, bright and magical
-- Sense of stepping into something extraordinary
-
-### Challenges
-- Dynamic, tense but not scary
-- Physical action visible
-- Visible consequences when things go wrong
-
-### Low Point
-- Darker, more muted, rain/shadows okay
-- But never hopeless - maintain gentle light
-
-### Climax
-- Dramatic, bright, energetic
-- Physical action at its peak
-- Crystal blazing with light
-
-### Resolution
-- Warm, glowing, peaceful joy
-- Sense of completion and new beginning
-
 ## Technical Notes
-- Resolution: High enough for print (300 DPI recommended)
+- Resolution: High enough for print (600 DPI recommended)
 - Format: As specified by gen_image.py script
 - Consistency: Cross-reference previous images for same character
 - Lighting: Should match time of day in text
@@ -123,22 +92,6 @@ Per the age 9-12 guidelines, illustrations should show:
 - Inconsistent character appearances
 - Breaking the fourth wall (characters looking at camera)
 
-## Character-Specific Visual Notes
-
-### Noah
-- Curious, active expression
-- Often holding notebook or pen
-- Interacts physically with golden threads
-- Surrounded by words/letters in the air when stories are active
-- Expression should show wonder more than worry
-
-### Elise
-- Gentle, observant expression
-- Watercolor set visible (at wrist or in hand)
-- Interacts with colors and light
-- Surrounded by soft color washes when magic is active
-- Expression should show quiet strength
-
 ## Image Generation Workflow
 1. Read character reference images from `ref-images/{char-code}-*.jpg`
 2. Apply consistent character appearance
@@ -146,6 +99,7 @@ Per the age 9-12 guidelines, illustrations should show:
 4. Incorporate lighting and mood from story beat
 5. Ensure action and movement are visible
 6. Check that consequences are shown clearly
+7. Text appears at bottom of page in white space
 
 ## Quality Checklist
 Before finalizing an illustration, verify:
@@ -157,5 +111,5 @@ Before finalizing an illustration, verify:
 - [ ] Creatures are active participants
 - [ ] Color palette is appropriate
 - [ ] Age-appropriate tone (9-12 years)
-- [ ] Text placement leaves room for 3-4 sentences
+- [ ] Text placement leaves room for 3-4 sentences which should appear in white space at bottom of page
 - [ ] Overall composition supports the story moment
