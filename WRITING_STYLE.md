@@ -13,6 +13,9 @@
 - Emotional depth that respects young readers' intelligence
 - Fast-paced plotting with meaningful character moments
 - Age-appropriate stakes (friendship, family, self-discovery, adventure)
+- Tone guidance: "Stories should be lighthearted and fun"
+- Humor examples: "Include age-appropriate jokes, funny mishaps, playful banter"
+- Comedy beats: "Characters can have humorous reactions or make silly mistakes"
 
 ---
 
@@ -24,6 +27,7 @@
 - **Age-Appropriate**: Smart vocabulary without condescension
 - **Encouraging**: Characters learn through action, not harsh self-criticism
 - **Sensory-Rich**: Appeal to all five senses in every scene
+  Tone guidance: "Stories should be lighthearted and fun"
 
 ### Writing Balance Formula
 **Target ratio: 80% external action/sensory / 20% internal reaction**
@@ -44,6 +48,7 @@ Each spread (2 pages) should include:
 ✅ **Dialogue and interaction** - Characters talk with creatures and each other
 ✅ **Immediate stakes** - Readers can SEE and UNDERSTAND what's at risk
 ✅ **Learning through doing** - Characters figure things out by trying, not contemplating
+- Humor: "Include age-appropriate jokes, funny mishaps, playful banter"
 
 ### DON'T (reduce these elements)
 ❌ **Excessive internal monologue** - Limit to brief moments; prioritize external action
