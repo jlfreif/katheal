@@ -141,10 +141,13 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
         "- Below the illustration, create a white rectangular text box that spans the full width"
     )
     prompt_parts.append(
-        "- The story text should appear in this white box in a clear, readable storybook font"
+        "- The story text should appear in this white box in Century Gothic font"
     )
     prompt_parts.append(
-        "- Use consistent typography: a clean serif or sans-serif font, centered or left-aligned"
+        "- Use Century Gothic font for all text - this is a clean, readable sans-serif font perfect for children's books"
+    )
+    prompt_parts.append(
+        "- Text should be centered or left-aligned within the white box"
     )
     prompt_parts.append(
         "- Text should have adequate padding/margins within the white box for easy reading"
