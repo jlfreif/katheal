@@ -132,7 +132,25 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
     # Meta instructions
     prompt_parts.append("Create an image for a children's story book.")
     prompt_parts.append(
-        "Add the provided text to the image in a storybook style with appropriate typography and placement."
+        "IMPORTANT TEXT FORMATTING INSTRUCTIONS:"
+    )
+    prompt_parts.append(
+        "- The main illustration should occupy the top 70-75% of the image"
+    )
+    prompt_parts.append(
+        "- Below the illustration, create a white rectangular text box that spans the full width"
+    )
+    prompt_parts.append(
+        "- The story text should appear in this white box in a clear, readable storybook font"
+    )
+    prompt_parts.append(
+        "- Use consistent typography: a clean serif or sans-serif font, centered or left-aligned"
+    )
+    prompt_parts.append(
+        "- Text should have adequate padding/margins within the white box for easy reading"
+    )
+    prompt_parts.append(
+        "- Text color should be dark (black or dark gray) for good contrast against white"
     )
     prompt_parts.append("")
 
