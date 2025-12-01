@@ -1,47 +1,50 @@
-# Max's Individual Page for Mirrored Node at Spread 6
+# Max's page - Spread 6
+# Mirrored Node with Maya - Discovering authentic approach
+# Max learns that mistakes are part of persistence, not failures to avoid
 
 id: mx-06
 spread: 6
 node_type: mirrored
 beat: "Midpoint: new insight / pattern"
+
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Max discovers that playful curiosity works better than forced logic when connecting with Kathaél's magic.
+description: Max exhausts himself trying to restart perfectly after each mistake, then discovers that continuing through mistakes is his true strength.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
+
     visual: |
-      A cluttered workshop inside a hollow tree, shelves lined with broken gadgets and failed
-      experiments. Half-finished contraptions litter the workbench: a device to catch golden
-      threads that snapped them instead, a formula written on parchment that made things worse,
-      a mechanical hand that froze mid-motion. Max stands in the center, surrounded by his
-      failures, staring at a wall covered in calculations and diagrams. A small lantern hangs
-      from the ceiling, its flame barely flickering, casting dim shadows across the mess. His
-      expression shows frustration and dawning realization. The workshop feels cramped and
-      suffocating, weighted with too much thinking and not enough doing.
+      Max slumps against a training post in a rocky clearing, chest heaving.
+      Around him, puzzle pieces from failed attempts scatter the ground. A
+      challenge course shifts and reshapes itself behind him. A compass hangs
+      from the post beside his head, its needle spinning wildly. His notebook
+      lies closed at his feet.
+
     text: |
-      Max stared at his failed experiments, formulas scratched across every surface. He'd tried
-      to solve Kathaél like a puzzle with one right answer. But nothing worked. The lantern above
-      him guttered, barely alight, as if his forced logic dimmed it further. He grabbed another
-      calculation, ready to try again the same way. The flame dimmed to almost nothing.
+      Max collapsed against the post, lungs burning. Every time he made a
+      mistake, he'd started over from the beginning. Perfectly. But the course
+      kept changing, and he kept failing, and he was so tired of restarting.
+      The compass beside him spun in frantic circles, pointing nowhere. He
+      closed his eyes. Maybe perfect wasn't the answer.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
+
     visual: |
-      Max sits on the floor of the workshop, abandoned formulas scattered around him, a playful
-      smile on his face as he juggles three golden threads like a game. The threads shimmer and
-      dance, responding to his movements. The lantern overhead blazes brilliantly now, bathing
-      everything in warm golden light. Around him, the broken gadgets begin to hum and glow,
-      responding to his shifted energy. One of the threads weaves itself into a new pattern,
-      beautiful and unexpected, showing him something he never would have planned. His eyes are
-      bright with genuine curiosity and delight. The workshop transforms from cluttered to magical.
+      Max stands before the challenge course, and instead of restarting after
+      a mistake, he keeps moving forward. Behind him, his footprints show a
+      messy path with corrections and stumbles, but all moving forward. The
+      compass's needle points steady and true directly at him. Golden threads
+      pulse approval.
+
     text: |
-      On impulse, Max dropped the formulas and just played. He juggled golden threads like they
-      were toys, laughing when they sparkled. The lantern exploded with light. The threads wove
-      themselves into patterns he never would have calculated—better patterns, alive and true.
-      His experiments glowed, responding not to logic but to joy. That was it. Kathaél didn't
-      need him to figure it out. It needed him to explore it.
+      Max stood and faced the course again. This time, when he stumbled on
+      the third obstacle, he didn't restart. He caught himself, adjusted,
+      and kept going. The course stopped shifting. The compass needle swung
+      around and pointed straight at him, steady as stone. "Oh," Max breathed.
+      "You don't want perfect. You want persistence."

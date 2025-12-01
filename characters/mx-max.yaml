@@ -22,11 +22,11 @@ attributes:
   # Examples: Adventure, Creativity, Justice, Family, Knowledge
   core_values_motivations:
     - Learning new things
-    - Inventing things
     - Following through on commitments
     - Making their own choices
     - Making people laugh
     - Humor
+    - Persistence and determination
 
   # Summarize the character's personality in 3-5 words or short phrases
   # Examples: Curious, Brave, Cautious, Optimistic, Stubborn
