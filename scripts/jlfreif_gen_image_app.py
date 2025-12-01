@@ -3,6 +3,8 @@ import yaml
 from pathlib import Path
 from google import genai
 from google.genai import types
+import io
+import zipfile
 
 
 def load_visual_style():
@@ -219,6 +221,10 @@ def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-
 st.title("Storybook Image Generator")
 st.write("Generate images for your storybook pages using Nano Banana Pro")
 
+# Initialize session state for storing generated images
+if 'generated_images' not in st.session_state:
+    st.session_state.generated_images = []
+
 # Sidebar for reference images and style
 with st.sidebar:
     st.header("Reference Materials")
@@ -302,6 +308,9 @@ else:
         # Gen images button
         if st.button("Generate All Images", type="primary", use_container_width=True):
             model_display = "Nano Banana Pro" if "3-pro" in model else "Nano Banana Flash"
+
+            # Clear previous images
+            st.session_state.generated_images = []
 
             # Process each selected page
             for page_idx, selected_display in enumerate(selected_displays):
@@ -414,32 +423,23 @@ else:
                 if generated_images and len(generated_images) > 0:
                     st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
 
-                    # Display the generated images
+                    # Store and display the generated images
                     for idx, image_part in enumerate(generated_images):
-                        st.subheader(f"Generated Image {idx + 1}")
-
                         # Get the image object and access its PIL representation
                         img_obj = image_part.as_image()
                         pil_image = img_obj._pil_image
 
-                        st.image(
-                            pil_image,
-                            caption=f"{selected_display} - {aspect_ratio} - {model_display}",
-                            use_container_width=True,
-                        )
-
-                        # Option to save the image
-                        import io
-                        buf = io.BytesIO()
-                        pil_image.save(buf, format='PNG')
+                        # Store in session state
                         file_safe_name = selected_display.replace(" ", "_").replace("/", "-")
-                        st.download_button(
-                            label=f"Download {selected_display} - Image {idx + 1}",
-                            data=buf.getvalue(),
-                            file_name=f"{file_safe_name}_img{idx + 1}.png",
-                            mime="image/png",
-                            key=f"download_{page_idx}_{idx}"
-                        )
+                        st.session_state.generated_images.append({
+                            'image': pil_image,
+                            'page_name': selected_display,
+                            'file_name': f"{file_safe_name}_img{idx + 1}.png",
+                            'aspect_ratio': aspect_ratio,
+                            'model': model_display,
+                            'page_idx': page_idx,
+                            'img_idx': idx
+                        })
                 else:
                     st.warning("No images were generated. Please try again.")
 
@@ -447,6 +447,60 @@ else:
             st.divider()
             st.success(f"🎉 Completed generation for all {len(selected_displays)} page(s)!")
             st.balloons()
+
+        # Display all generated images (persists across reruns)
+        if st.session_state.generated_images:
+            st.divider()
+            st.header("Generated Images")
+
+            col1, col2 = st.columns([3, 1])
+            with col1:
+                st.write(f"Total images generated: {len(st.session_state.generated_images)}")
+            with col2:
+                if st.button("🗑️ Clear All", type="secondary"):
+                    st.session_state.generated_images = []
+                    st.rerun()
+
+            # Create ZIP file with all images
+            zip_buffer = io.BytesIO()
+            with zipfile.ZipFile(zip_buffer, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+                for img_data in st.session_state.generated_images:
+                    img_buffer = io.BytesIO()
+                    img_data['image'].save(img_buffer, format='PNG')
+                    zip_file.writestr(img_data['file_name'], img_buffer.getvalue())
+
+            # Download all button
+            st.download_button(
+                label="📦 Download All Images as ZIP",
+                data=zip_buffer.getvalue(),
+                file_name="storybook_images.zip",
+                mime="application/zip",
+                type="primary",
+                use_container_width=True
+            )
+
+            st.divider()
+
+            # Display each image with individual download button
+            for img_data in st.session_state.generated_images:
+                st.subheader(f"{img_data['page_name']} - Image {img_data['img_idx'] + 1}")
+
+                st.image(
+                    img_data['image'],
+                    caption=f"{img_data['aspect_ratio']} - {img_data['model']}",
+                    use_container_width=True,
+                )
+
+                # Individual download button
+                img_buffer = io.BytesIO()
+                img_data['image'].save(img_buffer, format='PNG')
+                st.download_button(
+                    label=f"Download {img_data['page_name']} - Image {img_data['img_idx'] + 1}",
+                    data=img_buffer.getvalue(),
+                    file_name=img_data['file_name'],
+                    mime="image/png",
+                    key=f"download_{img_data['page_idx']}_{img_data['img_idx']}_persistent"
+                )
 
         # Preview section for selected pages (before generation)
         else:
