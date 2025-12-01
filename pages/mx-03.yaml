@@ -1,44 +1,50 @@
-# Max - Spread 3: First Attempt
+# Max's page - Spread 3
+# Attempt #1 (simple/obvious)
+# Max tries to fix challenges by forcing himself through perfectly
 
 id: mx-03
 spread: 3
 node_type: solo
 beat: "Attempt #1 (simple/obvious)"
+
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Max tries to fix the clockwork deer with perfect calculations but makes it worse.
+description: Max attacks frozen challenges with determination and perfect form, but forcing perfection makes them worse instead of better.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
+
     visual: |
-      Max surrounded by floating blueprints and calculations that glow golden in the air. He
-      works methodically on the clockwork deer, adjusting gears with precision tools, checking
-      measurements against his math. Everything is perfectly calculated. He tightens the final
-      spring, double-checks his work, then winds the key in the deer's side. The mechanisms click
-      into place perfectly. Other broken machines lean in, watching. His expression shows confident
-      certainty. The atmosphere is tense with anticipation—this should work.
+      Max runs through an obstacle course with intense focus, his form perfect
+      and controlled. He leaps barriers, balances on beams, climbs walls with
+      textbook technique. Behind him, the obstacles he completes turn grey
+      instead of glowing. His expression shows concentration and effort. He
+      hasn't noticed the problem yet.
+
     text: |
-      Max calculated every gear ratio, measured every spring tension, adjusted each mechanism to
-      mathematical perfection. He'd analyzed the problem, found the solution, executed it flawlessly.
-      The deer's gears aligned perfectly. He turned the key, watching his perfect repairs come
-      to life. The mechanisms began to move exactly as designed. This was going to work.
+      Max attacked the first course with everything he had. Perfect form, no
+      mistakes, complete the challenge exactly right. He vaulted the first
+      obstacle cleanly, balanced across the second without wavering, climbed
+      the third with precise hand placement. Behind him, the obstacles he'd
+      completed turned grey and cold. He landed the final jump. "Done!"
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
+
     visual: |
-      The clockwork deer moves stiffly, mechanically, without grace or life. It takes two steps
-      then freezes completely, more locked up than before. Max lunges forward to catch it as it
-      topples, his face showing shock and dismay. The golden thread connected to it frays and
-      dims. Around him, other mechanisms seem to retreat, losing hope. His perfect calculations
-      scattered in the air flicker and fade. A mechanical owl appears on a nearby branch, its
-      brass eyes whirring as it focuses on him. The atmosphere feels like deflating hope.
+      Max stands breathing hard, looking back at the course he completed. Every
+      obstacle he touched has turned grey and lifeless. The golden threads
+      connected to them have gone dark. A rabbit watches with sympathetic eyes.
+      Max's confident expression crumbles to confusion and frustration.
+
     text: |
-      The deer moved three stiff steps and froze solid, worse than before. Max caught it as it
-      fell, staring in disbelief. His math was perfect. His execution flawless. But the deer felt
-      more dead than ever, locked up by too much precision. A mechanical owl clicked and whirred
-      above him. "Perfect calculations make perfect mechanisms," it said. "But Kathaél needs
-      magic, not math. You must learn to play."
+      Max turned back, grinning, ready for his next challenge. The grin died.
+      Every obstacle he'd completed perfectly was now grey as stone, threads
+      dark and dead. "No. No, I did it right!" He ran back, tried again,
+      faster this time, more perfect. More obstacles turned grey. The rabbit
+      twitched its nose. Wrong how? Max thought, frustrated. How can doing
+      it right be wrong?
