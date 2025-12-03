@@ -7,7 +7,7 @@ beat: "Climax: big action"
 hook: Threshold moment with hesitation about taking the final irreversible step.
 payoff: The choice works and goal is achieved, validating the journey.
 
-description: All six children meet at the Heart Crystal and combine their unique courage to restore Kathaél.
+description: All six siblings/cousins meet at the Heart Crystal, surprised to find each other in Kathaél. They combine their unique courage to restore the crystal together.
 
 location: The Heart Crystal clearing, where the massive crystal rises like a building, its facets cracked and dimming
 
@@ -15,18 +15,18 @@ shared_action: Each child touches a facet representing their courage type, heali
 
 dialogue_packets:
   - speaker: noah
-    line: "We have to do this together. All of us."
-    works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: elise
-    line: "Each facet is different. Like each of us."
+    line: "Elise? Maya? Micah? Max? Mona? You're ALL here?"
     works_from_pov: [el, ma, mi, mo, mx, no]
   - speaker: maya
-    line: "So we each choose one? The one that fits?"
+    line: "Noah! I can't believe we're all together!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: elise
+    line: "We have to work together. Look—each facet is different. Like each of us."
     works_from_pov: [el, ma, mi, mo, mx, no]
   - speaker: max
     line: "Together on three. One... two..."
     works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: mona
+  - speaker: micah
     line: "Three!"
     works_from_pov: [el, ma, mi, mo, mx, no]
 
@@ -52,7 +52,7 @@ image_alignment:
       focal_character: micah
       background_characters: [el, ma, mo, mx, no]
     - character_code: mo
-      camera_position: showing Mona todding to her facet with others helping
+      camera_position: showing Mona toddling to her facet with others helping
       focal_character: mona
       background_characters: [el, ma, mi, mx, no]
     - character_code: mx
@@ -69,28 +69,25 @@ scenes:
     page_number: 23
     focus: Facing the final challenge
     visual: |
-      The Heart Crystal rises in the center of a vast clearing, a massive structure tall as a
-      building with six distinct facets, each a different color but all cracked and dimming.
-      Golden threads that should flow from it hang limp and grey. Six children stand at the
-      clearing's edge: Elise (9, long brown hair, graceful), Maya (9, pink-streaked hair, bold),
-      Micah (9, black hair, athletic), Mona (2, tiny, curious), Max (12, red hair parted down
-      middle, tall), and Noah (12, sandy blond, determined). They've arrived from different
-      paths, seeing each other and the massive crystal for the first time. The crystal's cracks
-      pulse with darkness. The atmosphere is tense and momentous. This is the heart of everything.
+      The Heart Crystal rises in a vast clearing. Massive. Tall as a building. Six facets, each a
+      different color. All cracked. Dimming. Golden threads hang limp and grey. Six children arrive
+      from different paths. Elise (9, long brown hair, graceful). Maya (9, pink-streaked hair, bold).
+      Micah (9, black hair, athletic). Mona (2, tiny, curious). Max (12, red hair parted, tall). Noah
+      (12, sandy blond, determined). They see each other. Eyes widen in recognition and surprise. Family.
+      Together in Kathaél. The crystal's cracks pulse with darkness. Text in Times New Roman 16pt in
+      white space at bottom.
     text: |
-      Six paths. One place. Six children stood before the enormous Heart Crystal, cracked and fading. "Together," Noah said. They stepped forward.
+      Six paths led to one place. Noah stepped into the clearing. Stopped. "Elise? Maya? Micah? Max? Mona?" His family stood before an enormous cracked crystal. Maya's eyes went wide. "Noah! We're all here!" They stared at each other. Then at the dying crystal. "Together then," Noah said.
 
   - page: right
     page_number: 24
     focus: Taking decisive action
     visual: |
-      Each child stands before a facet of the Heart Crystal, hands raised to touch it. Elise
-      reaches for the graceful blue facet that hums with music. Maya touches the bold pink facet
-      that pulses with color. Micah connects with the active green facet vibrating with movement.
-      Mona's tiny hands press against the curious orange facet glowing with wonder. Max reaches
-      for the analytical red facet sparking with ideas. Noah places his palm on the persistent
-      yellow facet shimmering with stories. All six touch simultaneously. Brilliant light explodes
-      from the crystal, threads of gold shooting into the sky, cracks sealing, colors blazing back
-      to life. The children are silhouetted in the radiant glow.
+      Each child stands at a facet. Hands raised. Elise at the blue facet humming with music. Maya
+      at the pink facet pulsing with color. Micah at the green facet vibrating with movement. Mona's
+      tiny hands at the orange facet glowing with wonder. Max at the red facet sparking with ideas.
+      Noah at the yellow facet shimmering with stories. All six touch simultaneously. Light explodes.
+      Brilliant. Golden threads shoot into the sky. Cracks seal. Colors blaze. The children silhouetted
+      in radiant glow. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      "On three," Max said. "One, two…" "Three!" Micah shouted. Six hands touched six facets. Light exploded through the crystal, through the threads, through all of Kathaél. The crystal blazed whole.
+      "Each facet different," Elise said. "Like us." They moved to their facets. "On three," Max said. "One. Two..." "Three!" Micah shouted. Six hands. Six facets. Light exploded. Through the crystal. Through the threads. Through all of Kathaél. The crystal blazed whole.

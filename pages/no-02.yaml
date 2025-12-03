@@ -7,33 +7,32 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah discovers Kathaél's library of unfinished stories and realizes they're dying because no one trusts the process.
+description: Noah follows the golden thread through his window into Kathaél's forest library, where he discovers dying stories abandoned before their endings.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      An enormous magical library where books and story-scrolls float in the air on golden
-      threads. Many of the threads are fraying and grey, books dimming and fading. Noah stands
-      in the center, spinning to take it all in, hands out in amazement and growing alarm. Some
-      books flicker like dying lights. Scrolls unravel, their words disappearing. A story hovers
-      before him, its ending missing—literally erased, leaving blank pages. The library stretches
-      impossibly far in all directions. Beautiful but clearly suffering. Noah's expression shows
-      wonder mixed with concern. The atmosphere feels urgent but not yet desperate.
+      A magical forest library where ancient trees serve as living shelves, their branches holding
+      floating books and scrolls. Golden threads connect stories to tree limbs. Many threads are
+      grey and fraying. Noah stands in the center of a clearing, spinning in amazement. Books flicker
+      like dying fireflies. Scrolls unravel, words disappearing. Moss covers the ground. Vines
+      twist between tree trunks. Sunlight filters through the canopy. One book hovers before him,
+      its ending blank. Forest and library merged into one magical place. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      The thread tugged Noah through his window into a library bigger than any building he'd ever seen. Stories floated everywhere on golden threads, but half of them were fading, turning grey and fraying. He caught a falling book. Its pages were blank where the ending should be. All around him, stories died mid-sentence, abandoned by writers who couldn't find the perfect words.
+      The thread yanked Noah through his window. He tumbled into a forest where trees held floating books on their branches. Stories everywhere. But half were dying. Grey threads. Fading words. He caught a falling book. Blank pages where the ending should be.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Noah stands before a particular scroll that glows slightly brighter than the others, its
-      thread still golden but flickering. He reaches out with both hands to steady it, his face
-      showing determination. The scroll unfurls showing a story about a girl seeking her lost
-      voice—it's almost complete but stops abruptly. Noah's expression shifts from analytical
-      to emotionally connected. Around him, other stories seem to lean in, watching, hoping.
-      A golden thread extends from the scroll toward his hand, inviting him to help. His posture
-      straightens with purpose. The atmosphere shifts from discovery to commitment.
+      Noah stands before a glowing scroll hanging from a low branch, its golden thread wrapped
+      around the bark. He reaches up with both hands to steady it. The scroll unfurls showing a
+      story about a girl and her lost voice. It stops mid-sentence. Noah's face shows determination.
+      Other stories on nearby branches lean toward him, watching. Hoping. Small forest creatures
+      peek from behind trees. His posture straightens with purpose. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      One story pulsed brighter than the rest, fighting to stay alive. Noah grabbed its thread, steadying it. The scroll showed a girl searching for her lost voice, pages filled with beautiful moments that suddenly stopped. Someone had given up right before the ending. "I'll help you," he promised. He'd figure this out somehow.
+      One story pulsed brighter than the rest. Fighting to stay alive. Noah grabbed its thread and steadied it. A girl searching for her lost voice. Beautiful moments. Then nothing. Someone had quit right before the ending. "I'll help you," Noah promised.

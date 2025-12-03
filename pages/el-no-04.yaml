@@ -7,13 +7,19 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Elise and Noah meet at a crossroads and seek guidance from the Heart Crystal's threads.
+description: Cousins Elise and Noah meet at a forest crossroads, surprised to find each other in Kathaél. They seek guidance from the Heart Crystal's threads.
 
 location: A forest crossroads where paths converge beneath an ancient oak, golden threads visible in the air
 
 shared_action: Both reach toward the Heart Crystal's threads, seeking direction
 
 dialogue_packets:
+  - speaker: noah
+    line: "Elise? What are YOU doing here?"
+    works_from_pov: [el, no]
+  - speaker: elise
+    line: "Noah! I can't believe it's you!"
+    works_from_pov: [el, no]
   - speaker: noah
     line: "The threads are showing us something. A pattern, maybe?"
     works_from_pov: [el, no]
@@ -30,11 +36,11 @@ image_alignment:
     - soft moss on ground
   pov_variants:
     - character_code: el
-      camera_position: behind Elise as she reaches toward threads with Noah ahead
+      camera_position: behind Elise as she reaches toward threads with Noah on opposite side
       focal_character: elise
       background_characters: [noah]
     - character_code: no
-      camera_position: behind Noah as he studies threads with Elise visible
+      camera_position: behind Noah as he studies threads with Elise on opposite side
       focal_character: noah
       background_characters: [elise]
 
@@ -43,27 +49,23 @@ scenes:
     page_number: 11
     focus: Seeking guidance
     visual: |
-      A crossroads in the forest where four distinct paths meet beneath an enormous ancient oak
-      tree. Golden threads flow through the air like streams of light, weaving between the oak's
-      branches. Noah (12 years old, sandy blond voluminous hair, medium build, wearing blue hoodie
-      and tan sport pants) stands on the left path, hand extended toward a cluster of threads,
-      his expression focused and analytical. Elise approaches from the right path, her posture
-      graceful, watching the same threads with wonder. The threads pulse gently, as if alive.
-      Morning mist swirls around their feet. Small luminescent mushrooms dot the moss beneath
-      the oak. The atmosphere feels hushed and important.
+      A forest crossroads where four paths meet beneath an enormous ancient oak. Golden threads
+      weave through the air between branches. Noah (12 years old, sandy blond voluminous hair,
+      medium build, blue hoodie, tan sport pants, white sneakers) stands on one path, studying the
+      threads. Elise appears on another path. They face each other across the crossroads in surprise.
+      Morning mist swirls. Luminescent mushrooms dot the moss. The threads pulse gently. Text in
+      Times New Roman 16pt in white space at bottom.
     text: |
-      The owl led Noah to a crossroads beneath an ancient oak. He studied the golden threads floating between the branches, trying to decode their pattern. Each one seemed to point a different direction. Footsteps made him look up. Elise appeared on another path, moving with a dancer's grace. "The threads are showing us something," he said aloud. "A pattern, maybe?"
+      The owl led Noah from the library to a crossroads. Golden threads floated between oak branches. Each pointed a different direction. Footsteps. Noah looked up. "Elise?" His cousin stood on another path. "What are YOU doing here?" Her eyes went wide. "Noah! I can't believe it's you!"
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
     visual: |
-      Noah and Elise stand closer now, both reaching toward where the golden threads converge
-      into a bright, pulsing point of light above them. The threads weave together, forming
-      an arrow-like pattern pointing deeper into the forest where the trees grow darker and
-      closer together. Both children look at each other, Noah's expression uncertain but
-      determined, Elise's showing quiet courage. The threads' golden light illuminates their
-      faces. Small particles of light drift around them like fireflies. The path ahead looks
-      both inviting and challenging, disappearing into mysterious shadows.
+      Noah and Elise both reach toward where the golden threads converge above them. The threads
+      weave together, forming an arrow pointing deeper into the dark forest. They look at each other
+      with determination. The threads' golden light illuminates their faces. Small light particles
+      drift like fireflies. The path ahead disappears into mysterious shadows. They stand apart, not
+      touching, but unified in purpose. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Elise reached up beside him, and the threads responded. They wove together into an arrow pointing deep into the dark forest. "They want us to follow them," Elise whispered. "Together." Noah nodded slowly, swallowing his nervousness. The threads pulsed once more, then began drifting forward, leading them into unknown territory.
+      They reached toward the threads together. The threads wove into an arrow. Deep into the dark forest. "They want us to follow them," Elise whispered. "Together." Noah nodded. The threads pulsed. Then drifted forward. Leading them into the unknown.

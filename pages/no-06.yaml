@@ -7,34 +7,30 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Noah discovers that listening to the story's own voice works better than imposing his ideas.
+description: Noah returns to the forest library and discovers that listening to the story's own voice works better than imposing his ideas.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      A circle of failed attempts surrounds Noah in the library. Floating around him are multiple
-      versions of endings, all crossed out or faded to grey: "She found her voice in a cave,"
-      "Her voice returned when she sang," "Magic restored what was lost." Noah sits in the center,
-      head in hands, staring at the pile of beautiful but wrong endings. The original story hovers
-      before him, still unfinished, its thread dim but not dead. His expression shows exhaustion
-      and dawning realization. A small firefly-like light hovers near the story, pulsing gently
-      in its own rhythm. The atmosphere is one of surrounded-by-failure but approaching breakthrough.
+      Noah sits on a moss-covered log in the forest library, surrounded by floating failed endings.
+      Grey crossed-out attempts drift around him like dead leaves. "She found her voice in a cave."
+      "Magic restored what was lost." All wrong. He stares at them, head in hands. The original
+      scroll hovers before him, still unfinished, thread dim but alive. Tree branches hold other
+      stories. A firefly-light pulses nearby. His face shows exhaustion and dawning realization.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah stared at his failed attempts floating around him in the library. Every ending he'd written was technically perfect but completely wrong. He'd been trying to solve the story like a math problem, finding the answer he thought it needed. But stories weren't problems. They were living things. The unfinished scroll pulsed in front of him. For the first time, he stopped trying to tell it what to do. He just listened.
+      Noah stared at his failures. Every ending technically perfect. All wrong. He'd been solving the story like a math problem. But stories weren't problems. They were living things. The scroll pulsed before him. For the first time, he stopped telling it what to do. He just listened.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      Noah sits very still, eyes closed, hands resting gently on the story's thread. The thread
-      glows brighter, responding to his listening rather than his directing. Around him, the
-      story's pages begin to write themselves—words appearing in shimmering gold, flowing naturally
-      from what came before. The ending emerges organically, surprising but perfect: "She realized
-      her voice had never been lost. It had been waiting for her to stop searching and start
-      speaking." Noah's eyes snap open in wonder. The firefly light dances joyfully. Other stories
-      in the library brighten slightly, responding to this success. His expression shows amazed
-      understanding.
+      Noah sits very still, eyes closed, hands gentle on the story's thread. The thread glows
+      brighter. The story's pages begin writing themselves. Golden words appear, flowing naturally.
+      The ending emerges: "She realized her voice had never been lost. It had been waiting for her
+      to stop searching and start speaking." Noah's eyes snap open in wonder. The firefly dances.
+      Other stories on tree branches brighten. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The story whispered what it needed. Not a loud, triumphant ending like he'd planned, but something quieter and truer. Words appeared on the page, flowing naturally. "She realized her voice had never been lost. It had been waiting for her to stop searching and start speaking." Noah gasped. "That's it. Not my idea, but the story's own truth." The thread blazed gold.
+      The story whispered. Not loud. Not triumphant. Quiet and true. Words appeared. Flowing. Natural. "She realized her voice had never been lost. It had been waiting for her to stop searching and start speaking." Noah gasped. "Not my idea. The story's own truth." The thread blazed gold.

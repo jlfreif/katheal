@@ -7,34 +7,31 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah almost completes a story but must learn to trust the ending rather than control it.
+description: Noah almost completes a story in the forest library but must learn to trust the ending rather than control it.
 
 scenes:
   - page: left
     page_number: 17
     focus: Making progress toward goal
     visual: |
-      A magical library where golden story-threads float in the air like ribbons, forming words
-      and sentences. Noah stands on a floating platform of books, hands outstretched toward a
-      nearly-complete story that shimmers before him. The words glow: "And then she discovered..."
-      with the ending hovering just out of reach. He's so close—the story is almost finished.
-      Other completed stories float around him, their threads woven into solid, glowing narratives.
-      A candle burns on a nearby floating desk, its flame bright and steady. His expression shows
-      intense focus and hope. The atmosphere crackles with almost-success.
+      The forest library. Golden story-threads float between tree branches like ribbons forming words.
+      Noah stands on a natural platform of roots, hands reaching toward a nearly-complete story. The
+      words glow: "And then she discovered..." Ending just out of reach. So close. Other completed
+      stories hang on branches around him, their threads solid and glowing. A candle burns on a tree
+      stump, flame bright and steady. His face shows hope. Text in Times New Roman 16pt in white
+      space at bottom.
     text: |
-      Noah reached for the story's ending, watching it form word by word. He could almost grasp it. The perfect conclusion, the right resolution. The story pulsed, nearly complete. Around him, other stories hung finished and whole, proof that it could be done. The candle flame burned steady and bright. Just a little more.
+      Noah reached for the ending. Word by word it formed. Almost there. The perfect conclusion. The story pulsed. Nearly complete. Around him, finished stories hung whole. Proof it could be done. The candle burned steady. Bright. Just a little more.
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
     visual: |
-      The story-thread slips through Noah's fingers and changes, the ending shifting to something
-      different than what he planned. He stands with arms outstretched, face showing frustration
-      and confusion as the words rearrange themselves. The candle flame flickers wildly but
-      doesn't go out, casting dancing shadows. The story isn't ending how he wanted, but it's
-      still ending—its threads weaving into a pattern he didn't predict. In the distance, through
-      the floating books, he can see a door he hadn't noticed before, glowing faintly. His
-      expression shifts from control to acceptance. The atmosphere is uncertain but alive with
-      possibility.
+      The story-thread slips through Noah's fingers. The ending shifts. Changes. Becomes something
+      different than he planned. He stands with arms out, face showing frustration as words rearrange
+      themselves. The candle flame flickers wildly but doesn't die. The story ends its own way. Its
+      threads weave a pattern he didn't predict. Through the trees, a door glows faintly. He hadn't
+      seen it before. His expression shifts from control to acceptance. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      The ending shifted. Changed. Became something he hadn't planned. Noah tried to guide it back, but the story had its own ideas. The candle flickered but stayed lit. "I'm not in control," he whispered. "The story is. And maybe that's okay." Through the shelves, he spotted a door glowing faintly. That's where he'd find what he needed. Not in controlling the ending, but in trusting it.
+      The ending shifted. Changed. Became something he hadn't planned. Noah tried to guide it back. The story had its own ideas. The candle flickered. Stayed lit. "I'm not in control," he whispered. "The story is. Maybe that's okay." Through the trees, a glowing door. That's where he needed to go.

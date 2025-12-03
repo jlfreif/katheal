@@ -7,33 +7,30 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah tries to write the perfect ending for the story but discovers forcing it makes things worse.
+description: Noah tries to write the perfect ending but discovers forcing it makes things worse.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Noah sits cross-legged on a floating platform of books, surrounded by the unfinished story's
-      pages that hover in the air around him. He has a glowing quill in hand, writing carefully
-      in the air, golden words appearing where the pen moves. His face shows intense concentration,
-      tongue between his teeth, working to craft the perfect ending. The words glow bright initially,
-      seeming to work. Other floating pages lean in as if watching his progress. The golden thread
-      attached to the story pulses with hope. The atmosphere is tense with focused effort and
-      anticipation.
+      Noah sits on a moss-covered log in the forest library, surrounded by floating pages from
+      the unfinished story. He holds a glowing quill, writing in the air. Golden words appear where
+      the pen moves. His face shows concentration, tongue between teeth. The words glow bright.
+      Tree branches hold watching stories. The golden thread pulses with hope. Ancient trees tower
+      around him. Sunlight filters through leaves. His expression is determined and focused. Text
+      in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah took the glowing quill and wrote carefully, crafting what he thought was the perfect ending. "And then she found her voice in the crystal cave, singing louder than ever before." Logical, satisfying, complete. The words glowed bright as he wrote them. Around him, the library seemed to hold its breath.
+      Noah took the glowing quill and wrote carefully. "She found her voice in the crystal cave, singing louder than ever before." Perfect. Logical. Complete. The words glowed bright. Around him, the forest held its breath.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The golden words Noah wrote suddenly turn grey and crumble, falling like ash. The story's
-      thread frays worse than before, nearly breaking. Noah lurches forward, grabbing the thread
-      desperately, his face showing shock and dismay. The pages of the story flutter in distress,
-      some words actually fading from earlier paragraphs. Books around him dim further. His
-      carefully crafted ending lies in grey dust at his feet. His expression shifts from
-      confidence to confused distress. A wise-looking owl appears on a nearby floating shelf,
-      watching him with knowing eyes. The atmosphere feels like a deflating balloon.
+      The golden words turn grey and crumble like ash. The story's thread frays, nearly breaking.
+      Noah lunges forward, grabbing it desperately. His face shows shock. The pages flutter in
+      distress. Earlier words fade. Books on tree branches dim. Grey dust at his feet. A wise owl
+      appears on a low branch, watching with knowing eyes. Noah's expression shifts from confidence
+      to dismay. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The words turned grey and crumbled. The story's thread frayed worse, nearly snapping in his hands. Noah gasped, catching it before it broke completely. His perfect ending had made things worse. An owl appeared on a shelf, hooting softly. "Stories don't need perfect endings, young writer. They need true ones. And you can't force truth."
+      The words turned grey. Crumbled. Fell like ash. The thread frayed worse. Nearly snapped. Noah gasped and caught it. His perfect ending made things worse. An owl appeared. "Stories don't need perfect endings, young writer. They need true ones. You can't force truth."
