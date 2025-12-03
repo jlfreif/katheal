@@ -3,11 +3,40 @@
 # ==============================================================================
 # STORY CREATION GUIDELINES - READ FIRST
 # ==============================================================================
+#
+# CRITICAL REFERENCE FILES:
+#   - STORY_IMPROVEMENT_GUIDELINES.md - Specific improvements and quality standards
+#   - WRITING_STYLE.md - Supplementary writing guide (Sendak style is primary)
+# ==============================================================================
 
 meta:
   target_audience: "Children ages 9-12"
   reading_level: "Independent readers or read-aloud by parents"
   tone: "Curious, active, adventurous - not anxious or overly introspective. Keep the overall tone light and fun. Include moments of humor and playfulness. Characters can have funny reactions to magical situations. Age-appropriate silly moments (physical comedy, wordplay, funny observations). Balance adventure stakes with comedic relief."
+
+text_formatting:
+  font: "Times New Roman"
+  size: "16pt"
+  placement: "White space towards the bottom of the page"
+  consistency: "CRITICAL - Exact same font and size on EVERY page across ALL stories"
+
+character_relationships:
+  family_structure: "All six characters are siblings or cousins"
+  recognition: |
+    When characters meet at nodes:
+    - They recognize each other immediately (family members)
+    - Express surprise at seeing each other in Kathaél
+    - Acknowledge joining forces to defeat the problem
+  visual_rules:
+    - "NO romantic imagery between any characters"
+    - "Each character retains same visual appearance on every page (age, haircut, hair color, shoes, clothes)"
+
+transition_requirements:
+  page_to_page: "Text must describe transition from one page to the next"
+  meeting_nodes: |
+    CRITICAL: Pages before and after meeting nodes require transition text explaining:
+    - How character approaches the meeting location
+    - How character departs or continues after the meeting
 
 world_building:
   central_object: "Heart Crystal"
@@ -15,6 +44,18 @@ world_building:
   note: "NOT Heart-Loom. Use crystal/prism/facet language, not tapestry/weaving/loom"
 
 writing_principles:
+  primary_style: |
+    PRIMARY WRITING STYLE: "Where the Wild Things Are" by Maurice Sendak
+    - Brevity: Short, punchy sentences
+    - Simplicity: Clear, direct language
+    - Rhythm: Lyrical, read-aloud quality with repetition for emphasis
+    - Child's perspective: Imaginative, immediate, emotional
+    - Sparse text: Let illustrations carry much of the story
+    - Poetic phrasing: Direct and memorable
+    - Adventure focus: External action over internal contemplation
+
+    WRITING_STYLE.md is supplementary. When in conflict, Sendak style wins.
+
   action_vs_introspection: "80% external action and sensory / 20% internal reaction"
   primary_focus:
     - "Show characters DOING things (running, climbing, chasing)"
@@ -266,60 +307,77 @@ spreads:
     node_allowed: true
     node_types_allowed: [meeting, mirrored, resonant]
 
-  # Spread 10 - Climax
+  # Spread 10 - Climax Part 1 (All Six Characters Converge)
   - spread: 10
     pages: "23-24"
-    beat: "Climax: big action"
+    beat: "Climax: convergence and resistance"
     description: |
-      They reach the goal destination or moment of truth.
-      The journey's hardest part happens here (physical challenge, emotional decision).
-    hook: Threshold moment with hesitation about taking the final irreversible step.
-    payoff: The choice works and goal is achieved, validating the journey.
+      All six characters come together at the Heart Crystal.
+      The Heart Crystal actively fights back, resisting their efforts.
+      This is the moment of greatest challenge and unity.
+    hook: Characters realize individual efforts aren't enough; they must work together.
+    payoff: Characters begin applying what they learned in their individual journeys.
     scenes:
       - page: left
-        focus: Facing the final challenge
+        focus: All six characters converging at Heart Crystal
         text_sentences: 2-3
       - page: right
-        focus: Taking decisive action
+        focus: Heart Crystal fights back with resistance
         text_sentences: 2-3
     node_allowed: true
-    node_types_allowed: [meeting, mirrored, resonant]
+    node_types_allowed: [meeting]
+    note: |
+      CRITICAL: This is a meeting node where all six characters come together.
+      The Heart Crystal should show active resistance (visual effects, challenges).
+      Characters express surprise at seeing family members in Kathaél.
+      They acknowledge joining forces to defeat the problem.
 
-  # Spread 11 - Resolution (External) (MUST be character-specific, no nodes)
+  # Spread 11 - Climax Part 2 (Victory Through Unity)
   - spread: 11
     pages: "25-26"
-    beat: "Resolution (external)"
+    beat: "Climax: applying learned skills to save the crystal"
     description: |
-      The external goal is achieved. Main character receives closure or a tangible token
-      representing what was accomplished.
-    hook: Return journey begins with hint of future possibility or unresolved element.
-    payoff: Character arrives home integrating what they gained from the journey.
+      Each character contributes using skills and lessons from their individual journey.
+      Working together, they overcome the Heart Crystal's resistance and save it.
+      Action-focused spread showing cooperation and problem-solving.
+    hook: The Heart Crystal is saved; the immediate crisis is resolved.
+    payoff: Characters celebrate victory and prepare to return home.
     scenes:
       - page: left
-        focus: Goal achieved, external reward
+        focus: Characters applying individual skills together
         text_sentences: 2-3
       - page: right
-        focus: Beginning the return
+        focus: Victory - Heart Crystal saved through teamwork
         text_sentences: 2-3
-    node_allowed: false
+    node_allowed: true
+    node_types_allowed: [meeting]
+    note: |
+      CRITICAL: This is a meeting node where all six characters continue working together.
+      Each character should visibly contribute their unique skills from their journey.
+      Show visible consequences of success (crystal glowing, colors returning, etc.).
 
-  # Spread 12 - Resolution (Emotional) (MUST be character-specific, no nodes)
+  # Spread 12 - Resolution (MUST be character-specific, no nodes)
   - spread: 12
     pages: "27-28"
-    beat: "Resolution (emotional) + series button"
+    beat: "Resolution: return and transformation"
     description: |
-      Main character's ordinary world again—but subtly transformed by the journey
-      (new confidence, new connection, new understanding).
+      Character returns to their ordinary world, transformed by the journey.
+      External goal achieved; emotional growth evident.
+      Brief, focused ending showing new confidence and understanding.
     hook: Final moment of reflection showing ongoing connection or meaning.
-    payoff: Landing complete - ordinary world echoes opening but transformed.
+    payoff: Landing complete - ordinary world echoes opening but character has grown.
     scenes:
       - page: left
-        focus: Returning to ordinary world
+        focus: Returning home with what was gained
         text_sentences: 2-3
       - page: right
-        focus: Transformed by the journey
+        focus: Ordinary world transformed by journey's lessons
         text_sentences: 2-3
     node_allowed: false
+    note: |
+      CRITICAL: This spread is character-specific only (no meeting nodes).
+      Condenses both external resolution and emotional transformation.
+      Keep it brief and focused - the climax was spreads 10-11.
 
 # Node Type Definitions
 node_types:
