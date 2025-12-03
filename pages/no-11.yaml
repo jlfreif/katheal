@@ -7,34 +7,30 @@ beat: "Resolution (external)"
 hook: Return journey begins with hint of future possibility or unresolved element.
 payoff: Character arrives home integrating what they gained from the journey.
 
-description: Noah receives a gift from Kathaél and carries the library's wisdom home with him.
+description: The forest library transforms. Noah receives Kathaél's gift—a golden quill—and begins his journey home.
 
 scenes:
   - page: left
     page_number: 25
     focus: Goal achieved, external reward
     visual: |
-      The library transformed—no longer dim and dying but radiant and alive. Every story glows
-      with golden threads, complete and true. Books and scrolls float serenely, their endings
-      finally written. Noah stands in the center, hands cupped to receive a gift from the library
-      itself: a small golden quill that writes in light, pulsing with the rhythm of story-magic.
-      Around him, completed stories dance in celebration. The threads weave beautiful patterns.
-      His expression shows joy and humble gratitude. A doorway of golden light opens before him,
-      leading back home. The atmosphere is triumphant but gentle, celebrating not just success
-      but understanding.
+      The forest library transformed. No longer dim and dying. Radiant. Alive. Every story glows with
+      golden threads. Books and scrolls float on tree branches, complete and true. Noah stands in the
+      center, hands cupped. The library gives him a gift. A small golden quill that writes in light.
+      Pulsing with story-magic. Around him, completed stories dance. The threads weave beautiful patterns.
+      His expression shows joy and gratitude. A doorway of golden light opens between the trees. Leading
+      home. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The library blazed with completed stories, every thread golden and strong. The scroll Noah had saved first floated down to him, whole and beautiful, then transformed into a small quill made of light. He understood. This was Kathaél's gift. The quill that wrote truth instead of perfection. "All my failed attempts led here," he said. The doorway home shimmered open.
+      The forest library blazed. Every thread golden. Every story complete. The scroll Noah saved first floated down. Whole. Beautiful. It transformed. Became a small quill made of light. Kathaél's gift. The quill that wrote truth instead of perfection. "All my failures led here," he whispered. The doorway home shimmered between the trees.
 
   - page: right
     page_number: 26
     focus: Beginning the return
     visual: |
-      Noah walks through the forest toward home, the golden quill tucked behind his ear like a
-      pencil, glowing softly. He moves with confident strides, no longer hunched with the weight
-      of needing to be perfect. Golden threads appear faintly in the air around him, connecting
-      to trees and flowers, showing stories in everything. He grins widely, already composing in
-      his head—not the perfect story, but a true one. Small creatures peek out to watch him pass.
-      The path ahead is clear and welcoming. His whole demeanor radiates understanding and
-      excitement. The atmosphere celebrates the journey and anticipates the next beginning.
+      Noah walks through the forest away from the library. The golden quill tucked behind his ear like
+      a pencil. Glowing softly. He moves with confident strides. No longer hunched. Golden threads appear
+      faintly in the air. Connecting trees and flowers. Showing stories in everything. He grins. Already
+      composing. Not the perfect story. A true one. Small creatures peek out. The path ahead clear and
+      welcoming. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah walked home through the glowing forest, the golden quill tucked behind his ear like a pencil. Golden threads appeared faintly in the air around him, connecting to trees and flowers, showing stories in everything. Stories needed tries, not triumph. Failures weren't wasted. They were information, each attempt teaching what worked and what didn't. The quill glowed warm, reminding him that persistence mattered more than perfection.
+      Noah left the forest library behind. The golden quill glowed behind his ear. Golden threads appeared faintly. Connecting everything. Stories everywhere. Stories needed tries, not triumph. Failures weren't wasted. They were information. Each attempt teaching. The quill glowed warm. Persistence mattered more than perfection.

@@ -7,7 +7,7 @@ beat: "All-is-lost / emotional low"
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Micah and Noah meet in exhaustion and doubt, both ready to give up until they help each other see differently.
+description: Cousins Micah and Noah meet in exhaustion and doubt, both ready to give up until they help each other see differently.
 
 location: A dim glade where golden threads are fading to grey, showing the consequences of giving up
 
@@ -15,10 +15,13 @@ shared_action: Both collapse in exhaustion, then encourage each other to keep tr
 
 dialogue_packets:
   - speaker: micah
-    line: "I can't do this anymore. I've tried everything."
+    line: "Noah? Is that you?"
     works_from_pov: [mi, no]
   - speaker: noah
-    line: "Me too. Every time I think I've got it, I mess it up again."
+    line: "Micah! I can't do this anymore."
+    works_from_pov: [mi, no]
+  - speaker: micah
+    line: "Me too. I've tried everything."
     works_from_pov: [mi, no]
   - speaker: micah
     line: "But... you're still here. That counts for something, right?"
@@ -46,26 +49,22 @@ scenes:
     page_number: 19
     focus: External obstacles intensify
     visual: |
-      A dim glade where golden threads that once shimmered brightly are fading to dull grey before
-      their eyes. Flowers wilt and lose their glow. The air feels heavy and tired. Micah stumbles
-      into the clearing, his usually energetic posture slumped, clothes dusty, face showing deep
-      fatigue. Noah sits on a mossy log, head in his hands, shoulders hunched. Around them, the
-      evidence of their separate journeys shows in scattered broken attempts—snapped threads,
-      faded crystals, wilted plants. The forest seems to dim further with each passing moment.
-      The atmosphere is one of defeat and growing darkness.
+      A dim glade where golden threads fade to grey. Flowers wilt. Lose their glow. Micah stumbles
+      into the clearing, exhausted, clothes dusty. Noah sits on a mossy log, head in hands, shoulders
+      hunched. Around them, broken attempts. Snapped threads. Faded crystals. Wilted plants. The
+      forest dims further. The air feels heavy. Defeated. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      Micah dragged himself into the glade. Everything was fading—threads turning grey, flowers dying. He'd run out of ideas and energy. Noah looked up with tired eyes. "I can't do this anymore," Micah said. Noah's laugh was bitter. "Me too."
+      Micah dragged himself into the glade. Everything fading. Threads turning grey. Flowers dying. "Noah?" His cousin looked up with tired eyes. "I can't do this anymore," Micah said. Noah's laugh was bitter. "Me too."
 
   - page: right
     page_number: 20
     focus: Inner doubt and discouragement
     visual: |
-      Both boys sit together on the mossy log, Micah with his head thrown back staring at the
-      darkening sky, Noah with elbows on knees, hands clasped. Between them, a single golden
-      thread still glows faintly, refusing to die completely. Micah's eyes shift to notice it,
-      then to look at Noah. Noah turns to look at Micah at the same moment. Their eyes meet
-      with shared exhaustion but also recognition. The single stubborn thread brightens slightly,
-      responding to their connection. Around them, the fading continues, but that one thread
-      holds steady, warm and golden. The smallest hint of hope glimmers in both their expressions.
+      Both boys sit on the mossy log. Micah stares at the darkening sky. Noah hunches forward, elbows
+      on knees. Between them, one golden thread glows faintly. Refusing to die. Micah's eyes shift
+      to it. Then to Noah. Noah turns to Micah. Their eyes meet. Exhausted but recognizing each other.
+      The thread brightens slightly. Around them, fading continues. But that one thread holds steady.
+      Warm. Golden. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      They sat in heavy silence. But Micah noticed something. One thread between them still glowed, stubborn and warm. "You're still here though," he said quietly. Noah looked up. "So are you." The thread pulsed brighter. Maybe showing up mattered.
+      They sat. Heavy silence. But Micah noticed. One thread between them still glowed. Stubborn. Warm. "You're still here though," he said quietly. Noah looked up. "So are you." The thread pulsed brighter. Maybe showing up mattered.
