@@ -16,3 +16,26 @@ visual_style:
   - There are lots of magical creatures and details everywhere, mushrooms, small mammals, and strange creatures in the trees.
   - Everything has a gentle glow, as if lit by unseen magical source
 
+# === CHARACTER RELATIONSHIPS (CRITICAL) ===
+#
+# Define how characters relate to each other.
+# For this project: All six characters are siblings or cousins (family members).
+#
+# This affects:
+#   - How characters interact at Narrative Nodes (immediate recognition, surprise at meeting)
+#   - Dialogue and emotional reactions (family dynamics)
+#   - Visual constraints (NO romantic imagery between characters)
+#   - Character consistency (each maintains same appearance across all pages)
+#
+family_relationships:
+  structure: "All six characters are siblings or cousins"
+  recognition_rules:
+    - "Characters immediately recognize each other when they meet"
+    - "Express surprise at encountering family in this magical world"
+    - "Acknowledge joining forces to solve problems together"
+    - "NO romantic undertones or imagery between any characters"
+  visual_consistency:
+    - "Each character maintains identical appearance across all pages"
+    - "Same age, haircut, hair color, clothing, and shoes throughout"
+    - "Critical for cross-story character recognition"
+

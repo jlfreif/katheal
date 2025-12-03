@@ -115,6 +115,36 @@ characters:
     name: Micah
     file: mi-micah.yaml
 
+# === CHARACTER RELATIONSHIPS ===
+#
+# CRITICAL: All six characters are siblings or cousins (family members).
+#
+# Implications for narrative:
+#   - When characters meet at Narrative Nodes, they RECOGNIZE each other immediately
+#   - Express surprise at seeing family members in Kathaél ("What are YOU doing here?")
+#   - Acknowledge joining forces to defeat a problem together
+#   - NO romantic imagery or interactions between any characters
+#
+# Visual consistency requirements:
+#   - Each character retains same visual appearance on EVERY page:
+#     * Same age throughout entire story
+#     * Same haircut and hair color
+#     * Same clothes and shoes
+#     * Same physical features
+#   - This is CRITICAL for reader recognition across stories
+
+family_relationships:
+  structure: "All six characters are siblings or cousins"
+  recognition_rules:
+    - "Characters immediately recognize each other when they meet"
+    - "Express surprise at encountering family in Kathaél"
+    - "Acknowledge joining forces to solve the Heart Crystal problem"
+    - "NO romantic undertones or imagery between any characters"
+  visual_consistency:
+    - "Each character maintains identical appearance across all pages"
+    - "Same age, haircut, hair color, clothing, and shoes throughout"
+    - "Critical for cross-story character recognition"
+
 # === NARRATIVE NODE SYSTEM ===
 #
 # Narrative Nodes connect character stories at synchronized spread numbers.

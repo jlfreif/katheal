@@ -10,6 +10,19 @@
 #   - 3-4 sentences per scene
 #   - Each story beat is expressed over both pages
 #
+# TEXT FORMATTING (CRITICAL):
+#   - Font: Times New Roman, 16pt
+#   - Placement: White space towards bottom of page
+#   - Consistency: MUST be exact same on every page
+#
+# TRANSITION REQUIREMENTS (CRITICAL):
+#   - Text must describe transition from one page to next
+#   - Pages before/after meeting nodes need clear entry/exit explanations
+#
+# VISUAL CONSISTENCY (CRITICAL):
+#   - Characters retain same appearance on EVERY page (age, hair, clothes, shoes)
+#   - NO romantic imagery between characters (all are family)
+#
 # FILE NAMING:
 #   - Solo pages: cc-pp.yaml (e.g., cu-03.yaml)
 #   - Shared pages: cc-cc-pp.yaml alphabetically (e.g., cu-ma-07.yaml)

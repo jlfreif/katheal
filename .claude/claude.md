@@ -8,8 +8,18 @@ A modular storybook system for creating interconnected children's stories across
 
 **IMPORTANT**: Before creating any story content, you MUST consult these files:
 
+### Quality Standards & Improvements
+- **`STORY_IMPROVEMENT_GUIDELINES.md`** - **MANDATORY** quality checklist and specific improvements. Contains:
+  - Text formatting standards (Times New Roman 16pt)
+  - Character visual consistency requirements
+  - Story structure changes (climax on spreads 10-11, ending on spread 12)
+  - Transition text requirements
+  - Family relationship rules (all characters are siblings/cousins)
+  - "Where the Wild Things Are" as PRIMARY writing style
+  - Character-specific fixes and priorities
+
 ### Writing & Style
-- **`WRITING_STYLE.md`** - **MANDATORY** for all text creation. Contains:
+- **`WRITING_STYLE.md`** - Supplementary writing guide (Sendak style is primary). Contains:
   - Target audience (ages 8-12, Lexile 600-850)
   - Show don't tell principles with examples
   - Sentence structure variation guidelines

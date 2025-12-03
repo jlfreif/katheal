@@ -2,6 +2,13 @@
 
 Modular storybook system for creating a set of interlocking storybooks for multiple children.
 
+## 📋 Critical Reference Documents
+
+Before working on story content, consult these files:
+- **[STORY_IMPROVEMENT_GUIDELINES.md](STORY_IMPROVEMENT_GUIDELINES.md)** - Quality standards and specific improvements
+- **[WRITING_STYLE.md](WRITING_STYLE.md)** - Comprehensive writing guide (supplementary to Sendak style)
+- **[templates/story-template.yaml](templates/story-template.yaml)** - SOURCE OF TRUTH for story structure
+
 ## Overview
 
 Create interconnected children's stories where each character has their own book, and characters can connect at synchronized points through **Narrative Nodes**.
