@@ -7,31 +7,33 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah almost completes a story in the forest library but must learn to trust the ending rather than control it.
+description: Noah battles shadow-creatures attacking the forest library's stories. He fights to protect them while learning he can't control everything.
 
 scenes:
   - page: left
     page_number: 17
-    focus: Making progress toward goal
+    focus: Fighting to protect the stories
     visual: |
-      The forest library. Golden story-threads float between tree branches like ribbons forming words.
-      Noah stands on a natural platform of roots, hands reaching toward a nearly-complete story. The
-      words glow: "And then she discovered..." Ending just out of reach. So close. Other completed
-      stories hang on branches around him, their threads solid and glowing. A candle burns on a tree
-      stump, flame bright and steady. His face shows hope. Text in Times New Roman 16pt in white
+      Shadow-creatures pour into the forest library. Writhing darkness with claws of smoke. They rip
+      at the golden story-threads. Tearing. Destroying. Noah leaps between the trees, his golden quill
+      blazing like a sword. He slashes at the shadows. They screech and dissolve. But more keep coming.
+      Stories fall from branches. Noah catches them. Dodges shadow-claws. Writes protective words in
+      the air that flash and burn the darkness. Sweat on his face. Determination. A candle burns on a
+      tree stump, its flame flickering as shadows rush past. Text in Times New Roman 16pt in white
       space at bottom.
     text: |
-      Noah reached for the ending. Word by word it formed. Almost there. The perfect conclusion. The story pulsed. Nearly complete. Around him, finished stories hung whole. Proof it could be done. The candle burned steady. Bright. Just a little more.
+      Shadow-creatures attacked. Ripping at the stories. Tearing threads. Noah's quill blazed like a sword. He slashed. Shadows screeched. Dissolved. More came. He leaped between trees. Caught falling stories. Dodged claws of smoke. Wrote burning words that drove them back. But there were so many.
 
   - page: right
     page_number: 18
-    focus: Realizing something is missing
+    focus: Realizing he can't protect everything alone
     visual: |
-      The story-thread slips through Noah's fingers. The ending shifts. Changes. Becomes something
-      different than he planned. He stands with arms out, face showing frustration as words rearrange
-      themselves. The candle flame flickers wildly but doesn't die. The story ends its own way. Its
-      threads weave a pattern he didn't predict. Through the trees, a door glows faintly. He hadn't
-      seen it before. His expression shifts from control to acceptance. Text in Times New Roman 16pt
-      in white space at bottom.
+      Noah stands surrounded by shadows. They circle him. Too many to fight. He raises his quill to
+      write another protection spell. But his hand shakes. Exhausted. A shadow lunges. Noah writes
+      frantically. The words scatter. Wrong. The shadow passes through. Touches a story-thread. It
+      starts to grey. Noah grabs for it but the thread changes on its own. Writes its own ending.
+      Different than he planned. But it works. The shadow dissolves. The candle flame steadies. Noah
+      stares. "I can't control everything," he breathes. Through the trees, a glowing door appears.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The ending shifted. Changed. Became something he hadn't planned. Noah tried to guide it back. The story had its own ideas. The candle flickered. Stayed lit. "I'm not in control," he whispered. "The story is. Maybe that's okay." Through the trees, a glowing door. That's where he needed to go.
+      Too many shadows. Noah's quill blazed. Slashed. Wrote. But he was one person. Exhausted. A shadow lunged. He wrote frantically. Wrong words. The shadow touched a thread. It started to grey. But then the thread changed. Wrote its own ending. The shadow dissolved. "I can't protect everything," Noah breathed. "And maybe I don't have to."

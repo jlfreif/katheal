@@ -1,0 +1,97 @@
+# Meeting Node: ALL SIX CHARACTERS at Spread 11
+
+id: el-ma-mi-mo-mx-no-11
+spread: 11
+node_type: meeting
+beat: "Climax: applying learned skills to save the crystal"
+hook: The Heart Crystal is saved; the immediate crisis is resolved.
+payoff: Characters celebrate victory and prepare to return home.
+
+description: All six siblings/cousins work together, each applying their unique skills learned from their journey to save the Heart Crystal. Action-focused climax showing cooperation and triumph.
+
+location: The Heart Crystal clearing, as the crystal fights back and then heals
+
+shared_action: Each child uses their courage type to heal their facet while the crystal actively resists
+
+dialogue_packets:
+  - speaker: elise
+    line: "It's fighting us! The crystal doesn't want to be healed!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: noah
+    line: "Then we show it we won't give up! Keep trying!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: maya
+    line: "I'm not letting go! Not now!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: micah
+    line: "Together! Push harder!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: max
+    line: "It's working! The cracks are sealing!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: mona
+    line: "Pretty lights!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+
+image_alignment:
+  scene_id: heart-crystal-victory-011
+  shared_elements:
+    - massive crystalline structure
+    - six distinct facets
+    - crystal fighting back then healing
+    - clearing surrounded by forest
+    - all six children in action
+  pov_variants:
+    - character_code: el
+      camera_position: showing Elise dancing at her facet with others struggling
+      focal_character: elise
+      background_characters: [ma, mi, mo, mx, no]
+    - character_code: ma
+      camera_position: showing Maya painting boldly with others around crystal
+      focal_character: maya
+      background_characters: [el, mi, mo, mx, no]
+    - character_code: mi
+      camera_position: showing Micah climbing his facet with others working
+      focal_character: micah
+      background_characters: [el, ma, mo, mx, no]
+    - character_code: mo
+      camera_position: showing Mona asking questions with others helping
+      focal_character: mona
+      background_characters: [el, ma, mi, mx, no]
+    - character_code: mx
+      camera_position: showing Max analyzing patterns with others present
+      focal_character: max
+      background_characters: [el, ma, mi, mo, no]
+    - character_code: no
+      camera_position: showing Noah writing with light with others visible
+      focal_character: noah
+      background_characters: [el, ma, mi, mo, mx]
+
+scenes:
+  - page: left
+    page_number: 25
+    focus: Characters applying individual skills together
+    visual: |
+      The Heart Crystal pulses. Dark energy crackles from the cracks. Fights back. The six children
+      hold their positions. Elise dances at the blue facet, graceful movements creating ripples of
+      music. Maya paints bold strokes of color on the pink facet. Micah climbs and leaps around the
+      green facet, never stopping. Mona toddles to the orange facet asking "Why? Why? Why?" Max
+      traces patterns on the red facet, analyzing the crystal's structure. Noah writes glowing words
+      on the yellow facet with his golden quill. The crystal resists. Shadows push back. But they
+      don't let go. Text in Times New Roman 16pt in white space at bottom.
+    text: |
+      The crystal fought. Dark lightning crackled from the cracks. Pushed them back. "It's fighting us!" Elise shouted. Noah gritted his teeth. "Then we show it we won't give up!" Elise danced. Maya painted. Micah climbed. Mona questioned. Max analyzed. Noah wrote. Each doing what they'd learned. Together.
+
+  - page: right
+    page_number: 26
+    focus: Victory - Heart Crystal saved through teamwork
+    visual: |
+      The cracks seal. One by one. Golden light pours from each facet as the children's courage
+      overcomes the darkness. The blue facet hums with Elise's music. The pink facet blazes with
+      Maya's colors. The green facet vibrates with Micah's movement. The orange facet glows with
+      Mona's curiosity. The red facet sparks with Max's ideas. The yellow facet shimmers with Noah's
+      stories. All six facets blaze brilliant. The crystal whole. Perfect. Radiant. Golden threads
+      shoot into the sky, spreading across Kathaél. The forest brightens. Colors return. The children
+      stand together, exhausted but triumphant. Text in Times New Roman 16pt in white space at bottom.
+    text: |
+      The cracks sealed. One by one. "It's working!" Max shouted. "The cracks are sealing!" Darkness retreated. Light poured from each facet. Golden. Brilliant. The crystal blazed whole. Perfect. Golden threads shot into the sky. Across Kathaél. Everything brightened. The children stood together. Exhausted. Victorious. "We did it," Maya breathed. "We actually did it."
