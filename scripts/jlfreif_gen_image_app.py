@@ -375,7 +375,20 @@ else:
 
                 # Create filename base from page identifier and side
                 page_id = page_path.stem  # e.g., "el-01"
-                filename_base = f"{page_id}-{page_side}"  # e.g., "el-01-left"
+
+                # Extract page number (last numeric part) from page_id
+                # e.g., "el-01" -> "01", "no-03" -> "03", "el-no-04" -> "04"
+                parts = page_id.split('-')
+                page_num = None
+                for part in parts:
+                    if part.isdigit():
+                        page_num = part
+
+                # Create filename with page number at the beginning
+                if page_num:
+                    filename_base = f"{page_num}-{page_id}-{page_side}"  # e.g., "01-el-01-left"
+                else:
+                    filename_base = f"{page_id}-{page_side}"  # fallback if no number found
 
                 # Display the generated images
                 for idx, image_part in enumerate(generated_images):
