@@ -187,34 +187,36 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
     return "\n".join(prompt_parts)
 
 
-@st.cache_data(show_spinner=False)
-def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-image-preview"):
-    """Generate an image using Google Gemini Nano Banana Pro."""
+def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-image-preview", num_versions=1):
+    """Generate image(s) using Google Gemini Nano Banana Pro."""
     # Get API key from Streamlit secrets
     api_key = st.secrets["google"]["api_key"]
 
     # Initialize the client
     client = genai.Client(api_key=api_key)
 
-    # Generate image
-    response = client.models.generate_content(
-        model=model,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_modalities=['IMAGE'],
-            image_config=types.ImageConfig(
-                aspect_ratio=aspect_ratio,
+    all_images = []
+
+    # Generate multiple versions by making separate API calls
+    for version in range(num_versions):
+        # Generate image
+        response = client.models.generate_content(
+            model=model,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_modalities=['IMAGE'],
+                image_config=types.ImageConfig(
+                    aspect_ratio=aspect_ratio,
+                )
             )
         )
-    )
 
-    # Extract images from response parts
-    images = []
-    for part in response.parts:
-        if part.inline_data:
-            images.append(part)
+        # Extract images from response parts
+        for part in response.parts:
+            if part.inline_data:
+                all_images.append(part)
 
-    return images
+    return all_images
 
 
 # App title and description
@@ -306,7 +308,7 @@ else:
             )
 
         # Gen images button
-        if st.button("Generate All Images", type="primary", use_container_width=True):
+        if st.button("Generate All Images (2 versions each)", type="primary", use_container_width=True):
             model_display = "Nano Banana Pro" if "3-pro" in model else "Nano Banana Flash"
 
             # Clear previous images
@@ -394,11 +396,12 @@ else:
                         key=f"prompt_{page_idx}_{selected_display}"
                     )
 
-                # Generate image
-                with st.status(f"Generating with {model_display}...", expanded=True) as status:
+                # Generate 2 versions
+                with st.status(f"Generating 2 versions with {model_display}...", expanded=True) as status:
                     st.write(f"🔄 Calling model: {model}")
                     st.write(f"📝 Prompt length: {len(prompt)} characters")
                     st.write(f"📐 Aspect ratio: {aspect_ratio}")
+                    st.write(f"🔢 Generating 2 versions")
 
                     if char_ref_images:
                         total_refs = sum(len(imgs) for imgs in char_ref_images.values())
@@ -408,7 +411,7 @@ else:
                         st.write(f"🎨 Style references: {len(style_refs)} image(s)")
 
                     generated_images = generate_image_with_gemini(
-                        prompt, aspect_ratio=aspect_ratio, model=model
+                        prompt, aspect_ratio=aspect_ratio, model=model, num_versions=2
                     )
 
                     st.write(f"✅ Response received")
@@ -423,22 +426,39 @@ else:
                 if generated_images and len(generated_images) > 0:
                     st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
 
+                    # Create filename base from page identifier and side
+                    page_id = page_path.stem  # e.g., "el-01"
+
+                    # Extract page number (last numeric part) from page_id
+                    # e.g., "el-01" -> "01", "no-03" -> "03", "el-no-04" -> "04"
+                    parts = page_id.split('-')
+                    page_num = None
+                    for part in parts:
+                        if part.isdigit():
+                            page_num = part
+
                     # Store and display the generated images
                     for idx, image_part in enumerate(generated_images):
                         # Get the image object and access its PIL representation
                         img_obj = image_part.as_image()
                         pil_image = img_obj._pil_image
 
+                        # Create filename with page number at the beginning
+                        if page_num:
+                            download_filename = f"{page_num}-{page_id}-{page_side}_v{idx + 1}.png"
+                        else:
+                            download_filename = f"{page_id}-{page_side}_v{idx + 1}.png"
+
                         # Store in session state
-                        file_safe_name = selected_display.replace(" ", "_").replace("/", "-")
                         st.session_state.generated_images.append({
                             'image': pil_image,
                             'page_name': selected_display,
-                            'file_name': f"{file_safe_name}_img{idx + 1}.png",
+                            'file_name': download_filename,
                             'aspect_ratio': aspect_ratio,
                             'model': model_display,
                             'page_idx': page_idx,
-                            'img_idx': idx
+                            'img_idx': idx,
+                            'version': idx + 1
                         })
                 else:
                     st.warning("No images were generated. Please try again.")
@@ -483,11 +503,11 @@ else:
 
             # Display each image with individual download button
             for img_data in st.session_state.generated_images:
-                st.subheader(f"{img_data['page_name']} - Image {img_data['img_idx'] + 1}")
+                st.subheader(f"{img_data['page_name']} - Version {img_data['version']}")
 
                 st.image(
                     img_data['image'],
-                    caption=f"{img_data['aspect_ratio']} - {img_data['model']}",
+                    caption=f"{img_data['aspect_ratio']} - {img_data['model']} - Version {img_data['version']}",
                     use_container_width=True,
                 )
 
@@ -495,7 +515,7 @@ else:
                 img_buffer = io.BytesIO()
                 img_data['image'].save(img_buffer, format='PNG')
                 st.download_button(
-                    label=f"Download {img_data['page_name']} - Image {img_data['img_idx'] + 1}",
+                    label=f"Download Version {img_data['version']}",
                     data=img_buffer.getvalue(),
                     file_name=img_data['file_name'],
                     mime="image/png",
