@@ -7,30 +7,33 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah works on his latest story, struggling to find the perfect ending, when something magical interrupts.
+description: Noah meticulously plans every detail of his story when his characters start acting on their own.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
     visual: |
-      Noah's desk covered with notebooks and crumpled papers. Noah (12 years old, sandy blond
-      voluminous hair, medium build, wearing blue hoodie, tan sport pants, white sneakers) hunches
-      over his laptop, typing fast. His wastebasket overflows with crossed-out attempts. Ukulele
-      leans against the desk. Bookshelves stuffed with adventure novels line the walls. His face
-      shows intense focus mixed with frustration. Late afternoon light through the window. Text
+      Noah's desk covered with detailed outlines, character charts, plot diagrams, and color-coded
+      sticky notes. Noah (12 years old, sandy blond voluminous hair, medium build, wearing blue
+      hoodie, tan sport pants, white sneakers) types on his laptop while consulting multiple
+      notebooks. Each character has a full backstory. Every scene is planned. Every dialogue mapped.
+      His ukulele leans against the desk. Bookshelves line the walls. His face shows intense focus
+      and satisfaction—everything is under control. The atmosphere is organized precision. Text
       in Times New Roman 16pt font in white space at bottom of page.
     text: |
-      Noah stared at the blinking cursor. Seventeen endings. All wrong. The wastebasket overflowed with failures. He knew the story needed an ending. He just didn't know what that ending should be.
+      Noah checked his outline. Chapter three, scene two, paragraph five. Everything planned. Every character doing exactly what they should. He smiled. Perfect control meant perfect stories. Nothing left to chance.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      Noah's laptop screen glitches. Golden threads pour from the screen into the real world,
-      weaving through the air. Noah leans back, eyes wide. The threads form glowing words: "Some
-      stories need living, not writing." One thread reaches toward his hand, beckoning. His
-      notebooks flutter despite no breeze. His expression shifts from frustration to wonder.
-      The air crackles with magic. Text in Times New Roman 16pt font in white space at bottom.
+      On Noah's laptop screen, words begin appearing on their own. His characters are writing
+      dialogue he didn't plan. "Wait, I didn't write that," he mutters, hitting backspace. But
+      more words appear, faster now. His main character takes a turn he didn't outline. A side
+      character speaks up unexpectedly. Golden threads pour from the screen. His notebooks flutter
+      despite no breeze. The outline pages start rearranging themselves. His expression shifts from
+      control to alarm. The atmosphere crackles with stories taking on life of their own. Text in
+      Times New Roman 16pt font in white space at bottom.
     text: |
-      The screen flickered. Golden threads poured out. They wove through the air like light made liquid. Words formed: "Some stories need living, not writing." One thread curled around his wrist. Warm. Insistent. Pulling him somewhere impossible.
+      Words appeared on screen. But Noah wasn't typing them. His characters were writing themselves, going off-outline. "No no no," he muttered, deleting frantically. But they kept writing. Golden threads poured out. A voice whispered: "Some stories don't want to be controlled."

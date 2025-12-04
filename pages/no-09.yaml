@@ -1,4 +1,4 @@
-# Noah's Individual Page for Resonant Node at Spread 9
+# Noah - Spread 9: Inner Shift
 
 id: no-09
 spread: 9
@@ -7,30 +7,32 @@ beat: "Deepening choice / inner shift"
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Noah returns to the forest library and chooses to keep trying despite failures. He feels an unexpected connection across distance.
+description: Noah chooses to release control of the most important story and discovers trust is the deepest courage.
 
 scenes:
   - page: left
     page_number: 21
     focus: Making the choice to continue
     visual: |
-      Noah sits in the forest library. Incomplete stories scattered around him. Pages on tree branches.
-      Crossed out attempts crumpled nearby. Evening light filters through leaves. He stares at the
-      failures. Takes a deep breath. Sets his jaw. Picks up his pen again. His posture straightens.
-      From defeated to resolved. The atmosphere is quiet. Introspective. A moment of internal decision.
-      Text in Times New Roman 16pt in white space at bottom.
+      Noah stands with his hands hovering over the Heart Crystal's story threads. He could pull
+      them. Control it. Make it safe. Every instinct screams to take control. But he remembers the
+      free stories he watched—how they found their own truth. How control strangled them. His hands
+      are shaking. Tears in his eyes. This is the hardest thing he's ever done. He slowly, agonizingly,
+      pulls his hands back. Lets go. The story is free to choose, even if it chooses wrong. His
+      expression shows terrified surrender. The atmosphere is the moment of ultimate release.
     text: |
-      Noah looked at the failures. Every crossed-out page a reminder. He hadn't gotten it right yet. He could stop. No one would blame him. But stopping meant giving up. He thought about the stories he loved. Their heroes kept trying. Even when it seemed impossible. "That's the point," he whispered. He picked up his pen.
+      Noah's hands hovered. One pull. He could control it. Make it safe. Make it right. But controlling was killing. He thought of all the stories he'd watched die from too much control. Even his own. Especially his own. Tears ran down his face. He pulled his hands back. Let go. "I can't control you," he whispered to the story. "Please. Find your own way."
 
   - page: right
     page_number: 22
-    focus: Discovering the missed clue / feeling the connection
+    focus: Discovering the missed clue
     visual: |
-      Golden threads suddenly shimmer throughout the forest library. Pulsing with warm light. Noah
-      stands, looking up in wonder as threads flow around him like aurora borealis. Connecting stories
-      in patterns he hadn't seen. One thread pulses particularly bright. Reaching toward something far
-      away. He feels warmth in his chest. His expression shifts to amazement. On the page before him,
-      words flow easily. The story finding its own path. Text in Times New Roman 16pt in white space
-      at bottom.
+      The Heart Crystal's story takes the dark path Noah feared. Goes into danger. Makes the hard
+      choice. And transforms. The darkness wasn't wrong—it was necessary. The character's choice
+      led somewhere Noah's control never could have imagined. More beautiful. More true. The Heart
+      Crystal blazes with light. All through the library, stories pulse with warmth—someone far
+      away is also letting go. Noah feels the connection. He sobs with relief and awe. Control
+      wasn't courage. Trust was. His expression shows overwhelmed gratitude. The atmosphere
+      celebrates the wisdom beyond planning.
     text: |
-      The library blazed golden. Threads appeared everywhere. Connecting stories. One pulsed warmly. Reaching toward something distant. Noah felt it in his chest. Like someone far away was choosing the same courage. "I'm not alone," he breathed. The words flowed. Not forced. Invited. The story knew where it wanted to go.
+      The story went into darkness. Noah watched, terrified. Then—transformation. The darkness was the way through. The character's choice was exactly right. Better than safe. Truer than Noah's plans. The Crystal blazed. Warmth flooded through him. Someone far away was letting go at the same moment. He wasn't alone. "I can't control everything," Noah breathed. "And that's not failing. That's trust."
