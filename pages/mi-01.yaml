@@ -7,33 +7,33 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Micah practices parkour in his room, constantly moving, when something magical appears that moves faster than he can.
+description: Micah climbs furniture in his room, staying low and safe, when a golden tower appears impossibly high above.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
     visual: |
-      Micah's room arranged like an obstacle course—chair backs for vaulting, pillows as landing
-      pads, bed frame for climbing. Micah (9 years old, black hair, athletic build, half-Japanese
-      half-Caucasian, wearing grey t-shirt and black shorts) mid-jump between furniture pieces,
-      body in dynamic motion, face showing intense focus and joy. His trombone case leans in
-      corner. Japanese study materials on desk. The room is organized chaos, everything positioned
-      for movement. His expression shows high energy and constant activity. The atmosphere is
-      kinetic and restless—always moving, never still.
+      Micah's room with climbable furniture—bookshelf, desk, bed frame. Micah (9 years old,
+      black hair, athletic build, half-Japanese half-Caucasian, wearing grey t-shirt and black
+      shorts) climbs carefully from chair to desk to bookshelf, never getting more than five feet
+      off the ground. His movements are confident but cautious—he knows his limits. His trombone
+      case leans in corner. Japanese study materials on desk. The room is arranged for safe
+      climbing. His expression shows focused enjoyment within boundaries. The atmosphere is
+      comfortable and controlled—fun without fear.
     text: |
-      Micah vaulted over the chair back, landed on the pillow, bounced to his feet, climbed the bedpost. Moving felt good. Stopping felt impossible. His body needed to go-go-go.
+      Micah climbed from his desk to his bookshelf, always staying close to the ground. Five feet was high enough. Higher than that felt scary—too much empty space below. He liked climbing. Just not too high.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      A streak of golden light moves through Micah's room, faster than he's ever moved, zipping
-      between furniture, over his head, around his legs. Micah freezes mid-jump—shocked into
-      stillness by something faster than he is. The light forms a playful creature, part bird
-      part wind, made of pure golden energy and motion. It swirls around him then pauses in the
-      air, waiting. Words form in its wake: "Catch me if you can." Micah's expression shows
-      competitive delight mixed with surprise. The atmosphere crackles with challenge and
-      impossible speed.
+      Through Micah's window, a massive golden tower appears in the sky, rising higher than any
+      building he's ever seen. It stretches up and up and up, disappearing into clouds. Golden
+      threads weave from the tower toward his window, inviting him in. Micah stares up at it,
+      frozen. It's so high. So impossibly, terrifyingly high. But it's also beautiful, calling
+      to him. A golden feather drifts through his window and lands on his desk, glowing. His
+      expression shows fascination mixed with deep fear. The atmosphere crackles with impossible
+      heights and the challenge of facing them.
     text: |
-      A streak of golden light shot through his room, faster than Micah had ever moved. It zipped and dove and spiraled. Micah froze, stunned. Something was faster than him? The light formed words. "Catch me if you can." It shot through his window into another world. Challenge accepted. Micah dove after it.
+      Through his window, a tower of golden light rose into the sky. Higher than anything Micah had ever seen. Higher than buildings. Higher than clouds. So high it made his stomach drop just looking at it. A golden feather drifted through his window. The tower was calling. But it was so high. Micah swallowed hard. Too high.

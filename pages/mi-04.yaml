@@ -7,33 +7,34 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Micah learns from the crane about breath and stillness, who sends him to the hardest place where he must be completely still.
+description: The eagle teaches Micah about focusing forward not down, then sends him to practice on a real cliff.
 
 scenes:
   - page: left
     page_number: 11
     focus: Seeking guidance
     visual: |
-      The crane demonstrates slow, deliberate movement—lifting one leg gracefully, holding the
-      pose, breathing steadily, then setting it down with perfect control. Each movement is
-      intentional, powerful through precision not speed. Micah watches from sitting position,
-      still catching his breath, trying to understand. The crane's calmness radiates outward in
-      golden ripples. Micah's restless energy contrasts sharply with the crane's centered peace.
-      His expression shows frustrated confusion—this goes against everything he knows. The
-      atmosphere is teaching through contrast.
+      The eagle demonstrates, climbing up the tower with Micah following close behind. The eagle
+      keeps its eyes on the next hold, never looking down, moving with confident grace. Micah
+      copies the movement—eyes up, hands reaching for the next grip, feet finding solid holds.
+      He climbs ten feet higher than where he'd frozen, focused on the eagle's technique. When
+      he starts to glance down, the eagle's wing blocks his view. "Forward, not down." Micah's
+      movements grow steadier. His expression shows cautious growing confidence. The atmosphere
+      is learning through imitation, fear temporarily forgotten in focus.
     text: |
-      The crane moved one leg. Slowly. Then placed it down. "Breath first," it said. "Then movement. Speed without stillness is just chaos." Micah fidgeted. "But how do I learn to be still?"
+      The eagle climbed and Micah followed. Eyes on the next hold. Hands reaching up. Feet pushing up. Not down. Never down. Micah climbed higher than before, focused on following. The eagle glowed. "Better. But you need real practice."
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
     visual: |
-      The crane points one wing toward a distant garden barely visible through mist—a place so
-      quiet and still it seems to shimmer with enforced peace. Wind chimes hang motionless despite
-      breeze. Everything is deliberate, slow, centered. Micah stares at it with visible dread,
-      his whole body already tensing against the idea. The crane watches him with patient
-      understanding. The atmosphere is heavy with difficult challenge—this will be the hardest
-      thing Micah has ever done. Not because it's physically demanding, but because it requires
-      him to stop.
+      The eagle points its wing toward a distant cliff face rising from the forest—natural rock,
+      rough and challenging, perfect for climbing practice. It's lower than the tower but still
+      impressively high, with a clear path to the summit. Golden threads stretch from the tower
+      toward the cliff, showing the way. The eagle looks at Micah seriously. "This is where you
+      learn courage. Climb the cliff. Reach the summit. Eyes forward, not down. Face your fear
+      in a smaller challenge first." Micah stares at the cliff, stomach tight with anxiety but
+      also determination. His expression shows nervous readiness. The atmosphere is the edge of
+      real challenge.
     text: |
-      The crane pointed toward a garden where everything moved slow as honey, where stillness was required. Micah's stomach dropped. "I don't think I can." The crane nodded. "That's why you must. The hardest courage is not moving when you want to."
+      The eagle pointed toward a cliff rising from the forest. Not as high as the tower, but high enough to be scary. "Practice there," it said. "Face the heights. Reach the summit. Then you'll be ready for the tower." Golden threads blazed a path toward the cliff. Micah took a breath. Okay. He could try. Eyes forward, not down.

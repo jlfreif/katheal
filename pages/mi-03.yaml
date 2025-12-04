@@ -7,32 +7,33 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Micah tries to chase and catch the speed creature but exhausts himself by never stopping.
+description: Micah tries to climb the golden tower but freezes from fear of heights, then meets an eagle who teaches about courage.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      A vast landscape of floating platforms and obstacles in Kathaél, perfect for parkour. Micah
-      runs and jumps and vaults from platform to platform, chasing the golden speed creature that
-      stays just ahead of him. His movements are impressive—flips, rolls, perfect landings—but
-      he's breathing hard, sweat on his face. The creature darts ahead effortlessly. Other creatures
-      watch from the sidelines, calling advice he doesn't hear. His expression shows determined
-      effort but growing frustration. The atmosphere is all motion, no pause, exhausting to even
-      watch.
+      The base of the golden tower in Kathaél, with a winding staircase spiraling up the outside.
+      Micah starts climbing enthusiastically, hand over hand, feet finding each step. Ten feet up.
+      Fifteen feet. Twenty. Then he makes the mistake of looking down. The ground suddenly seems
+      so far away. His hands freeze on the railing. His breath catches. The tower stretches
+      endlessly above but he can't move—stuck, pressed against the wall, terrified of the drop
+      below. Other creatures climb past him easily. His expression shows frozen fear overriding
+      determination. The atmosphere is the moment when fear wins.
     text: |
-      Micah landed in Kathaél and immediately started chasing the golden creature across floating platforms. Jumping and climbing and never stopping. He was fast. Strong. But the creature stayed ahead, moving like it wasn't even trying. Micah pushed harder. His lungs burned. He wouldn't stop. Couldn't stop.
+      Micah grabbed the golden tower's railing and started climbing. He could do this. Ten feet. Fifteen. Twenty. Then he looked down. The ground was so far away. His hands locked. His breath stopped. Too high. Way too high. He pressed against the wall, stuck. Above, the tower stretched forever. Below, nothing but space. He couldn't move.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      Micah collapses on a platform, gasping for breath, completely exhausted. The golden creature
-      hovers nearby, not even winded, waiting patiently. A wise old crane appears, moving with
-      deliberate slowness and grace, landing gently on Micah's platform. The crane breathes
-      slowly, centered and calm. Micah sprawled out, chest heaving, frustrated. The contrast
-      between Micah's chaos and the crane's calm is stark. The atmosphere shifts from frantic
-      motion to forced stillness through exhaustion.
+      A magnificent golden eagle lands beside Micah on the tower, perched gracefully despite the
+      height that terrifies him. The eagle looks out at the view—at vast Kathaél spread below,
+      at distant mountains and forests—with calm confidence. Heights are the eagle's home. Micah
+      clings to the railing, not daring to look. The eagle's feathers shimmer with golden light,
+      and one drifts free, floating gently down. "Heights aren't the enemy," the eagle says.
+      "Fear is. Courage isn't not being afraid. It's climbing anyway." Micah's expression shows
+      desperate hope mixed with doubt. The atmosphere shifts from paralysis to possibility.
     text: |
-      Micah collapsed, gasping. The creature waited, patient and calm. A crane landed beside him. "You'll never catch speed by chasing it," the crane said. "Speed comes from pause, from breath, from knowing when to be still." Micah was too exhausted to argue.
+      A golden eagle landed beside him, unbothered by the height. "You looked down," it said. "That's where the fear lives. Keep your eyes on where you're going, not where you might fall." Micah's voice shook. "But what if I do fall?" The eagle's feathers glowed. "Courage isn't not being scared. It's climbing anyway. One hand. One foot. Eyes forward."
