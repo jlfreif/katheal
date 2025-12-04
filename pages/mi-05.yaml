@@ -7,34 +7,33 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Micah meets a sloth who offers a path that avoids all heights, but it leads nowhere.
+description: Micah meets a hummingbird who claims constant motion is the answer, leading to greater chaos.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      At the base of the cliff, Micah looks up at the challenging climb ahead. The rock face is
-      steep and impressive. A slow-moving sloth hangs from a nearby tree branch at ground level,
-      barely moving. It speaks in a drowsy, reassuring voice. "Why climb at all? I know a path
-      around the cliff. No heights. No fear. Nice and safe, close to the ground." The sloth
-      gestures with one slow paw toward a winding trail through the forest that goes around the
-      cliff base. It looks easy and inviting—no scary climbing required. Micah's expression shows
-      tempted relief. The atmosphere is the seduction of avoiding hard things.
+      The edge of the still garden, which Micah hasn't entered yet. A hyperactive hummingbird
+      zips around him in frantic circles, wings beating impossibly fast, never holding still for
+      even a heartbeat. It moves even faster than Micah, chaotic and scattered. Micah watches it
+      with recognition—this is him multiplied, constant motion without pause. The hummingbird
+      speaks in rapid-fire bursts. The garden beyond looks calm and peaceful, but this hummingbird
+      represents Micah's resistance to it. The atmosphere is jittery and unsettled, avoiding the
+      real challenge.
     text: |
-      At the cliff's base, Micah looked up. So high. A sloth hung from a tree, barely moving. "Why climb?" it said slowly. "There's a path around. No heights. No fear. Easy." It pointed to a trail that wound through the forest, staying low and safe. Micah's stomach unclenched. That did sound better.
+      At the garden's edge, a hummingbird blurred around Micah in frantic spirals. "Don't listen to that boring crane! Stillness is wrong! Motion is life! I never stop and I'm fine! See?" It zipped faster and faster, making Micah dizzy just watching.
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
     visual: |
-      Micah follows the sloth's path, which winds through the forest at ground level—safe, easy,
-      no climbing required. But the path goes in circles, doubling back on itself, leading nowhere.
-      After walking for a while, Micah realizes he's back at the exact same tree where the sloth
-      hangs, having made no progress at all. The sloth is still there, unchanged. The cliff still
-      rises ahead, unconquered. Golden threads from the tower pulse weakly, waiting. Micah stares
-      at the circular path with understanding. Avoiding the challenge doesn't solve anything—it
-      just wastes time. His expression shows frustrated realization. The atmosphere is recognizing
-      you can't go around hard things, only through them.
+      The hummingbird attempts to show off its superior approach by moving even faster, but
+      suddenly crashes into a tree, falls, and lies stunned and dizzy on the ground, wings
+      trembling. It moved so fast for so long it literally couldn't see straight anymore. Micah
+      crouches beside it, concerned. The hummingbird's eyes spin in different directions. "Maybe...
+      need... tiny pause..." it admits weakly before passing out from exhaustion. Micah looks
+      from the collapsed hummingbird to the still garden beyond. The atmosphere shifts from
+      avoidance to recognition—he can't run from this lesson forever.
     text: |
-      Micah followed the easy path. It wound through trees, staying safe and low. No scary heights. But the path just circled back. He ended up at the same tree, same sloth, same cliff. Going around hadn't worked. The eagle's voice came back: "Face your fear." Micah looked up at the cliff again. There was no way around. Only up.
+      The hummingbird sped up to prove its point—faster, faster—until WHAM. It crashed into a tree and dropped like a stone. Dizzy. Exhausted. "Maybe... pause... good?" it mumbled before passing out. Micah stared at the tiny bird. That would be him if he never learned to stop. He turned toward the still garden. Time to face it.
