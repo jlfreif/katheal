@@ -5,7 +5,8 @@ Validation script to check structural integrity of the repository.
 Checks:
 - Pages are well formatted
 - All referenced pages exist
-- No overlaps on spreads 1, 11, and 12 (these must be character-specific)
+- No overlaps on spreads 1 and 12 (these must be character-specific)
+- Spread 11 should be a meeting node (all six characters together for climax)
 - Pages end in .yaml extension
 - Pages don't have the pages/ subdirectory prefix
 - No missing/stray pages in the pages directory
@@ -35,7 +36,8 @@ RESET = '\033[0m'
 VALID_NODE_TYPES = ['solo', 'meeting', 'mirrored', 'resonant']
 
 # Spreads that must be character-specific (no nodes allowed)
-REQUIRED_SOLO_SPREADS = [1, 11, 12]
+# Spread 11 is now allowed to be a meeting node for extended climax
+REQUIRED_SOLO_SPREADS = [1, 12]
 
 
 def error(message):
@@ -160,7 +162,8 @@ def test_pages_exist(characters):
 
 
 def test_no_overlaps_on_required_solo_spreads(characters):
-    """Test that spreads 1, 11, and 12 have no overlaps (are character-specific)."""
+    """Test that spreads 1 and 12 have no overlaps (are character-specific).
+    Spread 11 is allowed to be a meeting node for the climax."""
     errors_found = False
 
     for char_id, char_info in characters.items():
@@ -178,11 +181,11 @@ def test_no_overlaps_on_required_solo_spreads(characters):
                 char_codes = [p for p in parts if len(p) == 2 and p.isalpha()]
 
                 if len(char_codes) > 1:
-                    error(f"{char_name} ({char_id}): Spread {pos} ('{page}') is a joint page with {char_codes} - spreads 1, 11, 12 must be character-specific")
+                    error(f"{char_name} ({char_id}): Spread {pos} ('{page}') is a joint page with {char_codes} - spreads 1 and 12 must be character-specific")
                     errors_found = True
 
     if not errors_found:
-        success("Spreads 1, 11, and 12 are all character-specific (no overlaps)")
+        success("Spreads 1 and 12 are character-specific (no overlaps)")
     return not errors_found
 
 
@@ -450,7 +453,7 @@ def test_world_interactions(characters):
                 page_file = node.get('page_file')
 
                 if spread in REQUIRED_SOLO_SPREADS:
-                    error(f"Node at spread {spread} violates constraint - spreads 1, 11, 12 must be character-specific")
+                    error(f"Node at spread {spread} violates constraint - spreads 1 and 12 must be character-specific")
                     errors_found = True
 
                 if node_type and node_type not in VALID_NODE_TYPES:
@@ -486,7 +489,7 @@ def main():
         ("At least one character exists", lambda: test_at_least_one_character(characters)),
         ("Page formatting is correct", lambda: test_page_formatting(characters)),
         ("All referenced pages exist", lambda: test_pages_exist(characters)),
-        ("Spreads 1, 11, 12 are character-specific", lambda: test_no_overlaps_on_required_solo_spreads(characters)),
+        ("Spreads 1 and 12 are character-specific", lambda: test_no_overlaps_on_required_solo_spreads(characters)),
         ("No stray pages in pages directory", lambda: test_no_stray_pages(characters)),
         ("Page YAML files are valid", lambda: test_page_yaml_validity(characters)),
         ("Check for missing pages", lambda: test_missing_pages(characters)),
