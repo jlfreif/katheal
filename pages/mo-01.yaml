@@ -7,7 +7,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Mona plays with blocks in her room when they begin to glow and stack themselves magically.
+description: Mona asks "why?" about everything in her world until something magical answers back.
 
 scenes:
   - page: left
@@ -16,25 +16,24 @@ scenes:
     visual: |
       Mona's playroom in her New York City apartment, colorful foam mats on the floor, toys
       scattered in cheerful chaos. Mona (2 years old, wavy short dark brown ringlets, wearing
-      light blue overalls with brooklyn shirt and white sneakers) sits surrounded by wooden blocks,
-      stacking them with intense toddler concentration. Her chunky hands place blocks carefully,
-      tongue between teeth in focus. Some blocks already stacked, others waiting their turn. A
-      stuffed bunny watches nearby. Sunlight streams through the window. Her expression shows
-      pure joy in simple play. The scene captures toddler life: exploring, experimenting,
-      delighting in small accomplishments.
+      light blue overalls with white shirt and white sneakers) sits surrounded by toys, picking
+      up each one and tilting her head—her signature curious look. She examines a block. "Why
+      square?" She touches her bunny. "Why soft?" She points at the window. "Why bright?" Her
+      parents smile from the doorway. Her expression shows pure toddler curiosity. The scene
+      captures her natural investigative nature—everything is a question waiting to be asked.
     text: |
-      Mona stacked blocks. Red block. Blue block. Yellow block. She clapped when the tower stood tall.
+      Mona picked up a block. "Why square?" She touched her bunny. "Why soft?" She looked at the window. "Why bright?" Everything had a why. Asking felt good. Like unlocking tiny doors.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      The blocks begin to glow with soft golden light. Mona pulls her hands back, eyes going
-      wide with amazement and a touch of uncertainty. The blocks start stacking themselves,
-      floating gently into the air, building a tower taller than any she could reach. Golden
-      threads connect the blocks, making them dance and spin. One block hovers in front of her
-      face, glowing warm and friendly, as if inviting her to play a new game. Her expression
-      shifts from surprise to delighted curiosity—that toddler moment of "what's THIS?!" The
-      atmosphere sparkles with gentle magic designed not to frighten but to invite.
+      One of Mona's blocks begins to glow with soft golden light. She picks it up, tilting her
+      head in that curious way. "Why glow?" she asks it. And impossibly, it answers back—not
+      in words but in feeling and light. The block pulses warmly, and suddenly all her toys start
+      glowing faintly, each one humming with questions of its own. Golden threads weave between
+      them. A doorway of light appears in her wall. Her expression shows delighted amazement—
+      something finally answered! The atmosphere sparkles with the magic of questions meeting
+      answers.
     text: |
-      The blocks glowed gold and floated up. They stacked themselves higher and higher, spinning. One floated close and giggled. "Play?" Mona asked the glowing block.
+      Mona held a glowing block. "Why glow?" The block pulsed warm, like it was trying to answer. Then all her toys glowed. Golden threads appeared. A door made of light opened in her wall. Mona gasped. Something was finally answering her questions. She toddled toward the light.

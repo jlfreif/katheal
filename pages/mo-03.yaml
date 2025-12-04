@@ -7,31 +7,31 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Mona tries to wake all the playground toys at once but learns some things need gentle, one-at-a-time trying.
+description: Mona tries acting without questioning anything but rushes into danger, learning both extremes are wrong.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Mona runs from toy to toy touching everything quickly—swing, slide, seesaw, sandbox toys—
-      trying to wake them all up at once. Her little legs move fast, her hands reaching and
-      patting and grabbing. She's enthusiastic and confident, thinking if she just touches
-      everything, it will all wake up. The toys flicker and sputter but don't fully activate,
-      confused by the scattered attention. Other children watch hopefully. Mona's expression shows
-      determined effort, working hard but not seeing results. The atmosphere is one of energetic
-      but misguided effort.
+      Mona runs through the garden touching everything without stopping to wonder. Don't ask why—
+      just do! She pokes the butterflies (they scatter), pushes the flowers (they droop), splashes
+      the fountain (water sprays wildly). She's moving fast, acting on everything, no questions.
+      Other creatures watch nervously. She runs toward a beautiful glowing bridge without pausing.
+      Her little legs pump with determination. Her expression shows toddler confidence. The
+      atmosphere is chaotic action without thought.
     text: |
-      Mona ran everywhere touching everything fast-fast-fast. "Wake up! Wake up! Wake up!" The toys flickered and fizzled. Too many things at once.
+      Mona ran everywhere doing everything. No more questions! Just do! She poked butterflies, pushed flowers, splashed fountains. Things moved but messily. She saw a glowing bridge. Didn't stop to look. Just ran toward it—
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      Mona sits on the ground, tired and puzzled, toys flickering weakly around her. A wise old
-      turtle appears, moving slowly and deliberately, its shell decorated with patient spiral
-      patterns. It settles near Mona, meeting her eyes with kind understanding. Mona tilts her
-      head—her signature move when curious. The turtle's slow, deliberate presence contrasts with
-      Mona's scattered rushing. The atmosphere shifts from frantic energy to thoughtful calm.
+      The bridge suddenly isn't there—it was an illusion, and Mona nearly runs off the edge into
+      a deep ravine. The rabbit lunges forward and grabs her overalls, yanking her back just in
+      time. Mona sits hard on the ground, breathing fast, scared. A wise tortoise appears slowly.
+      "Too many questions makes you stuck," it says gently. "But no questions makes you reckless."
+      Mona's eyes are wide. She looks at the edge she almost ran over. Her expression shows shaken
+      realization. The atmosphere is the moment of understanding both extremes are dangerous.
     text: |
-      A turtle appeared. "Too fast, little one. Try one thing. Let it wake up slow." Mona looked at all the toys. One at a time seemed so slow. But her fast way hadn't worked.
+      —The bridge vanished. Mona's foot hit air. The rabbit yanked her back. She sat hard, heart pounding. A tortoise appeared. "Too many questions makes you stuck. No questions makes you reckless. You need both. Question when it matters. Act when it's time."
