@@ -185,34 +185,36 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
     return "\n".join(prompt_parts)
 
 
-@st.cache_data(show_spinner=False)
-def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-image-preview"):
-    """Generate an image using Google Gemini Nano Banana Pro."""
+def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-image-preview", num_versions=1):
+    """Generate image(s) using Google Gemini Nano Banana Pro."""
     # Get API key from Streamlit secrets
     api_key = st.secrets["google"]["api_key"]
 
     # Initialize the client
     client = genai.Client(api_key=api_key)
 
-    # Generate image
-    response = client.models.generate_content(
-        model=model,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_modalities=['IMAGE'],
-            image_config=types.ImageConfig(
-                aspect_ratio=aspect_ratio,
+    all_images = []
+
+    # Generate multiple versions by making separate API calls
+    for version in range(num_versions):
+        # Generate image
+        response = client.models.generate_content(
+            model=model,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_modalities=['IMAGE'],
+                image_config=types.ImageConfig(
+                    aspect_ratio=aspect_ratio,
+                )
             )
         )
-    )
 
-    # Extract images from response parts
-    images = []
-    for part in response.parts:
-        if part.inline_data:
-            images.append(part)
+        # Extract images from response parts
+        for part in response.parts:
+            if part.inline_data:
+                all_images.append(part)
 
-    return images
+    return all_images
 
 
 # App title and description
@@ -341,10 +343,11 @@ else:
             model_display = "Nano Banana Pro" if "3-pro" in model else "Nano Banana Flash"
 
             # Create a status expander for logs
-            with st.status(f"Generating with {model_display}...", expanded=True) as status:
+            with st.status(f"Generating 2 versions with {model_display}...", expanded=True) as status:
                 st.write(f"🔄 Calling model: {model}")
                 st.write(f"📝 Prompt length: {len(prompt)} characters")
                 st.write(f"📐 Aspect ratio: {aspect_ratio}")
+                st.write(f"🔢 Generating 2 versions")
 
                 if char_ref_images:
                     total_refs = sum(len(imgs) for imgs in char_ref_images.values())
@@ -354,7 +357,7 @@ else:
                     st.write(f"🎨 Style references: {len(style_refs)} image(s)")
 
                 generated_images = generate_image_with_gemini(
-                    prompt, aspect_ratio=aspect_ratio, model=model
+                    prompt, aspect_ratio=aspect_ratio, model=model, num_versions=2
                 )
 
                 st.write(f"✅ Response received")
@@ -370,9 +373,13 @@ else:
                 st.success(f"✅ Successfully generated {len(generated_images)} image(s)!")
                 st.balloons()
 
+                # Create filename base from page identifier and side
+                page_id = page_path.stem  # e.g., "el-01"
+                filename_base = f"{page_id}-{page_side}"  # e.g., "el-01-left"
+
                 # Display the generated images
                 for idx, image_part in enumerate(generated_images):
-                    st.subheader(f"Generated Image {idx + 1}")
+                    st.subheader(f"Version {idx + 1}")
 
                     # Get the image object and access its PIL representation
                     img_obj = image_part.as_image()
@@ -382,19 +389,21 @@ else:
 
                     st.image(
                         pil_image,
-                        caption=f"{aspect_ratio} - {model_display}",
+                        caption=f"{aspect_ratio} - {model_display} - Version {idx + 1}",
                         use_container_width=True,
                     )
 
-                    # Option to save the image
+                    # Option to save the image with proper filename
                     import io
                     buf = io.BytesIO()
                     pil_image.save(buf, format='PNG')
+                    download_filename = f"{filename_base}_v{idx + 1}.png"
                     st.download_button(
-                        label=f"Download Image {idx + 1}",
+                        label=f"Download Version {idx + 1}",
                         data=buf.getvalue(),
-                        file_name=f"generated_image_{idx + 1}.png",
-                        mime="image/png"
+                        file_name=download_filename,
+                        mime="image/png",
+                        key=f"download_{idx}"
                     )
             else:
                 st.warning("No images were generated. Please try again.")
