@@ -7,7 +7,7 @@ beat: "Resolution (emotional) + series button"
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Mona returns to her playroom transformed, ready to try new things with brave confidence.
+description: Mona returns home transformed, balancing her natural curiosity with trust in her instincts.
 
 scenes:
   - page: left
@@ -15,23 +15,24 @@ scenes:
     focus: Returning to ordinary world
     visual: |
       Mona's playroom, the same blocks and toys as the opening. Mona toddles in holding her bunny
-      and the golden star from Kathaél. She looks at her regular blocks with new eyes—the same
-      toys, but she sees them differently now. The golden star glows softly in her hand. Her
-      expression shows peaceful confidence. The atmosphere is familiar but transformed by courage
-      learned and claimed.
+      and a small golden seed (the gift from Kathaél). She looks at her toys with new eyes. She
+      picks up a block. "Why square?" she asks, tilting her head. Then smiles and just stacks it
+      without needing the answer. She still asks questions—that's who she is—but now she also
+      acts. The seed glows softly beside bunny. Her expression shows peaceful balance. The
+      atmosphere is familiar but transformed by integrated wisdom.
     text: |
-      Mona sat with her blocks. The golden star glowed next to bunny. She looked at toys she'd been too scared to try. New things waited everywhere.
+      Mona sat with her blocks. "Why square?" she asked. Then stacked it anyway. She still loved questions. But now she knew: some questions need answers. Some just need doing. The golden seed glowed next to bunny.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
     visual: |
-      Mona attempting something new and challenging—standing on a step stool to reach a high shelf
-      where a new toy waits, one she'd been too scared to try before. Bunny is nearby for support.
-      The golden star glows brilliantly on the floor beside her. Golden threads appear faintly
-      in her ordinary room, Kathaél's magic living in every brave choice. She reaches for the new
-      toy with determination and joy. Her expression shows brave excitement. Small sparkles drift
-      through the playroom. The scene feels triumphant but grounded—toddler-level magic made real
-      through courage.
+      Mona approaches her step stool and the high shelf (same as original ending). But this time
+      she pauses, questions if it's safe, sees it's sturdy, then acts by climbing. She reaches
+      for a new toy. Pauses again—questioning if she wants it. Her tummy says yes. She grabs it.
+      The seed blazes with golden light. Tiny golden threads appear, connecting her questions and
+      actions in perfect balance. She laughs, delighted. Questions AND doing. Both courage. Her
+      expression shows joyful confidence. The scene celebrates the wisdom of knowing when to
+      think and when to trust.
     text: |
-      Mona climbed her step stool reaching for the scary toy. Tummy fluttery. But fluttery meant new. The star blazed. Tiny golden threads appeared. She smiled big. Little, but brave.
+      Mona climbed her step stool. Paused. Safe? Yes. Climbed. Reached for the toy. Paused. Want it? Tummy said yes. She grabbed it. The seed blazed. Golden threads connected her questions to her actions. Perfect balance. She giggled. "Question when it matters. Do when it's time." Both were being brave.

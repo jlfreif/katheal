@@ -1,4 +1,4 @@
-# Noah's Individual Page for Mirrored Node at Spread 7
+# Noah - Spread 7: Rising Stakes
 
 id: no-07
 spread: 7
@@ -7,33 +7,33 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah battles shadow-creatures attacking the forest library's stories. He fights to protect them while learning he can't control everything.
+description: Noah successfully lets go of small controls but panics when the most important story takes an unexpected turn.
 
 scenes:
   - page: left
     page_number: 17
-    focus: Fighting to protect the stories
+    focus: Making progress toward goal
     visual: |
-      Shadow-creatures pour into the forest library. Writhing darkness with claws of smoke. They rip
-      at the golden story-threads. Tearing. Destroying. Noah leaps between the trees, his golden quill
-      blazing like a sword. He slashes at the shadows. They screech and dissolve. But more keep coming.
-      Stories fall from branches. Noah catches them. Dodges shadow-claws. Writes protective words in
-      the air that flash and burn the darkness. Sweat on his face. Determination. A candle burns on a
-      tree stump, its flame flickering as shadows rush past. Text in Times New Roman 16pt in white
-      space at bottom.
+      Noah moves through the forest library with a light touch. He loosens chains but doesn't
+      direct the stories. Offers support but doesn't control outcomes. Stories bloom around him—
+      each finding their own way, each different from what he would have planned, each beautiful.
+      Golden threads weave freely. Other creatures celebrate. He's learning to let go. His face
+      shows cautious pride mixed with ongoing discomfort. The atmosphere is progress in releasing
+      control. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Shadow-creatures attacked. Ripping at the stories. Tearing threads. Noah's quill blazed like a sword. He slashed. Shadows screeched. Dissolved. More came. He leaped between trees. Caught falling stories. Dodged claws of smoke. Wrote burning words that drove them back. But there were so many.
+      Noah loosened chains. Let stories breathe. Didn't tell them where to go. Just... released them. They found their own paths. Weird paths. Unexpected paths. Better paths. The library blazed with life. He was doing it. Learning to let go.
 
   - page: right
     page_number: 18
-    focus: Realizing he can't protect everything alone
+    focus: Realizing something is missing
     visual: |
-      Noah stands surrounded by shadows. They circle him. Too many to fight. He raises his quill to
-      write another protection spell. But his hand shakes. Exhausted. A shadow lunges. Noah writes
-      frantically. The words scatter. Wrong. The shadow passes through. Touches a story-thread. It
-      starts to grey. Noah grabs for it but the thread changes on its own. Writes its own ending.
-      Different than he planned. But it works. The shadow dissolves. The candle flame steadies. Noah
-      stares. "I can't control everything," he breathes. Through the trees, a glowing door appears.
-      Text in Times New Roman 16pt in white space at bottom.
+      The Heart Crystal story appears—the most important one, the one that could save everything.
+      Noah watches it carefully, hands off, letting it unfold. But then it takes a turn that
+      terrifies him. The main character chooses danger over safety. The plot goes somewhere dark.
+      Everything in Noah screams that this is wrong. His hands reach out instinctively to grab it,
+      control it, force it back to the "right" path. He's trembling. This matters too much to let
+      go. What if he releases control and it all falls apart? His expression shows pure fear. The
+      atmosphere is the moment when trust is hardest. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      Too many shadows. Noah's quill blazed. Slashed. Wrote. But he was one person. Exhausted. A shadow lunged. He wrote frantically. Wrong words. The shadow touched a thread. It started to grey. But then the thread changed. Wrote its own ending. The shadow dissolved. "I can't protect everything," Noah breathed. "And maybe I don't have to."
+      The Heart Crystal's story unfolded. Noah watched. Hands off. Letting it choose. Then it went somewhere dark. Dangerous. Wrong. His hands shot out. "No! Not that way! It'll break everything!" His fingers touched the golden threads. One pull and he could control it. Fix it. Make it safe. But... that was the old way. His hands shook. What if letting go meant losing everything?

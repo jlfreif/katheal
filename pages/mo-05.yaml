@@ -7,32 +7,33 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Mona meets a flashy peacock who shows off instead of trying, learning that showing off isn't the same as being brave.
+description: Mona meets a chameleon who claims to have a system for when to question vs act, but it's just indecision disguised as wisdom.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      A grand garden with elaborate fountains and ornate statues, much fancier than the simple
-      playground. Mona toddles in looking tiny among the big fancy things. A magnificent peacock
-      struts around, tail feathers fully displayed in brilliant blues and greens, showing off
-      proudly. It preens and poses, very impressed with itself. Mona watches with wide eyes—
-      the peacock is so pretty and confident. Other creatures watch the peacock but nothing is
-      actually happening or moving. The atmosphere is all show, no substance.
+      A maze of paths where each fork has a glowing question mark on one side and an exclamation
+      point on the other. Mona stands at a junction, uncertain. A clever-looking chameleon appears,
+      changing colors constantly, looking very confident. "I have the perfect system!" it announces.
+      "I can tell you exactly when to question and when to act." It pulls out a complicated chart
+      with arrows and boxes. Mona tilts her head, trying to understand. The chart looks very
+      impressive. Other creatures gather, listening. The atmosphere is one of false wisdom masking
+      confusion.
     text: |
-      A peacock strutted around showing its tail. "Look at me! I'm so brave!" It posed and preened. Mona tilted her head. Looking brave wasn't the same as being brave.
+      A maze of choices. Question marks and exclamation points everywhere. A chameleon appeared, colors shifting. "I know the secret! Follow my system—ask three questions, then take two actions, unless it's cloudy, then reverse it." It showed a complicated chart.
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
     visual: |
-      The peacock demonstrates its "bravery" by showing off more, strutting and posing, but when
-      Mona points at a new toy to try, the peacock backs away nervously. "Oh, I don't actually
-      TRY new things," it says, tail drooping. "I just look like I would." Mona's expression
-      shows toddler confusion turning to understanding. She looks from the posing peacock to the
-      untried toy and back. The peacock's beautiful feathers suddenly seem less impressive. A
-      golden thread appears faintly near the toy, not the peacock. The atmosphere shifts from
-      impressive to empty.
+      Mona watches as the chameleon demonstrates its "perfect system" at a crossroads. It counts
+      on its claws, checks the chart, changes colors nervously, counts again, looks at the sky,
+      recounts... and never actually moves. It's been standing at the same fork for hours, trapped
+      by its own system. "I'm still calculating!" it insists, but it's obviously stuck. Mona
+      realizes the chart is just another way of not deciding. She walks past the frozen chameleon
+      and chooses a path herself—questioning if it looks safe, then acting by walking it. The
+      atmosphere shows that overthinking systems can be as paralyzing as endless questions.
     text: |
-      "Show me!" Mona said, pointing at a new toy. "Oh no, I don't actually TRY things," the peacock said. "Too scary." Mona toddled toward the toy herself. Real brave meant real trying.
+      The chameleon demonstrated. Count. Check chart. Change color. Count again. Check sky. It never moved. Still stuck at the same choice. "I'm calculating!" But it hadn't gone anywhere in hours. Mona walked past it. That wasn't wisdom. That was just fear wearing a fancy chart.

@@ -7,32 +7,33 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Mona almost gets all the playground toys working but discovers the biggest, scariest one is still waiting.
+description: Mona successfully balances questioning and acting through most challenges but freezes at the final test.
 
 scenes:
   - page: left
     page_number: 17
     focus: Making progress toward goal
     visual: |
-      The playground coming alive around Mona. Swings swinging with laughing children, slide
-      working smoothly, sandbox toys moving, seesaw going up and down. Mona claps her hands in
-      delight, bouncing on her toes, huge smile on her face. Golden threads connect all the toys
-      she's helped wake up, glowing bright and happy. Other children play joyfully. Her expression
-      shows proud happiness. The atmosphere is celebratory and bright. Almost everything is working.
-      Almost everything is fixed.
+      Mona moves through a series of magical tests with growing confidence. At a dark tunnel: she
+      questions if it's safe, sees light at the end, then acts by walking through. At a locked
+      door: she questions how to open it, spots a key nearby, then acts by using it. At a rickety
+      bridge: she questions its strength, tests with one foot, then acts by crossing carefully.
+      Golden threads brighten with each balanced choice. Other creatures cheer. The garden is
+      coming alive around her. Her expression shows proud competence. The atmosphere celebrates
+      her growing mastery.
     text: |
-      The playground woke up around Mona. Swings flying! Slide smooth! Sandbox digging! Children played and laughed. "I did it!" Almost all better.
+      Mona balanced it perfectly. Dark tunnel? Question: is it safe? See light at end. Act: walk through. Locked door? Question: how to open? See key. Act: use it. Rickety bridge? Question: will it hold? Test one step. Act: cross carefully. The garden blazed gold.
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
     visual: |
-      Mona's celebration stops as she notices one toy still dark and frozen—a very tall, very
-      twisty slide at the far end of the playground. It looms high above everything else, spiraling
-      and turning in ways that look scary even to older kids. No one is near it. It waits alone,
-      unlit, needing someone brave enough to try. Mona stands looking up at it, her little neck
-      craned back, one hand holding her bunny tight. Her expression shows a mix of determination
-      and real fear—this is different from the other toys. This is actually scary. The atmosphere
-      shifts from celebration to challenge. The big test waits.
+      Mona reaches the final challenge: a seed pod that needs planting to restore the Heart Crystal.
+      But this one is different—there's no obvious answer. No light at the end of the tunnel, no
+      visible key, no way to test it first. She has to choose between questioning more (what if
+      it's the wrong spot? what if it won't grow?) or acting on instinct (just plant it and trust).
+      Mona stands frozen, paralyzed by the lack of clarity. Other creatures wait. The seed pod
+      pulses in her hands. Her expression shows genuine uncertainty. The atmosphere shows the
+      hardest moment: when you can't know for sure and must choose anyway.
     text: |
-      One toy stayed dark. The very tall, very twisty slide. Bigger and scarier than anything. Her tummy felt fluttery. "Too high," she whispered.
+      The final test: a seed that could restore everything. The Heart Crystal's cracks pulsed in the distance, waiting for this final piece. But where to plant it? No clues. No certainty. Plant it wrong and the cracks would spread forever. Question more? Or just trust and act? Mona stood frozen, paralyzed. Her hands shook. What if she chose wrong? What if wrong meant losing everything?

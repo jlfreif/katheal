@@ -7,32 +7,31 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Maya discovers a world where colors are fading and realizes people stopped being themselves.
+description: Maya arrives in Kathaél and immediately judges everything by how it looks on the surface.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      A vast meadow in Kathaél where everything should be colorful but isn't—flowers faded to
-      grey, grass muted to dull green, sky pale and lifeless. Maya stands in the center, turning
-      in dismay. Ribbons of color that should flow through the air hang limp and transparent.
-      Creatures that should be vibrant sit grey and still. A rainbow that arcs across the sky
-      is only three faint colors instead of seven. Maya crouches to touch a grey flower, her
-      expression showing concern and determination. The atmosphere feels muted and sad, like the
-      world forgot how to be bold.
+      Maya stands in a strange forest clearing in Kathaél where everything looks one way on
+      first glance but reveals something different when examined closer. A "beautiful" flower
+      that's actually wilting inside. A "scary" creature with fierce teeth that's actually crying.
+      A "clear" path that leads to a cliff. Maya rushes forward, making quick judgments based on
+      appearances. She nearly steps off the cliff, catches herself at the last second. Her
+      expression shows shocked realization. The atmosphere reveals the danger of surface judgments.
     text: |
-      The paint pulled Maya through her window into a world without color. Grey flowers, grey grass, pale empty sky. She touched a grey petal. It felt wrong, like someone had told it to whisper when it wanted to shout.
+      Maya landed in a forest that looked safe. She walked fast, confident. That flower looked beautiful. That path looked clear. That cliff looked far aw— She skidded to a stop, toes at the edge. The clear path had led straight to danger. Things here weren't what they seemed.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Maya stands before a particular section of the faded meadow, pulling out a small travel
-      paint set from her pocket. She dips her finger in pink paint and touches a grey flower.
-      For a moment, pink blooms where she touched, bright and alive. Then it fades back to grey.
-      But the attempt matters—a golden thread appears faintly, responding to her authentic action.
-      Her face shows determination and defiance. Around her, the faded world seems to lean in
-      hopefully. The atmosphere shifts from observation to action, from sadness to brave purpose.
+      Maya steps back from the cliff carefully, now looking more closely. A golden owl perches
+      nearby, watching her with knowing eyes. "The forest needs someone who can see what's really
+      there," it says. Maya notices now that the "beautiful" flower was dying, the "scary" creature
+      needed help, the "simple" trees hold complex root systems visible beneath translucent bark.
+      She realizes this whole world operates on hidden truths beneath surface appearances. Her
+      expression shows determined curiosity. A golden thread appears, faint but guiding.
     text: |
-      Maya pulled out her paint set and touched pink to a grey flower. For one second, color bloomed bright and real. Then faded back to grey. But a golden thread appeared, faint but present. "I can help you remember," Maya told the faded world.
+      A golden owl watched from a branch. "In Kathaél, surfaces often hide the truth. The forest is fading because no one looks deeper anymore. Everyone judges by first glance. Can you help?" Maya looked around with new eyes. That dying flower needed help. That scared creature needed a friend. "I can try," she said. "I can learn to see."

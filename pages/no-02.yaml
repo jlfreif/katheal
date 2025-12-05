@@ -7,7 +7,7 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah follows the golden thread through his window into Kathaél's forest library, where he discovers dying stories abandoned before their endings.
+description: Noah enters Kathaél's forest library where stories are dying because writers tried to control every detail instead of letting them grow.
 
 scenes:
   - page: left
@@ -15,24 +15,25 @@ scenes:
     focus: Discovery of the problem
     visual: |
       A magical forest library where ancient trees serve as living shelves, their branches holding
-      floating books and scrolls. Golden threads connect stories to tree limbs. Many threads are
-      grey and fraying. Noah stands in the center of a clearing, spinning in amazement. Books flicker
-      like dying fireflies. Scrolls unravel, words disappearing. Moss covers the ground. Vines
-      twist between tree trunks. Sunlight filters through the canopy. One book hovers before him,
-      its ending blank. Forest and library merged into one magical place. Text in Times New Roman
-      16pt in white space at bottom.
+      floating books and scrolls. But many are withering—strangled by golden chains, bound too
+      tightly by outlines and rules. Noah stands in the center, shocked. Books struggle against
+      their chains. Stories try to breathe but can't. Moss covers the ground. A sign reads:
+      "Controlled to death." Scripts hang from branches with every word dictated, but they're grey
+      and lifeless. The atmosphere is suffocating control killing creativity. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      The thread yanked Noah through his window. He tumbled into a forest where trees held floating books on their branches. Stories everywhere. But half were dying. Grey threads. Fading words. He caught a falling book. Blank pages where the ending should be.
+      The golden thread yanked Noah through his window into a forest library. But the stories were dying—gasping, choking. Chains cut into their spines. Pages curled and blackened. A book fell at his feet, cracking apart. Every page filled. Every word perfect. Every sentence exactly where it should be. All dead. Grey ash inside. He opened another. The words crawled with "MUST DO THIS" and "CANNOT DO THAT" scrawled over every line in angry red. The story underneath had suffocated. Planned to death. Controlled to death.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Noah stands before a glowing scroll hanging from a low branch, its golden thread wrapped
-      around the bark. He reaches up with both hands to steady it. The scroll unfurls showing a
-      story about a girl and her lost voice. It stops mid-sentence. Noah's face shows determination.
-      Other stories on nearby branches lean toward him, watching. Hoping. Small forest creatures
-      peek from behind trees. His posture straightens with purpose. Text in Times New Roman 16pt
-      in white space at bottom.
+      Noah kneels beside one story that's still fighting—a tale about a girl finding her way home.
+      It's partially chained but struggling to break free. He can see the writer's notes all over
+      it: "She must turn left here." "She must meet the fox at 3pm." "She must say exactly this."
+      The story gasps under the weight of control. Noah reaches for the chains, uncertain. His
+      instinct is to plan how to help, make a system for saving it. But the story pulses—please,
+      just let me go. His expression shows internal conflict. The atmosphere is the moment of
+      choice. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      One story pulsed brighter than the rest. Fighting to stay alive. Noah grabbed its thread and steadied it. A girl searching for her lost voice. Beautiful moments. Then nothing. Someone had quit right before the ending. "I'll help you," Noah promised.
+      One story still fought—a girl trying to find her way home. Chains wrapped so tight the pages bled. "She MUST turn left here." "She MUST meet the fox at exactly 3pm." "She MUST say these exact words." The girl inside the story was screaming silently, clawing at the pages, trying to break free. The story gasped, dying. Noah reached for it. His mind immediately started planning: "First I'll analyze the chains, map the system, create an optimal removal sequence, then—" The story convulsed. Please. Just let me go.

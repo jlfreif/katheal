@@ -7,33 +7,32 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Mona discovers a playground where all the toys are frozen and children need someone brave enough to try them first.
+description: Mona discovers a garden where everything is frozen mid-action because someone asked too many questions instead of trying.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      A magical playground in Kathaél with swings that don't swing, a slide with no one sliding,
-      a sandbox with toys frozen mid-scoop. Everything is still and waiting. Mona toddles into
-      the playground, holding her stuffed bunny, looking around with wide eyes. The equipment is
-      beautiful—colorful and inviting—but completely motionless. Golden threads connect the toys
-      but they're dim and lifeless. A few other children stand at the edges, too afraid to try
-      anything. Mona tilts her head, confused. Playgrounds are for playing. Why is everyone just
-      standing? The atmosphere feels suspended, waiting for someone to be brave enough to start.
+      A magical garden in Kathaél where a fountain is frozen mid-splash, flowers frozen mid-bloom,
+      butterflies suspended mid-flight. Everything stuck between question and answer. Mona toddles
+      in, eyes wide. A sign reads in glowing letters: "Why should it splash? Why should it bloom?
+      Why should they fly?" All questions, no actions. Other toddlers stand frozen too, asking
+      "why why why" but never moving forward. Golden threads hang limp and dim. The atmosphere
+      feels stuck, paralyzed by endless questioning without doing.
     text: |
-      Mona found a playground where nothing moved. Swings hung still. Slides sat empty. Children stood at the edges, too afraid to play.
+      Mona found a garden where nothing moved. A fountain frozen mid-splash. Flowers frozen mid-bloom. Butterflies stuck in air. A sign glowed: "Why should it splash? Why bloom? Why fly?" Too many questions. No one just doing.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Mona walks determinedly toward the swings despite the other children's warnings, her little
-      legs moving with toddler purpose. She still clutches her bunny but reaches for a swing
-      with her other hand. Her expression shows a mix of uncertainty and brave determination—
-      that toddler courage that hasn't learned to overthink. The swing begins to glow faintly
-      as she approaches. Other children lean forward, watching. A golden thread brightens. The
-      atmosphere shifts from frozen waiting to anticipatory hope. This tiny girl might be small,
-      but she's willing to try.
+      A small rabbit hops to Mona, looking very tired. "We've been asking 'why' forever," it says.
+      "But no one will just try." Mona tilts her head, processing. She looks at the frozen fountain.
+      At the stuck butterflies. She could ask more questions. Or she could just... do something.
+      She walks to the fountain and touches the water. It doesn't move. Mona frowns. "Why frozen?"
+      she starts to ask, then stops herself. She scoops water with her hands. It trickles. The
+      fountain shimmers. Her expression shows a dawning understanding. The atmosphere begins to
+      shift from paralysis toward possibility.
     text: |
-      Mona walked to the swings, bunny tucked under one arm. Her tummy felt fluttery. But new things could be fun. "I try," she said. The swing glowed and came alive.
+      A rabbit hopped close. "We've been asking why forever. But no one tries." Mona looked at the frozen fountain. She could ask more questions. Or... She touched the water. Stuck. "Why fro—" No. She scooped water anyway. It trickled. The fountain shimmered gold.

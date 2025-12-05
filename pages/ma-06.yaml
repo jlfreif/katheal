@@ -7,34 +7,31 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Maya discovers that bold, authentic art brings color back better than careful, rule-following painting.
+description: Maya discovers that slowing down and looking beneath surfaces reveals hidden beauty.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      An art gallery carved into a hillside, walls lined with faded paintings that have lost
-      their color and life. Maya stands before an easel holding a half-finished painting, her
-      brush poised carefully, trying to paint "correctly" with proper technique. The painting
-      is technically accurate but lifeless, colors muted and dull. Around her, other canvases
-      show her previous attempts—all careful, all faded. A lantern hangs on the wall, its flame
-      barely visible, casting almost no light on her work. Her expression shows concentration
-      mixed with growing doubt. The gallery feels like a museum of dead things rather than a
-      space of creation.
+      Maya stands in a garden where everything looks dull and grey at first glance. She starts
+      to walk past quickly, making snap judgments. "Boring. Plain. Nothing special." But a quiet
+      voice stops her—maybe from the garden itself, or from deeper wisdom. She pauses, frustrated.
+      Looking quickly hasn't worked. Trusting reflections hasn't worked. Her expression shows
+      reluctant willingness to try something different. The grey garden waits patiently.
     text: |
-      Maya painted carefully. Perfect brushstrokes. Balanced composition. The painting stayed lifeless. Around her, canvas after canvas of careful, correct, faded work. The lantern dimmed.
+      Maya rushed through a grey garden. Boring. Plain. Nothing— But something made her stop. Quick glances hadn't helped. Mirrors hadn't helped. Maybe she needed to actually pause. Actually look. Really see.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      Maya abandons her careful technique and paints with wild, joyful strokes, her whole
-      body moving with the art. Bright pink, electric blue, vibrant orange splash across the
-      canvas in bold, confident swirls. The pink streak in her hair seems to glow as she works.
-      The lantern on the wall blazes brilliantly now, illuminating the entire gallery. Around
-      her, the faded paintings burst back into color, responding to her authentic boldness.
-      Colors drip and splash, alive and moving. Her expression is pure joy and freedom. The
-      gallery transforms into a celebration of vibrant life.
+      Maya kneels down, truly observing one grey flower for the first time without rushing to
+      judgment. As she watches patiently, she sees tiny movements—the flower breathing, roots
+      pulsing with life beneath the soil, intricate patterns in the petals that weren't visible
+      at first glance. The flower begins to glow with hidden inner light, revealing it was never
+      grey at all—it was waiting for someone to truly see it. As she looks deeper at the garden,
+      color blooms everywhere. Golden threads weave through the air. Her expression shows wonder
+      and revelation.
     text: |
-      Maya threw the rules away. Wild pink, shocking blue, sunset orange. She painted like she danced. Bold and free and completely herself. The lantern blazed. Her canvas exploded with life. Around her, every faded painting burst back into color.
+      Maya knelt before one grey flower. She didn't judge. She didn't rush. She just watched. Really watched. First, she noticed the flower breathing—slow, steady. Then the roots pulsing underneath with quiet life. Then intricate patterns swirling in the petals she'd missed before. She kept watching, patient, curious. And then—it glowed. The grey was just the surface. Underneath lived so much color. When you truly saw things, they showed you their truth.

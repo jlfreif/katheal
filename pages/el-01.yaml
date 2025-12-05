@@ -7,7 +7,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Elise practices her dance routine in her room, expressing herself through movement, when something magical appears.
+description: Elise practices her dance routine in her room, expressing herself through movement, when golden threads appear in her mirror, beckoning her to Kathaél.
 
 scenes:
   - page: left
@@ -16,13 +16,13 @@ scenes:
     visual: |
       Elise's bedroom with a large mirror against one wall, afternoon sunlight streaming through
       the window creating patterns on the wooden floor. Elise (9 years old, long brown hair in
-      a ponytail, slim build, wearing black leggings and her provence t-shirt) stands before
+      a ponytail, slim build, wearing black leggings and light pink t-shirt) stands before
       the mirror practicing a dance routine. Her arms extend gracefully, one leg raised, body
       moving fluidly through the choreography. Stuffed animals sit on her bed watching. Dance
       posters cover the walls. Her expression shows focus and joy, completely absorbed in the
       movement. She hums a melody that matches her steps. The room feels safe and familiar.
     text: |
-      Elise danced and the world made sense. Her feet knew the steps. Her arms knew the way. She hummed and spun and the afternoon belonged to her. This was how she thought, how she felt, how she made the day her own.
+      Elise danced and the world made sense. Her feet knew the steps. Her arms knew the way. She hummed and spun and the afternoon belonged to her.
 
   - page: right
     page_number: 6
@@ -31,9 +31,9 @@ scenes:
       Elise mid-spin when she notices something in the mirror that isn't her reflection. Behind
       her reflected image, a shimmer of golden light ripples across the glass like water. She
       freezes in position, one arm still extended, staring at the mirror with wide eyes. The
-      golden shimmer forms threads that seem to move in time with her humming, pulsing gently.
-      Her room looks normal, but in the mirror, the golden threads weave through her reflection,
-      creating patterns in the air. Her expression shifts from focus to wonder. The atmosphere
+      golden shimmer forms threads that pulse and weave, beckoning her forward. Her room looks
+      normal, but in the mirror, a forest path opens behind her reflection. She reaches toward
+      the glass, her fingertips touching the cool surface. The mirror ripples. The atmosphere
       crackles with possibility.
     text: |
-      Then she saw them in the mirror. Golden threads that shouldn't be there. They danced with her humming, pulsed with her heartbeat. She turned around to look. Nothing. But in the mirror, the threads danced on, beckoning her to follow them somewhere her room couldn't contain.
+      Then the mirror shimmered gold. Threads pulsed behind her reflection, weaving a forest path she'd never seen before. Elise touched the glass. It rippled like water. The threads danced brighter, beckoning. She stepped through.
