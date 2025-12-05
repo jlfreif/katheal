@@ -45,7 +45,7 @@ attributes:
   # Examples: Painting, Coding, Hiking, Storytelling, Chess
   # Note: Can inform interactive choices or story branching
   hobbies_interests_skills:
-    - Dancing (lyrical, ballet, graceful flowing styles)
+    - Dancing (pop, hip-hop, energetic urban styles)
     - Singing (melodic, expressive, often while moving)
     - Drawing or painting
     - Creating original choreography
@@ -65,8 +65,8 @@ attributes:
   internal_conflict: |
     Elise is expressive, physical, and confident in her dance and song. She processes
     the world through movement—when she's thinking, she's dancing; when she's feeling,
-    she's creating choreography. Her journey involves discovering that intentional, graceful expression
-    is its own kind of strength—that flowing persistence and embodied presence can heal
+    she's creating choreography. Her journey involves discovering that authentic, powerful expression
+    is its own kind of strength—that embodied rhythm and bold presence can heal
     what force cannot.
 
   # How does the character relate to others and the world around them?
@@ -95,7 +95,7 @@ attributes:
     - Long brown hair and hazel eyes
     - Slim build
     - short to medium height
-    - Graceful 
+    - Athletic and energetic
     - Grounded and centered in her body
     - Expressive hands and posture
     - Wears black leggings, a light pink t-shirt, and white sneakers
