@@ -7,33 +7,34 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Micah learns from the crane about breath and stillness, who sends him to the hardest place where he must be completely still.
+description: Micah studies the platform patterns, trying to time his movements mathematically, but discovers the course adapts.
 
 scenes:
   - page: left
     page_number: 11
     focus: Seeking guidance
     visual: |
-      The crane demonstrates slow, deliberate movement—lifting one leg gracefully, holding the
-      pose, breathing steadily, then setting it down with perfect control. Each movement is
-      intentional, powerful through precision not speed. Micah watches from sitting position,
-      still catching his breath, trying to understand. The crane's calmness radiates outward in
-      golden ripples. Micah's restless energy contrasts sharply with the crane's centered peace.
-      His expression shows frustrated confusion—this goes against everything he knows. The
-      atmosphere is teaching through contrast.
+      Micah sits on the ground studying the platform course carefully, watching the patterns of
+      movement. The platforms move in sequences—three seconds stable, then shift. He counts on
+      his fingers, watches timing, analyzes the rhythm like solving a puzzle. The silver fox sits
+      nearby, tail swishing patiently. Micah's expression shows focused concentration—using his
+      brain as well as his body. Around him, glowing markers show the timing patterns he's
+      identifying. The atmosphere shows problem-solving intelligence—treating the challenge as
+      a puzzle to crack.
     text: |
-      The crane moved one leg. Slowly. Deliberately. Then placed it down with perfect control. "Breath first," it said. "Then movement. Speed without stillness is just chaos." Micah fidgeted, legs twitching. "But how do I learn to be still when my body wants to move?"
+      Micah studied the course from the ground. The platforms moved in patterns—he could see that. Three seconds stable, then shift. He could time it. He started counting, watching, memorizing the rhythm. The fox's tail swished once. Micah nodded. "I've got this. It's just math."
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
     visual: |
-      The crane points one wing toward a distant garden barely visible through mist—a place so
-      quiet and still it seems to shimmer with enforced peace. Wind chimes hang motionless despite
-      breeze. Everything is deliberate, slow, centered. Micah stares at it with visible dread,
-      his whole body already tensing against the idea. The crane watches him with patient
-      understanding. Golden threads weave toward the garden. The atmosphere is heavy with difficult
-      challenge—this will be the hardest thing Micah has ever done. Not because it's physically
-      demanding, but because it requires him to stop.
+      Micah runs the course again with perfect timing—counting, jumping at exact intervals. He
+      makes it halfway through successfully, platforms glowing as he crosses. His expression shows
+      triumph. But then the pattern suddenly changes. The platforms switch to a new rhythm. New
+      obstacles appear. The balance beam splits into three paths. The rope swing moves to a
+      different location. Micah freezes mid-course, shocked. The fox tilts its head. A stone
+      marker nearby glows with mysterious words: "Time moves. You must move with it. But moving
+      isn't always movement." The atmosphere shows escalating difficulty—the challenge just got
+      harder.
     text: |
-      The crane pointed toward a garden where everything moved slow as honey, where stillness was required. Micah's stomach dropped. "I don't think I can." The crane nodded. "That's why you must go. The hardest courage isn't moving when you want to. It's being still." Golden threads shimmered toward the garden, calling.
+      Micah ran the course again, timing every move perfectly. Jump. Three counts. Shift. Jump. It worked! He made it halfway through before the pattern changed. The platforms switched to a new rhythm. "Oh, come ON!" he shouted. The fox tilted its head. Beside it, a stone marker glowed with words: "Time moves. You must move with it. But moving isn't always movement."

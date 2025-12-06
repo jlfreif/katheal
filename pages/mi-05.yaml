@@ -7,33 +7,33 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Micah meets a hummingbird who claims constant motion is the answer, leading to greater chaos.
+description: Micah discovers the bigger stakes as he sees Kathaél failing, then meets his cousin Noah who shares insights about the platforms.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      The edge of the still garden, which Micah hasn't entered yet. A hyperactive hummingbird
-      zips around him in frantic circles, wings beating impossibly fast, never holding still for
-      even a heartbeat. It moves even faster than Micah, chaotic and scattered. Micah watches it
-      with recognition—this is him multiplied, constant motion without pause. The hummingbird
-      speaks in rapid-fire bursts. The garden beyond looks calm and peaceful, but this hummingbird
-      represents Micah's resistance to it. The atmosphere is jittery and unsettled, avoiding the
-      real challenge.
+      Micah follows golden threads deeper into Kathaél's forest. More platform courses stretch
+      in every direction, all of them flickering and fading, broken and dark. In the distance,
+      the massive Heart Crystal looms—bigger than he realized, with visible cracks spreading like
+      spiderwebs across its surface. A flower nearby withers to ash before his eyes. Birds fall
+      silent. The air feels heavy and wrong. Micah's expression shows concern—this is serious.
+      The atmosphere conveys genuine stakes—if the crystal fails, everything fails. This isn't
+      just a fun challenge anymore.
     text: |
-      At the garden's edge, a hummingbird blurred around Micah in frantic spirals. "Don't listen to that boring crane! Stillness is wrong! Motion is life! I never stop and I'm fine! See?" It zipped faster and faster, making Micah dizzy just watching.
+      Micah followed golden threads deeper into Kathaél. More courses stretched in every direction, all broken, all dark. The Heart Crystal loomed ahead, bigger than he'd realized, cracks spreading like spiderwebs. A flower nearby withered to ash. The air felt wrong. This wasn't just about one course. If the crystal failed, everything failed. Micah's stomach tightened.
 
   - page: right
     page_number: 14
-    focus: Encountering misleading help
+    focus: Encountering Noah
     visual: |
-      The hummingbird attempts to show off its superior approach by moving even faster, but
-      suddenly crashes into a tree, falls, and lies stunned and dizzy on the ground, wings
-      trembling. It moved so fast for so long it literally couldn't see straight anymore. Micah
-      crouches beside it, concerned. The hummingbird's eyes spin in different directions. "Maybe...
-      need... tiny pause..." it admits weakly before passing out from exhaustion. Micah looks
-      from the collapsed hummingbird to the still garden beyond. The atmosphere shifts from
-      avoidance to recognition—he can't run from this lesson forever.
+      Micah's cousin Noah steps out from behind a tree—sandy hair messy, looking exhausted but
+      determined. Both boys stare at each other in surprise and recognition. "Noah?! What are
+      YOU doing here?" Noah gestures at the broken platforms around them, equally surprised to
+      see Micah. They're both in Kathaél, both trying to fix things. Family reunion in an
+      impossible magical forest. In the background, more broken courses flicker. Micah's expression
+      shows surprise mixed with relief—he's not alone. Noah looks tired but hopeful. The
+      atmosphere shows connection and shared purpose.
     text: |
-      The hummingbird sped up to prove its point—faster, faster—until WHAM. It crashed into a tree and dropped like a stone. Dizzy. Exhausted. "Maybe... pause... good?" it mumbled before passing out. Micah stared at the tiny bird. That would be him if he never learned to stop. He turned toward the still garden. Time to face it.
+      "Micah?" Another familiar voice. His cousin Noah stepped out from behind a tree, sandy hair messy, looking exhausted. "Noah?! Dude, what are you doing here?" Noah gestured at the broken platforms. "Trying to save this place. It's harder than it looks." Micah laughed. "Tell me about it. I keep getting reset." They compared notes. Noah had noticed something. "The platforms don't just move. They react to how you move."

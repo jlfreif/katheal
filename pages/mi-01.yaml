@@ -7,7 +7,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Micah practices parkour in his room, constantly moving, when something magical appears that moves faster than he can.
+description: Micah practices parkour in his room, enjoying constant movement, when something magical appears with a puzzling message.
 
 scenes:
   - page: left
@@ -19,21 +19,20 @@ scenes:
       half-Caucasian, wearing grey t-shirt and black shorts) mid-jump between furniture pieces,
       body in dynamic motion, face showing intense focus and joy. His trombone case leans in
       corner. Japanese study materials on desk. The room is organized chaos, everything positioned
-      for movement. His expression shows high energy and constant activity. The atmosphere is
-      kinetic and restless—always moving, never still.
+      for movement. His expression shows high energy and delight in physical activity. The
+      atmosphere is kinetic and energetic—a kid in his element.
     text: |
-      Micah vaulted over the chair back, landed on the pillow, bounced to his feet, climbed the bedpost. Moving felt good. Stopping felt impossible. His body needed to go-go-go. His mom called from downstairs: "Micah! Homework!" But he couldn't sit still long enough to finish a single problem. Moving was easier than focusing.
+      Micah vaulted over the chair back, landed on the pillow, bounced to his feet, climbed the bedpost. Moving felt good. His body hummed with energy. He flipped off the bed, stuck the landing. "And that's how it's done!" he announced in Japanese, grinning. His room was an obstacle course. His life was constant motion. Perfect.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      A streak of golden light moves through Micah's room, faster than he's ever moved, zipping
-      between furniture, over his head, around his legs. Micah freezes mid-jump—shocked into
-      stillness by something faster than he is. The light forms a playful creature, part bird
-      part wind, made of pure golden energy and motion. It swirls around him then pauses in the
-      air, waiting. Words form in its wake: "Catch me if you can." Micah's expression shows
-      competitive delight mixed with surprise. The atmosphere crackles with challenge and
-      impossible speed.
+      A streak of golden light shoots through Micah's window, zipping between his obstacles
+      faster than he's ever moved. It loops around him three times, then hovers in the air.
+      Words form in glowing letters: "Fast isn't always fastest." The light is made of pure
+      golden energy, shimmering and alive. Then it streaks through the wall, leaving a portal
+      of light. Micah's expression shows curiosity and competitive interest—a puzzle to solve.
+      The atmosphere crackles with challenge and mystery.
     text: |
-      A streak of golden light shot through his room, faster than Micah had ever moved. It zipped and dove and spiraled. Micah froze, stunned. Something was faster than him? The light formed words. "Catch me if you can." It shot through his window into another world. Challenge accepted. Micah dove after it.
+      A streak of golden light shot through his window, zipping between his obstacles faster than Micah had ever moved. It looped around him three times, then hovered. Words formed in the air: "Fast isn't always fastest." Micah tilted his head. "That sounds like a riddle. I hate riddles." The light streaked through his wall into another world. But the challenge in those words pulled at him. Micah dove after it.
