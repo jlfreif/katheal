@@ -7,7 +7,7 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah creates a detailed system to free the stories but his control makes things worse.
+description: Noah devises one clever solution to free the stories, but when it doesn't work perfectly, he feels stuck and doesn't know what to try next.
 
 scenes:
   - page: left
@@ -17,23 +17,23 @@ scenes:
       Noah sits surrounded by floating pages, creating an elaborate plan for freeing the stories.
       He's made charts showing which chains to remove in what order, schedules for optimal story
       liberation, detailed protocols. He holds a glowing quill like a scalpel, working with intense
-      precision. "First remove chain A, then support plot point B, then guide the story to—" He
-      works methodically, controlling every aspect of the rescue. His face shows deep concentration.
+      precision. "This is it—the perfect solution. I've analyzed everything. This will work." He
+      works methodically, confident this clever approach will succeed on the first try. His face shows deep concentration.
       The atmosphere is careful, calculated intervention. Text in Times New Roman 16pt in white
       space at bottom.
     text: |
-      Noah made a plan. A perfect system for freeing stories. Step one: remove this chain. Step two: guide the story this way. Step three: ensure it goes here. He worked carefully, precisely, controlling the rescue. "I'll save you," he told the stories. "Just follow my system."
+      Noah made a plan. One brilliant solution for freeing stories. He'd analyzed the problem, studied the patterns, figured it all out. "This will work," he said confidently. "I've thought through everything. The perfect approach." He worked carefully, precisely, executing his clever plan. "I'll save you," he told the stories. "I've got it all figured out."
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The stories Noah "rescued" with his system are now wrapped in NEW chains—golden ones that
-      he created with his control. "The story must heal this way. The characters must grow like
-      this." He replaced the old control with his own control. The stories gasp, still trapped.
+      The stories Noah "rescued" with his perfect plan are now wrapped in NEW chains—golden ones that
+      formed from his approach. "The story must heal this way. The characters must grow like
+      this." His clever solution didn't work—it made things worse. The stories gasp, still trapped.
       An old owl appears on a branch, shaking its head. Noah stares at the golden chains coming
-      from his own hands. His expression shows dawning horror. The atmosphere is the realization
-      that good intentions don't excuse control. Text in Times New Roman 16pt in white space at
+      from his own hands, frozen. His expression shows shock and defeat. The atmosphere is the realization
+      that one clever attempt wasn't enough. Text in Times New Roman 16pt in white space at
       bottom.
     text: |
-      The stories Noah "freed" were still chained. New chains. Golden ones. His chains. "The character must grow this way. The story must heal like that. The ending must be—" He'd just replaced one controller with another. The owl spoke softly. "You cannot free stories by controlling their freedom, young writer. You must let go."
+      The stories Noah "freed" were still chained. New chains. Golden ones. His "perfect solution" had failed. Made things worse. Noah stared, frozen. "But... I figured it out. I had the right answer." The owl spoke softly. "One clever try is rarely enough, young writer. When something doesn't work, you must try differently. And again. And again. That's the real courage."

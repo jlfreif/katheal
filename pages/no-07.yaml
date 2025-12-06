@@ -7,33 +7,32 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah successfully lets go of small controls but panics when the most important story takes an unexpected turn.
+description: Noah successfully keeps trying with small stories even when they fail, but panics when the most important story makes a mistake that seems too big to recover from.
 
 scenes:
   - page: left
     page_number: 17
     focus: Making progress toward goal
     visual: |
-      Noah moves through the forest library with a light touch. He loosens chains but doesn't
-      direct the stories. Offers support but doesn't control outcomes. Stories bloom around him—
-      each finding their own way, each different from what he would have planned, each beautiful.
-      Golden threads weave freely. Other creatures celebrate. He's learning to let go. His face
-      shows cautious pride mixed with ongoing discomfort. The atmosphere is progress in releasing
-      control. Text in Times New Roman 16pt in white space at bottom.
+      Noah moves through the forest library with a light touch. He loosens chains and encourages
+      stories to keep trying even when they fail. He watches them stumble and try again. Stories bloom around him—
+      each earning their way through persistence, each different from what he would have expected, each beautiful.
+      Golden threads weave freely. Other creatures celebrate. He's learning to accept failure as part of the process. His face
+      shows cautious pride mixed with ongoing discomfort. The atmosphere is progress in embracing
+      persistence. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah loosened chains. Let stories breathe. Didn't tell them where to go. Just... released them. They found their own paths. Weird paths. Unexpected paths. Better paths. The library blazed with life. He was doing it. Learning to let go.
+      Noah loosened chains. Let stories try and fail and try again. Watched them make mistakes. Struggle. Keep going anyway. They found their paths through persistence. Unexpected journeys. Hard-won victories. Better for the trying. The library blazed with life. He was doing it. Learning that mistakes weren't the end.
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
     visual: |
       The Heart Crystal story appears—the most important one, the one that could save everything.
-      Noah watches it carefully, hands off, letting it unfold. But then it takes a turn that
-      terrifies him. The main character chooses danger over safety. The plot goes somewhere dark.
-      Everything in Noah screams that this is wrong. His hands reach out instinctively to grab it,
-      control it, force it back to the "right" path. He's trembling. This matters too much to let
-      go. What if he releases control and it all falls apart? His expression shows pure fear. The
-      atmosphere is the moment when trust is hardest. Text in Times New Roman 16pt in white space
-      at bottom.
+      Noah watches it carefully, encouraging it to keep trying. But then it makes a terrible mistake.
+      The main character chooses the wrong path. The plot goes somewhere dark. This isn't a small failure—it's catastrophic.
+      Everything in Noah screams that this mistake is too big. Some failures can't be recovered from. His hands reach out instinctively to grab it,
+      fix it, prevent the disaster. He's trembling. This matters too much to let fail. What if this is the one mistake
+      that can't be overcome? His expression shows pure fear. The atmosphere is the moment when persistence
+      seems like foolishness. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The Heart Crystal's story unfolded. Noah watched. Hands off. Letting it choose. Then it went somewhere dark. Dangerous. Wrong. His hands shot out. "No! Not that way! It'll break everything!" His fingers touched the golden threads. One pull and he could control it. Fix it. Make it safe. But... that was the old way. His hands shook. What if letting go meant losing everything?
+      The Heart Crystal's story unfolded. Noah watched. Encouraging it to try. Then it made a terrible mistake. Went somewhere dark. Dangerous. Too far gone. His hands shot out. "No! You can't recover from that! It's ruined!" His fingers touched the golden threads. One pull and he could fix it. Prevent the failure. Make it work. But... that was the old way. His hands shook. What if some mistakes really are too big? What if trying again isn't always enough?

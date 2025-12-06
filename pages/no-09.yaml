@@ -7,32 +7,35 @@ beat: "Deepening choice / inner shift"
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Noah chooses to release control of the most important story and discovers trust is the deepest courage.
+description: Noah fights his way through obstacles to reach the Heart Crystal and discovers that persistence through adversity is the deepest courage.
 
 scenes:
   - page: left
     page_number: 21
-    focus: Making the choice to continue
+    focus: Fighting to reach the goal
     visual: |
-      Noah stands with his hands hovering over the Heart Crystal's story threads. He could pull
-      them. Control it. Make it safe. Every instinct screams to take control. But he remembers the
-      free stories he watched—how they found their own truth. How control strangled them. His hands
-      are shaking. Tears in his eyes. This is the hardest thing he's ever done. He slowly, agonizingly,
-      pulls his hands back. Lets go. The story is free to choose, even if it chooses wrong. His
-      expression shows terrified surrender. The atmosphere is the moment of ultimate release.
+      Noah runs full speed through the forest library toward the Heart Crystal's chamber. Shadow creatures
+      made of failed stories block his path. He dodges left, rolls under a grasping tendril of darkness,
+      springs back to his feet. Uses his climbing skills to scale a massive fallen bookshelf. A shadow
+      creature lunges—he kicks off the shelf, flips over it. His athletic training from basketball and urban
+      exploration serves him well. More creatures ahead. He analyzes the pattern in their movements while running.
+      Spots an opening. Dives through. Gets knocked down. Struggles up. Keeps going. His expression shows
+      fierce determination mixed with exhaustion. This is the hardest fight he's ever faced. The atmosphere
+      is intense physical action and unwavering persistence.
     text: |
-      Noah's hands hovered. One pull. He could control it. Make it safe. Make it right. But controlling was killing. He thought of all the stories he'd watched die from too much control. Even his own. Especially his own. Tears ran down his face. He pulled his hands back. Let go. "I can't control you," he whispered to the story. "Please. Find your own way."
+      Noah sprinted toward the Heart Crystal. Shadow creatures blocked the path. He didn't stop. Dodged. Rolled. Jumped. Got knocked down. Got back up. Kept running. His first approach failed—shadows too thick. He tried another route. Failed again. Third attempt—almost through, then slammed back. He lay gasping. Every muscle screaming. He could give up. Go home. But he pushed to his feet. "One more try," he panted. "And another after that. However many it takes." He charged forward again.
 
   - page: right
     page_number: 22
-    focus: Discovering the missed clue
+    focus: Breaking through at last
     visual: |
-      The Heart Crystal's story takes the dark path Noah feared. Goes into danger. Makes the hard
-      choice. And transforms. The darkness wasn't wrong—it was necessary. The character's choice
-      led somewhere Noah's control never could have imagined. More beautiful. More true. The Heart
-      Crystal blazes with light. All through the library, stories pulse with warmth—someone far
-      away is also letting go. Noah feels the connection. He sobs with relief and awe. Control
-      wasn't courage. Trust was. His expression shows overwhelmed gratitude. The atmosphere
-      celebrates the wisdom beyond planning.
+      Noah breaks through the final shadow barrier and reaches the Heart Crystal's chamber. He's battered,
+      exhausted, covered in dust and glowing residue from shadow creatures. But he made it. The Heart Crystal
+      pulses before him, responding to his persistence. He touches it and warmth floods through. His determination—
+      trying again and again despite failure—awakened something. The Crystal blazes with light. All through the
+      library, stories pulse with warmth—someone far away is also persisting through their own struggle.
+      Noah feels the connection. He grins through his exhaustion. Getting it right the first time wasn't courage.
+      Trying again after failing was. His expression shows triumphant relief. The atmosphere celebrates
+      hard-won victory through persistence.
     text: |
-      The story went into darkness. Noah watched, terrified. Then—transformation. The darkness was the way through. The character's choice was exactly right. Better than safe. Truer than Noah's plans. The Crystal blazed. Warmth flooded through him. Someone far away was letting go at the same moment. He wasn't alone. "I can't control everything," Noah breathed. "And that's not failing. That's trust."
+      Noah burst through. Reached the Crystal. Battered. Exhausted. But he'd made it. Not on the first try. Not the second. Or third. But he hadn't stopped. The Crystal blazed in response. Warmth flooded through him. Somewhere far away, someone else was also refusing to give up. He felt them. "I didn't get it right the first time," Noah breathed, grinning despite his exhaustion. "But I kept trying. That's the real courage."
