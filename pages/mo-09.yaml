@@ -7,33 +7,34 @@ beat: "Deepening choice / inner shift"
 hook: A previously overlooked detail suddenly connects to something from earlier.
 payoff: Returning to prior element with new understanding makes solution clear.
 
-description: Mona chooses to trust her instinct and plant the seed, understanding that sometimes you question and sometimes you just know.
+description: Mona makes her best educated guess using everything she learned, plants the seed, and discovers she chose correctly.
 
 scenes:
   - page: left
     page_number: 21
     focus: Making the choice to continue
     visual: |
-      Mona stands up, bunny in one arm, seed pod in the other hand. She looks at the garden—at
-      all the spots she could plant it. She could question each one, analyze, compare, ask why
-      forever. Or she could trust the feeling in her tummy. She closes her eyes, takes a breath,
-      and feels where her feet want to walk. Not thinking. Just knowing. She toddles to a spot
-      that feels right. Opens her eyes. This spot. Her expression shows calm determination mixed
-      with trust in something deeper than logic. The atmosphere is quiet resolution.
+      Mona stands up, bunny in one arm, seed pod in the other hand. She thinks about everything
+      the garden taught her—puzzle pieces that glowed when questioned, symbols that froze when you
+      committed, the fox's left-left-right pattern. She looks at the three spots carefully one more
+      time. The middle one is closest to where the golden threads are brightest. It's a small detail,
+      but it's something. She makes her choice. She toddles to the middle spot with determined steps.
+      Maybe it's right, maybe it's wrong, but she investigated all she could and now she's trying.
+      Her expression shows brave determination.
     text: |
-      Mona stood. She could question every spot. Or she could trust her tummy. She closed her eyes. Felt where her feet wanted to go. Not thinking. Just knowing. She walked three steps. Stopped. This spot. Right here. She didn't know why. She just knew.
+      Mona stood. She thought about everything she'd learned. Puzzle pieces glowed when questioned. Symbols froze when you committed. The fox had a pattern. She looked at the spots one more time. The middle one was near the brightest threads. Small clue. But something. She walked to it. Best guess. Time to try.
 
   - page: right
     page_number: 22
     focus: Discovering the missed clue
     visual: |
-      Mona kneels and digs with her small hands, planting the seed in the spot her instinct chose.
-      The moment it touches soil, golden light explodes upward. The seed was meant for this exact
-      spot—right above the Heart Crystal's deepest root. All her questioning couldn't have found
-      it, but her instinct knew. The garden roars to life. Fountain splashing, flowers blooming,
-      butterflies soaring. Golden threads blaze everywhere. The tortoise appears, nodding approval.
-      Mona realizes: questions help you learn, but instinct helps you choose. Both matter. Her
-      expression shows joyful understanding. The atmosphere celebrates the integration of head
-      and heart.
+      Mona kneels and digs with her small hands, planting the seed in the middle spot. The moment
+      it touches soil, golden light explodes upward! She chose right! The seed was meant for this
+      exact spot—right above the Heart Crystal's deepest root. The small clue about the brightest
+      threads was the hint she needed. The garden roars to life. Fountain splashing, flowers blooming,
+      butterflies soaring. Golden threads blaze everywhere. The rabbit jumps with joy. Mona grins,
+      exhausted but proud. She investigated, made her best guess, tried it, and succeeded! Her
+      expression shows triumphant joy. The atmosphere celebrates victory through perseverance and
+      smart guessing.
     text: |
-      Mona planted the seed. Golden light exploded. The seed belonged exactly here—right where her tummy told her. Questions taught her. But instinct chose for her. The garden blazed alive. Fountain splashing! Flowers blooming! The tortoise nodded. "You learned when to question and when to trust." Both mattered. Both were courage.
+      Mona planted the seed. Golden light exploded! She chose right! The seed belonged exactly here, where the threads were brightest. Her small clue was enough. The garden blazed alive. Fountain splashing! Flowers blooming! The rabbit cheered. Mona grinned, tired and proud. She'd investigated. Made her best guess. Tried it. Won!
