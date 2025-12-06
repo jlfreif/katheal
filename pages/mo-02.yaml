@@ -7,7 +7,7 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Mona discovers a garden where everything is frozen mid-action because someone asked too many questions instead of trying.
+description: Mona discovers a garden frozen by a puzzle-lock spell that requires both investigation and action to solve.
 
 scenes:
   - page: left
@@ -15,24 +15,25 @@ scenes:
     focus: Discovery of the problem
     visual: |
       A magical garden in Kathaél where a fountain is frozen mid-splash, flowers frozen mid-bloom,
-      butterflies suspended mid-flight. Everything stuck between question and answer. Mona toddles
-      in, eyes wide. A sign reads in glowing letters: "Why should it splash? Why should it bloom?
-      Why should they fly?" All questions, no actions. Other toddlers stand frozen too, asking
-      "why why why" but never moving forward. Golden threads hang limp and dim. The atmosphere
-      feels stuck, paralyzed by endless questioning without doing.
+      butterflies suspended mid-flight. Everything locked in crystal ice. Mona toddles in, eyes
+      wide with curiosity. A tired rabbit sits by the fountain. "The spell won't break," it says.
+      "We need someone who can figure out how it works." Glowing puzzle pieces float around the
+      frozen fountain—shapes, symbols, colors. The garden shimmers cold and still. Golden threads
+      hang dim and waiting. This is a real puzzle to solve, not just overthinking—it needs Mona's
+      investigating mind.
     text: |
-      Mona found a garden where nothing moved. A fountain frozen mid-splash. Flowers frozen mid-bloom. Butterflies stuck in air. A sign glowed: "Why should it splash? Why bloom? Why fly?" Too many questions. No one just doing.
+      Mona found a garden frozen in crystal ice. Fountain mid-splash. Flowers mid-bloom. Butterflies stuck in air. A rabbit sat by the fountain. "The spell won't break. We need someone who can figure it out." Glowing puzzle pieces floated everywhere. This needed investigating.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      A small rabbit hops to Mona, looking very tired. "We've been asking 'why' forever," it says.
-      "But no one will just try." Mona tilts her head, processing. She looks at the frozen fountain.
-      At the stuck butterflies. She could ask more questions. Or she could just... do something.
-      She walks to the fountain and touches the water. It doesn't move. Mona frowns. "Why frozen?"
-      she starts to ask, then stops herself. She scoops water with her hands. It trickles. The
-      fountain shimmers. Her expression shows a dawning understanding. The atmosphere begins to
-      shift from paralysis toward possibility.
+      Mona toddles to the fountain, tilting her head at the floating puzzle pieces. She picks one
+      up—it's warm and hums in her hand. "Why warm?" she asks, examining it. The piece glows
+      brighter when she asks questions! She asks "Why this shape?" and it pulses. She presses it
+      against the frozen fountain. Click! A tiny crack appears in the ice. The rabbit gasps. Mona
+      grins—her questions help her investigate, and then she acts on what she learns. She reaches
+      for another puzzle piece. The atmosphere shifts from stillness to excitement as the first
+      piece of the puzzle slots into place.
     text: |
-      A rabbit hopped close. "We've been asking why forever. But no one tries." Mona looked at the frozen fountain. She could ask more questions. Or... She touched the water. Stuck. "Why fro—" No. She scooped water anyway. It trickled. The fountain shimmered gold.
+      Mona grabbed a puzzle piece. Warm! It hummed. "Why warm?" she asked. It glowed brighter! Her questions made it react. She pressed it to the fountain. Click! A crack appeared in the ice. The rabbit jumped up. Mona reached for another piece. Questions helped her investigate. Actions solved the puzzle.
