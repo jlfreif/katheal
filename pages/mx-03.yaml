@@ -1,41 +1,40 @@
-# Max's page - Spread 3
-# Attempt #1 (simple/obvious)
-# Max tries to fix challenges by forcing himself through perfectly
+# Max - Spread 3: Attempt #1
+# Simple/obvious approach - using athletic skills
 
 id: mx-03
 spread: 3
 node_type: solo
-beat: "Attempt #1 (simple/obvious)"
+beat: "Attempt #1: Simple/obvious solution"
 
-hook: Simple solutions fail, prompting the question of who might have better answers.
-payoff: A wise helper appears who offers new perspective or guidance.
+hook: Character tries the obvious solution with confidence.
+payoff: The solution doesn't work as expected, revealing the challenge's complexity.
 
-description: Max attacks frozen challenges with determination and perfect form, but forcing perfection makes them worse instead of better.
+description: Max tackles the first obstacle course with athletic confidence but discovers it's far more complex than it appears.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
-
     visual: |
-      Max runs through an obstacle course with intense focus, his form perfect
-      and controlled. He leaps barriers, balances on beams, climbs walls with
-      textbook technique. Behind him, the obstacles he completes turn grey
-      instead of glowing. His expression shows concentration and effort. He
-      hasn't noticed the problem yet.
-
+      Max is mid-action on an obstacle course - swinging on a rope, or balancing on a beam, or
+      rolling from a landing. He moves with athletic grace and confidence, treating it like a
+      basketball drill or gym class. His form is good, his movements precise. Around him, the
+      golden threads flicker faintly in response to his progress. Three obstacles are behind him,
+      partially restored. The fox watches from nearby. Max is grinning, clearly enjoying this.
+      The atmosphere is active, energetic, confident. Text in Times New Roman 16pt font in white
+      space at bottom.
     text: |
-      Max attacked the first course with everything he had. Perfect form, no mistakes, complete the challenge exactly right. He vaulted the first obstacle cleanly, balanced across the second without wavering. Behind him, the obstacles he'd completed turned grey and cold. He landed the final jump. "Done!"
+      Max approached the first course like a basketball drill. Sprint to the rope swing. Jump. Grab. Swing across. He landed clean, rolled, came up running. The balance beam wobbled, but he'd done worse in gym class. Three obstacles down. "Easy," he muttered, grinning.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
-
     visual: |
-      Max stands breathing hard, looking back at the course he completed. Every
-      obstacle he touched has turned grey and lifeless. The golden threads
-      connected to them have gone dark. A rabbit watches with sympathetic eyes.
-      Max's confident expression crumbles to confusion and frustration.
-
+      Max has fallen to the ground, landing hard on his shoulder, rubbing it. Above him, a
+      climbing wall shifts and rotates, handholds spinning away impossibly. The obstacles he'd
+      just completed have gone dark and reset to broken. The golden threads are dim again. Max
+      sits on the ground looking up at the course with surprise and frustration - not at himself,
+      but at the difficulty of the challenge. The fox watches calmly. The atmosphere shifts from
+      confident to challenged. Text in Times New Roman 16pt font in white space at bottom.
     text: |
-      Max turned back, grinning, ready for his next challenge. The grin died. Every obstacle he'd completed perfectly was now grey as stone, threads dark and dead. "No. I did it right!" He ran back, tried again, faster this time, more perfect. More obstacles turned grey. The rabbit twitched its nose. "How can doing it right be wrong?"
+      Then he hit the wall. Literally. A climbing section that shifted as he touched it, handholds rotating away. He fell, landed hard on his shoulder. The entire course reset to broken. "What?" Max stood, rubbing his shoulder. "I was doing it right!" This was going to be harder than he thought.

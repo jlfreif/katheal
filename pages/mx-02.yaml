@@ -1,42 +1,40 @@
-# Max's page - Spread 2
-# Inciting incident
-# Max follows the thread into Kathaél and discovers the Heart Crystal crisis
+# Max - Spread 2: Inciting Incident
+# Entering Kathaél and discovering the challenge
 
 id: mx-02
 spread: 2
 node_type: solo
-beat: Inciting incident
+beat: "Inciting incident"
 
-hook: The path forward runs out or becomes unclear, raising uncertainty.
-payoff: The wider world opens up with multiple options and first plan emerges.
+hook: The discovery is fully revealed, establishing the story goal.
+payoff: Character commits to action based on what they've discovered.
 
-description: Max follows the thread into Kathaél and discovers a world where courage fuels magic, but the Heart Crystal is cracking from abandoned attempts.
+description: Max enters the glowing forest of Kathaél, discovers broken obstacle courses and the failing Heart Crystal.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
-
     visual: |
-      Max stands at the threshold between his backyard and a glowing forest,
-      gripping the golden thread. One foot on grass, one on luminous moss.
-      Challenge courses stretch between trees, their obstacles frozen mid-motion.
-      In the distance, the Heart Crystal rises, its facets cracked and dim.
-      His athletic build is poised for action.
-
+      Max steps from his ordinary backyard into a magical glowing forest. Enormous trees rise
+      around him, their trunks woven with golden threads. Between the trees stretch elaborate
+      obstacle courses - rope bridges, climbing walls, balance beams, rope swings - all
+      integrated into the forest. But half the courses hang broken, dark, and lifeless. In the
+      distance, a massive crystal structure (the Heart Crystal) pulses weakly with failing light,
+      cracks visible across its surface. Max stands in wonder, taking it all in. The atmosphere
+      is magical but troubled. Text in Times New Roman 16pt font in white space at bottom.
     text: |
-      The thread tugged Max forward through the trees. One step took him from his driveway into a forest that glowed like someone painted it with light. Challenge courses wound between trees, their obstacles frozen wrong, half-built. The golden threads around them flickered weakly. A massive crystal structure rose ahead, cracks spreading across its surface.
+      One step took Max from his backyard into a forest that glowed. Obstacle courses stretched between enormous trees. But half the courses hung broken, threads dark and lifeless. In the distance, a massive crystal structure pulsed weakly, cracks spreading. "Whoa," Max breathed. "This is Kathaél."
 
   - page: right
     page_number: 8
     focus: Decision to act
-
     visual: |
-      Max kneels beside a frozen challenge course, touching an obstacle that
-      should move but doesn't. Golden threads connected to it pulse weakly.
-      A fox with knowing eyes watches from nearby. The Heart Crystal glows
-      dimly in the background. Max's expression shows determination and
-      competitive focus kicking in.
-
+      Max stands before the nearest broken obstacle course. A fox with ancient, knowing eyes sits
+      beside the course, watching Max intently. The fox's gaze moves between Max, the broken
+      course, and the distant failing Heart Crystal. Golden threads connect everything but they're
+      dim and flickering. Max's expression shows understanding and determination - he's already
+      figuring out the challenge, cracking his knuckles in preparation. The atmosphere is one of
+      accepting a challenge. Text in Times New Roman 16pt font in white space at bottom.
     text: |
-      Max knelt beside a frozen balance beam. It should have been moving, creating a challenge, but it hung still and grey. He pushed it. It creaked sadly. The threads connected to it flickered like dying stars. A fox watched him with ancient eyes, and somehow Max understood. "I don't quit," Max said, standing. "Let me help."
+      A fox sat beside the nearest course, watching him with ancient eyes. Max understood somehow: the courses powered the crystal. The crystal powered everything. And everything was failing. The fox's gaze moved to Max, then to the broken course, then back. Max cracked his knuckles. "Okay. I'm good at challenges. Let's do this."

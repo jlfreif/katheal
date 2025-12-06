@@ -1,70 +1,71 @@
 # Meeting Node: Maya & Max at Spread 7
+# Max's action scene with creature, then meets Maya
 
 id: ma-mx-07
 spread: 7
 node_type: meeting
-beat: "Rising stakes: almost works"
-hook: Success is close but incomplete, with a detail revealing what's still needed.
-payoff: What's missing is revealed to be distant or difficult to reach.
+beat: "Rising stakes: action scene + meeting"
+hook: Character faces physical challenge and prevails but is exhausted.
+payoff: Meets another family member who has also been facing challenges.
 
-description: Maya and Max work together to restore color but discover they're missing one crucial element.
+description: Max battles a guardian creature in an exciting action sequence, then meets his cousin Maya.
 
-location: A fading rainbow bridge that needs all colors to be complete
+location: A forest clearing blocking the path to the next set of challenges
 
-shared_action: Both try to restore colors to the bridge but discover one is missing
+shared_action: Max defeats the creature and discovers Maya was watching
 
 dialogue_packets:
   - speaker: max
-    line: "We're so close! Just need one more color."
+    line: "Okay, so we're doing this?"
     works_from_pov: [ma, mx]
   - speaker: maya
-    line: "But where do we find it? We've tried everything here."
+    line: "Nice moves! I'm Maya. Also trying to save this place."
+    works_from_pov: [ma, mx]
+  - speaker: max
+    line: "Max. And that was exhausting."
     works_from_pov: [ma, mx]
 
 image_alignment:
-  scene_id: rainbow-bridge-007
+  scene_id: creature-battle-007
   shared_elements:
-    - partial rainbow bridge
-    - swirling mist below
-    - restored colors glowing
-    - one dark gap in spectrum
+    - forest clearing
+    - dissolving creature made of vines and light
+    - golden energy dispersing
+    - path revealed beyond
   pov_variants:
     - character_code: ma
-      camera_position: showing Maya painting with Max working nearby
+      camera_position: showing Maya watching Max defeat creature
       focal_character: maya
       background_characters: [max]
     - character_code: mx
-      camera_position: showing Max examining gap with Maya visible
+      camera_position: showing Max in final move with Maya appearing
       focal_character: max
       background_characters: [maya]
 
 scenes:
   - page: left
     page_number: 17
-    focus: Making progress toward goal
+    focus: Fun action scene with creature
     visual: |
-      A magnificent rainbow bridge arcs across a misty chasm, but parts of it are faded and grey.
-      Maya stands on the bridge, hands glowing with vibrant pink and blue energy, touching the
-      faded sections and watching them burst back into color. Max kneels nearby, pressing his
-      palms against another grey section, his face scrunched in concentration as red and orange
-      bloom under his touch. The restored sections glow brilliantly—red, orange, yellow, green,
-      blue—creating a pathway of light across the void. Mist swirls below them. The partially
-      restored bridge is breathtaking, pulsing with life where they've touched it. Hope radiates
-      from both children's faces.
+      A clearing in the Kathaél forest. A creature made of golden vines and light blocks the
+      path - beautiful but intimidating. The creature moves fast, whip-quick tendrils snapping
+      toward Max. Max is mid-action - dodging left, ducking under a vine, rolling. His basketball
+      defensive stance is clear - knees bent, hands up, ready to move. His face shows excitement
+      and focus. This is challenging but fun. The creature isn't evil, just testing him. The
+      forest glows around them. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      A rainbow bridge arced across a misty chasm. Someone already worked on it. "Max?" Maya called. Her cousin looked up, surprised. "Maya! You're here!" She pressed her hands down and pink bloomed under her fingers. Max grinned, making orange and red explode. Together they worked down the bridge, restoring color after color. "We're so close!" he called.
+      A creature made of vines and golden light blocked the path to the next course. It moved fast, whip-quick tendrils snapping toward Max. "Okay, so we're doing this?" Max dropped into a defensive stance, basketball instincts kicking in. He dodged left, ducked right, rolled under a sweeping vine. His heart pounded. This was the most fun he'd had all day.
 
   - page: right
     page_number: 18
-    focus: Realizing something is missing
+    focus: Victory but tired, meeting Maya
     visual: |
-      Maya and Max stand together before a dark gap in the bridge—a section where violet should
-      be but remains stubbornly grey and lifeless. Both children have their hands pressed against
-      it, faces showing concentration and growing concern. The rest of the bridge glows beautifully
-      around them, making the missing piece even more obvious. Golden threads hover nearby but
-      won't connect to the gap. Beyond the bridge, barely visible through the mist, something
-      purple glimmers in the far distance, deep in the unknown forest. Both children follow the
-      direction with their eyes, realizing where they'll need to go. The gap in the rainbow casts
-      a shadow across their faces.
+      The creature is dissolving into peaceful golden light. Max stands catching his breath, hand
+      still extended toward where the creature's crystal center was. He's clearly tired - breathing
+      hard, wiping sweat. Behind where the creature stood, Maya appears - a girl with shoulder-
+      length sandy-blond hair with a pink streak, wearing artist-style clothes. She's grinning,
+      impressed. Max looks surprised to see her but manages a tired smile. The cleared path
+      stretches beyond them. The atmosphere is victory mixed with exhaustion. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      Then they hit the gap. Where violet should be stayed dark and cold. Maya tried everything. Pink mixed with blue, every shade she knew. Surface colors wouldn't work. "It's hidden deeper," Max said, staring into the gap. "We can't just paint it. We have to find where it lives." Through the mist, something purple glimmered far away, buried beneath the forest. Maya understood. Some things you can't create. You have to see them.
+      Max spotted the pattern—the creature telegraphed its moves, like a defensive player. He faked left, went right, and touched the crystal at the creature's center. It dissolved into light, peaceful. A girl with wavy shoulder-length sandy-blond hair with a pink streak stood behind where the creature had been. "Nice moves!" Maya said, grinning. "I'm Maya. Also trying to save this place." Max caught his breath. "Max. And that was exhausting." But he'd done it.
