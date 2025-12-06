@@ -7,34 +7,35 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Elise and Micah discover a frozen grove where performances have stopped mid-motion, and decide to help.
+description: Elise enters Kathaél and discovers broken rhythm-paths that pulse with faint music. She meets her cousin Micah and together they try to reactivate the paths through movement.
 
-location: A clearing in Kathaél where dancers and singers are frozen mid-performance, their movements captured like statues
+location: A clearing in Kathaél where glowing rhythm-paths lie broken and dark, pulsing with faint beats
 
-shared_action: Both characters try to restart the performances by mimicking the frozen movements
+shared_action: Both characters try to reactivate the rhythm-paths by dancing on them
 
 dialogue_packets:
   - speaker: micah
-    line: "They're stuck. Like someone hit pause."
+    line: "The paths are broken. Nothing's moving."
     works_from_pov: [el, mi]
   - speaker: elise
-    line: "Maybe if we move with them, they'll start again?"
+    line: "Maybe if we dance on them, they'll light up again?"
     works_from_pov: [el, mi]
 
 image_alignment:
-  scene_id: frozen-performance-002
+  scene_id: rhythm-paths-002
   shared_elements:
-    - frozen dancers in mid-leap
-    - frozen singers with mouths open
-    - golden threads connecting performers
+    - broken glowing pathways on the ground
+    - faint pulses of light and rhythm
+    - golden threads connecting paths
     - clearing surrounded by luminous trees
+    - distant Heart Crystal visible
   pov_variants:
     - character_code: el
-      camera_position: behind Elise as she mirrors a frozen dancer's pose
+      camera_position: behind Elise as she steps onto a rhythm-path
       focal_character: elise
       background_characters: [micah]
     - character_code: mi
-      camera_position: behind Micah as he attempts a frozen leap
+      camera_position: behind Micah as he jumps on a rhythm-path
       focal_character: micah
       background_characters: [elise]
 
@@ -43,27 +44,30 @@ scenes:
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      A forest clearing filled with frozen performers. Three dancers are suspended mid-leap,
-      their bodies frozen with powerful angles and sharp lines, clothes and hair caught in impossible stillness.
-      Two singers stand with mouths open, hands raised expressively, frozen in the middle of a note.
-      Golden threads connect them all, dulled and tangled. Elise (9 years old, long brown hair,
-      slim, wearing black leggings and provence t-shirt) stands at the clearing's edge, one hand
-      reaching toward a frozen dancer, her expression a mix of wonder and concern. Micah (9 years old,
-      black hair, athletic, wearing grey t-shirt and black shorts) crouches near a frozen singer,
-      tilting his head as he examines the golden threads. Morning light filters through the trees,
-      making the frozen scene eerily beautiful.
+      Elise steps from the mirror into a vast forest clearing. The ground beneath her is covered
+      with glowing pathways that look like dance floors—shimmering surfaces marked with footprint
+      patterns that pulse faintly with rhythm. But most of the paths are dark and broken, their
+      light flickering weakly. Golden threads connect the paths to each other and to a massive
+      crystal structure visible in the distance through the trees (the Heart Crystal), cracked
+      and dimming. Elise (9 years old, long brown hair, slim, wearing black leggings and light
+      pink t-shirt, white sneakers) stands at the clearing's edge, her expression showing wonder
+      mixed with determination. The air hums with a faint, broken beat. Micah (9 years old, black
+      hair, athletic, wearing grey t-shirt and black shorts) runs into the clearing from another
+      path, skidding to a stop when he sees her. Morning light filters through the trees.
     text: |
-      Elise stepped into the clearing and froze. Dancers hung in mid-air, singers held impossible notes, all turned to statues. Their faces showed perfect technique but no joy. Performing perfectly, but frozen anyway. Micah appeared from another path, moving fast until he saw. They locked eyes. "Micah?" "Elise? You're here too?" He grinned. "They're stuck," he whispered. "Like someone hit pause."
+      One step through the mirror took Elise from her bedroom into a glowing forest. Rhythm-paths stretched across the clearing like dance floors, marked with footprints that pulsed faint beats. But half the paths lay dark and broken. In the distance, a massive crystal cracked louder. Footsteps. "Micah?" Her cousin skidded to a stop. "Elise? You're here too?" He grinned. "The paths are broken," he said. "Nothing's moving."
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Elise mirrors the pose of the frozen dancer, hitting the position with sharp precision, arms
-      locked in place. Micah attempts a frozen leap nearby, his body mid-jump, arms
-      spread wide. Both children are fully engaged, faces showing concentration and effort. The
-      golden threads around them pulse faintly, responding to their movement. The frozen performers
-      remain still, but the threads connecting them brighten slightly where Elise and Micah move.
-      Soft particles of light drift through the air. The forest seems to lean in, watching.
+      Elise steps onto the nearest rhythm-path, her white sneakers hitting the glowing footprints.
+      She starts to move—a sharp pop-and-lock sequence, feet hitting the beats. The path flickers
+      brighter where she steps, but dims again behind her. Micah jumps onto another path, trying
+      a running leap across the footprints. His path glows faintly then fades. Both are moving
+      fast, testing different approaches, but the paths stay mostly dark. Sweat beads on Elise's
+      forehead. The golden threads pulse weakly, responding but not fully activating. In the
+      distance, more broken paths stretch through the forest, waiting. The air vibrates with
+      incomplete rhythm. Their expressions show determination mixed with frustration.
     text: |
-      Elise copied the dancer's pose. Micah leaped into the air, matching a frozen jump. For a heartbeat, the golden threads hummed. Then they landed. The clearing stayed silent. They'd need more than copying.
+      "Maybe if we dance on them, they'll light up again?" Elise stepped onto a path. Her feet hit the glowing footprints—boom, tap, step. The path flickered brighter, then dimmed. Micah jumped onto another path, running the pattern. It glowed, then faded. They tried faster. Harder. The paths flickered but wouldn't hold. Elise wiped sweat from her forehead. "We're missing something."

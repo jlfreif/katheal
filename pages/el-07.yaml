@@ -1,4 +1,5 @@
 # Elise's Individual Page for Mirrored Node at Spread 7
+# CREATURE BATTLE: Elise defeats a Rhythm Golem using dance combat
 
 id: el-07
 spread: 7
@@ -7,34 +8,37 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Elise almost completes a performance but must learn to commit to the ending even when uncertain.
+description: Elise encounters a Rhythm Golem blocking the path to the Heart Crystal. She must defeat it using her dance moves in a fun, physical battle.
 
 scenes:
   - page: left
     page_number: 17
-    focus: Making progress toward goal
+    focus: Creature appears and battle begins
     visual: |
-      A luminous performance hall with a stage glowing softly, surrounded by frozen dancers
-      suspended in mid-choreography. Elise moves through the routine with powerful precision,
-      her body hitting each move with sharp energy. Around her, some of the frozen dancers
-      have begun to move again, following her lead, their movements synchronized with hers.
-      Musical notes shimmer in the air like visible sound. A candle burns on the stage's edge,
-      its flame bright and steady. She's almost at the finale—one more sequence and the dance
-      will be complete. Her expression shows hope and determination. The atmosphere pulses with
-      near-completion.
+      A wide clearing where the rhythm-path leads toward the Heart Crystal visible in the distance.
+      But blocking the path stands a RHYTHM GOLEM—a massive creature made of broken rhythm-path
+      pieces, standing twice as tall as Elise. Its body pulses with corrupted beats, footprints
+      glowing darkly across its surface. It has no face, just a chest that booms like a drum.
+      The golem stomps toward Elise, each step shaking the ground with deep bass thuds. Elise
+      drops into a ready stance, feet apart, arms up. She's breathing hard from her journey but
+      her expression shows determination mixed with excitement. The golem stomps a rhythm—BOOM
+      BOOM TAP. Challenging her. The clearing crackles with rhythm-battle energy. This will be a
+      dance fight.
     text: |
-      The threads led Elise to a luminous hall where dancers stood frozen mid-performance. She moved through the routine, powerful and true. The dancers woke, following her lead. Almost to the finale. Almost done. The candle burned bright, steady. She could do this.
+      The path led to the Heart Crystal. Almost there. Then the ground shook. A massive creature rose from the broken paths—a Rhythm Golem, twice her height, made of corrupted beats. It stomped toward her. BOOM BOOM TAP. The ground trembled. Elise grinned despite her nerves. "Okay. Let's dance." She hit a sharp pop-and-lock. The battle began.
 
   - page: right
     page_number: 18
-    focus: Realizing something is missing
+    focus: Victory over creature, exhausted afterward
     visual: |
-      Elise hesitates before the final leap, frozen in uncertainty with one foot raised, arms
-      extended but not committed. The dancers around her pause mid-motion, waiting for her to
-      lead them into the ending. The candle flame flickers wildly, responding to her hesitation.
-      The finale requires a bold leap she's never tried before—uncertain and unrehearsed. Through
-      the hall's windows, she can see a distant grove glowing with light, suggesting where she
-      needs to go next. Her face shows the internal struggle between safety and courage. The
-      atmosphere holds its breath, suspended between almost and complete.
+      Elise in mid-battle with the Rhythm Golem. The golem throws corrupted beats at her—dark
+      pulses of energy. Elise dodges with a spin, counters with a rapid-fire sequence of steps,
+      strikes with a powerful body roll that sends golden light rippling through the golem's form.
+      The golem cracks. She adds joy—a laugh, a silly wiggle, then a fierce hip-hop combination.
+      The golem shatters into pieces of light that dissolve into the air. Elise lands in a final
+      pose, arms raised in victory. But then she drops to her hands and knees, breathing hard,
+      sweat dripping, muscles trembling. She's completely exhausted. Her clothes are dusty, her
+      ponytail messy. But she won. The path to the Heart Crystal lies open. She grins through her
+      exhaustion.
     text: |
-      Then came the final leap. One she'd never tried before. Elise hesitated, one foot raised but not committed. The dancers froze mid-step. The candle flickered wild and uncertain. Without the finale, all this progress would fade—the dancers would freeze again, the hall would dim. Through the window, the Heart Crystal pulsed in the distance, waiting. "I don't know if I can," she whispered. But if she didn't try—didn't leap with her whole authentic self—everything would be lost.
+      The golem threw corrupted beats. Dark pulses. Elise spun, dodged, struck back with a body roll that cracked its form. It reformed. Attacked again. She countered—rapid steps, then added joy—a laugh, a wiggle, a fierce combination. The golem shattered into light. Victory. Elise dropped to her knees, breathing hard. Muscles shaking. Completely exhausted. "Did I just defeat a magical creature with a body roll?" She grinned. The path to the Heart Crystal waited. But first, she needed to catch her breath.
