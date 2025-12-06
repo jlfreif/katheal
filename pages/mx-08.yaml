@@ -1,41 +1,39 @@
-# Max's page - Spread 8
-# All-is-lost / emotional low
-# Max faces his biggest mistake and believes he's ruined everything beyond repair
+# Max - Spread 8: All-is-Lost
+# External obstacles intensify and Max faces natural frustration
 
 id: mx-08
 spread: 8
 node_type: solo
 beat: "All-is-lost / emotional low"
 
-hook: Self-doubt surfaces, questioning whether continuing is worth it.
-payoff: Something affirms that the effort matters and creates emotional reconnection.
+hook: The challenge proves even harder than expected, testing resolve.
+payoff: Discovery of hope even in the midst of difficulty.
 
-description: Max confronts a training ground destroyed by his earlier attempts, believing his mistakes have made things worse instead of better.
+description: Max faces the central challenge - genuinely difficult, complex, and exhausting. His frustration is natural, not a character flaw.
 
 scenes:
   - page: left
     page_number: 19
     focus: External obstacles intensify
-
     visual: |
-      Max stands in a training ground littered with broken obstacles, twisted
-      metal, collapsed structures—all his earlier "perfect" attempts that
-      failed catastrophically. Rain begins to fall. The Heart Crystal in
-      the distance cracks with an audible sound. A challenge course nearby
-      crumbles to dust. His tall athletic frame looks small against the damage.
-
+      The central challenge course rises before Max - massive, complex, impossible-looking. Ten
+      obstacles woven together, each requiring perfect timing. Max is in mid-attempt, clearly
+      several tries in. His legs shake from exhaustion. His hands show scrapes from multiple
+      attempts. Behind him we can see evidence of failed attempts - disturbed ground, reset
+      obstacles. The course itself is indifferent, humming with complexity. The atmosphere shows
+      genuine difficulty. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The training ground stretched before him, destroyed. Every challenge he'd attempted lay in ruins. His first try—twisted metal. His second try—broken beams. His tenth try—collapsed to dust. So many mistakes. So much wreckage. Each one a failure. Each one making things worse instead of better. Rain started falling, cold and heavy. The Heart Crystal cracked louder in the distance. "I thought mistakes were supposed to teach you," Max whispered. "But what if some mistakes are just... too big?"
+      The central course rose before them: massive, complex, impossible. Ten obstacles woven together, each requiring perfect timing. Max tried. He made it through three obstacles before the fourth shifted and he fell. He tried again. Fell at obstacle six. Again. Again. His legs shook. His hands were raw. The course hummed, indifferent to his effort.
 
   - page: right
     page_number: 20
-    focus: Inner doubt and discouragement
-
+    focus: Natural frustration at genuine difficulty
     visual: |
-      Max sits slumped against a fallen obstacle, rain soaking his red hair,
-      notebook abandoned beside him with pages smeared. His arms rest on his
-      knees, head down. A small bird lands on the wreckage nearby, not singing,
-      just present. One weak golden thread still glows faintly in the debris.
-
+      Max sits on the ground, breathing hard, genuinely exhausted. Maya sits beside him offering
+      water. Max's expression shows natural frustration - not at himself, but at the sheer
+      difficulty of the challenge. "This is ridiculous. It's just too hard." The fox watches
+      patiently nearby. But Max's eyes are starting to see something - the way the obstacles move,
+      there's a pattern. Not random. They're showing him something. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      Max sank down against the wreckage, rain streaming down his face. His notebook lay beside him, filled with crossed-out attempts. Each mistake documented. Each failure analyzed. So much effort. So many tries. And still—this. "Maybe some mistakes break things forever," he thought. The bird above didn't move. Just stayed, perched on the ruins of his tenth attempt. Max's eyes caught the golden thread still glowing weakly in the wreckage of his very first try. Even destroyed, even wrong, it hadn't completely died. His mistakes were still here. Still teaching him something. But what?
+      Max sat on the ground, breathing hard. Maya offered water. "This is ridiculous," he muttered. "I've tried everything. It's just too hard." Maya sat beside him. "Maybe it's supposed to be." Max looked up. The fox was there again, patient. Watching. Max wiped sweat from his face and stared at the course. Wait. There. The way the obstacles moved. They weren't random. They were showing him something.

@@ -3,92 +3,95 @@
 id: el-ma-mi-mo-mx-no-10
 spread: 10
 node_type: meeting
-beat: "Climax: convergence and resistance"
-hook: Characters realize individual efforts aren't enough; they must work together.
-payoff: Characters begin applying what they learned in their individual journeys.
+beat: "Climax: convergence and surprise"
+hook: All six characters arrive and are surprised to see each other ("What are YOU doing here?").
+payoff: They realize they must work together, each tackling their own facet.
 
-description: All six siblings/cousins meet at the Heart Crystal, surprised to find each other in Kathaél. The crystal actively fights back when they try to heal it.
+description: All six siblings/cousins meet at the Heart Crystal, surprised to find each other in Kathaél. The Heart Crystal actively fights back when they try to heal it.
 
 location: The Heart Crystal clearing, where the massive crystal rises like a building, its facets cracked and dimming
 
-shared_action: Each child touches a facet representing their courage type, but the crystal resists violently
+shared_action: Each child touches a facet representing their courage type, the crystal pulses with resistance
 
 dialogue_packets:
-  - speaker: noah
-    line: "Elise? Maya? Micah? Max? Mona? You're ALL here?"
-    works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: maya
-    line: "Noah! I can't believe we're all together!"
+  - speaker: max
+    line: "Noah? Elise?!"
     works_from_pov: [el, ma, mi, mo, mx, no]
   - speaker: elise
-    line: "We have to work together. Look—each facet is different. Like each of us."
+    line: "Max?!"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: maya
+    line: "What are you ALL doing here?"
+    works_from_pov: [el, ma, mi, mo, mx, no]
+  - speaker: noah
+    line: "Together. We do this together."
     works_from_pov: [el, ma, mi, mo, mx, no]
   - speaker: max
-    line: "Together on three. One... two..."
-    works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: micah
-    line: "Three!"
+    line: "On three. One... two... THREE!"
     works_from_pov: [el, ma, mi, mo, mx, no]
 
 image_alignment:
-  scene_id: heart-crystal-resistance-010
+  scene_id: heart-crystal-surprise-010
   shared_elements:
     - massive crystalline structure
-    - six distinct facets
+    - six distinct facets (blue, pink, green, orange, red, yellow)
     - cracked and dimming crystal
     - clearing surrounded by forest
     - all six children
-    - crystal fighting back with dark energy
+    - crystal pulsing with dark energy
   pov_variants:
     - character_code: el
-      camera_position: showing Elise approaching her facet with others visible
+      camera_position: showing Elise's shock at seeing everyone with crystal behind
       focal_character: elise
       background_characters: [ma, mi, mo, mx, no]
     - character_code: ma
-      camera_position: showing Maya touching her facet with others around crystal
+      camera_position: showing Maya surprised to see family gathered
       focal_character: maya
       background_characters: [el, mi, mo, mx, no]
     - character_code: mi
-      camera_position: showing Micah reaching for his facet with others present
+      camera_position: showing Micah arriving to find everyone there
       focal_character: micah
       background_characters: [el, ma, mo, mx, no]
     - character_code: mo
-      camera_position: showing Mona toddling to her facet with others helping
+      camera_position: showing Mona's delight at seeing everyone
       focal_character: mona
       background_characters: [el, ma, mi, mx, no]
     - character_code: mx
-      camera_position: showing Max at his facet with others positioned around
+      camera_position: showing Max's surprise at family reunion
       focal_character: max
       background_characters: [el, ma, mi, mo, no]
     - character_code: no
-      camera_position: showing Noah coordinating with others visible around crystal
+      camera_position: showing Noah recognizing everyone
       focal_character: noah
       background_characters: [el, ma, mi, mo, mx]
 
 scenes:
   - page: left
     page_number: 23
-    focus: All six characters converging at Heart Crystal
+    focus: All six characters arriving, surprised to see each other
     visual: |
       The Heart Crystal rises in a vast clearing. Massive. Tall as a building. Six facets, each a
-      different color. All cracked. Dimming. Dark energy pulses from the cracks like black lightning.
-      Golden threads hang limp and grey. Six children arrive from different paths. Elise (9, long brown
-      hair, graceful). Maya (9, wavy shoulder-length sandy-blond hair with pink streak, bold). Micah (9, black hair, athletic). Mona (2,
-      tiny, curious). Max (12, red hair parted, tall). Noah (12, sandy blond voluminous hair, determined). They see
-      each other. Eyes widen in recognition and surprise. Family. Together in Kathaél. The crystal's
-      cracks pulse with darkness. Text in Times New Roman 16pt in white space at bottom.
+      different color (blue, pink, green, orange, red, yellow). All cracked. Dimming. Dark energy
+      pulses from the cracks. Golden threads pull six children from different paths into the
+      clearing. Elise (9, long brown hair, graceful). Maya (9, wavy shoulder-length sandy-blond
+      hair with pink streak, bold). Micah (9, black hair, athletic). Mona (2, tiny, curious). Max
+      (12, red hair parted down the middle, tall). Noah (12, sandy blond voluminous hair,
+      determined). They see each other. Eyes widen in shock and recognition. "What are YOU doing
+      here?" Family. Together in Kathaél. The Heart Crystal cracks louder. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      Six paths led to one place. Noah stepped into the clearing. Stopped. "Elise? Maya? Micah? Max? Mona?" His family stood before an enormous cracked crystal. Maya's eyes went wide. "Noah! We're all here!" They stared at each other. Then at the dying crystal. Dark lightning crackled from its cracks. "Together then," Noah said.
+      Threads pulled Max toward the Heart Crystal's base. Five other kids stood there, all looking shocked. "Noah? Elise?!" Max's sister Elise stared. "Max?!" Maya, Micah, and Mona arrived from other paths. They were all here. All family. "What are you ALL doing here?" The Heart Crystal cracked louder, light stuttering. A massive pulse of energy pushed back against them. The crystal was fighting them. "Together," Noah said. "We do this together."
 
   - page: right
     page_number: 24
-    focus: Heart Crystal fights back with resistance
+    focus: Using powers together, crystal fights back
     visual: |
-      Each child reaches toward a facet. Elise at the blue facet. Maya at the pink facet. Micah at
-      the green facet. Mona's tiny hands at the orange facet. Max at the red facet. Noah at the yellow
-      facet. They touch simultaneously. The crystal EXPLODES with dark energy. Black lightning blasts
-      outward. The children hold on but get thrown back slightly. The cracks widen. Pulse darker. The
-      crystal resists violently. Shadows swirl. The children struggle to hold their ground. Their faces
-      show determination mixed with shock. Text in Times New Roman 16pt in white space at bottom.
+      Each child reaches toward their facet. Elise at the blue facet. Maya at the pink facet.
+      Micah at the green facet. Mona's tiny hands at the orange facet. Max at the red facet
+      (showing complex obstacle patterns etched in light). Noah at the yellow facet. Max sees his
+      facet activate - obstacles appearing in the air that he'll have to complete while maintaining
+      contact with the crystal. All six touch simultaneously. The crystal pulses with energy - not
+      blasting them back yet, but clearly powerful and complex. They're beginning their individual
+      challenges. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      "Each facet different," Elise said. "Like us." They moved to their facets. "On three," Max said. "One. Two..." "Three!" Micah shouted. Six hands touched. The crystal EXPLODED. Dark lightning. Blasting outward. Throwing them back. The cracks widened. Pulsed darker. The crystal fought them.
+      "Each facet is different," Elise whispered, touching the crystal. Max saw his facet—a complex pattern of obstacles etched in light. His challenge. "On three," he said, falling into leader mode. "One... two... THREE!" Six hands touched six facets. Max's facet activated, obstacles appearing in the air. He had to complete them all while holding contact with the crystal. He moved, adjusted, persisted. Around him, his cousins did the same.

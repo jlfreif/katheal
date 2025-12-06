@@ -1,58 +1,56 @@
 # Shared page: Max and Noah - Spread 5
-# Meeting Node: Two analytical cousins discover each other
-# Emotional beat: OVERWHELM → RECOGNITION → MUTUAL UNDERSTANDING
-# Stakes reinforced: Their systematic approaches are making things worse
+# Meeting Node: Cousins discover each other in Kathaél
+# Emotional beat: SURPRISE → RECOGNITION → JOINING FORCES
+# Stakes reinforced: The challenges are bigger and more complex than either realized
 
 id: mx-no-05
 spread: 5
 node_type: meeting
 beat: "Attempt #3 (bigger world / stakes up)"
 
-hook: Questionable character offers confident solution, creating doubt about whether to trust them.
-payoff: The suggested solution fails spectacularly and obviously wrong.
+hook: Discovery of larger scale - the problem is bigger than initially thought.
+payoff: Meeting family member who is also trying to solve the problem.
 
-description: Cousins Max and Noah meet in a clearing of broken stories. Both have been using similar analytical approaches that don't work. A crow offers bad advice.
+description: Cousins Max and Noah meet in Kathaél and discover they're both trying to fix the broken courses and save the Heart Crystal.
 
-location: A clearing littered with broken crystal fragments and frayed story-threads
+location: Deep in the Kathaél forest where broken challenge courses stretch in every direction
 
-shared_action: Both recognize their analytical approaches are failing and watch the crow's solution backfire
+shared_action: Both recognize the massive scale of the problem and decide to work together
 
 dialogue_packets:
   - speaker: noah
-    line: "Max? Is that you?"
+    line: "Max? What are YOU doing here?"
     works_from_pov: [mx, no]
   - speaker: max
-    line: "Noah! What are you doing here?"
+    line: "Noah?! I'm trying to fix these courses. This is way harder than it looks."
     works_from_pov: [mx, no]
-  - speaker: crow
-    line: "Just grab that bright thread and pull. Easy!"
+  - speaker: noah
+    line: "Same. Want to compare notes?"
     works_from_pov: [mx, no]
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
-
     visual: |
-      A clearing littered with broken crystal fragments and frayed golden threads hanging in the air.
-      Noah enters from one side, looking alarmed at the wreckage. Max stands at the opposite edge,
-      notebook in hand, equally overwhelmed. They spot each other across the clearing. Both wear
-      similar expressions of shock and surprise. A crow perches on a twisted branch above. Forest
-      surrounds the devastated clearing. Text in Times New Roman 16pt in white space at bottom.
-
+      Max follows a golden thread deeper into the Kathaél forest. The scale expands dramatically -
+      hundreds of broken challenge courses stretch in every direction between enormous trees. All
+      are dark and lifeless. The Heart Crystal looms in the distance, much larger than before,
+      cracks spreading like spiderwebs across its surface. A flower nearby withers to dust,
+      showing the urgency of the crisis. Max's expression shows his stomach tightening - this is
+      bigger than he thought. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The threads had split in the forest, separating Noah from Elise. Each path led to a different challenge. Noah followed his thread alone until he entered a clearing full of broken crystals. Someone had tried to fix things and failed. Badly. Footsteps. "Max?" His cousin stood at the clearing's edge. "Is that you?" Max's eyes went wide. "Noah! What are you doing here?" A crow cackled from above. "Ah, more helpers. Perfect."
+      Max followed a golden thread deeper into Kathaél. More courses stretched in every direction, all broken, all dark. The Heart Crystal loomed ahead, bigger than he'd realized, cracks spreading like spiderwebs. A flower nearby withered to dust. The air felt wrong. Max's stomach tightened. This wasn't just about one course. This was everything.
 
   - page: right
     page_number: 14
-    focus: Encountering misleading help
-
+    focus: Encountering family
     visual: |
-      Max and Noah stand face to face, both holding notebooks covered in crossed-out attempts. The
-      crow gestures wildly at the brightest thread. Max and Noah exchange uncertain glances. The
-      crow grabs the thread and yanks. It snaps. Grey dust scatters. The thread dies instantly.
-      The crow squawks and flees. Both boys step back, recognizing the mistake. Text in Times New
-      Roman 16pt in white space at bottom.
-
+      Noah appears from another path, sandy hair messy, looking equally surprised to see Max. The
+      two cousins face each other in the magical forest. Behind them, broken courses stretch in
+      different directions showing they've each been working on separate challenges. Both wear
+      expressions of shock and recognition - "What are YOU doing here?" They're surrounded by the
+      failing magic of Kathaél, but there's relief in finding family. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      "Just grab that bright thread and pull," the crow said. "Easy!" Max narrowed his eyes. "That seems too simple?" Noah hesitated. "Maybe simple is what we're missing?" The crow grabbed the thread. Yanked. It snapped. Grey dust. The crow squawked and fled. Max and Noah stared at their notebooks full of crossed-out plans. "We keep trying to find the perfect answer," Noah said slowly. "Get it right on the first try." Max nodded. "But maybe... we need to try differently. Keep going, even when we fail. Try again." Something deeper in the forest pulsed. The real test waited ahead.
+      "Max?" A familiar voice. Max spun. Noah stood there, sandy hair messy, looking as surprised as Max felt. "Noah?! What are YOU doing here?" They stared at each other. Cousins meeting in an impossible magical forest. "I'm trying to fix these courses," Noah said. Max pointed at his own broken course. "Same. This is way harder than it looks." Noah grinned. "Want to compare notes?"

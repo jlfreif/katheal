@@ -4,33 +4,24 @@ id: el-ma-mi-mo-mx-no-11
 spread: 11
 node_type: meeting
 beat: "Climax: applying learned skills to save the crystal"
-hook: The Heart Crystal is saved; the immediate crisis is resolved.
-payoff: Characters celebrate victory and prepare to return home.
+hook: Characters continue their challenges, showing what they learned.
+payoff: The Heart Crystal is saved; victory through teamwork.
 
-description: All six siblings/cousins work together, each applying their unique skills learned from their journey to save the Heart Crystal. Action-focused climax showing cooperation and triumph.
+description: All six siblings/cousins work together, each applying their unique skills learned from their journey to save the Heart Crystal. Max uses his athletic ability, puzzle-solving, and persistence.
 
-location: The Heart Crystal clearing, as the crystal fights back and then heals
+location: The Heart Crystal clearing, as challenges intensify then succeed
 
-shared_action: Each child uses their courage type to heal their facet while the crystal actively resists
+shared_action: Each child completes their challenge using their courage type to heal their facet
 
 dialogue_packets:
-  - speaker: elise
-    line: "It's fighting us! The crystal doesn't want to be healed!"
-    works_from_pov: [el, ma, mi, mo, mx, no]
   - speaker: noah
-    line: "Then we show it we won't give up! Keep trying!"
-    works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: maya
-    line: "I'm not letting go! Not now!"
-    works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: micah
-    line: "Together! Push harder!"
+    line: "You've got this, Max!"
     works_from_pov: [el, ma, mi, mo, mx, no]
   - speaker: max
-    line: "It's working! The cracks are sealing!"
+    line: "Did NOT see a family reunion in a magical forest on today's schedule."
     works_from_pov: [el, ma, mi, mo, mx, no]
-  - speaker: mona
-    line: "Pretty lights!"
+  - speaker: maya
+    line: "We did it! We actually did it!"
     works_from_pov: [el, ma, mi, mo, mx, no]
 
 image_alignment:
@@ -38,60 +29,59 @@ image_alignment:
   shared_elements:
     - massive crystalline structure
     - six distinct facets
-    - crystal fighting back then healing
+    - crystal healing with golden light
     - clearing surrounded by forest
-    - all six children in action
+    - all six children succeeding together
   pov_variants:
     - character_code: el
-      camera_position: showing Elise dancing at her facet with others struggling
+      camera_position: showing Elise dancing as crystal heals
       focal_character: elise
       background_characters: [ma, mi, mo, mx, no]
     - character_code: ma
-      camera_position: showing Maya painting boldly with others around crystal
+      camera_position: showing Maya painting with crystal brightening
       focal_character: maya
       background_characters: [el, mi, mo, mx, no]
     - character_code: mi
-      camera_position: showing Micah climbing his facet with others working
+      camera_position: showing Micah moving through challenges
       focal_character: micah
       background_characters: [el, ma, mo, mx, no]
     - character_code: mo
-      camera_position: showing Mona asking questions with others helping
+      camera_position: showing Mona's curiosity healing her facet
       focal_character: mona
       background_characters: [el, ma, mi, mx, no]
     - character_code: mx
-      camera_position: showing Max analyzing patterns with others present
+      camera_position: showing Max completing obstacle pattern with others cheering
       focal_character: max
       background_characters: [el, ma, mi, mo, no]
     - character_code: no
-      camera_position: showing Noah writing with light with others visible
+      camera_position: showing Noah writing as crystal glows
       focal_character: noah
       background_characters: [el, ma, mi, mo, mx]
 
 scenes:
   - page: left
     page_number: 25
-    focus: Characters applying individual skills together
+    focus: Max completes his challenge using athleticism and persistence
     visual: |
-      The Heart Crystal pulses. Dark energy crackles from the cracks. Fights back. The six children
-      hold their positions. Elise dances at the blue facet, powerful movements creating ripples of
-      music. Maya paints bold strokes of color on the pink facet. Micah climbs and leaps around the
-      green facet, never stopping. Mona toddles to the orange facet asking "Why? Why? Why?" Max
-      traces patterns on the red facet, analyzing the crystal's structure. Noah writes glowing words
-      on the yellow facet with his golden quill. The crystal resists. Shadows push back. But they
-      don't let go. Text in Times New Roman 16pt in white space at bottom.
+      Max's facet shows complex aerial obstacles shifting faster and faster. He keeps moving -
+      jumping, adjusting mid-air, climbing, flowing with the changes. His athletic skills and
+      puzzle-solving combine - reading the pattern while executing the movements. Around him, his
+      family calls encouragement. He's tired, muscles burning, but doesn't stop. The final
+      obstacle appears - three paths, all moving. He watches the rhythm, feels the pattern, jumps.
+      Lands. His facet blazes brilliant orange. The others are succeeding too. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      The crystal fought. Dark lightning crackled from the cracks. Pushed them back. "It's fighting us!" Elise shouted. Noah gritted his teeth. "Then we show it we won't give up!" Elise danced. Maya painted. Micah climbed. Mona questioned. Max analyzed. Noah wrote. Each doing what they'd learned. Together.
+      Max's obstacles shifted faster. He kept going. Jump. Adjust. Climb. Flow. His family called encouragement. "You've got this, Max!" He was tired. His muscles burned. But he didn't stop. He adjusted, adapted, kept moving. The final obstacle appeared—three paths, all moving. He watched the rhythm, felt the pattern, and jumped. He landed. His facet blazed brilliant orange.
 
   - page: right
     page_number: 26
-    focus: Victory - Heart Crystal saved through teamwork
+    focus: Crystal heals - victory through teamwork
     visual: |
-      The cracks seal. One by one. Golden light pours from each facet as the children's courage
-      overcomes the darkness. The blue facet hums with Elise's music. The pink facet blazes with
-      Maya's colors. The green facet vibrates with Micah's movement. The orange facet glows with
-      Mona's curiosity. The red facet sparks with Max's ideas. The yellow facet shimmers with Noah's
-      stories. All six facets blaze brilliant. The crystal whole. Perfect. Radiant. Golden threads
-      shoot into the sky, spreading across Kathaél. The forest brightens. Colors return. The children
-      stand together, exhausted but triumphant. Text in Times New Roman 16pt in white space at bottom.
+      All six facets glow together in brilliant colors. The Heart Crystal's cracks seal with
+      golden light flooding through. The broken courses throughout Kathaél repair themselves,
+      visible in the distance. Max feels warmth gather in his palm - a golden wristband appears,
+      pulsing gently with orange light. He grins at his cousins, all equally exhausted and
+      triumphant. They're together, victorious. The forest brightens around them. Text in Times
+      New Roman 16pt in white space at bottom.
     text: |
-      The cracks sealed. One by one. "It's working!" Max shouted. "The cracks are sealing!" Darkness retreated. Light poured from each facet. Golden. Brilliant. The crystal blazed whole. Perfect. Golden threads shot into the sky. Across Kathaél. Everything brightened. The children stood together. Exhausted. Victorious. "We did it," Maya breathed. "We actually did it."
+      All six facets glowed together. The Heart Crystal's cracks sealed, light flooding through every thread in Kathaél. The broken courses repaired themselves, stronger than before. Max felt warmth gather in his palm until a wristband appeared—golden, pulsing gently with orange light. He grinned at his cousins. They'd done it. Together. "Did NOT see a family reunion in a magical forest on today's schedule," he joked. Everyone laughed.

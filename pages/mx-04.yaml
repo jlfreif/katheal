@@ -1,46 +1,41 @@
-# Max's page - Spread 4
-# Attempt #2 (ask the expert)
-# Max searches for someone who knows the "right" way
+# Max - Spread 4: Attempt #2
+# Ask the expert / strategic approach
 
 id: mx-04
 spread: 4
 node_type: solo
-beat: "Attempt #2 (ask the expert)"
+beat: "Attempt #2: Ask the expert / strategic approach"
 
-hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
-payoff: Journey into new territory begins with dramatic departure from familiar world.
+hook: Character tries a more thoughtful, analytical approach.
+payoff: Even the strategic approach fails because the challenge adapts.
 
-description: Max follows the threads to find an expert, hoping someone knows the correct technique he's missing.
+description: Max studies the course, looking for patterns and timing, but discovers the course actively adapts and learns.
 
 scenes:
   - page: left
     page_number: 11
-    focus: Seeking guidance
-
+    focus: Seeking guidance through analysis
     visual: |
-      Max jogs through the forest following golden threads, notebook tucked
-      under his arm filled with technique notes. The threads lead him toward
-      a training ground where multiple paths converge. He scans the area
-      with competitive focus, looking for someone who might have answers.
-      His athletic stride shows confidence despite his earlier failures.
-
+      Max circles the obstacle course, studying it carefully. He pulls out his phone, taking
+      notes or recording observations. He's analyzing the rotating handholds, watching their
+      pattern. His expression is focused and thoughtful - this is Max using his puzzle-solving
+      brain. Around him we can see the course's patterns: handholds rotating in sequence, beams
+      moving in rhythm. Max is treating this like a math problem to solve. The fox watches with
+      interest. The atmosphere is analytical, strategic. Text in Times New Roman 16pt font in
+      white space at bottom.
     text: |
-      Max followed the strongest threads, hoping they'd lead to someone who
-      knew the right technique. He'd been approaching it wrong, clearly.
-      There must be a system, a method, a proper way to fix these challenges.
-      The threads led him to a training ground where paths crossed. "Someone
-      here has to know how this works."
+      Max circled the course, studying it. There had to be a pattern. He was good at patterns. The handholds rotated in sequence—three clicks left, two clicks right, one click left. He could time it. He pulled out his phone, started recording notes. Math this out.
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
-
     visual: |
-      Max stands at a crossroads where training paths meet. Golden threads
-      pulse and point toward unfamiliar territory ahead—a place where the
-      challenges look harder, weirder, nothing like the sports courses he
-      knows. A deer watches from the edge, its expression warning. Max
-      swallows but sets his jaw determinedly.
-
+      Max is on the course again, clearly having made it further than before - he's past the
+      rotating wall section. But now the course is actively changing around him. The balance beam
+      splits into three paths before his eyes. The rope swing shifts position. New obstacles
+      appear. Max's expression shows surprise and frustration - "Oh, come ON!" The course isn't
+      just difficult, it's actively adaptive. The fox's tail swishes. The golden threads pulse
+      with new complexity. The atmosphere is one of escalating challenge. Text in Times New Roman
+      16pt font in white space at bottom.
     text: |
-      The threads pulsed and pointed ahead toward training grounds that looked nothing like basketball courts. Obstacles twisted in impossible shapes, challenges that made no sense. A deer met his eyes, and Max understood the message. This would be harder than anything he'd tried. "Okay," Max said, rolling his shoulders. "I can handle hard."
+      Max ran the course again, timing every move. He made it past the rotating wall. Yes! Then the course shifted. New obstacles appeared. The balance beam split into three paths. The rope swing moved. "Oh, come ON!" The course wasn't just hard. It was adaptive. It learned.
