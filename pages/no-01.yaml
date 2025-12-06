@@ -7,33 +7,35 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah meticulously plans every detail of his story when his characters start acting on their own.
+description: Noah solves an intricate puzzle-box his uncle gave him when golden threads burst from inside, pulling him toward adventure.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
     visual: |
-      Noah's desk covered with detailed outlines, character charts, plot diagrams, and color-coded
-      sticky notes. Noah (12 years old, sandy blond voluminous hair, medium build, wearing blue
-      hoodie, tan sport pants, white sneakers) types on his laptop while consulting multiple
-      notebooks. Each character has a full backstory. Every scene is planned. Every dialogue mapped.
-      His ukulele leans against the desk. Bookshelves line the walls. His face shows intense focus
-      and satisfaction—everything is planned perfectly. The atmosphere is organized precision. Text
-      in Times New Roman 16pt font in white space at bottom of page.
+      Noah's bedroom filled with adventure books, climbing gear hanging on hooks, basketball trophies
+      on a shelf. Noah (12 years old, sandy blond voluminous hair, medium build, wearing blue
+      hoodie, tan sport pants, white sneakers) sits cross-legged on his bed surrounded by the pieces
+      of an elaborate puzzle-box. His notebook shows diagrams and failed attempts. He's been working
+      on this for days—rotating pieces, testing combinations, trying different sequences. His face
+      shows intense focus and determination. His ukulele leans against the nightstand. The atmosphere
+      is excited problem-solving energy. Text in Times New Roman 16pt font in white space at bottom
+      of page.
     text: |
-      Noah checked his outline. Chapter three, scene two, paragraph five. Everything planned. Every character doing exactly what they should. He smiled. Get it right the first time. That's what made a perfect story.
+      Noah twisted the outer ring left, then the middle ring right, then pressed the copper plate. Click. Nothing. He checked his notebook—attempt forty-seven failed. He grinned and reached for the box again. "Okay, what if I..." He tried a new sequence, fingers flying over the intricate mechanisms.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      On Noah's laptop screen, words begin appearing on their own. His characters are writing
-      dialogue he didn't plan. "Wait, I didn't write that," he mutters, hitting backspace. But
-      more words appear, faster now. His main character takes a turn he didn't outline. A side
-      character speaks up unexpectedly. Golden threads pour from the screen. His notebooks flutter
-      despite no breeze. The outline pages start rearranging themselves. His expression shifts from
-      certainty to alarm. The atmosphere crackles with stories taking on life of their own. Text in
-      Times New Roman 16pt font in white space at bottom.
+      The puzzle-box suddenly clicks open in Noah's hands. Golden light erupts from inside, and
+      threads pour out like living things—wrapping around his wrists, humming with energy. He jumps
+      to his feet as the threads pull toward his window. Books rustle on shelves. His climbing gear
+      rattles. The threads aren't forcing him—they're inviting him, tugging gently but insistently.
+      Through the window, he glimpses towering trees that shouldn't be there. His expression shows
+      surprise shifting to excitement—this is the kind of adventure he's always read about. The
+      atmosphere crackles with possibility. Text in Times New Roman 16pt font in white space at
+      bottom.
     text: |
-      Words appeared on screen. But Noah wasn't typing them. His characters were writing themselves, going off-outline. "No no no," he muttered, deleting frantically. But they kept writing. Golden threads poured out. A voice whispered: "Some stories need more than one try to get right."
+      The final piece rotated into place. The box sprang open. Golden threads exploded out, wrapping warm around Noah's wrists. They tugged toward the window—gentle but urgent. Through the glass, impossible trees rose against the sky. His heart hammered. This was it. Real adventure. He grabbed his hoodie. "Let's go."

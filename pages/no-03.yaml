@@ -7,33 +7,37 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah devises one clever solution to free the stories, but when it doesn't work perfectly, he feels stuck and doesn't know what to try next.
+description: Noah tries his first approach to solving the puzzle-lock, but the mechanism is more complex than expected and his solution triggers a defensive response.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Noah sits surrounded by floating pages, creating an elaborate plan for freeing the stories.
-      He's made charts showing which chains to remove in what order, schedules for optimal story
-      liberation, detailed protocols. He holds a glowing quill like a scalpel, working with intense
-      precision. "This is it—the perfect solution. I've analyzed everything. This will work." He
-      works methodically, confident this clever approach will succeed on the first try. His face shows deep concentration.
-      The atmosphere is careful, calculated intervention. Text in Times New Roman 16pt in white
-      space at bottom.
+      Noah leaps up and grabs onto the lower edge of the puzzle-lock mechanism, using his climbing
+      skills to pull himself up. He hangs with one hand while manipulating the rotating rings with
+      the other, matching symbols the way his analysis suggested. The rings click into place—star
+      to moon, sun to comet. He reaches for the sliding panel, shifts it. Another click. Yes! He's
+      getting it. He drops down, hits two pressure plates in sequence. The lock mechanism glows
+      brighter. He's done it—or so he thinks. His expression shows focused intensity and growing
+      confidence. The atmosphere is athletic problem-solving in action. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      Noah made a plan. One brilliant solution for freeing stories. He'd analyzed the problem, studied the patterns, figured it all out. "This will work," he said confidently. "I've thought through everything. The perfect approach." He worked carefully, precisely, executing his clever plan. "I'll save you," he told the stories. "I've got it all figured out."
+      Noah jumped and caught the edge of the lock mechanism, swinging himself up. He rotated the outer ring—star to moon. Click. Middle ring—sun to comet. Click. He dropped, landed smooth, hit the pressure plates one-two. The mechanism blazed bright. "Yes!" But then—
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The stories Noah "rescued" with his perfect plan are now wrapped in NEW chains—golden ones that
-      formed from his approach. "The story must heal this way. The characters must grow like
-      this." His clever solution didn't work—it made things worse. The stories gasp, still trapped.
-      An old owl appears on a branch, shaking its head. Noah stares at the golden chains coming
-      from his own hands, frozen. His expression shows shock and defeat. The atmosphere is the realization
-      that one clever attempt wasn't enough. Text in Times New Roman 16pt in white space at
-      bottom.
+      The puzzle-lock flares red and resets itself with a harsh grinding noise. Worse—the barrier
+      pulses and contracts, squeezing the trapped stories tighter. They flutter in panic. The ground
+      shakes harder. New cracks spread. Noah stumbles back as a small owl swoops down from a nearby
+      branch, landing on a fallen stone pillar. The owl tilts its head, studying him. "That was a
+      good start," it says, voice patient but urgent. "But this lock has seven interlocking systems,
+      not three. You'll need to solve them together—and in the right order—or it triggers defenses."
+      Noah stares at the reset mechanism, then at the owl. Seven systems. He'd only mapped three.
+      His expression shows surprise but determination—this is harder than he thought, but he's not
+      giving up. The atmosphere is the realization that this will take more attempts. Text in Times
+      New Roman 16pt in white space at bottom.
     text: |
-      The stories Noah "freed" were still chained. New chains. Golden ones. His "perfect solution" had failed. Made things worse. Noah stared, frozen. "But... I figured it out. I had the right answer." The owl spoke softly. "One clever try is rarely enough, young writer. When something doesn't work, you must try differently. And again. And again. That's the real courage."
+      The mechanism flared red. Grinding. Resetting. The barrier contracted—stories crushed tighter. "No!" Noah jumped back. An owl swooped down, landing nearby. "Good try," it said. "But that lock has seven systems working together. You found three." Noah looked up at the massive mechanism. Seven? He'd only seen three. "Show me," he said, pulling out his notebook again. "I'll try differently."

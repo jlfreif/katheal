@@ -7,33 +7,39 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Noah watches a story try many different approaches before succeeding and realizes persistence through multiple attempts is more important than getting it perfect the first time.
+description: After multiple attempts at different barriers, Noah spots a crucial pattern in how the puzzle-locks connect to each other across the library.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      Noah sits exhausted in the forest library, surrounded by stories he tried to "help" that are
-      still trapped. His detailed plans lie crumpled around him. His perfect solutions failed. He
-      watches a story float nearby—one that a writer simply let try different things. It tries one path,
-      fails, adjusts, tries another. Fails again. Tries a third way. Noah's instinct screams to
-      tell it the right answer, skip the mistakes, get it right the first time. But he forces himself to just watch. His
-      expression shows intense discomfort with watching failure. The atmosphere is the agony of
-      accepting that mistakes are part of learning. Text in Times New Roman 16pt in white space at bottom.
+      Noah stands in the center of the library, surrounded by five different barrier-puzzles he's
+      been working on. His notebook is filled with sketches, crossed-out attempts, new approaches.
+      He's tried the constellation sequence (failed), the reverse pattern (failed), the harmonic
+      rhythm approach (partial success but triggered defenses). Sweat drips down his face. His
+      muscles ache from climbing and jumping between mechanisms. The ground keeps shaking. More
+      barriers are failing—he can hear them collapse in distant parts of the library, stories
+      scattering to ash. But Noah keeps studying, keeps trying. He's not giving up. The owl watches
+      from a branch. Noah's expression shows exhaustion but unwavering determination. The atmosphere
+      is persistent effort in the face of overwhelming difficulty. Text in Times New Roman 16pt in
+      white space at bottom.
     text: |
-      Noah watched a story try and fail and try again. It tried one path—wrong. Tried another—still wrong. Tried a third. Messy. Uncertain. Every fiber of Noah's being wanted to tell it the right answer, save it from mistakes, help it get it right the first time. He clenched his fists. Just watch. Let it learn through trying.
+      Noah's fifth attempt on the second barrier—failed. He dropped to the ground, breathing hard. His arms burned from climbing. His brain buzzed from tracking seven systems at once. Behind him, another distant barrier collapsed. More stories lost. He grabbed his notebook. Twenty-three attempts across five different locks. Different failures each time. He wouldn't quit. Couldn't. "There has to be a pattern," he muttered, flipping through pages of notes.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      The story Noah watched suddenly finds its path—on the seventh try. Not perfect from the start—earned through
-      persistence. It discovered something beautiful through all those attempts. Each failure taught it something.
-      Each mistake led closer to the answer. The story glows brilliant gold, healthy and alive. Other stories
-      weave around it, all marked by their own journeys of trying and failing and trying again. Noah stares
-      in wonder. Success didn't come from getting it right the first time. It came from not giving up. His
-      expression shows revelation. The atmosphere celebrates the courage of persistence. Text
-      in Times New Roman 16pt in white space at bottom.
+      Noah suddenly freezes, notebook open in his hands. His eyes dart between three different
+      puzzle-locks he can see from where he stands. The symbols on each one—they're not isolated.
+      They mirror each other. When one lock's constellation ring shows the Bear, another shows the
+      Hunter. The third shows the Arrow. They're telling a story together. "Oh!" He scrambles up,
+      looking at all the visible locks throughout the library. They're all connected—one massive
+      puzzle spanning the entire space. That's why solving them individually kept failing. You have
+      to solve them as a group, watching how changes in one affect the others. It's the hardest,
+      most complex puzzle he's ever seen. And now he knows how to approach it. His expression shows
+      breakthrough excitement. The atmosphere celebrates earned discovery. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      The story found its way—on the seventh try. Not through getting it perfect from the start. Through trying and failing and trying again. Each mistake taught it something. Each failure brought it closer. Golden and alive. "Oh," Noah breathed. "Success doesn't come from getting it right the first time. It comes from not giving up after mistakes. From trying again."
+      Noah's eyes caught on the symbols. Bear. Hunter. Arrow. Three different locks—but the symbols connected. A story. "Wait..." He spun, looking at all the visible barriers. The locks weren't separate puzzles. They were one giant puzzle. That's why individual solutions failed—you had to solve them together, tracking how each change affected all the others. The hardest puzzle he'd ever seen. "Okay," Noah breathed, grinning through his exhaustion. "Let's try this."

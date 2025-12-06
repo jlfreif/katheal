@@ -7,33 +7,37 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah enters Kathaél's forest library where stories are dying because writers tried to make them perfect on the first try instead of letting them learn through mistakes.
+description: Noah arrives at Kathaél's forest library and discovers that stories are trapped behind collapsing magical barriers and complex puzzle-locks that are degrading fast.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      A magical forest library where ancient trees serve as living shelves, their branches holding
-      floating books and scrolls. But many are withering—strangled by golden chains, bound too
-      tightly by outlines and rules. Noah stands in the center, shocked. Books struggle against
-      their chains. Stories try to breathe but can't. Moss covers the ground. A sign reads:
-      "Never allowed to fail." Scripts hang from branches with every word dictated, but they're grey
-      and lifeless. The atmosphere is suffocating perfectionism killing creativity. Text in Times New
-      Roman 16pt in white space at bottom.
+      A massive forest library where ancient trees serve as living shelves, their branches holding
+      glowing books and scrolls. But everything is wrong—the ground shakes periodically, cracks
+      spread through stone archways, and shimmering barriers flicker and spark dangerously. Noah
+      stands at the entrance, eyes wide. Behind crackling energy barriers, he can see stories
+      trapped—books pressing against the shields, pages rustling desperately. The barriers pulse
+      and fracture, degrading with each tremor. Above each barrier floats an intricate puzzle-lock
+      mechanism—gears, symbols, and moving pieces that shift and reconfigure. Some are already
+      half-broken. The atmosphere is urgent danger—a race against time. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      The golden thread yanked Noah through his window into a forest library. But the stories were dying—gasping, choking. Chains cut into their spines. Pages curled and blackened. A book fell at his feet, cracking apart. Every page filled. Every word perfect. Every sentence exactly where it should be. All dead. Grey ash inside. He opened another. The words crawled with "MUST GET IT RIGHT" and "NO MISTAKES ALLOWED" scrawled over every line in angry red. The story underneath had suffocated. Never allowed to try and fail and try again. Perfected to death.
+      Noah stumbled into the forest library just as the ground shook. Crack! A stone pillar split. Books rattled on their branches. Ahead, shimmering barriers trapped hundreds of stories—pressing against the energy fields, pages fluttering like trapped birds. Above each barrier, a puzzle-lock mechanism clicked and whirred, but they were breaking down. Another tremor. A lock shattered completely, and the barrier collapsed—the stories inside scattered into ash. "No!" Noah shouted. He had to solve the locks before they all failed.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Noah kneels beside one story that's still fighting—a tale about a girl finding her way home.
-      It's partially chained but struggling to break free. He can see the writer's notes all over
-      it: "She must get it right the first time." "She can't make any wrong turns." "She must figure it out perfectly."
-      The story gasps under the weight of perfectionism. Noah reaches for the chains, uncertain. His
-      instinct is to analyze the problem and devise the perfect solution. But the story pulses—please,
-      just let me try. His expression shows internal conflict. The atmosphere is the moment of
-      choice. Text in Times New Roman 16pt in white space at bottom.
+      Noah runs to the nearest barrier—about twenty feet high, crackling with unstable energy. The
+      puzzle-lock above it is a complex mechanism of rotating rings covered in symbols, sliding
+      panels with constellation patterns, and pressure plates that need to be activated in sequence.
+      It's easily the hardest puzzle he's ever seen. And it's degrading—sparks fly from damaged
+      gears, some symbols are already illegible, parts are seized up. Behind the barrier, a cluster
+      of adventure stories pulse with desperate urgency. Noah pulls out his notebook and starts
+      analyzing the mechanism, sketching quick diagrams. His expression shows excitement mixed with
+      determination. This is exactly the kind of challenge he lives for. The atmosphere is the moment
+      before diving into action. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      One story still fought—a girl trying to find her way home. Chains wrapped so tight the pages bled. "She MUST get it right the first time." "She CAN'T make any mistakes." "She MUST figure out the perfect path." The girl inside the story was screaming silently, clawing at the pages, trying to break free. The story gasped, dying. Noah reached for it. His mind immediately started planning: "First I'll analyze the problem, devise the perfect solution, get it right on the first try, then—" The story convulsed. Please. Just let me try.
+      Noah skidded to a stop at the first barrier. The puzzle-lock above it was massive—rotating rings, sliding symbols, pressure sensors, all interconnected. Beautiful. Complex. And breaking apart. He could see at least three different systems that needed to work together. The ground shook again. More cracks. He had minutes, maybe. Noah grinned despite the danger. "Okay. Let's figure this out." He started mapping the pattern.
