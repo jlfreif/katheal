@@ -7,41 +7,33 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: After multiple attempts at solving the locks, Noah discovers that his story world has created connections between puzzles that he never wrote—the world grew beyond his imagination.
+description: Noah and his teammates discover that the five pedestals aren't separate puzzles but one interconnected pattern that needs all of them working together.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      Noah stands exhausted in the center of the library, surrounded by five different barrier-
-      puzzles he's been working on. His notebook is filled with new sketches—far more detailed than
-      his original story outlines. He's tried approaching them like he wrote them (failed), reverse
-      engineering his own fictional logic (failed), even improvising completely new solutions
-      (partial success but triggered defenses). Sweat drips down his face. His muscles ache from
-      climbing. The ground keeps shaking. More barriers collapse in the distance—parts of his story
-      world dying. He flips through his notebook comparing his original simple sketches to the
-      complex reality. Twenty-three attempts across five locks. His story world isn't following his
-      plot. It's become something more. The owl watches from above. Noah's expression shows
-      exhaustion but determination—he won't give up on his own creation. The atmosphere is persistent
-      effort despite being overwhelmed. Text in Times New Roman 16pt in white space at bottom.
+      The central chamber with all five pedestals active. Noah stands with his cousins (showing some but
+      not focusing on them individually). They've been working on separate pedestals but progress is slow.
+      Noah studies his notes, comparing patterns across all five pedestals. His notebook shows sketches of
+      each puzzle type. He's tried solving them independently but something feels wrong. The owl watches
+      from a branch. Noah paces between pedestals, eyes darting from one to another. His expression shows
+      intense concentration and frustration. Books hover nearby, chiming softly. The atmosphere is searching
+      for a missing piece. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah's fifth attempt on the second barrier—failed. He dropped to the ground, breathing hard. His arms burned. His brain buzzed from tracking seven systems at once. Behind him, another barrier collapsed. More of his story world lost. He grabbed his notebook. Twenty-three attempts. His original sketches looked so simple now. "I created this world," he muttered, "but it doesn't work the way I wrote it. It's become something more."
+      They'd been working for hours. Each pedestal partially solved but stuck. Noah paced between them, studying his notes. Constellation patterns. Word riddles. Math sequences. Music. Mechanisms. All separate... or were they? His eyes caught something. When the constellation showed the Bear, the word riddle referenced "star navigation." When the math sequence reached seven, seven musical notes chimed. "Wait..."
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      Noah suddenly freezes, notebook open to his original story outline. Wait. In his story, he
-      wrote about ONE hero solving puzzles. But the symbols on the locks—Bear, Hunter, Arrow—they're
-      telling a story together across multiple barriers. His world took his simple idea and expanded
-      it. The locks aren't separate puzzles like he planned. They're one giant interconnected story
-      that Kathaél created from his original concept. He scrambles up, looking at all the visible
-      locks throughout the library. His story world built something far more beautiful and complex
-      than what he imagined. You have to solve them as a group, watching how changes in one affect
-      the others. It's the hardest, most amazing puzzle he's ever seen—and he inspired it, even if
-      he didn't fully create it. His expression shows wonder and breakthrough excitement. The
-      atmosphere celebrates the creator discovering his creation surpassed his vision. Text in Times
-      New Roman 16pt in white space at bottom.
+      Noah stands at the center of the five pedestals, arms spread wide, eyes alight with discovery. Golden
+      threads connect all five pedestals in a web pattern above him. The connections glow as he explains. Each
+      pedestal's solution affects the others. They're not five separate puzzles but one massive interconnected
+      challenge. His teammates gather closer, watching the pattern emerge. The threads pulse with each connection
+      Noah identifies. The Heart Crystal at the center begins to hum softly. Noah's expression shows triumphant
+      excitement. The atmosphere celebrates breakthrough discovery. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      Noah's eyes caught on the symbols. Bear. Hunter. Arrow. Three different locks telling one story. "Wait..." He looked at his outline. He'd written about separate puzzles. But Kathaél had connected them—his world had grown beyond his imagination. The locks weren't isolated. They were one massive story his world had built from his simple idea. More complex and beautiful than he'd planned. "Oh," he breathed, grinning through exhaustion. "My world is smarter than my outline. Let's solve what Kathaél actually created."
+      "They're connected!" Noah shouted. "Look! The Bear constellation points to the word 'navigate.' The math sequence seven triggers seven notes. The mechanism gears match the rhythm!" Golden threads appeared, linking all five pedestals. Not five puzzles. One giant pattern. His teammates gathered. "We don't solve them separately," Noah said, grinning. "We solve them together. As a team." The Heart Crystal hummed. They were onto something.

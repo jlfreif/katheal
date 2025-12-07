@@ -7,37 +7,33 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah tries to solve the puzzle the way he wrote it in his story, but his fictional solution doesn't work in the real story world—it's far more complex than he imagined.
+description: Noah ventures into the library to solve constellation challenges, succeeds with one pedestal, but returns to find all five pedestals activating at once.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Noah leaps up and grabs the puzzle-lock mechanism, using his climbing skills to pull himself
-      up. In his story, he wrote: "The hero rotated the outer ring to match star with moon, then
-      the inner ring to align sun with comet, and the lock opened." He tries exactly that—hanging
-      with one hand while manipulating the rings with the other. Star to moon—click. Sun to comet—
-      click. Yes! Just like he wrote it! He drops down, confident. The lock glows brighter. He did
-      it! His expression shows excited confidence—he created this world, he knows how it works. The
-      atmosphere is initial success. Text in Times New Roman 16pt in white space at bottom.
+      Noah climbs up ancient tree branches, using his climbing skills. Carved riddles glow on the bark. He
+      solves them as he climbs higher. "What has roots nobody sees... A mountain!" The branch reveals a
+      glowing constellation piece shaped like a star. Noah grabs it and slides back down the trunk, grinning.
+      He's good at this! At the pedestal, he slots the star into place. The constellation pattern blazes
+      brighter. Progress! Books chime approvingly. His expression shows excited confidence. The atmosphere
+      celebrates success through skill. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah jumped and caught the lock mechanism, swinging himself up. He knew this puzzle—he'd written it! "The hero rotated the outer ring, star to moon." Click. "Then the inner ring, sun to comet." Click. Perfect! Just like in his story. He dropped down, grinning. "I created this. I know how—"
+      Noah climbed the ancient tree, solving riddles carved in the bark. "What has roots nobody sees... A mountain!" The branch revealed a glowing star. He grabbed it and slid down. At the pedestal, he placed the star. The constellation blazed brighter! Two pieces done, three to go on this pedestal alone. He was doing it!
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The puzzle-lock flares angry red and resets with a harsh grinding noise. Worse—the barrier
-      pulses and contracts violently, squeezing the trapped stories. They flutter in panic. The
-      ground shakes harder. New cracks spread. Noah stumbles back, shocked. That should have worked!
-      That's how he wrote it! A small owl swoops down from a nearby branch. "Your written version
-      was simpler," it says gently. "This is the real Kathaél. The puzzle has seven systems, not
-      two. They work together in ways you didn't imagine when you were just writing words." Noah
-      stares at his notebook, then at the massive mechanism. He'd written a simple puzzle. His story
-      world had created something far more complex. His expression shows surprise and humility—
-      creating a world on paper and solving real problems in it are completely different. The
-      atmosphere is the realization that knowing the author's intent isn't enough. Text in Times New
-      Roman 16pt in white space at bottom.
+      Noah returns to the central chamber, proud of his progress. But all five pedestals are now active. The
+      word riddles pedestal pulses with urgent light. The musical notes pedestal chimes insistently. The
+      mathematical sequences pedestal flashes numbers. The physical mechanisms pedestal rattles and spins.
+      All at once. The owl appears beside Noah, who stares at the simultaneous activation. "The library is
+      waking up," the owl explains gently. "Soon all five patterns will activate at the same time. You'll
+      need to solve them simultaneously. One person can't be in five places at once." Noah looks at the five
+      pedestals, then at the vast library. His expression shows realization, not defeat. He grins. The
+      atmosphere is accepting a bigger challenge. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The mechanism flared red. Grinding. Resetting. The barrier contracted—crushing the stories. "No! But that's how I wrote it!" An owl swooped down, landing nearby. "You wrote a simpler version," it said kindly. "Kathaél took your ideas and made them real. This lock has seven systems. Your story only described two." Noah looked up at the mechanism. Seven systems? He'd only imagined a simple puzzle. His world had grown beyond his words. "Show me," he said, notebook ready. "I need to learn how my own world actually works."
+      Noah returned to the central chamber. All five pedestals glowed. Pulsing. Chiming. Flashing. Rattling. Activating together. The owl said quietly, "Soon they'll need solving at the same time. The patterns are connected." Noah looked around the massive library. Five pedestals. Five puzzle types. One him. He laughed. "This is a team challenge." He cracked his knuckles. "Time to find my teammates."

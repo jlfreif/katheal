@@ -7,40 +7,32 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah arrives inside his own story world in Kathaél's forest library and discovers that the collapsing library and puzzle-locks he imagined are real—and far more complex and dangerous than what he wrote.
+description: Noah arrives in Kathaél's Library of Lost Patterns and discovers five pedestals with different puzzle types that need to be solved simultaneously to unlock the Heart Crystal.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Noah stumbles through golden light and lands in the forest library from his story—but it's
-      real. Massive ancient trees serve as living shelves, their branches holding glowing books and
-      scrolls. Everything he described is here, but intensely real. And wrong. The ground shakes
-      violently. Cracks spread through stone archways. Shimmering barriers flicker and spark
-      dangerously—exactly like he wrote, but terrifyingly real. Behind the crackling energy barriers,
-      he can see stories trapped, pressing desperately against the shields. Above each barrier floats
-      the puzzle-lock mechanisms from his sketches—gears, symbols, moving pieces—but they're far
-      more intricate than his drawings. Some are already breaking apart. A lock shatters and the
-      barrier collapses—stories scatter into ash. Noah stares in horror. This is his story world.
-      His creation. The atmosphere is awe mixed with urgent danger. Text in Times New Roman 16pt in
-      white space at bottom.
+      Noah lands in a magnificent forest library. Ancient trees with glowing books on branches. Floating
+      scrolls chime like wind chimes. Books flutter playfully past. In the center rises a massive crystalline
+      structure with five pedestals arranged in a circle. Each pedestal shows a different puzzle type glowing
+      and waiting. Constellation patterns. Word riddles. Mathematical sequences. Musical notes. Physical
+      mechanisms. An owl swoops down, landing on one pedestal. The whole library hums with anticipation.
+      The atmosphere is wonder meeting challenge. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah crashed through light and landed hard. The forest library. His forest library. The one from his story. But real. Solid ground shook beneath him. Stone cracked—BOOM! Books rattled on living branches. Ahead, the energy barriers he'd imagined trapped hundreds of real stories. The puzzle-locks he'd sketched floated above them, but they were far more complex than his drawings. Another tremor. A lock shattered—the stories inside scattered to ash. "No!" This was his world. His creation. And it was falling apart.
+      Noah crashed through gold and landed in a forest library. Books floated like curious birds. Scrolls chimed. An owl swooped down. "Welcome, Solver! You answered the call!" It gestured toward five pedestals surrounding a huge crystal. Each pedestal glowed with a different puzzle. Noah's eyes went wide. This was incredible.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Noah runs to the nearest barrier—about twenty feet high, crackling with unstable energy. The
-      puzzle-lock above it is the one from his notebook, but exponentially more complex. He'd drawn
-      rotating rings with symbols. The real version has multiple interconnected systems—sliding
-      panels with constellation patterns, pressure plates, harmonic sensors, all working together.
-      It's degrading—sparks fly, some symbols are illegible, parts are seized. Behind the barrier,
-      adventure stories pulse desperately—the kind of stories he loves to write. Noah pulls out his
-      notebook, looking at his simple sketches. His story world took his ideas and made them real...
-      and much harder. His expression shows excitement mixed with realization—he has to solve the
-      actual puzzle, not just describe someone solving it. The atmosphere is accepting the challenge.
-      Text in Times New Roman 16pt in white space at bottom.
+      Noah approaches the first pedestal. Constellation patterns float in the air above it, waiting to be
+      arranged. Behind the pedestal, the massive Heart Crystal rises, currently dim and inactive. The owl
+      explains that all five patterns connect to challenges throughout the library. Noah studies the constellation
+      puzzle, his analytical brain already working. He touches a floating star and it glows brighter. Click.
+      The first piece slots into place. His expression shows excitement and determination. This is exactly
+      the kind of challenge he loves. The atmosphere celebrates discovery and adventure beginning. Text in
+      Times New Roman 16pt in white space at bottom.
     text: |
-      Noah skidded to the first barrier. The puzzle-lock above it—his puzzle-lock from his sketches—was massive. He'd drawn rotating rings and symbols. Simple. The real version had seven interlocking systems, all interconnected. Beautiful. Terrifying. And breaking apart. The ground shook. More cracks. He had minutes. He looked at his notebook sketches. So simple compared to this. "I wrote this world," he muttered. "But I have to actually solve it." He started mapping the real pattern.
+      "The Library's patterns are scrambled," the owl said. "Solve them all and unlock the Heart Crystal. Stories everywhere will flourish." Noah ran to the first pedestal. Constellation patterns! Stars floated, waiting to be arranged. "If that's the Bear, then the Hunter goes... there!" Click. The pattern glowed. "Yes!" The owl nodded. "But challenges await. Each pedestal connects to trials throughout the library." Noah grinned. "Bring it on."

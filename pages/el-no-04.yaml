@@ -7,40 +7,40 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Elise reaches a crossroads where complex rhythm-paths converge. She meets her cousin Noah and they receive guidance from the Heart Crystal's threads about navigating the dangerous paths ahead.
+description: Cousins Elise and Noah meet at a forest crossroads. The owl guides them toward the Library's outer chambers where harder challenges await.
 
-location: A forest crossroads where multiple rhythm-paths converge beneath an ancient oak, golden threads showing the way forward
+location: A forest crossroads where paths converge beneath an ancient oak, golden threads visible in the air
 
-shared_action: Both study the rhythm-paths and receive guidance about the challenge ahead
+shared_action: Both listen to the owl's guidance about the challenges ahead
 
 dialogue_packets:
   - speaker: noah
     line: "Elise? What are YOU doing here?"
     works_from_pov: [el, no]
   - speaker: elise
-    line: "Noah! You're in Kathaél too?"
+    line: "Noah! I can't believe it's you!"
+    works_from_pov: [el, no]
+  - speaker: owl
+    line: "The paths ahead grow harder. You'll need courage for what comes next."
     works_from_pov: [el, no]
   - speaker: noah
-    line: "The threads are showing us the way. But those paths look dangerous."
-    works_from_pov: [el, no]
-  - speaker: elise
-    line: "We'll figure it out as we go."
+    line: "We can handle it. Right, Elise?"
     works_from_pov: [el, no]
 
 image_alignment:
-  scene_id: crossroads-rhythms-004
+  scene_id: crossroads-guidance-004
   shared_elements:
     - ancient oak tree at center
-    - multiple rhythm-paths converging
-    - golden threads weaving through air showing direction
-    - complex footprint patterns visible on paths
+    - four paths converging
+    - golden threads weaving through air
+    - owl perched on branch
   pov_variants:
     - character_code: el
-      camera_position: behind Elise as she studies paths with Noah arriving
+      camera_position: behind Elise with Noah on opposite side
       focal_character: elise
       background_characters: [noah]
     - character_code: no
-      camera_position: behind Noah as he examines threads with Elise visible
+      camera_position: behind Noah with Elise on opposite side
       focal_character: noah
       background_characters: [elise]
 
@@ -49,28 +49,23 @@ scenes:
     page_number: 11
     focus: Seeking guidance
     visual: |
-      A forest crossroads where six rhythm-paths meet beneath an enormous ancient oak. Each path
-      shows increasingly complex footprint patterns—some with spins, some with leaps, some with
-      intricate sequences. Golden threads weave through the air between branches, pulsing with
-      directional light. Elise stands at the center, studying the patterns, breathing hard from
-      her journey. Noah (12 years old, sandy blond voluminous hair, medium build, blue hoodie,
-      tan sport pants, white sneakers) arrives on another path, surprised to see her. The Heart
-      Crystal is visible in the distance, still cracked and dimming. The paths ahead look
-      dangerous and difficult. Morning mist swirls around their feet.
+      A forest crossroads where four paths meet beneath an enormous ancient oak. Golden threads
+      weave through the air between branches. Noah (12 years old, sandy blond voluminous hair,
+      medium build, blue hoodie, tan sport pants, white sneakers) arrives on one path, following
+      the owl from the library. Elise appears on another path. They face each other across the
+      crossroads in surprise. The owl perches above. Morning mist swirls. The threads pulse gently.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The golden threads led Elise to a crossroads. Six paths met beneath an ancient oak. Each showed footprints more complex than the last. Spins. Leaps. Sequences she'd never tried. Footsteps. "Noah?" Her cousin stood on another path. "Elise? What are YOU doing here?" They stared at each other. "You're in Kathaél too?"
+      The owl led Noah from the library to a crossroads. Golden threads floated between oak branches. Footsteps. Noah looked up. "Elise?" His cousin stood on another path. "What are YOU doing here?" Her eyes went wide. "Noah! I can't believe it's you!"
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
     visual: |
-      The golden threads converge above Noah and Elise, weaving together to illuminate one specific
-      path forward. This path winds into the dark forest, its footprint patterns visible but
-      incredibly complex—showing combinations of spins, leaps, and rapid sequences. The path
-      glows brighter than the others, clearly marking the way they must go. But it also shows
-      warning signs: cracks in the path, gaps that will require perfect timing, sections that
-      pulse with dangerous energy. Both children study it with determination mixed with concern.
-      The threads' golden light illuminates their faces. The path ahead looks genuinely difficult
-      and dangerous.
+      The owl spreads its wings. Noah and Elise listen as it explains. The golden threads behind it
+      weave together, pointing deeper into the dark forest where harder challenges wait. Small light
+      particles drift like fireflies. The path ahead disappears into mysterious shadows. Noah and
+      Elise exchange determined looks. They're family. They'll face this together. But soon the
+      paths will split again. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The golden threads wove together, lighting one path forward. It wound deep into the forest. The footprints showed moves Elise had never tried—spins mid-leap, rapid combinations, sequences that would take everything she had. "The threads are showing us the way," Noah said, studying the pattern. "But those paths look dangerous." Elise nodded. "We'll figure it out as we go." The threads pulsed brighter. The path ahead waited. Soon, the paths would split, and Elise would have to continue alone.
+      "The paths ahead grow harder," the owl said. "The challenges require more. You'll need all the courage you've been learning." Noah grinned. "We can handle it. Right, Elise?" She nodded. The threads pulsed brighter and drifted forward into the dark forest. They followed together. But soon, the paths would split, and each would face their own challenges alone.
