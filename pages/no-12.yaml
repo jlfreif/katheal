@@ -1,37 +1,37 @@
-# Noah - Spread 12: Emotional Resolution
+# Noah - Spread 12: Resolution
 
 id: no-12
 spread: 12
 node_type: solo
-beat: "Resolution (emotional) + series button"
+beat: "Resolution: return and transformation"
 hook: Final moment of reflection showing ongoing connection or meaning.
-payoff: Landing complete - ordinary world echoes opening but transformed.
+payoff: Landing complete - ordinary world echoes opening but character has grown.
 
-description: Noah returns home transformed, writing with trust instead of control.
+description: Noah returns home transformed by the adventure, immediately applies what he learned about teamwork and persistence to his board game design.
 
 scenes:
   - page: left
     page_number: 27
-    focus: Returning to ordinary world
+    focus: Returning home with what was gained
     visual: |
-      Noah's desk. The same setup as the opening. Outlines and character charts still there. But
-      different now. Noah sits down and looks at them. Picks up his detailed plot diagram. Smiles
-      gently. The golden quill from Kathaél rests beside his keyboard, glowing softly. He takes
-      his color-coded plan and sets it aside—not throwing it away, but not letting it control him
-      either. His room the same. But his relationship to control has transformed. His expression
-      is peaceful, open. The atmosphere is letting go.
+      Golden threads gently deposit Noah back in his bedroom. He lands in his desk chair, slightly dizzy.
+      Everything looks the same. Books on shelves. Climbing gear. Basketball trophies. His laptop still open
+      to the video chat (his friend looking confused). The Rubik's cube on his desk. But Noah grins, eyes
+      bright with adventure. He closes the chat with a quick "Gotta go!" His notebook lies open to his board
+      game design. He looks at it with fresh eyes. The atmosphere is ordinary world seen anew. Text in Times
+      New Roman 16pt in white space at bottom.
     text: |
-      Noah sat at his desk. The outlines still there. The character charts. The detailed plans. He looked at them with new eyes. Plans were fine. Guidance was okay. But control? Control killed stories. He set the outline aside. Opened a blank page. The golden quill hummed.
+      Golden threads set Noah down in his chair. His room. His desk. His friend stared from the laptop. "Dude, you okay? You zoned out." Noah laughed. "Yeah. Just had an idea." He closed the chat. Looked at his board game design. The puzzle he'd been stuck on for weeks.
 
   - page: right
     page_number: 28
-    focus: Transformed by the journey
+    focus: Ordinary world transformed by journey's lessons
     visual: |
-      Noah types, and this time when words appear on their own, he lets them. His characters make
-      choices he didn't plan. The plot goes somewhere unexpected. He feels the urge to control,
-      redirect, fix—but he breathes and lets it unfold. The quill glows brighter. Golden threads
-      shimmer on screen. His story is alive, wild, finding its own truth. He laughs with joy and
-      terror. Still uncomfortable. But trusting. Small sparkles drift through his room. The
-      atmosphere celebrates courageous surrender.
+      Noah writes excitedly in his notebook, redesigning his board game. Instead of a solo puzzle, he's making
+      it a team challenge where players must coordinate and communicate. Five different roles. Interconnected
+      patterns. Requires multiple attempts and learning together. His voluminous hair bounces as he works
+      enthusiastically. Through his window, a single golden thread glimmers briefly before fading. He catches
+      it out of the corner of his eye and grins. His ukulele leans nearby. The atmosphere celebrates growth
+      through adventure. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Words flowed. His characters made choices Noah didn't plan. Went places he didn't outline. His hands reached for control—then stopped. Breathed. Let it happen. The quill blazed. Golden threads wove through his words. The story was alive. Messy. Uncertain. Beautiful. "I can't control everything," Noah said, grinning through discomfort. "Some stories need to grow wild. And that's okay. That's trust. That's the deepest courage."
+      Noah grabbed his pen. Not a solo puzzle. A team challenge! Five roles. Interconnected patterns. Players would need to coordinate. Communicate. Try different approaches. Learn together. He sketched furiously, grinning. This was so much better. A golden thread glimmered outside his window, then faded. Noah saw it and smiled. Some adventures you face alone. But the best ones? You solve them together.
