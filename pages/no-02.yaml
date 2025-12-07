@@ -7,40 +7,39 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Noah arrives inside his own story world in Kathaél's forest library and discovers that the collapsing library and puzzle-locks he imagined are real—and far more complex and dangerous than what he wrote.
+description: Noah crashes into Kathaél and discovers stories are dying because they were never allowed to make mistakes, take wrong turns, or fail—strangled by golden chains of "perfect plotting" that came from his own writing.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Noah stumbles through golden light and lands in the forest library from his story—but it's
-      real. Massive ancient trees serve as living shelves, their branches holding glowing books and
-      scrolls. Everything he described is here, but intensely real. And wrong. The ground shakes
-      violently. Cracks spread through stone archways. Shimmering barriers flicker and spark
-      dangerously—exactly like he wrote, but terrifyingly real. Behind the crackling energy barriers,
-      he can see stories trapped, pressing desperately against the shields. Above each barrier floats
-      the puzzle-lock mechanisms from his sketches—gears, symbols, moving pieces—but they're far
-      more intricate than his drawings. Some are already breaking apart. A lock shatters and the
-      barrier collapses—stories scatter into ash. Noah stares in horror. This is his story world.
-      His creation. The atmosphere is awe mixed with urgent danger. Text in Times New Roman 16pt in
-      white space at bottom.
+      Noah crashes into the forest library of Kathaél—a place where stories live as glowing books
+      and scrolls on living tree branches. But it's dying. Books are wrapped in golden chains, pulled
+      so tight the spines crack. Pages curl black and crumble to ash. One book falls at Noah's feet—
+      he opens it. Every page filled with perfect prose, flawless plotting, heroes who never make
+      mistakes. And it's dead. Grey ash inside. He opens another gasping book. Red text scrawled
+      across every page: "MUST GET IT RIGHT" "NO WRONG TURNS ALLOWED" "NEVER MAKE MISTAKES" "PERFECT
+      ON FIRST TRY." The story underneath is suffocating, desperate to try something and fail and try
+      again. But the chains won't let it. A book shatters completely—poof, gone. Noah stares in
+      horror. These chains look exactly like his delete key. The atmosphere is dawning horrified
+      realization. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah crashed through light and landed hard. The forest library. His forest library. The one from his story. But real. Solid ground shook beneath him. Stone cracked—BOOM! Books rattled on living branches. Ahead, the energy barriers he'd imagined trapped hundreds of real stories. The puzzle-locks he'd sketched floated above them, but they were far more complex than his drawings. Another tremor. A lock shattered—the stories inside scattered to ash. "No!" This was his world. His creation. And it was falling apart.
+      Noah landed hard. The forest library stretched before him—but dying. Books wrapped in golden chains, strangling. He grabbed one gasping book. Opened it. Perfect sentences. Flawless plot. Every character doing exactly the right thing. Dead. Ash. Another book, chains cutting into its spine: "NEVER FAIL" "NO MISTAKES" "GET IT RIGHT FIRST TRY" scrawled in angry red across every page. The story underneath clawed at the pages, trying to breathe, trying to TRY. The chains tightened. The book crumbled. Noah's stomach dropped. He knew those chains. He'd written them.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Noah runs to the nearest barrier—about twenty feet high, crackling with unstable energy. The
-      puzzle-lock above it is the one from his notebook, but exponentially more complex. He'd drawn
-      rotating rings with symbols. The real version has multiple interconnected systems—sliding
-      panels with constellation patterns, pressure plates, harmonic sensors, all working together.
-      It's degrading—sparks fly, some symbols are illegible, parts are seized. Behind the barrier,
-      adventure stories pulse desperately—the kind of stories he loves to write. Noah pulls out his
-      notebook, looking at his simple sketches. His story world took his ideas and made them real...
-      and much harder. His expression shows excitement mixed with realization—he has to solve the
-      actual puzzle, not just describe someone solving it. The atmosphere is accepting the challenge.
-      Text in Times New Roman 16pt in white space at bottom.
+      An owl swoops down from a branch, landing on a fallen pillar beside Noah. "Welcome to Kathaél,
+      young writer," it says sadly. "This is where stories come to live. But yours..." It gestures
+      with a wing at the dying books. "You never let them fail. Never let them make mistakes. Never
+      let them try wrong paths. You deleted every misstep, every failure, every messy attempt. So
+      they came here perfect—and perfected to death." Noah stares at his hands. How many scenes had
+      he deleted? How many "failed attempts" had he erased? "Stories need to fail," the owl says
+      gently. "They need to try and fail and try again. That's how they live. That's how they
+      breathe." A nearby book convulses, chains tightening. Noah reaches for it instinctively. His
+      expression shows guilt and determination—this is his fault. He has to fix it. The atmosphere
+      is accepting terrible responsibility. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah skidded to the first barrier. The puzzle-lock above it—his puzzle-lock from his sketches—was massive. He'd drawn rotating rings and symbols. Simple. The real version had seven interlocking systems, all interconnected. Beautiful. Terrifying. And breaking apart. The ground shook. More cracks. He had minutes. He looked at his notebook sketches. So simple compared to this. "I wrote this world," he muttered. "But I have to actually solve it." He started mapping the real pattern.
+      An owl landed beside him. "You're a writer," it said. "These are your stories. You never let them fail, did you? Never let characters make mistakes or take wrong paths. You deleted every messy attempt." Noah's throat tightened. Every time he'd hit delete. Every "failed attempt" he'd erased. "Stories need to fail," the owl said. "They need to try wrong things. Learn. Struggle. You gave them perfection. Perfection is death." A book nearby shattered to ash. "How do I fix this?" Noah asked. The owl looked at him. "Can you let them be imperfect?"

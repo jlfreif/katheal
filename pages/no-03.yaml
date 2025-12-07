@@ -7,37 +7,40 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah tries to solve the puzzle the way he wrote it in his story, but his fictional solution doesn't work in the real story world—it's far more complex than he imagined.
+description: Noah tries to "save" the stories by giving them the correct path forward and showing them how to succeed, but this creates NEW chains—his "helping" is just more control, more perfectionism in disguise.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Noah leaps up and grabs the puzzle-lock mechanism, using his climbing skills to pull himself
-      up. In his story, he wrote: "The hero rotated the outer ring to match star with moon, then
-      the inner ring to align sun with comet, and the lock opened." He tries exactly that—hanging
-      with one hand while manipulating the rings with the other. Star to moon—click. Sun to comet—
-      click. Yes! Just like he wrote it! He drops down, confident. The lock glows brighter. He did
-      it! His expression shows excited confidence—he created this world, he knows how it works. The
-      atmosphere is initial success. Text in Times New Roman 16pt in white space at bottom.
+      Noah kneels beside a story that's still fighting to survive—a tale about a girl trying to
+      find her way home. It's wrapped in chains but struggling. The pages show her standing at a
+      crossroads, uncertain which path to take. Noah reaches out with glowing hands (he can affect
+      stories here as their author). "I can help you," he says. "I'll show you the right path. You
+      don't need to waste time on wrong turns." He channels golden light into the book, mapping out
+      the correct route, the perfect choices, the path with no mistakes. "There," he says
+      confidently. "Now you can succeed without all that messy failing." The story glows brighter
+      under his touch. He's helping! He's fixing it! His expression shows determined compassion—he's
+      solving the problem. The atmosphere is well-intentioned control. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      Noah jumped and caught the lock mechanism, swinging himself up. He knew this puzzle—he'd written it! "The hero rotated the outer ring, star to moon." Click. "Then the inner ring, sun to comet." Click. Perfect! Just like in his story. He dropped down, grinning. "I created this. I know how—"
+      Noah grabbed a struggling story—a girl lost, trying to find her way home. Chains wrapped tight but it still fought. He could feel the story's uncertainty: which path? Golden light poured from his hands. "I'll help you," he said. "I'll show you the right way. You don't need to try every wrong path. Here—" He sketched the correct route into the pages. The perfect choice. No mistakes needed. "There. Now you can get home without failing." The story blazed brighter. He was helping!
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The puzzle-lock flares angry red and resets with a harsh grinding noise. Worse—the barrier
-      pulses and contracts violently, squeezing the trapped stories. They flutter in panic. The
-      ground shakes harder. New cracks spread. Noah stumbles back, shocked. That should have worked!
-      That's how he wrote it! A small owl swoops down from a nearby branch. "Your written version
-      was simpler," it says gently. "This is the real Kathaél. The puzzle has seven systems, not
-      two. They work together in ways you didn't imagine when you were just writing words." Noah
-      stares at his notebook, then at the massive mechanism. He'd written a simple puzzle. His story
-      world had created something far more complex. His expression shows surprise and humility—
-      creating a world on paper and solving real problems in it are completely different. The
-      atmosphere is the realization that knowing the author's intent isn't enough. Text in Times New
-      Roman 16pt in white space at bottom.
+      New golden chains erupt from Noah's "help"—wrapping around the story even tighter. The book
+      convulses, gasping worse than before. Noah stumbles back in horror. His "solution" created
+      MORE chains. The pages now show the girl walking a golden path—but she's not really choosing,
+      not really trying, not really alive. Just following the route Noah gave her. Lifeless. The
+      story is dying faster now. Other stories Noah "helped" the same way are also sprouting new
+      chains: "Must follow this path" "Must make these choices" "Must succeed this way." The owl
+      swoops down, shaking its head sadly. "You're still controlling them, Noah. Still telling them
+      the 'right' way. That's just more chains. Stories don't need your perfect solutions. They need
+      permission to try and fail and try again on their own." Noah stares at his hands in horror—he
+      made it worse. The atmosphere is devastating realization that good intentions aren't enough.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The mechanism flared red. Grinding. Resetting. The barrier contracted—crushing the stories. "No! But that's how I wrote it!" An owl swooped down, landing nearby. "You wrote a simpler version," it said kindly. "Kathaél took your ideas and made them real. This lock has seven systems. Your story only described two." Noah looked up at the mechanism. Seven systems? He'd only imagined a simple puzzle. His world had grown beyond his words. "Show me," he said, notebook ready. "I need to learn how my own world actually works."
+      Golden chains exploded from Noah's "help"—wrapping tighter around the story. The girl on the pages walked the path he'd given her, but lifeless. Not choosing. Not trying. Just obeying. The story gasped, dying faster. Noah jerked back. "No! I was helping!" More chains wrapped around every story he'd "fixed." The owl landed beside him. "You're still controlling them. Still giving them the 'right' answers. That's the same as deletion—just prettier." Noah looked at his hands. "What do I do?" "Stop helping," the owl said. "Start letting go."

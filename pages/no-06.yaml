@@ -7,41 +7,40 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: After multiple attempts at solving the locks, Noah discovers that his story world has created connections between puzzles that he never wrote—the world grew beyond his imagination.
+description: Noah watches a story that a writer allowed to fail and try again—messy, uncertain, taking wrong turns—and it blooms with life, teaching him that freedom to fail is what stories need, not perfect plotting.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      Noah stands exhausted in the center of the library, surrounded by five different barrier-
-      puzzles he's been working on. His notebook is filled with new sketches—far more detailed than
-      his original story outlines. He's tried approaching them like he wrote them (failed), reverse
-      engineering his own fictional logic (failed), even improvising completely new solutions
-      (partial success but triggered defenses). Sweat drips down his face. His muscles ache from
-      climbing. The ground keeps shaking. More barriers collapse in the distance—parts of his story
-      world dying. He flips through his notebook comparing his original simple sketches to the
-      complex reality. Twenty-three attempts across five locks. His story world isn't following his
-      plot. It's become something more. The owl watches from above. Noah's expression shows
-      exhaustion but determination—he won't give up on his own creation. The atmosphere is persistent
-      effort despite being overwhelmed. Text in Times New Roman 16pt in white space at bottom.
+      Noah sits exhausted among the dying stories, surrounded by books he tried to "help" that are
+      now wrapped in even more chains. His hands shake. Everything he does makes it worse. The owl
+      watches patiently. Nearby, Noah spots one story that's still alive—truly alive, glowing with
+      vibrant color and energy. It has no chains. Noah crawls over to it, desperate to understand.
+      He opens the book. The pages are messy. The hero takes a wrong path—realizes it's wrong—
+      backtracks—tries a different way. Fails. Tries again. Makes mistakes. Learns. Stumbles forward.
+      Nothing is perfectly plotted. The story is uncertain about what happens next. And it's
+      beautiful. Alive. Breathing. Noah stares. Every instinct screams to "fix" it, to show the
+      character the right path, to delete the failures. His hands hover over the pages, trembling.
+      The atmosphere is agonizing restraint. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah's fifth attempt on the second barrier—failed. He dropped to the ground, breathing hard. His arms burned. His brain buzzed from tracking seven systems at once. Behind him, another barrier collapsed. More of his story world lost. He grabbed his notebook. Twenty-three attempts. His original sketches looked so simple now. "I created this world," he muttered, "but it doesn't work the way I wrote it. It's become something more."
+      Noah sat among the dying stories he'd "helped." Everything he touched got worse. His hands shook. Nearby—a story that glowed with life. Really alive. No chains. He grabbed it, desperate. Opened the pages. The hero tried a path—wrong. Backtracked. Tried another—failed. A third attempt. Messy. Uncertain. Learning through mistakes. Noah's fingers twitched. Every instinct screamed: fix it. Show the right way. Delete the failures. Make it perfect. His hands hovered over the messy pages, trembling. "Don't," the owl whispered.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      Noah suddenly freezes, notebook open to his original story outline. Wait. In his story, he
-      wrote about ONE hero solving puzzles. But the symbols on the locks—Bear, Hunter, Arrow—they're
-      telling a story together across multiple barriers. His world took his simple idea and expanded
-      it. The locks aren't separate puzzles like he planned. They're one giant interconnected story
-      that Kathaél created from his original concept. He scrambles up, looking at all the visible
-      locks throughout the library. His story world built something far more beautiful and complex
-      than what he imagined. You have to solve them as a group, watching how changes in one affect
-      the others. It's the hardest, most amazing puzzle he's ever seen—and he inspired it, even if
-      he didn't fully create it. His expression shows wonder and breakthrough excitement. The
-      atmosphere celebrates the creator discovering his creation surpassed his vision. Text in Times
-      New Roman 16pt in white space at bottom.
+      Noah forces his hands down. Doesn't touch. Just watches. The story continues—the hero tries a
+      fourth approach, fifth, makes mistakes, learns from each failure, stumbles forward. And
+      suddenly—breakthrough. Not because someone told them the answer. Because they tried enough
+      wrong things to figure out the right thing. The story blazes brilliant gold, completely alive.
+      Other stories around it that were freed the same way—allowed to fail, allowed to try—weave
+      through the air in joyous spirals. Each one different. Each one messy. Each one earned through
+      trial and error. None of them perfect. All of them alive. Noah's eyes widen with revelation.
+      "They don't need me to plot their path," he breathes. "They need me to let go. To let them try
+      and fail and try again. That's how stories live." His expression shows breakthrough
+      understanding mixed with fear—can he actually do that? The atmosphere celebrates earned
+      freedom. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah's eyes caught on the symbols. Bear. Hunter. Arrow. Three different locks telling one story. "Wait..." He looked at his outline. He'd written about separate puzzles. But Kathaél had connected them—his world had grown beyond his imagination. The locks weren't isolated. They were one massive story his world had built from his simple idea. More complex and beautiful than he'd planned. "Oh," he breathed, grinning through exhaustion. "My world is smarter than my outline. Let's solve what Kathaél actually created."
+      Noah watched. Didn't touch. Didn't fix. Just watched the story try and fail and try again. Fifth attempt. Sixth. Learning from each mistake. And then—click. The hero found the answer. Not because Noah gave it to them. Because they tried enough wrong things to discover the right thing. The story blazed gold, fully alive. Around it, other freed stories danced—all messy, all imperfect, all trying and failing and living. "They don't need my perfect plotting," Noah whispered. "They need permission to fail." The owl nodded. "Now you understand. Can you let go?"
