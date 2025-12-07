@@ -7,35 +7,38 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Elise enters Kathaél and discovers broken rhythm-paths that pulse with faint music. She meets her cousin Micah and together they try to reactivate the paths through movement.
+description: Elise and Micah arrive at the Library of Lost Patterns and discover the musical notes and physical mechanisms pedestals, realizing the challenges ahead require their unique skills.
 
-location: A clearing in Kathaél where glowing rhythm-paths lie broken and dark, pulsing with faint beats
+location: The central chamber of the Library where the five pedestals surround the Heart Crystal
 
-shared_action: Both characters try to reactivate the rhythm-paths by dancing on them
+shared_action: Both examine the pedestals and realize the scope of the challenge
 
 dialogue_packets:
   - speaker: micah
-    line: "The paths are broken. Nothing's moving."
+    line: "Elise? You're here too?"
     works_from_pov: [el, mi]
   - speaker: elise
-    line: "Maybe if we dance on them, they'll light up again?"
+    line: "Micah! I can't believe it!"
+    works_from_pov: [el, mi]
+  - speaker: micah
+    line: "Look at all these pedestals. This is huge."
     works_from_pov: [el, mi]
 
 image_alignment:
-  scene_id: rhythm-paths-002
+  scene_id: library-pedestals-002
   shared_elements:
-    - broken glowing pathways on the ground
-    - faint pulses of light and rhythm
-    - golden threads connecting paths
-    - clearing surrounded by luminous trees
-    - distant Heart Crystal visible
+    - five pedestals in a circle
+    - massive Heart Crystal at center
+    - ancient trees with glowing books
+    - floating scrolls chiming
+    - golden threads connecting everything
   pov_variants:
     - character_code: el
-      camera_position: behind Elise as she steps onto a rhythm-path
+      camera_position: showing Elise at the musical notes pedestal
       focal_character: elise
       background_characters: [micah]
     - character_code: mi
-      camera_position: behind Micah as he jumps on a rhythm-path
+      camera_position: showing Micah at the physical mechanisms pedestal
       focal_character: micah
       background_characters: [elise]
 
@@ -44,30 +47,28 @@ scenes:
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Elise steps from the mirror into a vast forest clearing. The ground beneath her is covered
-      with glowing pathways that look like dance floors—shimmering surfaces marked with footprint
-      patterns that pulse faintly with rhythm. But most of the paths are dark and broken, their
-      light flickering weakly. Golden threads connect the paths to each other and to a massive
-      crystal structure visible in the distance through the trees (the Heart Crystal), cracked
-      and dimming. Elise (9 years old, long brown hair, slim, wearing black leggings and light
-      pink t-shirt, white sneakers) stands at the clearing's edge, her expression showing wonder
-      mixed with determination. The air hums with a faint, broken beat. Micah (9 years old, black
-      hair, athletic, wearing grey t-shirt and black shorts) runs into the clearing from another
-      path, skidding to a stop when he sees her. Morning light filters through the trees.
+      Elise steps through golden light into the magnificent Library of Lost Patterns. Ancient trees
+      with glowing books on branches rise around her. Floating scrolls chime like wind chimes. Books
+      flutter playfully past. In the center, five pedestals surround the massive Heart Crystal, cracked
+      and dimming. The musical notes pedestal glows with rhythmic pulses. Elise (9 years old, long brown
+      hair, slim, wearing black leggings and light pink t-shirt, white sneakers) stands in awe. Running
+      footsteps. Micah (9 years old, black hair, athletic, wearing grey t-shirt and black shorts) bursts
+      into the chamber from another golden doorway, skidding to a stop when he sees her. Their eyes
+      meet in surprise and delight. The atmosphere is wonder meeting family. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      One step through the mirror took Elise from her bedroom into a glowing forest. Rhythm-paths stretched across the clearing like dance floors, marked with footprints that pulsed faint beats. But half the paths lay dark and broken. In the distance, a massive crystal cracked louder. Footsteps. "Micah?" Her cousin skidded to a stop. "Elise? You're here too?" He grinned. "The paths are broken," he said. "Nothing's moving."
+      Elise stepped through golden light into the Library of Lost Patterns. Ancient trees glowed with books. Scrolls chimed. Five pedestals surrounded a massive crystal. Running footsteps. "Micah?" Her cousin burst in from another doorway. "Elise? You're here too?" They grinned at each other. "Look at all these pedestals," Micah said, eyes wide. "This is huge."
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Elise steps onto the nearest rhythm-path, her white sneakers hitting the glowing footprints.
-      She starts to move—a sharp pop-and-lock sequence, feet hitting the beats. The path flickers
-      brighter where she steps, but dims again behind her. Micah jumps onto another path, trying
-      a running leap across the footprints. His path glows faintly then fades. Both are moving
-      fast, testing different approaches, but the paths stay mostly dark. Sweat beads on Elise's
-      forehead. The golden threads pulse weakly, responding but not fully activating. In the
-      distance, more broken paths stretch through the forest, waiting. The air vibrates with
-      incomplete rhythm. Their expressions show determination mixed with frustration.
+      Elise and Micah stand before their respective pedestals. Elise examines the musical notes pedestal
+      where glowing notes float and chime. Micah studies the physical mechanisms pedestal with its gears
+      and levers. The owl swoops down between them. "The Library's patterns are breaking," it explains.
+      "Each pedestal needs someone with special skills. Can you help?" Elise and Micah exchange looks
+      across the chamber. They're cousins, family, and now teammates in this challenge. Both nod. Golden
+      threads pulse, leading deeper into the Library where their individual challenges await. The Heart
+      Crystal hums weakly behind them. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      "Maybe if we dance on them, they'll light up again?" Elise stepped onto a path. Her feet hit the glowing footprints—boom, tap, step. The path flickered brighter, then dimmed. Micah jumped onto another path, running the pattern. It glowed, then faded. They tried faster. Harder. The paths flickered but wouldn't hold. Elise wiped sweat from her forehead. "We're missing something."
+      The owl appeared. "The Library's patterns are breaking. Each pedestal needs someone special. Can you help?" Elise looked at the musical notes. Micah studied the mechanisms. They glanced at each other across the chamber. Cousins. Family. Teammates now. "We can try," Elise said. Micah nodded. "Let's do this." Golden threads pulsed brighter, leading them forward.

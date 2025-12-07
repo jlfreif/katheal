@@ -8,7 +8,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Elise practices her pop and hip-hop dance routine in her room when golden threads appear in her mirror, showing a forest with broken rhythm-paths that need movement to be restored.
+description: Elise practices her pop and hip-hop dance routine in her room when golden threads appear, weaving themselves into musical notes that invite her to the Library of Lost Patterns.
 
 scenes:
   - page: left
@@ -22,21 +22,22 @@ scenes:
       precision, feet hitting the floor in staccato rhythms. She spins, drops into a crouch, then
       springs up with arms extended. Stuffed animals sit on her bed watching. Dance posters cover
       the walls. Her expression shows focus and joy, completely absorbed in the movement. The
-      wooden floor vibrates slightly under her steps. The room feels safe and familiar.
+      wooden floor vibrates slightly under her steps. The room feels safe and familiar. Text in
+      Times New Roman 16pt in white space at bottom.
     text: |
-      Elise's feet hit the floor—boom, boom, tap. Her body moved sharp then smooth, popping and locking through the routine. The afternoon belonged to her and the rhythm in her bones.
+      Elise's feet hit the floor. Boom, boom, tap. Her body moved sharp then smooth, popping and locking through the routine. The mirror showed her reflection dancing. Perfect form. Perfect rhythm. She spun, dropped low, sprang up. The afternoon belonged to her and the beat in her bones.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      Elise mid-spin when she notices something in the mirror that isn't her reflection. Behind
-      her reflected image, golden light ripples across the glass like water. She freezes in
-      position, one arm still extended, staring at the mirror with wide eyes. The golden shimmer
-      forms threads that pulse and weave. But through them, she can see a forest where glowing
-      pathways lie broken and dark—paths that look like they need movement, need rhythm, need
-      someone to dance them back to life. Her room looks normal, but in the mirror, the broken
-      rhythm-paths call to her. She reaches toward the glass, fingertips touching the cool surface.
-      The mirror ripples. The atmosphere crackles with possibility and challenge.
+      Golden threads suddenly swirl through Elise's room, weaving through the air to create glowing
+      musical notes that hang suspended. Quarter notes. Eighth notes. Whole notes. They pulse and
+      chime with different tones, creating a melody. The threads spell out words in the air: "THE
+      LIBRARY OF LOST PATTERNS NEEDS RHYTHM." A doorway forms, shimmering with golden light and
+      musical harmonies. Through it, Elise glimpses ancient trees with books on branches and floating
+      scrolls that chime like wind chimes. Her expression shows excitement mixed with wonder. This is
+      music she can move to, a challenge she can dance. The atmosphere crackles with invitation. Text
+      in Times New Roman 16pt in white space at bottom.
     text: |
-      Then the mirror shimmered gold. Through the threads, Elise saw a forest where glowing paths lay broken and dark. Paths that looked like they needed rhythm. Needed someone to move. She touched the glass. It rippled like water. The broken paths pulsed, calling. Elise stepped through.
+      Golden threads swirled through her room. Weaving notes in the air. They chimed together, creating a melody. The threads spelled out: "THE LIBRARY OF LOST PATTERNS NEEDS RHYTHM." A doorway formed, glowing gold, filled with music. Elise's heart leaped. This was a rhythm she could feel. A beat she could follow. She grabbed her sneakers. "Yes!"

@@ -7,33 +7,35 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Micah faces a creature in a fun action battle, then meets Maya after his victory.
+description: Micah faces a mechanical guardian in a fun action battle that requires alternating speed and stillness.
 
 scenes:
   - page: left
     page_number: 17
     focus: Fun action scene with creature
     visual: |
-      A creature made of wind and golden branches blocks the path to the next platform course.
+      A guardian made of wind and golden gears blocks the path through the Library's mechanical chamber.
       It's dynamic and beautiful—constantly shifting between lightning-fast movement and complete
-      stillness. The creature lunges at Micah with whip-quick tendrils. Micah dodges left, rolls,
-      comes up running. The creature freezes completely still. Micah mirrors it, freezing too.
-      Then it bursts forward again. Micah's expression shows intense focus and excitement—this is
-      the most intense game of freeze tag ever. His body is in dynamic motion, showing his parkour
-      skills. The atmosphere is high-energy action, fun and challenging, like a dance battle.
+      stillness. The guardian lunges at Micah with whip-quick gear-tendrils. Micah dodges left, rolls,
+      comes up running. The guardian freezes completely still. Micah mirrors it, freezing too. Then it
+      bursts forward again. Micah's expression shows intense focus and excitement—this is the most
+      intense game of freeze tag ever. His body is in dynamic motion mid-dodge, showing his parkour
+      skills. The atmosphere is high-energy action, fun and challenging, like a dance battle. Text in
+      Times New Roman 16pt in white space at bottom.
     text: |
-      A creature made of wind and golden branches blocked the next course. It moved in bursts—lightning fast, then completely still. It lunged at Micah. He dodged, rolled, came up running. It froze. He froze. It burst forward again. Micah mirrored it, moving when it moved, pausing when it paused. This was the most intense game of freeze tag he'd ever played.
+      A guardian made of wind and golden gears blocked the next course. It moved in bursts—lightning fast, then completely still. It lunged at Micah. He dodged, rolled, came up running. It froze. He froze. It burst forward again. Micah mirrored it, moving when it moved, pausing when it paused. This was the most intense game of freeze tag he'd ever played.
 
   - page: right
     page_number: 18
-    focus: Victory but tired, meeting Maya
+    focus: Victory but tired
     visual: |
-      Micah matches the creature's rhythm perfectly—sprint, freeze, sprint, freeze—until he
-      reaches its glowing center crystal. He touches it and the creature dissolves into peaceful
-      golden light. A girl with dark curly hair (Maya) stands behind where the creature was,
-      grinning and impressed. Micah is breathing hard, hands on his knees, clearly exhausted but
-      triumphant. His expression shows tired satisfaction—he won but it took effort. Maya looks
-      energetic and friendly. The atmosphere shows victory earned through genuine effort, plus
-      the warmth of a new friendship.
+      Micah matches the guardian's rhythm perfectly—sprint, freeze, sprint, freeze—until he reaches
+      its glowing center crystal. He touches it and the guardian dissolves into peaceful golden light
+      that flows back into the Library's mechanisms. Micah is breathing hard, hands on his knees,
+      clearly exhausted but triumphant. His expression shows tired satisfaction—he won but it took
+      effort. Through the archway ahead, the physical mechanisms pedestal glows in its chamber, waiting
+      for him. But he needs to catch his breath first. Books flutter approvingly around him. The
+      atmosphere shows victory earned through genuine effort. Text in Times New Roman 16pt in white
+      space at bottom.
     text: |
-      Micah matched the creature's rhythm—sprint, freeze, sprint, freeze. He reached its center and touched the glowing crystal there. The creature dissolved into light, peaceful. A girl with dark curly hair stood behind where it had been. "Nice moves!" Maya said, grinning. "I'm Maya." Micah was breathing hard, hands on his knees. "Micah. And that was EXHAUSTING. Did NOT expect a boss battle in a magical forest today." Maya laughed.
+      Micah matched the guardian's rhythm—sprint, freeze, sprint, freeze. He reached its center and touched the glowing crystal there. The guardian dissolved into light, peaceful. Micah dropped to his hands and knees, breathing hard. Completely exhausted. "Did NOT expect a boss battle in a magical library today," he muttered, grinning. But ahead, the physical mechanisms pedestal glowed, calling him forward. Almost there.

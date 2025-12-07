@@ -7,34 +7,34 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Micah studies the platform patterns, trying to time his movements mathematically, but discovers the course adapts.
+description: Micah studies the mechanical patterns, trying to time his movements precisely, but discovers the Library adapts.
 
 scenes:
   - page: left
     page_number: 11
     focus: Seeking guidance
     visual: |
-      Micah sits on the ground studying the platform course carefully, watching the patterns of
-      movement. The platforms move in sequences—three seconds stable, then shift. He counts on
-      his fingers, watches timing, analyzes the rhythm like solving a puzzle. The silver fox sits
-      nearby, tail swishing patiently. Micah's expression shows focused concentration—using his
-      brain as well as his body. Around him, glowing markers show the timing patterns he's
-      identifying. The atmosphere shows problem-solving intelligence—treating the challenge as
-      a puzzle to crack.
+      Micah sits on a platform in the Library studying the mechanical course carefully, watching the
+      patterns of movement. The gears move in sequences—three seconds stable, then shift. He counts on
+      his fingers, watches timing, analyzes the rhythm like solving a puzzle. The silver fox sits nearby,
+      tail swishing patiently. Micah's expression shows focused concentration—using his brain as well
+      as his body. Around him, glowing markers show the timing patterns he's identifying. Floating
+      scrolls chime softly. The atmosphere shows problem-solving intelligence—treating the challenge
+      as a puzzle to crack. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Micah studied the course from the ground. The platforms moved in patterns—he could see that. Three seconds stable, then shift. He could time it. He started counting, watching, memorizing the rhythm. The fox's tail swished once. Micah nodded. "I've got this. It's just math."
+      Micah studied the course from his platform. The mechanisms moved in patterns—he could see that. Three seconds stable, then shift. He could time it. He started counting, watching, memorizing the rhythm. The fox's tail swished once. Micah nodded. "I've got this. It's just math."
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
     visual: |
-      Micah runs the course again with perfect timing—counting, jumping at exact intervals. He
-      makes it halfway through successfully, platforms glowing as he crosses. His expression shows
-      triumph. But then the pattern suddenly changes. The platforms switch to a new rhythm. New
-      obstacles appear. The balance beam splits into three paths. The rope swing moves to a
-      different location. Micah freezes mid-course, shocked. The fox tilts its head. A stone
-      marker nearby glows with mysterious words: "Time moves. You must move with it. But moving
-      isn't always movement." The atmosphere shows escalating difficulty—the challenge just got
-      harder.
+      Micah runs the course again with perfect timing—counting, jumping at exact intervals. He makes
+      it halfway through successfully, mechanisms glowing as he crosses. His expression shows triumph.
+      But then the pattern suddenly changes. The mechanisms switch to a new rhythm. New obstacles appear.
+      The balance beam splits into three paths. The gear system moves to a different location. Micah
+      freezes mid-course, shocked. The fox tilts its head. A carved marker nearby glows with mysterious
+      words: "Time moves. You must move with it. But moving isn't always movement." The atmosphere shows
+      escalating difficulty—the challenge just got harder. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      Micah ran the course again, timing every move perfectly. Jump. Three counts. Shift. Jump. It worked! He made it halfway through before the pattern changed. The platforms switched to a new rhythm. "Oh, come ON!" he shouted. The fox tilted its head. Beside it, a stone marker glowed with words: "Time moves. You must move with it. But moving isn't always movement."
+      Micah ran the course again, timing every move perfectly. Jump. Three counts. Shift. Jump. It worked! He made it halfway through before the pattern changed. The mechanisms switched to a new rhythm. "Oh, come ON!" he shouted. The fox tilted its head. Beside it, a carved marker glowed with words: "Time moves. You must move with it. But moving isn't always movement."

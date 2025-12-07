@@ -7,35 +7,38 @@ beat: "Resolution (emotional) + series button"
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Elise returns to her room transformed, dancing with newfound power, confidence, and the golden wristband from Kathaél.
+description: Elise returns to her room transformed, dancing with newfound power, confidence, and the golden wristband from the Library of Lost Patterns.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
     visual: |
-      Elise's bedroom, the same mirror and space as the opening, but seen differently now.
-      Afternoon light still streams through the window. Elise stands before the mirror, watching
-      as the golden threads fade from view, the forest path closing behind her reflection. She's
-      back in the same starting position as the first page, but her posture is different—more
-      relaxed, more centered, more herself. Her expression shows quiet confidence. The mirror
-      reflects just her now, but she can still feel the warmth of where she's been. Her stuffed
-      animals seem to watch with knowing smiles. The room feels simultaneously familiar and
-      transformed, ordinary but touched by magic.
+      Elise's bedroom, the same mirror and space as the opening, but seen differently now. Afternoon
+      light still streams through the window. Elise stands before the mirror, watching as golden
+      threads fade from view, the Library closing behind her reflection. She's back in the same
+      starting position as the first page, but her posture is different—more relaxed, more centered,
+      more herself. Her expression shows quiet confidence. The mirror reflects just her now, but she
+      can still feel the warmth of where she's been. The golden wristband pulses softly on her wrist,
+      glowing blue. Her stuffed animals seem to watch with knowing smiles. The room feels
+      simultaneously familiar and transformed, ordinary but touched by magic. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      The golden threads led them back. Through the forest. Through the mirror. Elise stepped into her room. Everything looked the same. Same mirror. Same posters. Same light. But she wasn't the same. The golden wristband pulsed softly on her wrist, glowing blue. She lifted her arms to the mirror. Ready to dance again.
+      The golden threads led them back. Through the Library. Through ancient trees with books on branches. Through the mirror. Elise stepped into her room. Everything looked the same. Same mirror. Same posters. Same light. But she wasn't the same. The golden wristband pulsed softly on her wrist, glowing blue. She lifted her arms to the mirror. Ready to dance again.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
     visual: |
       Elise dances with newfound power and freedom, moving across her room with abandon. Her
-      movements are sharper, stronger, more confident than before—powerful technique mixed with
-      pure joy. She nails a triple spin that she couldn't do before, then adds a silly wiggle.
-      She laughs as she dances. The golden wristband on her wrist glows softly with blue light.
-      In the mirror, golden threads appear faintly for just a moment, dancing with her—a connection
-      to Kathaél that hasn't faded. Her whole being radiates strength and joy. Small sparkles of
-      light drift through her ordinary room like magic leaking through. Her expression shows pure
-      happiness and confidence. The scene feels triumphant but grounded, magical but real.
+      movements are sharper, stronger, more confident than before—powerful technique mixed with pure
+      joy. She nails a triple spin that she couldn't do before, then adds a silly wiggle. She laughs
+      as she dances. The golden wristband on her wrist glows softly with blue light. In the mirror,
+      golden threads appear faintly for just a moment, dancing with her—a connection to the Library
+      that hasn't faded. Musical notes shimmer briefly in the air, echoes of her pedestal. Her whole
+      being radiates strength and joy. Small sparkles of light drift through her ordinary room like
+      magic leaking through. Her expression shows pure happiness and confidence. The scene feels
+      triumphant but grounded, magical but real. Text in Times New Roman 16pt in white space at
+      bottom.
     text: |
-      Elise spun—triple rotation, perfect—then added a silly wiggle because it felt right. Stronger now. More powerful. The golden wristband glowed on her wrist. In the mirror, golden threads danced with her for just a heartbeat, then faded. Kathaél lived in every choice—technique plus joy. She laughed, throwing her arms wide. "This is my courage."
+      Elise spun—triple rotation, perfect—then added a silly wiggle because it felt right. Stronger now. More powerful. The golden wristband glowed on her wrist. In the mirror, golden threads danced with her for just a heartbeat, then faded. The Library lived in every choice—technique plus joy. She laughed, throwing her arms wide. "This is my courage."

@@ -7,33 +7,36 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Micah discovers the bigger stakes as he sees Kathaél failing, then meets his cousin Noah who shares insights about the platforms.
+description: Micah discovers the bigger stakes as he sees the Library failing, then ventures deeper to find more mechanical challenges.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      Micah follows golden threads deeper into Kathaél's forest. More platform courses stretch
-      in every direction, all of them flickering and fading, broken and dark. In the distance,
-      the massive Heart Crystal looms—bigger than he realized, with visible cracks spreading like
-      spiderwebs across its surface. A flower nearby withers to ash before his eyes. Birds fall
-      silent. The air feels heavy and wrong. Micah's expression shows concern—this is serious.
-      The atmosphere conveys genuine stakes—if the crystal fails, everything fails. This isn't
-      just a fun challenge anymore.
+      Micah follows golden threads deeper into the Library's mechanical chambers. More courses stretch
+      in every direction, all of them flickering and fading, broken and dark. Ancient gears rust and
+      freeze. Pulleys hang limp. In the distance through Library windows, the massive Heart Crystal
+      looms—bigger than he realized, with visible cracks spreading like spiderwebs across its surface.
+      A flower nearby withers to ash before his eyes. Birds fall silent. The air feels heavy and wrong.
+      Micah's expression shows concern—this is serious. The atmosphere conveys genuine stakes—if the
+      crystal fails, everything fails. This isn't just a fun challenge anymore. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      Micah followed golden threads deeper into Kathaél. More courses stretched in every direction, all broken, all dark. The Heart Crystal loomed ahead, bigger than he'd realized, cracks spreading like spiderwebs. A flower nearby withered to ash. The air felt wrong. This wasn't just about one course. If the crystal failed, everything failed. Micah's stomach tightened.
+      Micah followed golden threads deeper into the Library. More mechanical courses stretched in every direction, all broken, all dark. Ancient gears rusted and froze. The Heart Crystal loomed ahead, bigger than he'd realized, cracks spreading like spiderwebs. A flower nearby withered to ash. The air felt wrong. This wasn't just about one course. If the crystal failed, everything failed. Micah's stomach tightened.
 
   - page: right
     page_number: 14
-    focus: Encountering Noah
+    focus: Encountering misleading help
     visual: |
-      Micah's cousin Noah steps out from behind a tree—sandy hair messy, looking exhausted but
-      determined. Both boys stare at each other in surprise and recognition. "Noah?! What are
-      YOU doing here?" Noah gestures at the broken platforms around them, equally surprised to
-      see Micah. They're both in Kathaél, both trying to fix things. Family reunion in an
-      impossible magical forest. In the background, more broken courses flicker. Micah's expression
-      shows surprise mixed with relief—he's not alone. Noah looks tired but hopeful. The
-      atmosphere shows connection and shared purpose.
+      A smooth-talking raven lands on a mechanism, its feathers gleaming black. "These mechanisms are
+      too complex," it says confidently. "But I know the trick. Just move faster. Speed solves
+      everything." The raven demonstrates—rushing through a course at breakneck pace, barely touching
+      the mechanisms. For a moment it seems to work! But then the mechanisms SHATTER from the force,
+      crumbling into broken pieces. The raven tumbles into darkness with a startled cry. Micah jumps
+      back from the edge. The golden threads pulse brighter, pointing toward mechanisms that require
+      both speed AND stillness. Micah's expression shows shaken realization. There are no shortcuts.
+      The atmosphere shows the danger of false solutions. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      "Micah?" Another familiar voice. His cousin Noah stepped out from behind a tree, sandy hair messy, looking exhausted. "Noah?! Dude, what are you doing here?" Noah gestured at the broken platforms. "Trying to save this place. It's harder than it looks." Micah laughed. "Tell me about it. I keep getting reset." They compared notes. Noah had noticed something. "The platforms don't just move. They react to how you move."
+      A raven landed nearby. "These mechanisms are too complex. Just move faster. Speed solves everything." It rushed through a course at breakneck pace. For a moment it worked! Then the mechanisms SHATTERED from the force. The raven fell into darkness. Micah's heart pounded. The golden threads pointed at mechanisms that needed both—speed AND stillness. No shortcuts. Only the real answer.

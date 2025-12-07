@@ -9,33 +9,33 @@ beat: "Attempt #2: Ask the expert / strategic approach"
 hook: Character tries a more thoughtful, analytical approach.
 payoff: Even the strategic approach fails because the challenge adapts.
 
-description: Max studies the course, looking for patterns and timing, but discovers the course actively adapts and learns.
+description: Max studies the sequences more carefully, looking for meta-patterns, but discovers the Library actively adapts and learns.
 
 scenes:
   - page: left
     page_number: 11
     focus: Seeking guidance through analysis
     visual: |
-      Max circles the obstacle course, studying it carefully. He pulls out his phone, taking
-      notes or recording observations. He's analyzing the rotating handholds, watching their
-      pattern. His expression is focused and thoughtful - this is Max using his puzzle-solving
-      brain. Around him we can see the course's patterns: handholds rotating in sequence, beams
-      moving in rhythm. Max is treating this like a math problem to solve. The fox watches with
-      interest. The atmosphere is analytical, strategic. Text in Times New Roman 16pt font in
-      white space at bottom.
+      Max circles the mathematical sequences, studying them from different angles in the Library. He
+      pulls out his phone, taking notes and recording patterns. He's analyzing the way sequences change
+      and transform. His expression is focused and thoughtful—this is Max using his puzzle-solving
+      brain at full power. Around him we can see the meta-patterns: how sequences relate to each other,
+      how they transform in rhythm. Max is treating this like a multi-layered mathematical problem to
+      solve. The fox watches with interest. Books hover nearby. The atmosphere is analytical, strategic.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max circled the course, studying it. There had to be a pattern. He was good at patterns. The handholds rotated in sequence—three clicks left, two clicks right, one click left. He could time it. He pulled out his phone, started recording notes. Math this out.
+      Max circled the sequences, studying them from every angle. There had to be a meta-pattern. He was good at this. The way sequences transformed—there was a rhythm to it. He could map it. He pulled out his phone, started recording notes. Math this out.
 
   - page: right
     page_number: 12
     focus: Receiving direction with warning
     visual: |
-      Max is on the course again, clearly having made it further than before - he's past the
-      rotating wall section. But now the course is actively changing around him. The balance beam
-      splits into three paths before his eyes. The rope swing shifts position. New obstacles
-      appear. Max's expression shows surprise and frustration - "Oh, come ON!" The course isn't
-      just difficult, it's actively adaptive. The fox's tail swishes. The golden threads pulse
-      with new complexity. The atmosphere is one of escalating challenge. Text in Times New Roman
-      16pt font in white space at bottom.
+      Max is working on sequences again, clearly having made it further than before—he's past several
+      complex patterns. But now the Library is actively changing around him. New sequences appear that
+      he's never seen. Variables shift into Greek letters, then symbols he doesn't recognize. The
+      patterns branch into multiple possibilities simultaneously. Max's expression shows surprise and
+      frustration—"Oh, come ON!" The sequences aren't just difficult, they're actively adaptive. They
+      learn. The fox's tail swishes. The golden threads pulse with new complexity. The atmosphere is
+      one of escalating challenge. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max ran the course again, timing every move. He made it past the rotating wall. Yes! Then the course shifted. New obstacles appeared. The balance beam split into three paths. The rope swing moved. "Oh, come ON!" The course wasn't just hard. It was adaptive. It learned.
+      Max worked the sequences again, mapping every transformation. He made it past the complex patterns. Yes! Then the Library shifted. New sequences appeared he'd never seen. Variables changed to symbols he didn't recognize. Patterns branched into simultaneous possibilities. "Oh, come ON!" The sequences weren't just hard. They were adaptive. They learned.
