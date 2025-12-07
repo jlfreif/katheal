@@ -7,38 +7,33 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah writes an adventure story about a hero solving puzzles in a collapsing magical library, but gets stuck on how to make the challenges work, when golden threads pull him into the story world.
+description: Noah solves puzzles and designs board games when golden threads appear, arranging themselves into an impossible riddle-puzzle that invites him to adventure.
 
 scenes:
   - page: left
     page_number: 5
     focus: Character in their ordinary world
     visual: |
-      Noah's bedroom filled with adventure books, climbing gear hanging on hooks, basketball trophies
-      on a shelf. Noah (12 years old, sandy blond voluminous hair, medium build, wearing blue
-      hoodie, tan sport pants, white sneakers) sits at his desk typing on his laptop. His notebook
-      is open beside him filled with sketches of puzzle mechanisms, a collapsing magical library,
-      and an adventurer solving locks. He's been working on this story for weeks—a hero racing
-      through a crumbling forest library, solving intricate puzzle-locks to free trapped stories.
-      But he's stuck. How should the puzzles actually work? What makes them hard enough to be
-      exciting? His face shows intense focus mixed with frustration. His ukulele leans against the
-      nightstand. The atmosphere is creative problem-solving energy. Text in Times New Roman 16pt
-      font in white space at bottom of page.
+      Noah's bedroom. Adventure books line the shelves. Climbing gear hangs on hooks. Basketball
+      trophies on a shelf. Noah (12 years old, sandy blond voluminous hair, medium build, blue
+      hoodie, tan sport pants, white sneakers) sits at his desk with a Rubik's cube in one hand,
+      laptop open showing a video chat. He's laughing, mid-conversation. His notebook shows board
+      game designs with intricate puzzle mechanics. A finished cube sits beside three others. His
+      ukulele leans against the nightstand. The atmosphere is energetic and social. Text in Times
+      New Roman 16pt in white space at bottom.
     text: |
-      Noah stared at his screen. "The hero grabbed the puzzle-lock and..." And what? How did it work? He'd drawn rotating rings, constellation symbols, pressure plates. But how did they fit together? He wanted the puzzle to be actually hard, not just described as hard. He tried again: "The rings rotated and clicked..." Ugh. He deleted it. Attempt forty-seven at this scene. Still not right.
+      Noah twisted the Rubik's cube. Click-click-click. Done. "Forty-seven seconds!" His friend groaned through the laptop. "Show-off." Noah grinned. "It's all patterns. Once you see them, they're easy." He grabbed his notebook. His board game design was almost finished. He loved creating puzzles for people to solve.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      Golden threads suddenly pour out of Noah's laptop screen—erupting from the words of his
-      story like living things. They wrap around his wrists, warm and humming with energy. His
-      adventure story glows on the screen, the words pulsing with light. More threads emerge,
-      tugging him gently but insistently toward the screen. Through his monitor, instead of his
-      document, he glimpses towering trees and stone archways—the forest library from his story,
-      real and tangible. Books rustle on his shelves. His climbing gear rattles. His expression
-      shows shock shifting to wonder—his story world is real? The threads pull stronger. The
-      atmosphere crackles with impossible possibility. Text in Times New Roman 16pt font in white
+      Golden threads suddenly weave through Noah's room. They float in the air, arranging themselves
+      into patterns. Constellation symbols. Mathematical sequences. Word riddles. Musical notes.
+      Physical mechanisms. Five different puzzle types swirling together. The threads form glowing
+      text: "THE LIBRARY OF LOST PATTERNS NEEDS SOLVERS." More threads create a shimmering doorway
+      of golden light. Noah stands, eyes wide with excitement. His puzzle-brain already engaging.
+      The atmosphere crackles with challenge and invitation. Text in Times New Roman 16pt in white
       space at bottom.
     text: |
-      Golden threads exploded from the screen—from his own words. They wrapped warm around Noah's wrists, tugging insistently. Through the monitor, he saw it: the forest library from his story. Not imagined. Real. The trees he'd described, the stone archways, the shimmering barriers. His heart hammered. His story was real. The threads pulled harder. "Okay," he breathed. "Let's go."
+      Golden threads swirled through his room. Weaving patterns in the air. Constellations. Math sequences. Riddles. Music. Mechanisms. Five different puzzle types! The threads spelled out: "THE LIBRARY OF LOST PATTERNS NEEDS SOLVERS." A doorway formed, glowing gold. Noah's heart raced. This was a challenge. A real adventure. He grabbed his hoodie. "Yes!"
