@@ -7,37 +7,37 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah tries his first approach to solving the puzzle-lock, but the mechanism is more complex than expected and his solution triggers a defensive response.
+description: Noah tries to solve the puzzle the way he wrote it in his story, but his fictional solution doesn't work in the real story world—it's far more complex than he imagined.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Noah leaps up and grabs onto the lower edge of the puzzle-lock mechanism, using his climbing
-      skills to pull himself up. He hangs with one hand while manipulating the rotating rings with
-      the other, matching symbols the way his analysis suggested. The rings click into place—star
-      to moon, sun to comet. He reaches for the sliding panel, shifts it. Another click. Yes! He's
-      getting it. He drops down, hits two pressure plates in sequence. The lock mechanism glows
-      brighter. He's done it—or so he thinks. His expression shows focused intensity and growing
-      confidence. The atmosphere is athletic problem-solving in action. Text in Times New Roman 16pt
-      in white space at bottom.
+      Noah leaps up and grabs the puzzle-lock mechanism, using his climbing skills to pull himself
+      up. In his story, he wrote: "The hero rotated the outer ring to match star with moon, then
+      the inner ring to align sun with comet, and the lock opened." He tries exactly that—hanging
+      with one hand while manipulating the rings with the other. Star to moon—click. Sun to comet—
+      click. Yes! Just like he wrote it! He drops down, confident. The lock glows brighter. He did
+      it! His expression shows excited confidence—he created this world, he knows how it works. The
+      atmosphere is initial success. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Noah jumped and caught the edge of the lock mechanism, swinging himself up. He rotated the outer ring—star to moon. Click. Middle ring—sun to comet. Click. He dropped, landed smooth, hit the pressure plates one-two. The mechanism blazed bright. "Yes!" But then—
+      Noah jumped and caught the lock mechanism, swinging himself up. He knew this puzzle—he'd written it! "The hero rotated the outer ring, star to moon." Click. "Then the inner ring, sun to comet." Click. Perfect! Just like in his story. He dropped down, grinning. "I created this. I know how—"
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The puzzle-lock flares red and resets itself with a harsh grinding noise. Worse—the barrier
-      pulses and contracts, squeezing the trapped stories tighter. They flutter in panic. The ground
-      shakes harder. New cracks spread. Noah stumbles back as a small owl swoops down from a nearby
-      branch, landing on a fallen stone pillar. The owl tilts its head, studying him. "That was a
-      good start," it says, voice patient but urgent. "But this lock has seven interlocking systems,
-      not three. You'll need to solve them together—and in the right order—or it triggers defenses."
-      Noah stares at the reset mechanism, then at the owl. Seven systems. He'd only mapped three.
-      His expression shows surprise but determination—this is harder than he thought, but he's not
-      giving up. The atmosphere is the realization that this will take more attempts. Text in Times
-      New Roman 16pt in white space at bottom.
+      The puzzle-lock flares angry red and resets with a harsh grinding noise. Worse—the barrier
+      pulses and contracts violently, squeezing the trapped stories. They flutter in panic. The
+      ground shakes harder. New cracks spread. Noah stumbles back, shocked. That should have worked!
+      That's how he wrote it! A small owl swoops down from a nearby branch. "Your written version
+      was simpler," it says gently. "This is the real Kathaél. The puzzle has seven systems, not
+      two. They work together in ways you didn't imagine when you were just writing words." Noah
+      stares at his notebook, then at the massive mechanism. He'd written a simple puzzle. His story
+      world had created something far more complex. His expression shows surprise and humility—
+      creating a world on paper and solving real problems in it are completely different. The
+      atmosphere is the realization that knowing the author's intent isn't enough. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      The mechanism flared red. Grinding. Resetting. The barrier contracted—stories crushed tighter. "No!" Noah jumped back. An owl swooped down, landing nearby. "Good try," it said. "But that lock has seven systems working together. You found three." Noah looked up at the massive mechanism. Seven? He'd only seen three. "Show me," he said, pulling out his notebook again. "I'll try differently."
+      The mechanism flared red. Grinding. Resetting. The barrier contracted—crushing the stories. "No! But that's how I wrote it!" An owl swooped down, landing nearby. "You wrote a simpler version," it said kindly. "Kathaél took your ideas and made them real. This lock has seven systems. Your story only described two." Noah looked up at the mechanism. Seven systems? He'd only imagined a simple puzzle. His world had grown beyond his words. "Show me," he said, notebook ready. "I need to learn how my own world actually works."

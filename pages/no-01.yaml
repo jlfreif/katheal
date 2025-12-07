@@ -7,7 +7,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah solves an intricate puzzle-box his uncle gave him when golden threads burst from inside, pulling him toward adventure.
+description: Noah writes an adventure story about a hero solving puzzles in a collapsing magical library, but gets stuck on how to make the challenges work, when golden threads pull him into the story world.
 
 scenes:
   - page: left
@@ -16,26 +16,29 @@ scenes:
     visual: |
       Noah's bedroom filled with adventure books, climbing gear hanging on hooks, basketball trophies
       on a shelf. Noah (12 years old, sandy blond voluminous hair, medium build, wearing blue
-      hoodie, tan sport pants, white sneakers) sits cross-legged on his bed surrounded by the pieces
-      of an elaborate puzzle-box. His notebook shows diagrams and failed attempts. He's been working
-      on this for days—rotating pieces, testing combinations, trying different sequences. His face
-      shows intense focus and determination. His ukulele leans against the nightstand. The atmosphere
-      is excited problem-solving energy. Text in Times New Roman 16pt font in white space at bottom
-      of page.
+      hoodie, tan sport pants, white sneakers) sits at his desk typing on his laptop. His notebook
+      is open beside him filled with sketches of puzzle mechanisms, a collapsing magical library,
+      and an adventurer solving locks. He's been working on this story for weeks—a hero racing
+      through a crumbling forest library, solving intricate puzzle-locks to free trapped stories.
+      But he's stuck. How should the puzzles actually work? What makes them hard enough to be
+      exciting? His face shows intense focus mixed with frustration. His ukulele leans against the
+      nightstand. The atmosphere is creative problem-solving energy. Text in Times New Roman 16pt
+      font in white space at bottom of page.
     text: |
-      Noah twisted the outer ring left, then the middle ring right, then pressed the copper plate. Click. Nothing. He checked his notebook—attempt forty-seven failed. He grinned and reached for the box again. "Okay, what if I..." He tried a new sequence, fingers flying over the intricate mechanisms.
+      Noah stared at his screen. "The hero grabbed the puzzle-lock and..." And what? How did it work? He'd drawn rotating rings, constellation symbols, pressure plates. But how did they fit together? He wanted the puzzle to be actually hard, not just described as hard. He tried again: "The rings rotated and clicked..." Ugh. He deleted it. Attempt forty-seven at this scene. Still not right.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      The puzzle-box suddenly clicks open in Noah's hands. Golden light erupts from inside, and
-      threads pour out like living things—wrapping around his wrists, humming with energy. He jumps
-      to his feet as the threads pull toward his window. Books rustle on shelves. His climbing gear
-      rattles. The threads aren't forcing him—they're inviting him, tugging gently but insistently.
-      Through the window, he glimpses towering trees that shouldn't be there. His expression shows
-      surprise shifting to excitement—this is the kind of adventure he's always read about. The
-      atmosphere crackles with possibility. Text in Times New Roman 16pt font in white space at
-      bottom.
+      Golden threads suddenly pour out of Noah's laptop screen—erupting from the words of his
+      story like living things. They wrap around his wrists, warm and humming with energy. His
+      adventure story glows on the screen, the words pulsing with light. More threads emerge,
+      tugging him gently but insistently toward the screen. Through his monitor, instead of his
+      document, he glimpses towering trees and stone archways—the forest library from his story,
+      real and tangible. Books rustle on his shelves. His climbing gear rattles. His expression
+      shows shock shifting to wonder—his story world is real? The threads pull stronger. The
+      atmosphere crackles with impossible possibility. Text in Times New Roman 16pt font in white
+      space at bottom.
     text: |
-      The final piece rotated into place. The box sprang open. Golden threads exploded out, wrapping warm around Noah's wrists. They tugged toward the window—gentle but urgent. Through the glass, impossible trees rose against the sky. His heart hammered. This was it. Real adventure. He grabbed his hoodie. "Let's go."
+      Golden threads exploded from the screen—from his own words. They wrapped warm around Noah's wrists, tugging insistently. Through the monitor, he saw it: the forest library from his story. Not imagined. Real. The trees he'd described, the stone archways, the shimmering barriers. His heart hammered. His story was real. The threads pulled harder. "Okay," he breathed. "Let's go."
