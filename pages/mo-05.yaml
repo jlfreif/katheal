@@ -7,34 +7,36 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Mona encounters a chameleon stuck in a trick-puzzle that keeps changing its rules—a genuinely difficult challenge that tests her adaptability.
+description: Mona encounters a chameleon stuck in a constellation maze that keeps changing its patterns—a genuinely difficult challenge that tests her adaptability.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      A maze of paths where the rules keep changing. Mona stands at a junction watching a clever-
-      looking chameleon stuck at a crossroads. The path markers shift and rearrange—question marks
-      become exclamation points, symbols swap places, arrows reverse direction. "This puzzle is
-      impossible!" the chameleon says, changing colors frantically. "Every time I figure out the
-      pattern, it changes!" Glowing symbols dance and shift around them. Other creatures watch,
-      stumped. The atmosphere shows a genuinely tricky challenge—not overthinking, but a puzzle
-      that actively fights back.
+      A maze of pathways deeper in the Library where constellation patterns keep changing. Mona stands
+      at a junction watching a clever-looking chameleon stuck at a crossroads. The constellation markers
+      shift and rearrange—the Bear becomes the Hunter, connecting lines swap places, star patterns
+      reverse direction. "This constellation puzzle is impossible!" the chameleon says, changing colors
+      frantically. "Every time I figure out the pattern, it changes!" Glowing stars dance and shift
+      around them in the Library air. Other creatures watch, stumped. The atmosphere shows a genuinely
+      tricky challenge—not overthinking, but a puzzle that actively fights back. Text in Times New Roman
+      16pt in white space at bottom.
     text: |
-      A shifting maze. The markers kept changing! Question marks flipped to exclamation points. Arrows reversed. A chameleon sat stuck. "This puzzle cheats! Every time I solve it, it changes the rules!" The symbols danced and swapped. This was genuinely hard.
+      Deeper in the Library, a constellation maze. The patterns kept changing! The Bear flipped to the Hunter. Lines reversed. A chameleon sat stuck. "This puzzle cheats! Every time I solve it, it changes the pattern!" The stars danced and swapped. This was genuinely hard.
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
     visual: |
-      Mona watches the shifting symbols carefully, tilting her head. "Why does it change?" she asks.
-      Then she notices—the puzzle only shifts when someone hesitates! The moment the chameleon pauses
-      to think, the symbols rearrange. Mona grins. She's figured out the trick! She picks a path
-      quickly, commits, and walks forward without stopping to second-guess. The symbols freeze in
-      place—they can't change if you're already moving! The path stays solid under her feet. The
-      chameleon gasps. "You solved it!" Mona learned the puzzle's secret rule through investigation,
-      then beat it with quick action. The atmosphere celebrates outsmarting a genuinely tricky
-      challenge.
+      Mona watches the shifting constellation patterns carefully, tilting her head. "Why does it change?"
+      she asks. Then she notices—the puzzle only shifts when someone hesitates! The moment the chameleon
+      pauses to overthink, the constellations rearrange. Mona grins. She's figured out the trick through
+      investigation! She picks a constellation path quickly based on what she's learned, commits, and
+      toddles forward without stopping to second-guess. The patterns freeze in place—they can't change
+      if you're already moving with confidence! The path stays solid under her feet. The chameleon gasps.
+      "You solved it!" Mona learned the puzzle's secret rule through investigation, then beat it with
+      quick action. The atmosphere celebrates outsmarting a genuinely tricky challenge. Text in Times
+      New Roman 16pt in white space at bottom.
     text: |
-      Mona watched closely. "Why does it change?" Then she saw it—the puzzle shifted when you hesitated! The chameleon kept pausing, so it kept changing. Mona picked a path and walked. No hesitation. The symbols froze! They couldn't change while she moved. "You figured it out!" the chameleon said. Investigation then action. Both mattered.
+      Mona watched closely. "Why does it change?" Then she saw it—the puzzle shifted when you hesitated! The chameleon kept pausing, so it kept changing. Mona picked a constellation path and walked. No hesitation. The stars froze! They couldn't change while she moved with confidence. "You figured it out!" the chameleon said. Investigation then action. Both mattered.

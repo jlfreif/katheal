@@ -7,11 +7,11 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Elise tries simple dance moves to fix the rhythm-paths. She meets her cousin Maya and together they attempt obvious solutions that fail.
+description: Elise and Maya meet in the Library while working on their respective pedestal challenges, discovering that simple solutions don't work.
 
-location: A grove where multiple rhythm-paths converge in complex patterns, all dark and broken
+location: A section of the Library where book-filled branches arch overhead and golden threads weave between pedestals
 
-shared_action: Both try activating the paths with simple, basic dance moves
+shared_action: Both cousins realize their first attempts at solving the challenges aren't enough
 
 dialogue_packets:
   - speaker: maya
@@ -21,7 +21,7 @@ dialogue_packets:
     line: "Maya! What are you doing here?"
     works_from_pov: [el, ma]
   - speaker: maya
-    line: "Trying to fix these paths. But basic moves aren't working."
+    line: "Trying to solve these riddles. But my first guesses keep failing."
     works_from_pov: [el, ma]
 
 image_alignment:

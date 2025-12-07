@@ -7,33 +7,35 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Mona discovers a garden frozen by a puzzle-lock spell that requires both investigation and action to solve.
+description: Mona discovers the Library of Lost Patterns and the constellation patterns pedestal that requires both investigation and action to solve.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      A magical garden in Kathaél where a fountain is frozen mid-splash, flowers frozen mid-bloom,
-      butterflies suspended mid-flight. Everything locked in crystal ice. Mona toddles in, eyes
-      wide with curiosity. A tired rabbit sits by the fountain. "The spell won't break," it says.
-      "We need someone who can figure out how it works." Glowing puzzle pieces float around the
-      frozen fountain—shapes, symbols, colors. The garden shimmers cold and still. Golden threads
-      hang dim and waiting. This is a real puzzle to solve, not just overthinking—it needs Mona's
-      investigating mind.
+      Mona toddles into the magnificent Library of Lost Patterns. Ancient trees with glowing books on
+      branches. Floating scrolls chime like wind chimes. Books flutter playfully past. In the center,
+      five pedestals surround the massive Heart Crystal. The constellation patterns pedestal glows
+      before her, covered in star maps that need to be connected and arranged. Glowing constellation
+      pieces float around it—shapes, stars, connecting lines. The Library shimmers with possibility.
+      A tired rabbit sits by the pedestal. "The constellations won't align," it says. "We need someone
+      who can figure out how they work." This is a real puzzle to solve—it needs Mona's investigating
+      mind AND her willingness to try. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Mona found a garden frozen in crystal ice. Fountain mid-splash. Flowers mid-bloom. Butterflies stuck in air. A rabbit sat by the fountain. "The spell won't break. We need someone who can figure it out." Glowing puzzle pieces floated everywhere. This needed investigating.
+      Mona found the Library of Lost Patterns. Ancient trees glowed with books. Scrolls chimed. The constellation patterns pedestal stood at the center, covered in star maps that needed connecting. Glowing pieces floated everywhere. A rabbit sat by the pedestal. "The constellations won't align. We need someone who can figure it out." Mona's eyes went wide. This needed investigating.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Mona toddles to the fountain, tilting her head at the floating puzzle pieces. She picks one
-      up—it's warm and hums in her hand. "Why warm?" she asks, examining it. The piece glows
-      brighter when she asks questions! She asks "Why this shape?" and it pulses. She presses it
-      against the frozen fountain. Click! A tiny crack appears in the ice. The rabbit gasps. Mona
-      grins—her questions help her investigate, and then she acts on what she learns. She reaches
-      for another puzzle piece. The atmosphere shifts from stillness to excitement as the first
-      piece of the puzzle slots into place.
+      Mona toddles to the pedestal, tilting her head at the floating constellation pieces. She picks
+      one up—it's warm and hums in her hand. "Why warm?" she asks, examining it. The piece glows
+      brighter when she asks questions! She asks "Why this shape?" and it pulses. She studies it, then
+      presses it against the pedestal where it seems to fit. Click! A tiny connection forms between
+      two stars. The rabbit gasps. Mona grins—her questions help her investigate, and then she acts
+      on what she learns. She reaches for another constellation piece. The atmosphere shifts from
+      stillness to excitement as the first piece of the puzzle slots into place. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      Mona grabbed a puzzle piece. Warm! It hummed. "Why warm?" she asked. It glowed brighter! Her questions made it react. She pressed it to the fountain. Click! A crack appeared in the ice. The rabbit jumped up. Mona reached for another piece. Questions helped her investigate. Actions solved the puzzle.
+      Mona grabbed a constellation piece. Warm! It hummed. "Why warm?" she asked. It glowed brighter! Her questions made it react. She studied it, then pressed it to the pedestal. Click! Stars connected. The rabbit jumped up. Mona reached for another piece. Questions helped her investigate. Actions solved the puzzle.

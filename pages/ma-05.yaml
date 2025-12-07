@@ -7,33 +7,34 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Maya meets a mirror creature that promises she can judge everything perfectly by reflection.
+description: Maya ventures deeper into the Library and encounters a chamber where riddles create illusions. A mirror-fox offers shortcuts but leads her astray.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      A hall of mirrors where everything reflects endlessly. Maya walks cautiously through, seeing
-      herself and the world reflected back. A creature made entirely of shifting reflective surfaces
-      blocks her path—tall, imposing, constantly changing to show different reflections. "To pass,
-      you must find the real me among my reflections," it challenges. Dozens of copies appear in
-      the mirrors around Maya, all moving differently. Some look fierce, some look friendly, some
-      look scared. The creature splits into multiple reflected versions, surrounding her. Maya's
-      expression shows determination. The atmosphere is tense with challenge.
+      A chamber deep in the Library where word riddles float in the air, each one creating visual
+      illusions. One riddle about "light" creates glowing orbs. One about "shadow" creates dark
+      pools. Maya walks cautiously through, trying to distinguish which riddles are real challenges
+      and which are distractions. A mirror-fox appears, its body made of shifting reflective surfaces.
+      "These riddles are too complex," it says smoothly. "I know which ones matter. Follow me." The
+      fox points to riddles that look simple and clear. Maya's expression shows doubt—something feels
+      wrong. The atmosphere is tense with uncertainty. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      The golden thread led Maya to a hall of mirrors. A creature made of reflections blocked her path. "Find the real me among the copies," it said. Dozens of versions appeared—fierce ones, friendly ones, scared ones. They moved fast, circling. Maya's heart pounded. This wasn't a quiz. This was a test.
+      Maya followed golden threads deeper into the Library. A chamber filled with word riddles that created illusions. Light. Shadow. Truth. Lies. A mirror-fox appeared. "These riddles are too complex. I know the shortcuts." It pointed to riddles that looked simple. Clear. Easy. Maya's heart pounded. Too easy felt wrong.
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
     visual: |
-      The mirror creatures dart and weave around Maya. She's in motion—dodging, observing, looking
-      for details the reflections can't copy. Her artist's eye catches it: the real creature has a
-      tiny crack in its surface that the reflections don't show, and its movements are slightly
-      different—more hesitant, more careful. Maya lunges forward, hand extended, touching the one
-      with the crack. All the reflections shatter like glass, dissolving into golden light. The
-      real creature stands revealed—small, uncertain, grateful. It bows and steps aside. Maya grins,
-      breathing hard. The path opens beyond.
+      The mirror-fox confidently solves the "easy" riddles, reading only their surface meanings.
+      Illusions flare around it—beautiful but false. "See?" it says. But then the illusions CRACK
+      like broken glass. The easy riddles were traps! They shatter, taking the fox with them into
+      darkness. Maya jumps back from the edge. The golden threads pulse brighter, pointing toward
+      the complex riddles—the ones that require reading both surface and depth. Maya's expression
+      shows shaken understanding. There are no shortcuts to seeing truly. She must do the hard work
+      of looking deeper. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The copies darted around her. Fast. Confusing. Maya didn't panic. She watched. Really watched. There—the real one had a tiny crack the reflections couldn't copy. Its movements were different too. More careful. Maya lunged, touched the crack. The copies shattered into light. "Did NOT sign up for a mirror maze workout today," she said, catching her breath. But she'd done it. Seeing deeper meant seeing what reflections missed.
+      The fox solved the easy riddles, reading only surfaces. "See? Simple!" Illusions flared bright. Then CRACKED. The easy riddles were traps! They shattered like glass. The fox dropped into darkness. Maya's heart raced. The golden threads pointed at the complex riddles—the ones with layers. No shortcuts. She had to look deeper.

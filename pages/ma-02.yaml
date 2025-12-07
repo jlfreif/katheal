@@ -7,32 +7,35 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Maya arrives in Kathaél and immediately judges everything by how it looks on the surface.
+description: Maya arrives in the Library of Lost Patterns and discovers the word riddles pedestal that challenges her to see beyond surface meanings.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Maya stands in a strange forest clearing in Kathaél where everything looks one way on
-      first glance but reveals something different when examined closer. A "beautiful" flower
-      that's actually wilting inside. A "scary" creature with fierce teeth that's actually crying.
-      A "clear" path that leads to a cliff. Maya moves forward confidently, reading the scene
-      with her artist's eye the way she always does. She nearly steps off the cliff, catches
-      herself at the last second. Her expression shows surprised realization—her usual skills
-      work differently here. The atmosphere reveals a world with hidden layers.
+      Maya lands in the magnificent Library of Lost Patterns. Ancient trees with glowing books on
+      branches. Floating scrolls chime like wind chimes. Books flutter playfully past. In the center
+      rises the massive crystalline Heart Crystal with five pedestals arranged in a circle. The word
+      riddles pedestal glows before her, covered in riddles that shift and change their meaning. Maya
+      reads the first riddle quickly, making a snap judgment about its answer. She nearly touches a
+      wrong symbol. A book flutters down and stops her. Her expression shows surprised realization—
+      her quick surface reading almost led her wrong. The riddles have hidden depths. The atmosphere
+      reveals a challenge with layers. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Maya landed in a forest that glowed with color. She walked fast, reading it like she always did—artist's eye, quick and confident. That flower looked beautiful. That path looked clear. That cliff looked far aw— She skidded to a stop, toes at the edge. "Okay, so that was ALMOST a really bad first impression," she said. This place had different rules.
+      Maya landed in the Library of Lost Patterns. Books floated like curious birds. Scrolls chimed. The word riddles pedestal glowed before her, covered in shifting text. She read fast, artist's eye making quick judgments. "That one means..." She reached for a symbol. A book swooped down and stopped her. Wrong! The riddle's surface meaning hid something deeper. "Okay, so this place has layers," she said.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Maya steps back from the cliff carefully, now looking more closely. A golden owl perches
-      nearby, watching her with knowing eyes. "The forest needs someone who can see what's really
-      there," it says. Maya notices now that the "beautiful" flower was dying, the "scary" creature
-      needed help, the "simple" trees hold complex root systems visible beneath translucent bark.
-      She realizes this whole world operates on hidden truths beneath surface appearances. Her
-      expression shows determined curiosity. A golden thread appears, faint but guiding.
+      The owl swoops down and lands beside the word riddles pedestal. "The Library's riddles are
+      fading," it explains. "Everyone reads them quickly, judging by first glance. The deeper meanings
+      are forgotten. Can you help?" Maya looks at the pedestal more carefully now. Each riddle shows
+      two meanings—the obvious surface one and a hidden deeper truth beneath. She realizes this whole
+      challenge operates on seeing what's truly there beneath the words. Her expression shows determined
+      curiosity. Golden threads appear faintly, guiding her deeper into the Library to find the riddle
+      challenges. The Heart Crystal pulses weakly in the background. Text in Times New Roman 16pt in
+      white space at bottom.
     text: |
-      A golden owl watched from a branch. "In Kathaél, surfaces often hide the truth. The forest is fading because no one looks deeper anymore. Everyone judges by first glance. Can you help?" Maya looked around with new eyes. That dying flower needed help. That scared creature needed a friend. "I can try," she said. "I can learn to see."
+      A golden owl watched from a branch. "The Library's riddles are fading. Everyone judges by first glance. No one looks deeper anymore. Can you help?" Maya studied the pedestal again. Each riddle had layers—surface and depth. Both mattered. "I can try," she said. "I can learn to see what's really there." Golden threads appeared, leading deeper into the Library.

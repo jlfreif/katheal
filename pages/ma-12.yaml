@@ -7,31 +7,34 @@ beat: "Resolution (emotional) + series button"
 hook: Final moment of reflection showing ongoing connection or meaning.
 payoff: Landing complete - ordinary world echoes opening but transformed.
 
-description: Maya returns home and sees the deeper meaning in everything around her.
+description: Maya returns home and sees the deeper meaning in everything around her, reading the world with both surface and depth.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
     visual: |
-      Maya's room in Madrid, the same space as the opening. Her old paintings still cover the
-      walls—the ones with quick judgments written on them. Maya stands before her easel holding
-      the crystal from Kathaél, looking at her old work with new eyes. The "boring tree" painting
-      actually has beautiful complexity in the bark she never noticed. The "silly clouds" have
-      intricate patterns. The room looks the same but she sees it completely differently now.
-      Her expression shows gentle wisdom.
+      Maya's room in Madrid, the same space as the opening. Golden threads fade from view as the
+      Library closes behind her. Her old paintings still cover the walls—the ones with quick judgments
+      written on them. Maya stands before her easel, the golden wristband glowing softly on her wrist.
+      She looks at her old work with new eyes. The "boring tree" painting actually has beautiful
+      complexity in the bark she never noticed before. The "silly clouds" have intricate patterns. The
+      room looks the same but she sees it completely differently now. Her expression shows gentle
+      wisdom. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Maya stood in her room looking at her old paintings. "Boring tree." "Silly clouds." She saw them now—really saw. The tree's bark held patterns she'd missed. The clouds shaped stories. She'd been so quick to judge. The crystal from Kathaél pulsed warm in her hand.
+      Maya stood in her room looking at her old paintings. "Boring tree." "Silly clouds." She saw them now—really saw. The tree's bark held patterns she'd missed. The clouds shaped stories. She'd been so quick to judge. The wristband from the Library pulsed warm on her wrist.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
     visual: |
-      Maya sits before a new canvas, painting slowly and carefully. She captures not just the
-      surface but hints of the depth beneath—the way light reveals layers, the way simple things
-      hold complexity, the way first impressions can be both true and incomplete. The crystal
-      glows beside her easel. Faint golden threads appear in her painting, showing the hidden
-      connections beneath surface appearances. She pauses, really looking at her work, seeing
-      what's there. Her expression shows patient joy. The scene celebrates seeing truly.
+      Maya sits before a new canvas, painting slowly and carefully. She captures not just the surface
+      but hints of the depth beneath—the way light reveals layers, the way simple things hold
+      complexity, the way first impressions can be both true and incomplete. The wristband glows beside
+      her easel. Faint golden threads appear in her painting, showing the hidden connections beneath
+      surface appearances. She pauses, really looking at her work, seeing what's there. Words float
+      faintly in the air around her—riddles from the Library, echoes of her pedestal. Her expression
+      shows patient joy. The scene celebrates seeing truly. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      Maya painted slowly now. She looked deeper. Saw the layers beneath. Surfaces still mattered, but they weren't everything. The crystal glowed. Golden threads appeared in her painting, showing what lay beneath. "This is my courage," she whispered. "Seeing beyond what things seem to be. Looking for what's really there."
+      Maya painted slowly now. She looked deeper. Saw the layers beneath. Surfaces still mattered, but they weren't everything. The wristband glowed. Golden threads appeared in her painting, showing what lay beneath. Riddles whispered in her mind—surface and depth, both true. "This is my courage," she whispered. "Seeing beyond what things seem to be. Looking for what's really there."

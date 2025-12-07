@@ -1,5 +1,5 @@
 # Max - Spread 2: Inciting Incident
-# Entering Kathaél and discovering the challenge
+# Entering the Library and discovering the challenge
 
 id: mx-02
 spread: 2
@@ -9,32 +9,34 @@ beat: "Inciting incident"
 hook: The discovery is fully revealed, establishing the story goal.
 payoff: Character commits to action based on what they've discovered.
 
-description: Max enters the glowing forest of Kathaél, discovers broken obstacle courses and the failing Heart Crystal.
+description: Max enters the Library of Lost Patterns, discovers the mathematical sequences pedestal and the failing Heart Crystal.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Max steps from his ordinary backyard into a magical glowing forest. Enormous trees rise
-      around him, their trunks woven with golden threads. Between the trees stretch elaborate
-      obstacle courses - rope bridges, climbing walls, balance beams, rope swings - all
-      integrated into the forest. But half the courses hang broken, dark, and lifeless. In the
-      distance, a massive crystal structure (the Heart Crystal) pulses weakly with failing light,
-      cracks visible across its surface. Max stands in wonder, taking it all in. The atmosphere
-      is magical but troubled. Text in Times New Roman 16pt font in white space at bottom.
+      Max steps from his ordinary backyard into the magnificent Library of Lost Patterns. Ancient
+      trees with glowing books on branches rise around him. Floating scrolls chime like wind chimes.
+      In the center, five pedestals surround the massive Heart Crystal. The mathematical sequences
+      pedestal glows before him, covered in number patterns and equations that shift and change. But
+      half the sequences are broken, flickering and dark. The Heart Crystal pulses weakly with failing
+      light, cracks visible across its surface. Max stands in wonder, taking it all in. His analytical
+      mind already processing the challenge. The atmosphere is magical but troubled. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      One step took Max from his backyard into a forest that glowed. Obstacle courses stretched between enormous trees. But half the courses hung broken, threads dark and lifeless. In the distance, a massive crystal structure pulsed weakly, cracks spreading. "Whoa," Max breathed. "This is Kathaél."
+      One step took Max from his backyard into the Library of Lost Patterns. Ancient trees glowed with books. Scrolls chimed. The mathematical sequences pedestal stood before him, covered in number patterns. But half the sequences hung broken, dark and lifeless. In the distance, the Heart Crystal pulsed weakly, cracks spreading. "Whoa," Max breathed. "This is incredible."
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Max stands before the nearest broken obstacle course. A fox with ancient, knowing eyes sits
-      beside the course, watching Max intently. The fox's gaze moves between Max, the broken
-      course, and the distant failing Heart Crystal. Golden threads connect everything but they're
-      dim and flickering. Max's expression shows understanding and determination - he's already
-      figuring out the challenge, cracking his knuckles in preparation. The atmosphere is one of
-      accepting a challenge. Text in Times New Roman 16pt font in white space at bottom.
+      Max stands before the mathematical sequences pedestal. A fox with ancient, knowing eyes sits
+      beside it, watching Max intently. The fox's gaze moves between Max, the broken sequences, and
+      the distant failing Heart Crystal. Number patterns float in the air—Fibonacci spirals, prime
+      sequences, geometric progressions—all flickering and incomplete. Golden threads connect everything
+      but they're dim. Max's expression shows understanding and determination—he's already figuring out
+      the challenge, cracking his knuckles in preparation. The atmosphere is one of accepting a challenge.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      A fox sat beside the nearest course, watching him with ancient eyes. Max understood somehow: the courses powered the crystal. The crystal powered everything. And everything was failing. The fox's gaze moved to Max, then to the broken course, then back. Max cracked his knuckles. "Okay. I'm good at challenges. Let's do this."
+      A fox sat beside the pedestal, watching him with ancient eyes. Max understood somehow: the sequences powered the crystal. The crystal powered everything. And everything was failing. The fox's gaze moved to Max, then to the broken patterns, then back. Max cracked his knuckles. "Okay. I'm good at patterns. Let's do this."

@@ -1,5 +1,5 @@
 # Elise's Individual Page for Mirrored Node at Spread 7
-# CREATURE BATTLE: Elise defeats a Rhythm Golem using dance combat
+# CREATURE BATTLE: Elise defeats a Rhythm Guardian using dance combat
 
 id: el-07
 spread: 7
@@ -8,37 +8,38 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Elise encounters a Rhythm Golem blocking the path to the Heart Crystal. She must defeat it using her dance moves in a fun, physical battle.
+description: Elise encounters a Rhythm Guardian blocking the path to the musical notes chamber. She must defeat it using her dance moves in a fun, physical battle.
 
 scenes:
   - page: left
     page_number: 17
     focus: Creature appears and battle begins
     visual: |
-      A wide clearing where the rhythm-path leads toward the Heart Crystal visible in the distance.
-      But blocking the path stands a RHYTHM GOLEM—a massive creature made of broken rhythm-path
-      pieces, standing twice as tall as Elise. Its body pulses with corrupted beats, footprints
-      glowing darkly across its surface. It has no face, just a chest that booms like a drum.
-      The golem stomps toward Elise, each step shaking the ground with deep bass thuds. Elise
-      drops into a ready stance, feet apart, arms up. She's breathing hard from her journey but
-      her expression shows determination mixed with excitement. The golem stomps a rhythm—BOOM
-      BOOM TAP. Challenging her. The clearing crackles with rhythm-battle energy. This will be a
-      dance fight.
+      A wide clearing in the Library where the path leads toward a chamber glowing with musical
+      notes. But blocking the path stands a RHYTHM GUARDIAN—a massive creature made of crystallized
+      sound waves and floating musical staffs, standing twice as tall as Elise. Its body pulses with
+      beats, notes glowing across its surface. It has no face, just a chest that booms like a drum.
+      The guardian stomps toward Elise, each step shaking the ground with deep bass thuds. Elise
+      drops into a ready stance, feet apart, arms up. She's breathing hard from her journey but her
+      expression shows determination mixed with excitement. The guardian stomps a rhythm—BOOM BOOM
+      TAP. Challenging her. The clearing crackles with rhythm-battle energy. Books flutter excitedly
+      on nearby branches. This will be a dance fight. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      The path led to the Heart Crystal. Almost there. Then the ground shook. A massive creature rose from the broken paths—a Rhythm Golem, twice her height, made of corrupted beats. It stomped toward her. BOOM BOOM TAP. The ground trembled. Elise grinned despite her nerves. "Okay. Let's dance." She hit a sharp pop-and-lock. The battle began.
+      The path led to the musical notes chamber. Almost there. Then the ground shook. A massive creature rose from crystallized sound—a Rhythm Guardian, twice her height, made of beats and notes. It stomped toward her. BOOM BOOM TAP. The ground trembled. Elise grinned despite her nerves. "Okay. Let's dance." She hit a sharp pop-and-lock. The battle began.
 
   - page: right
     page_number: 18
     focus: Victory over creature, exhausted afterward
     visual: |
-      Elise in mid-battle with the Rhythm Golem. The golem throws corrupted beats at her—dark
-      pulses of energy. Elise dodges with a spin, counters with a rapid-fire sequence of steps,
-      strikes with a powerful body roll that sends golden light rippling through the golem's form.
-      The golem cracks. She adds joy—a laugh, a silly wiggle, then a fierce hip-hop combination.
-      The golem shatters into pieces of light that dissolve into the air. Elise lands in a final
-      pose, arms raised in victory. But then she drops to her hands and knees, breathing hard,
-      sweat dripping, muscles trembling. She's completely exhausted. Her clothes are dusty, her
-      ponytail messy. But she won. The path to the Heart Crystal lies open. She grins through her
-      exhaustion.
+      Elise in mid-battle with the Rhythm Guardian. The guardian throws sonic pulses at her—waves
+      of visible sound. Elise dodges with a spin, counters with a rapid-fire sequence of steps,
+      strikes with a powerful body roll that sends golden light rippling through the guardian's form.
+      The guardian cracks. She adds joy—a laugh, a silly wiggle, then a fierce hip-hop combination.
+      The guardian shatters into notes of light that dissolve into the air, absorbed by the Library.
+      Elise lands in a final pose, arms raised in victory. But then she drops to her hands and knees,
+      breathing hard, sweat dripping, muscles trembling. She's completely exhausted. Her clothes are
+      dusty, her ponytail messy. But she won. The path to the musical notes chamber lies open. She
+      grins through her exhaustion. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The golem threw corrupted beats. Dark pulses. Elise spun, dodged, struck back with a body roll that cracked its form. It reformed. Attacked again. She countered—rapid steps, then added joy—a laugh, a wiggle, a fierce combination. The golem shattered into light. Victory. Elise dropped to her knees, breathing hard. Muscles shaking. Completely exhausted. "Did I just defeat a magical creature with a body roll?" She grinned. The path to the Heart Crystal waited. But first, she needed to catch her breath.
+      The guardian threw sonic pulses. Visible waves of sound. Elise spun, dodged, struck back with a body roll that cracked its form. It reformed. Attacked again. She countered—rapid steps, then added joy—a laugh, a wiggle, a fierce combination. The guardian shattered into light. Victory. Elise dropped to her knees, breathing hard. Muscles shaking. Completely exhausted. "Did I just defeat a magical sound monster with a body roll?" She grinned. The path to the chamber waited. But first, she needed to catch her breath.

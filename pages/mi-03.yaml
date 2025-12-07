@@ -7,32 +7,33 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Micah tries the platform course using his parkour skills but discovers the obstacles react unpredictably to his movement.
+description: Micah tries the physical mechanisms pedestal using his parkour skills but discovers the mechanisms react unpredictably to his movement.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      A vast landscape of floating platforms in Kathaél, connected by ropes and beams—perfect for
-      parkour. Micah runs and jumps and vaults from platform to platform with impressive skill.
-      Sprint. Jump. Swing across rope. Vault the beam. Land. Roll. His movements are coordinated
-      and powerful, his expression focused and confident. The platforms glow faintly as he crosses
-      them. He's in his element, using his parkour expertise. The atmosphere shows athletic mastery
-      and physical joy.
+      A vast chamber in the Library with floating platforms connected by mechanical gears, levers,
+      and pulleys. Perfect for parkour. Micah runs and jumps and vaults from platform to platform
+      with impressive skill. Sprint. Jump. Pull a lever. Vault the beam. Land. Roll. His movements
+      are coordinated and powerful, his expression focused and confident. The mechanisms glow faintly
+      as he activates them. He's in his element, using his parkour expertise. Books flutter on nearby
+      branches, watching. The atmosphere shows athletic mastery and physical joy. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      Micah approached the first platform course like any other obstacle. Sprint. Jump. Swing across the rope. Vault the beam. Land. Roll. He was fast, coordinated, powerful. The platforms glowed faintly as he crossed them. "See? Easy!" he called back. This was what he was built for.
+      Micah approached the first mechanical course like any other obstacle. Sprint. Jump. Pull the lever. Vault the gear. Land. Roll. He was fast, coordinated, powerful. The mechanisms glowed faintly as he crossed them. "See? Easy!" he called back. This was what he was built for.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      Chaos as platforms suddenly start moving—rotating, shifting, dropping. One drops out from
-      under Micah mid-jump and he barely catches the edge, pulling himself up with effort. Another
+      Chaos as platforms suddenly start moving—rotating, shifting, dropping. One mechanism drops out
+      from under Micah mid-jump and he barely catches the edge, pulling himself up with effort. Another
       platform shoots upward just as he lands, launching him into the air. He crashes into a tree
-      branch, surprised and frustrated. The platforms he'd lit up go dark again, resetting to their
-      broken state. A silver fox sits on a nearby branch, watching with patient, knowing eyes. Micah
-      looks frustrated but determined—this is harder than expected. The atmosphere shifts from
-      confidence to challenge.
+      branch, surprised and frustrated. The mechanisms he'd activated go dark again, resetting to their
+      broken state. A silver fox sits on a nearby floating scroll, watching with patient, knowing eyes.
+      Micah looks frustrated but determined—this is harder than expected. The atmosphere shifts from
+      confidence to challenge. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Then the platforms started moving. Rotating. Shifting. One dropped out from under him mid-jump. He barely caught the edge, pulled himself up. Another platform shot upward just as he landed, launching him into the air. He crashed into a tree branch. "Okay, NOT easy!" The platforms he'd lit went dark again, resetting. A silver fox sat on a nearby branch, watching with patient eyes. This was going to be harder than it looked.
+      Then the mechanisms started moving. Rotating. Shifting. One dropped out from under him mid-jump. He barely caught the edge, pulled himself up. Another gear shot upward just as he landed, launching him into the air. He crashed into a branch. "Okay, NOT easy!" The mechanisms he'd activated went dark again, resetting. A silver fox sat on a nearby scroll, watching with patient eyes. This was going to be harder than it looked.
