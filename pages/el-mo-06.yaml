@@ -7,34 +7,34 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Elise meets Mona and they discover that authentic expression, not forced performance, awakens things.
+description: Elise reaches a difficult rhythm-path section and meets Mona. Together they discover that adding joy and spontaneity to the moves makes the paths respond stronger.
 
-location: A grove where musical instruments hang from trees, silent and waiting
+location: A grove where complex rhythm-paths wind through musical chimes that ring when activated
 
-shared_action: Both try making sounds authentically rather than perfectly
+shared_action: Both dance on the paths, discovering that joyful movement works better than rigid technique
 
 dialogue_packets:
   - speaker: elise
-    line: "What if we're trying too hard to be perfect?"
+    line: "Mona? You're here too?"
     works_from_pov: [el, mo]
   - speaker: mona
-    line: "Play! Play!"
+    line: "Dance! Dance!"
     works_from_pov: [el, mo]
 
 image_alignment:
-  scene_id: instrument-grove-006
+  scene_id: chime-paths-006
   shared_elements:
-    - instruments hanging from branches
-    - wind chimes
-    - soft grass clearing
-    - afternoon light
+    - rhythm-paths winding through grove
+    - musical chimes hanging from branches
+    - paths lighting up when activated
+    - golden threads connecting everything
   pov_variants:
     - character_code: el
-      camera_position: showing Elise reaching for instrument with Mona playing nearby
+      camera_position: showing Elise dancing carefully with Mona bouncing nearby
       focal_character: elise
       background_characters: [mona]
     - character_code: mo
-      camera_position: showing Mona banging on chimes with Elise watching
+      camera_position: showing Mona dancing joyfully with Elise watching
       focal_character: mona
       background_characters: [elise]
 
@@ -43,27 +43,28 @@ scenes:
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      A peaceful grove where various instruments hang from tree branches like fruit: small drums,
-      bells, flutes, and wind chimes. All are silent and still despite a gentle breeze. Elise
-      stands in the center, reaching carefully toward a hanging harp, her movements precise and
-      controlled as if afraid to disturb anything. A tiny figure toddles into the grove—Mona,
-      her face lit with curiosity. She immediately runs to a set of wind chimes hanging low,
-      grabbing them with both hands. The instruments are beautiful but lifeless, their golden
-      threads dim and tangled. Afternoon light filters through the leaves, creating soft patterns
-      on the ground.
+      A grove where rhythm-paths wind between trees, each path lined with hanging musical chimes.
+      Elise dances carefully on one path, hitting the footprints with precise technique—step,
+      turn, pop-and-lock. The path flickers weakly beneath her feet but won't hold the light.
+      The chimes above her stay silent. She's breathing hard, frustrated, moving perfectly but
+      getting nowhere. A tiny figure toddles into the grove from another path—Mona (2 years old,
+      curious and joyful), her face lit with wonder. She immediately starts bouncing on a nearby
+      path, not following any pattern, just moving with pure joy. The chimes above her start to
+      ring softly. Afternoon light filters through the leaves.
     text: |
-      Elise reached for the harp, trying to play perfectly. Nothing woke up. A tiny figure burst in. "Mona?" Elise blinked. Her little cousin grabbed the wind chimes, shaking them wildly. "Wait, you're here too?"
+      Elise followed the rhythm-path into a grove lined with chimes. She danced carefully. Perfect technique. Step, turn, pop-and-lock. The path flickered but wouldn't hold. The chimes stayed silent. A tiny figure burst in. "Mona?" Her little cousin bounced on another path, not following any pattern. Just joy. The chimes above Mona rang.
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      Mona enthusiastically bangs on the wind chimes, her whole body bouncing with joy, creating
-      chaotic but genuine sounds. Elise watches, her expression shifting from concern to wonder
-      as the chimes begin to glow faintly. The golden threads connecting the chimes brighten and
-      start to untangle. Elise drops her perfect posture and begins to hum a silly, made-up melody,
-      swaying freely. Around them, other instruments shimmer in response. The grove fills with
-      soft golden light. Mona giggles, still shaking the chimes. The atmosphere transforms from
-      careful silence to joyful experimentation.
+      Elise watches Mona bounce joyfully, then tries something new. She hits the same footprints
+      as before—but this time adds a laugh, throws her arms wide with joy, adds a spontaneous
+      spin that isn't in the pattern. The path blazes bright beneath her feet. The chimes ring
+      loud and clear. Mona giggles and claps. "Dance! Dance!" Elise grins and keeps going, mixing
+      technical moves with pure joy—a perfect pop-and-lock followed by a silly wiggle. The paths
+      light up stronger than ever before. Golden threads brighten throughout the grove, connecting
+      the paths and chimes. The grove fills with music and light. The pattern was clear: technique
+      plus joy.
     text: |
-      The chimes rang messy and loud. And they glowed. Elise hummed something silly and made-up. The harp shimmered. Around them, instruments woke. Golden threads brightened, weaving through the air, pointing toward a distant luminous hall. That's where the real test waited.
+      Elise tried again. Same footprints. But this time she laughed. Threw her arms wide. Added a spin just for fun. The path blazed bright. The chimes rang loud. "Dance! Dance!" Mona clapped. Elise kept going—pop-and-lock plus a silly wiggle. Technical moves mixed with joy. The paths lit up stronger than ever. Golden threads connected everything. That was the pattern. Technique plus joy.

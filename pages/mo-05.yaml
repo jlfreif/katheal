@@ -7,33 +7,34 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Mona meets a chameleon who claims to have a system for when to question vs act, but it's just indecision disguised as wisdom.
+description: Mona encounters a chameleon stuck in a trick-puzzle that keeps changing its rules—a genuinely difficult challenge that tests her adaptability.
 
 scenes:
   - page: left
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      A maze of paths where each fork has a glowing question mark on one side and an exclamation
-      point on the other. Mona stands at a junction, uncertain. A clever-looking chameleon appears,
-      changing colors constantly, looking very confident. "I have the perfect system!" it announces.
-      "I can tell you exactly when to question and when to act." It pulls out a complicated chart
-      with arrows and boxes. Mona tilts her head, trying to understand. The chart looks very
-      impressive. Other creatures gather, listening. The atmosphere is one of false wisdom masking
-      confusion.
+      A maze of paths where the rules keep changing. Mona stands at a junction watching a clever-
+      looking chameleon stuck at a crossroads. The path markers shift and rearrange—question marks
+      become exclamation points, symbols swap places, arrows reverse direction. "This puzzle is
+      impossible!" the chameleon says, changing colors frantically. "Every time I figure out the
+      pattern, it changes!" Glowing symbols dance and shift around them. Other creatures watch,
+      stumped. The atmosphere shows a genuinely tricky challenge—not overthinking, but a puzzle
+      that actively fights back.
     text: |
-      A maze of choices. Question marks and exclamation points everywhere. A chameleon appeared, colors shifting. "I know the secret! Follow my system—ask three questions, then take two actions, unless it's cloudy, then reverse it." It showed a complicated chart.
+      A shifting maze. The markers kept changing! Question marks flipped to exclamation points. Arrows reversed. A chameleon sat stuck. "This puzzle cheats! Every time I solve it, it changes the rules!" The symbols danced and swapped. This was genuinely hard.
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
     visual: |
-      Mona watches as the chameleon demonstrates its "perfect system" at a crossroads. It counts
-      on its claws, checks the chart, changes colors nervously, counts again, looks at the sky,
-      recounts... and never actually moves. It's been standing at the same fork for hours, trapped
-      by its own system. "I'm still calculating!" it insists, but it's obviously stuck. Mona
-      realizes the chart is just another way of not deciding. She walks past the frozen chameleon
-      and chooses a path herself—questioning if it looks safe, then acting by walking it. The
-      atmosphere shows that overthinking systems can be as paralyzing as endless questions.
+      Mona watches the shifting symbols carefully, tilting her head. "Why does it change?" she asks.
+      Then she notices—the puzzle only shifts when someone hesitates! The moment the chameleon pauses
+      to think, the symbols rearrange. Mona grins. She's figured out the trick! She picks a path
+      quickly, commits, and walks forward without stopping to second-guess. The symbols freeze in
+      place—they can't change if you're already moving! The path stays solid under her feet. The
+      chameleon gasps. "You solved it!" Mona learned the puzzle's secret rule through investigation,
+      then beat it with quick action. The atmosphere celebrates outsmarting a genuinely tricky
+      challenge.
     text: |
-      The chameleon demonstrated. Count. Check chart. Change color. Count again. Check sky. It never moved. Still stuck at the same choice. "I'm calculating!" But it hadn't gone anywhere in hours. Mona walked past it. That wasn't wisdom. That was just fear wearing a fancy chart.
+      Mona watched closely. "Why does it change?" Then she saw it—the puzzle shifted when you hesitated! The chameleon kept pausing, so it kept changing. Mona picked a path and walked. No hesitation. The symbols froze! They couldn't change while she moved. "You figured it out!" the chameleon said. Investigation then action. Both mattered.

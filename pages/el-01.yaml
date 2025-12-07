@@ -1,4 +1,5 @@
 # Elise - Spread 1: Ordinary World
+# Rising to challenge: External obstacles require dance as power
 
 id: el-01
 spread: 1
@@ -7,7 +8,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Elise practices her dance routine in her room, expressing herself through movement, when golden threads appear in her mirror, beckoning her to Kathaél.
+description: Elise practices her pop and hip-hop dance routine in her room when golden threads appear in her mirror, showing a forest with broken rhythm-paths that need movement to be restored.
 
 scenes:
   - page: left
@@ -16,24 +17,26 @@ scenes:
     visual: |
       Elise's bedroom with a large mirror against one wall, afternoon sunlight streaming through
       the window creating patterns on the wooden floor. Elise (9 years old, long brown hair in
-      a ponytail, slim build, wearing black leggings and light pink t-shirt) stands before
-      the mirror practicing a dance routine. Her arms snap sharply, hitting each position with
-      attitude as she pops and locks through the choreography. Stuffed animals sit on her bed watching. Dance
-      posters cover the walls. Her expression shows focus and joy, completely absorbed in the
-      movement. She hums a melody that matches her steps. The room feels safe and familiar.
+      a ponytail, slim build, wearing black leggings and light pink t-shirt, white sneakers)
+      stands before the mirror practicing a hip-hop routine. Her body pops and locks with sharp
+      precision, feet hitting the floor in staccato rhythms. She spins, drops into a crouch, then
+      springs up with arms extended. Stuffed animals sit on her bed watching. Dance posters cover
+      the walls. Her expression shows focus and joy, completely absorbed in the movement. The
+      wooden floor vibrates slightly under her steps. The room feels safe and familiar.
     text: |
-      Elise danced and the world made sense. Her feet knew the steps. Her arms knew the way. She hummed and moved and the afternoon belonged to her.
+      Elise's feet hit the floor—boom, boom, tap. Her body moved sharp then smooth, popping and locking through the routine. The afternoon belonged to her and the rhythm in her bones.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
       Elise mid-spin when she notices something in the mirror that isn't her reflection. Behind
-      her reflected image, a shimmer of golden light ripples across the glass like water. She
-      freezes in position, one arm still extended, staring at the mirror with wide eyes. The
-      golden shimmer forms threads that pulse and weave, beckoning her forward. Her room looks
-      normal, but in the mirror, a forest path opens behind her reflection. She reaches toward
-      the glass, her fingertips touching the cool surface. The mirror ripples. The atmosphere
-      crackles with possibility.
+      her reflected image, golden light ripples across the glass like water. She freezes in
+      position, one arm still extended, staring at the mirror with wide eyes. The golden shimmer
+      forms threads that pulse and weave. But through them, she can see a forest where glowing
+      pathways lie broken and dark—paths that look like they need movement, need rhythm, need
+      someone to dance them back to life. Her room looks normal, but in the mirror, the broken
+      rhythm-paths call to her. She reaches toward the glass, fingertips touching the cool surface.
+      The mirror ripples. The atmosphere crackles with possibility and challenge.
     text: |
-      Then the mirror shimmered gold. Threads pulsed behind her reflection, weaving a forest path she'd never seen before. Elise touched the glass. It rippled like water. The threads danced brighter, beckoning. She stepped through.
+      Then the mirror shimmered gold. Through the threads, Elise saw a forest where glowing paths lay broken and dark. Paths that looked like they needed rhythm. Needed someone to move. She touched the glass. It rippled like water. The broken paths pulsed, calling. Elise stepped through.

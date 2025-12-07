@@ -1,47 +1,38 @@
-# Max's page - Spread 12
-# Resolution (emotional) + series button
-# Max returns home transformed, ready to embrace mistakes as part of growth
+# Max - Spread 12: Resolution
+# Max returns home transformed by proving he can tackle any challenge
 
 id: mx-12
 spread: 12
 node_type: solo
 beat: "Resolution (emotional) + series button"
 
-hook: Final moment of reflection showing ongoing connection or meaning.
-payoff: Landing complete - ordinary world echoes opening but transformed.
+hook: Final moment showing transformation and ongoing connection.
+payoff: Return to ordinary world, but transformed by the journey.
 
-description: Max returns to his driveway and the basketball challenge, but now he approaches mistakes with curiosity instead of frustration.
+description: Max returns to his driveway with new confidence - not from overcoming a flaw, but from proving he can persist through genuinely difficult challenges.
 
 scenes:
   - page: left
     page_number: 27
     focus: Returning to ordinary world
-
     visual: |
-      Max stands in his driveway in the same position as the opening, basketball
-      in hand, same hoop above the garage. But the chalk marks on the pavement
-      now show a trail of adjustments leading to improvement, not just failures.
-      The wristband glows softly on his wrist. His trombone case still leans
-      against the garage. His expression is calm, curious.
-
+      Max walks back through Kathaél toward home. The wristband glows warmly on his wrist. Around
+      him, the challenge courses move in perfect rhythm, restored and stronger. The fox sits on a
+      branch, watching him go with approval. Max calls out "Thanks for the workout!" The fox's
+      tail swishes. Ahead, Max's basketball hoop gleams, exactly where he left it. The atmosphere
+      is one of accomplishment. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max's driveway looked the same. Afternoon light, basketball hoop, chalk marks on the pavement. But he didn't feel the same. He picked up the basketball, set his position. The wristband hummed on his wrist. "Okay," he said to the hoop. "Let's see what this attempt shows me."
+      Max walked home, the wristband warm on his wrist. Around him, Kathaél's courses moved in perfect rhythm, challenges restored. The fox sat on a branch, watching him go. "Thanks for the workout," Max called. The fox's tail swished. The basketball hoop gleamed ahead, exactly where he'd left it.
 
   - page: right
     page_number: 28
     focus: Transformed by the journey
-
     visual: |
-      Max shoots. The ball clangs off the rim—but he grins instead of getting
-      frustrated. He adjusts his stance based on the miss and shoots again.
-      This shot swishes through. The wristband glows brighter. A golden thread
-      shimmers at the edge of his vision, unfinished and inviting. The bird
-      from Kathaél watches from a tree branch.
-
+      Max stands in his driveway, basketball in hand, the wristband glowing softly. He takes a
+      shot - swish! He grins with satisfaction. Not because he learned to accept failure, but
+      because he proved he can adapt to anything. He shoots again, adjusting mid-release when the
+      wind picks up. Another swish. At the tree line, a golden thread catches the light. The fox
+      from Kathaél tilts its head. Max waves, ready for whatever comes next. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      Clang. The ball bounced off the rim. Max grinned. "Too much force," he
-      muttered, adjusting. He shot again. Swish. The wristband glowed warm
-      against his skin. "Not about being perfect," he said, retrieving the
-      ball. "It's about figuring it out as you go." At the tree's edge, a
-      golden thread caught the light. The bird from Kathaél tilted its head.
-      Max waved. More adventures were definitely coming.
+      Max picked up his basketball, the wristband humming softly. He took a shot. Swish. He grinned. Not because he'd learned to accept failure. Because he'd proven that genuinely hard challenges just need persistence and creativity. He could adapt to anything. He shot again, adjusting his angle mid-release when the wind picked up. Swish. At the tree line, a golden thread caught the light. The fox tilted its head. Max waved. "Ready when you are."
