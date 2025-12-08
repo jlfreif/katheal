@@ -21,10 +21,10 @@ dialogue_packets:
     line: "Micah! I'm so tired."
     works_from_pov: [mi, no]
   - speaker: micah
-    line: "Me too. Everything's so hard."
+    line: "Me too. I keep failing. Over and over."
     works_from_pov: [mi, no]
   - speaker: noah
-    line: "But... you're still here. That's something."
+    line: "But... you're still here. Still trying. That's something."
     works_from_pov: [mi, no]
 
 image_alignment:
@@ -51,21 +51,24 @@ scenes:
     visual: |
       A dim glade where golden threads fade to grey. Incomplete puzzles float, pieces scattered.
       Constellation fragments dim. Word tiles jumbled. Mechanisms frozen. Micah stumbles into the
-      clearing, exhausted, dusty. Noah sits on a mossy log, head in hands, shoulders hunched. Around
-      them, failed attempts. Unsolved challenges. The forest dims further. The air feels heavy. Text
-      in Times New Roman 16pt in white space at bottom.
+      clearing, exhausted, dusty, shoulders slumped. His clothes are disheveled from repeated
+      attempts. He's breathing hard, limping slightly. Behind him through the trees, the pedestal
+      glows distantly—still waiting, still unsolved. Noah sits on a mossy log, head in hands,
+      shoulders hunched. Around them, failed attempts. Unsolved challenges. The forest dims further.
+      The air feels heavy with accumulated failure. Text in Times New Roman 16pt in white space at
+      bottom.
     text: |
-      Micah dragged himself into the glade. Everything fading. Threads turning grey. Puzzles falling apart. "Noah?" His cousin looked up with tired eyes. "I'm so tired," Noah said. Micah collapsed beside him. "Me too."
+      Micah stumbled into the glade, legs shaking. He'd tried the pedestal seven times. Seven failures. Each reset hitting harder than the last. Everything around him was fading now—threads turning grey, puzzles falling apart. "Noah?" His cousin looked up with tired eyes. "I'm so tired," Noah said quietly. Micah collapsed onto the log beside him, completely spent. "Me too. I keep failing. Over and over." The weight of it pressed down on both of them.
 
   - page: right
     page_number: 20
-    focus: Inner doubt and discouragement
+    focus: Finding courage to continue
     visual: |
-      Both boys sit on the mossy log. Micah stares at the darkening sky. Noah hunches forward, elbows
-      on knees. Between them, one golden thread glows faintly. Refusing to die. A single puzzle piece
-      hovers, still bright. Micah's eyes shift to it. Then to Noah. Noah turns to Micah. Their eyes
-      meet. Exhausted but recognizing each other. The thread brightens slightly. Around them, fading
-      continues. But that one thread holds steady. Text in Times New Roman 16pt in white space at
-      bottom.
+      Both boys sit on the mossy log. Micah stares at the darkening sky, shoulders slumped. Noah
+      hunches forward, elbows on knees. Between them, one golden thread glows faintly. Refusing to
+      die. A single puzzle piece hovers, still bright. Micah's eyes shift to it. Then to Noah. Noah
+      turns to Micah. Their eyes meet. Exhausted but recognizing each other. Not alone. The thread
+      brightens slightly. Around them, fading continues. But that one thread holds steady, responding
+      to their connection. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      They sat. Heavy silence. "Everything's so hard," Micah said. Noah nodded. Then noticed the single thread still glowing between them. One puzzle piece still bright. "But we're still here," Noah said quietly. "Still trying." Micah looked up. "Yeah. We are." The thread glowed warmer. Maybe showing up—even exhausted—mattered most. They stood together. "Let's keep going."
+      Heavy silence between them. Micah stared at the fading forest. "Seven tries," he said quietly. "Seven failures. What if I just... can't do it?" Noah looked at him. Then noticed the single thread still glowing between them. One puzzle piece still bright. "But you're still here," Noah said. "Still trying. That takes courage." Micah looked up, met his cousin's eyes. "You too." The thread glowed warmer. Maybe showing up—even after failure—mattered most. They stood together, steadier now. "Let's keep going."
