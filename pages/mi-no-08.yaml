@@ -62,11 +62,11 @@ scenes:
     focus: External obstacles intensify
     visual: |
       A dim glade where golden threads fade to grey. Incomplete puzzles float, pieces scattered.
-      Constellation fragments dim. Word tiles jumbled. Mechanisms frozen. One cousin stumbles into the
+      Constellation fragments dim. Word tiles jumbled. Mechanisms frozen. Micah stumbles into the
       clearing, exhausted, shoulders slumped. Clothes disheveled from repeated attempts. Breathing
-      hard. The other cousin sits on a mossy log, head in hands, shoulders hunched. Around them,
-      evidence of failed attempts—unsolved challenges, fading magic. The forest dims further. The air
-      feels heavy with accumulated failure. Text in Times New Roman 16pt in white space at bottom.
+      hard. Noah sits on a mossy log, head in hands, shoulders hunched. Around them, evidence of
+      failed attempts—unsolved challenges, fading magic. The forest dims further. The air feels heavy
+      with accumulated failure. Text in Times New Roman 16pt in white space at bottom.
     text_from_pov:
       mi: |
         Micah stumbled into the glade, legs shaking. He'd tried the pedestal seven times. Seven failures. Each reset hitting harder than the last. Everything around him was fading now—threads turning grey, puzzles falling apart. "Noah?" His cousin looked up with tired eyes. "I'm so tired," Noah said quietly. Micah collapsed onto the log beside him, completely spent. "Me too. I keep failing. Over and over." The weight of it pressed down on both of them.
@@ -77,9 +77,9 @@ scenes:
     page_number: 20
     focus: Finding courage to continue
     visual: |
-      Both boys sit on the mossy log. One stares at the darkening sky, shoulders slumped. The other
-      hunches forward, elbows on knees. Between them, one golden thread glows faintly. Refusing to
-      die. A single puzzle piece hovers, still bright. Their eyes shift to it, then to each other.
+      Micah and Noah sit on the mossy log. Micah stares at the darkening sky, shoulders slumped.
+      Noah hunches forward, elbows on knees. Between them, one golden thread glows faintly. Refusing
+      to die. A single puzzle piece hovers, still bright. Their eyes shift to it, then to each other.
       Eyes meet. Exhausted but recognizing each other. Not alone. The thread brightens slightly.
       Around them, fading continues. But that one thread holds steady, responding to their connection.
       Text in Times New Roman 16pt in white space at bottom.
