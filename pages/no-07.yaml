@@ -1,38 +1,42 @@
-# Noah - Spread 7: Rising Action
+# Noah - Spread 7: Rising Stakes
 
 id: no-07
 spread: 7
 node_type: solo
-beat: "Attempt #3 / rising action"
-hook: Working on the main challenge surfaces a complication or a missing piece.
-payoff: The missing element is addressed, setting up for the final push.
+beat: "Rising stakes: almost works"
+hook: Success is close but incomplete, with a detail revealing what's still needed.
+payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Noah and team make progress solving the interconnected puzzles, but discover the final sequence requires perfect timing and coordination they haven't mastered yet.
+description: Noah faces a pattern guardian that tests his coordination skills, then attempts the final synchronized challenge but fails due to the immense complexity.
 
 scenes:
   - page: left
     page_number: 17
-    focus: Making progress toward goal
+    focus: Fun action scene with pattern guardian
     visual: |
-      The library chamber alive with activity. Noah coordinates from the center, calling out connections
-      between the pedestals. His teammates work at different pedestals (shown but not individually focused).
-      Golden threads glow brighter as patterns align. The constellation pedestal rotates. The word riddle
-      pedestal pulses. The math sequences cascade. Musical notes chime in harmony. The mechanisms click into
-      rhythm. Noah's face shows intense focus as he tracks everything at once. Books float excitedly around
-      them. The Heart Crystal glows warmer. Progress! The atmosphere is exciting coordination. Text in Times
-      New Roman 16pt in white space at bottom.
+      A magnificent guardian made of swirling golden threads and puzzle pieces blocks the path to the Heart
+      Crystal's chamber. It constantly shifts—constellation stars becoming word tiles becoming numbers becoming
+      musical notes becoming gears. The guardian attacks by launching puzzle sequences at Noah that he must
+      solve mid-battle. A math equation flies at him. He shouts the answer and it dissolves. Word tiles spiral
+      toward him. "Navigate!" he calls, solving the riddle. They vanish. The guardian shifts faster, combining
+      patterns. Noah dodges, thinks, shouts solutions rapid-fire. His expression shows intense focus and
+      excitement—this is his kind of battle. Like speed-chess with a living puzzle. The atmosphere is
+      high-energy mental combat, thrilling and challenging. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      "Bear constellation now!" Noah shouted. Click. "That triggers the word 'North'—call it out!" "North!" someone yelled. "Which means math sequence three!" Another voice. Numbers cascaded. Musical notes chimed. Gears spun. They were doing it! Working together. The patterns aligning. The Heart Crystal glowed warmer. Almost there!
+      A guardian made of threads and puzzles blocked the chamber entrance. It shifted constantly—stars to words to numbers to music to gears. It launched a math sequence at Noah. "Forty-two!" he shouted. The numbers dissolved. Word tiles spiraled at him. "Navigate!" They vanished. Constellation. "Ursa Major!" Musical notes. "C-E-G!" The guardian moved faster, combining patterns. Noah's mind raced, solving, dodging, calling answers. This was the most intense puzzle battle of his life.
 
   - page: right
     page_number: 18
-    focus: Realizing something is missing
+    focus: Victory but challenge escalates
     visual: |
-      All five pedestals suddenly pulse with urgent red light. A countdown appears above the Heart Crystal—
-      glowing numbers ticking down. The owl swoops down urgently. "The final sequence!" it calls. "All five
-      patterns must complete simultaneously in perfect rhythm!" Noah stares at the countdown, then at the five
-      pedestals spread around the chamber. They've solved the patterns but never all at exactly the same time.
-      His expression shows realization of the ultimate challenge. His teammates look to him for the plan. The
-      atmosphere shifts to urgent preparation. Text in Times New Roman 16pt in white space at bottom.
+      Noah solves the final combined pattern and the guardian dissolves into peaceful light that flows into
+      the five pedestals. He's breathing hard, mentally exhausted but triumphant. The chamber opens fully,
+      revealing all five pedestals arranged in a circle around the Heart Crystal. Noah steps forward and they
+      activate—all five at once, demanding simultaneous coordination. He attempts to orchestrate them, calling
+      out the sequence, tracking all five patterns. He gets three synchronized, then four, but the fifth falls
+      out of rhythm. Everything resets with a discordant crash. Noah's expression shifts from confidence to
+      dismay. He's already mentally drained from the guardian. The challenge is more complex than he imagined.
+      The atmosphere shows the difficulty escalating beyond expectation. Text in Times New Roman 16pt in white
+      space at bottom.
     text: |
-      All five pedestals flared red. A countdown blazed above the Heart Crystal. "The final sequence!" the owl cried. "All five patterns must complete together. Perfect timing. Perfect rhythm." Noah's eyes went wide. They'd solved each pattern. But all at once? In perfect sync? He looked at his team scattered around the chamber. "We need a plan," he said. "And we need it now."
+      Noah shouted the final pattern and the guardian dissolved into light. He bent over, breathing hard, mind spinning from the rapid-fire puzzles. But ahead, all five pedestals activated at once. The final challenge. He stepped forward. "Constellation—Bear. Word—Navigate. Math—seven. Music—C major scale. Mechanism—clockwise!" He tried to track everything, coordinate all five. Three aligned. Four. The fifth slipped. Everything crashed, reset. "No!" Already exhausted from the guardian battle. But the pedestals waited, glowing. Ready for him to try again.

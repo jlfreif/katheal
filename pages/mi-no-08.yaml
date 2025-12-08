@@ -7,7 +7,7 @@ beat: "All-is-lost / emotional low"
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Cousins Micah and Noah meet in exhaustion and doubt. Both are tired from challenges but help each other see the value in continuing.
+description: Cousins Micah and Noah meet in exhaustion and doubt. Micah has failed the pedestal challenge repeatedly. Noah has failed to coordinate the five patterns. Both are physically and mentally depleted but help each other see the value in continuing.
 
 location: A dim glade where golden threads fade to grey, puzzles scattered incomplete
 
@@ -16,16 +16,28 @@ shared_action: Both collapse in exhaustion, then encourage each other to keep tr
 dialogue_packets:
   - speaker: micah
     line: "Noah? Is that you?"
-    works_from_pov: [mi, no]
+    works_from_pov: [mi]
   - speaker: noah
-    line: "Micah! I'm so tired."
+    line: "Micah?"
+    works_from_pov: [no]
+  - speaker: noah
+    line: "I'm so tired."
     works_from_pov: [mi, no]
   - speaker: micah
-    line: "Me too. Everything's so hard."
+    line: "I'm so tired."
     works_from_pov: [mi, no]
+  - speaker: micah
+    line: "I keep failing. Over and over."
+    works_from_pov: [mi]
   - speaker: noah
-    line: "But... you're still here. That's something."
-    works_from_pov: [mi, no]
+    line: "I can't get the patterns to align. I keep failing."
+    works_from_pov: [no]
+  - speaker: noah
+    line: "But you're still here. Still trying. That takes courage."
+    works_from_pov: [mi]
+  - speaker: micah
+    line: "But you're still here. Still trying. That's brave."
+    works_from_pov: [no]
 
 image_alignment:
   scene_id: exhausted-glade-008
@@ -50,22 +62,29 @@ scenes:
     focus: External obstacles intensify
     visual: |
       A dim glade where golden threads fade to grey. Incomplete puzzles float, pieces scattered.
-      Constellation fragments dim. Word tiles jumbled. Mechanisms frozen. Micah stumbles into the
-      clearing, exhausted, dusty. Noah sits on a mossy log, head in hands, shoulders hunched. Around
-      them, failed attempts. Unsolved challenges. The forest dims further. The air feels heavy. Text
-      in Times New Roman 16pt in white space at bottom.
-    text: |
-      Micah dragged himself into the glade. Everything fading. Threads turning grey. Puzzles falling apart. "Noah?" His cousin looked up with tired eyes. "I'm so tired," Noah said. Micah collapsed beside him. "Me too."
+      Constellation fragments dim. Word tiles jumbled. Mechanisms frozen. One cousin stumbles into the
+      clearing, exhausted, shoulders slumped. Clothes disheveled from repeated attempts. Breathing
+      hard. The other cousin sits on a mossy log, head in hands, shoulders hunched. Around them,
+      evidence of failed attempts—unsolved challenges, fading magic. The forest dims further. The air
+      feels heavy with accumulated failure. Text in Times New Roman 16pt in white space at bottom.
+    text_from_pov:
+      mi: |
+        Micah stumbled into the glade, legs shaking. He'd tried the pedestal seven times. Seven failures. Each reset hitting harder than the last. Everything around him was fading now—threads turning grey, puzzles falling apart. "Noah?" His cousin looked up with tired eyes. "I'm so tired," Noah said quietly. Micah collapsed onto the log beside him, completely spent. "Me too. I keep failing. Over and over." The weight of it pressed down on both of them.
+      no: |
+        Noah dragged himself into the glade, mind spinning from exhaustion. He'd tried coordinating all five pedestals—over and over. Each time, one pattern fell out of sync. Each reset felt like a personal failure. Everything around him was dimming—threads fading to grey, puzzles falling apart. "Micah?" His cousin sat on the log, looking up with exhausted eyes. "I'm so tired," Micah said. Noah sank down beside him, completely spent. "Me too. I can't get the patterns to align. I keep failing." The weight of it settled over both of them.
 
   - page: right
     page_number: 20
-    focus: Inner doubt and discouragement
+    focus: Finding courage to continue
     visual: |
-      Both boys sit on the mossy log. Micah stares at the darkening sky. Noah hunches forward, elbows
-      on knees. Between them, one golden thread glows faintly. Refusing to die. A single puzzle piece
-      hovers, still bright. Micah's eyes shift to it. Then to Noah. Noah turns to Micah. Their eyes
-      meet. Exhausted but recognizing each other. The thread brightens slightly. Around them, fading
-      continues. But that one thread holds steady. Text in Times New Roman 16pt in white space at
-      bottom.
-    text: |
-      They sat. Heavy silence. "Everything's so hard," Micah said. Noah nodded. Then noticed the single thread still glowing between them. One puzzle piece still bright. "But we're still here," Noah said quietly. "Still trying." Micah looked up. "Yeah. We are." The thread glowed warmer. Maybe showing up—even exhausted—mattered most. They stood together. "Let's keep going."
+      Both boys sit on the mossy log. One stares at the darkening sky, shoulders slumped. The other
+      hunches forward, elbows on knees. Between them, one golden thread glows faintly. Refusing to
+      die. A single puzzle piece hovers, still bright. Their eyes shift to it, then to each other.
+      Eyes meet. Exhausted but recognizing each other. Not alone. The thread brightens slightly.
+      Around them, fading continues. But that one thread holds steady, responding to their connection.
+      Text in Times New Roman 16pt in white space at bottom.
+    text_from_pov:
+      mi: |
+        Heavy silence between them. Micah stared at the fading forest. "Seven tries," he said quietly. "Seven failures. What if I just... can't do it?" Noah looked at him. Then noticed the single thread still glowing between them. One puzzle piece still bright. "But you're still here," Noah said. "Still trying. That takes courage." Micah looked up, met his cousin's eyes. "You too." The thread glowed warmer. Maybe showing up—even after failure—mattered most. They stood together, steadier now. "Let's keep going."
+      no: |
+        Heavy silence between them. Noah stared at the scattered puzzles. "I can't coordinate them all," he said quietly. "Every time, one falls out of sync. What if I'm just... not good enough?" Micah looked at him. Then noticed the single thread still glowing between them. One puzzle piece still bright. "But you're still here," Micah said. "Still trying. That's brave." Noah looked up, met his cousin's eyes. "So are you." The thread glowed warmer. Maybe showing up—even after repeated failure—mattered most. They stood together, steadier now. "Let's keep going."

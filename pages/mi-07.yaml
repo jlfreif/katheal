@@ -27,15 +27,17 @@ scenes:
 
   - page: right
     page_number: 18
-    focus: Victory but tired
+    focus: Victory but challenge escalates
     visual: |
       Micah matches the guardian's rhythm perfectly—sprint, freeze, sprint, freeze—until he reaches
-      its glowing center crystal. He touches it and the guardian dissolves into peaceful golden light
-      that flows back into the Library's mechanisms. Micah is breathing hard, hands on his knees,
-      clearly exhausted but triumphant. His expression shows tired satisfaction—he won but it took
-      effort. Through the archway ahead, the physical mechanisms pedestal glows in its chamber, waiting
-      for him. But he needs to catch his breath first. Books flutter approvingly around him. The
-      atmosphere shows victory earned through genuine effort. Text in Times New Roman 16pt in white
-      space at bottom.
+      its glowing center crystal. He touches it and the guardian dissolves into peaceful golden light.
+      Micah is breathing hard but triumphant. He pushes forward to the physical mechanisms pedestal,
+      which activates with spinning gears, levers, and platforms. The mechanism demands constant
+      alternation: sprint here, freeze there, precise timing. Micah attempts it—he moves fast,
+      pauses, moves again. But the sequence is incredibly complex. He's partway through when a gear
+      shifts unexpectedly. He stumbles, catches himself. The mechanism resets with a discordant clang.
+      His expression shifts from confidence to frustration. He's already tired from the guardian
+      battle. The atmosphere shows the challenge intensifying beyond what he expected. Text in Times
+      New Roman 16pt in white space at bottom.
     text: |
-      Micah matched the guardian's rhythm—sprint, freeze, sprint, freeze. He reached its center and touched the glowing crystal there. The guardian dissolved into light, peaceful. Micah dropped to his hands and knees, breathing hard. Completely exhausted. "Did NOT expect a boss battle in a magical library today," he muttered, grinning. But ahead, the physical mechanisms pedestal glowed, calling him forward. Almost there.
+      Micah matched the guardian's rhythm—sprint, freeze, sprint, freeze. He reached its center and touched the glowing crystal there. The guardian dissolved into light, peaceful. Breathing hard but grinning, he pushed forward to the pedestal. The mechanisms activated—gears spinning, platforms shifting, demanding split-second timing. Sprint, freeze, sprint, freeze. He made it halfway before a gear shifted wrong. He stumbled. The whole thing reset with a harsh clang. "Come on!" he muttered. Already exhausted from the guardian. But the pedestal just waited, gleaming. Ready for him to try again.
