@@ -7,14 +7,14 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Maya arrives in the Library of Lost Patterns and discovers the word riddles pedestal that challenges her to see beyond surface meanings.
+description: Maya arrives in the Library of Kathaél and discovers the word riddles pedestal that challenges her to see beyond surface meanings.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Maya lands in the magnificent Library of Lost Patterns. Ancient trees with glowing books on
+      Maya lands in the magnificent Library of Kathaél. Ancient trees with glowing books on
       branches. Floating scrolls chime like wind chimes. Books flutter playfully past. In the center
       rises the massive crystalline Heart Crystal with five pedestals arranged in a circle. The word
       riddles pedestal glows before her, covered in riddles that shift and change their meaning. Maya
@@ -23,19 +23,20 @@ scenes:
       her quick surface reading almost led her wrong. The riddles have hidden depths. The atmosphere
       reveals a challenge with layers. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Maya landed in the Library of Lost Patterns. Books floated like curious birds. Scrolls chimed. The word riddles pedestal glowed before her, covered in shifting text. She read fast, artist's eye making quick judgments. "That one means..." She reached for a symbol. A book swooped down and stopped her. Wrong! The riddle's surface meaning hid something deeper. "Okay, so this place has layers," she said.
+      Maya landed in the Library of Kathaél. Books floated like curious birds. Scrolls chimed. The word riddles pedestal glowed before her, covered in shifting text. She read fast, artist's eye making quick judgments. "That one means..." She reached for a symbol. A book swooped down and stopped her. Wrong! The riddle's surface meaning hid something deeper. "Okay, so this place has layers," she said.
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      The owl swoops down and lands beside the word riddles pedestal. "The Library's riddles are
-      fading," it explains. "Everyone reads them quickly, judging by first glance. The deeper meanings
-      are forgotten. Can you help?" Maya looks at the pedestal more carefully now. Each riddle shows
-      two meanings—the obvious surface one and a hidden deeper truth beneath. She realizes this whole
-      challenge operates on seeing what's truly there beneath the words. Her expression shows determined
-      curiosity. Golden threads appear faintly, guiding her deeper into the Library to find the riddle
-      challenges. The Heart Crystal pulses weakly in the background. Text in Times New Roman 16pt in
-      white space at bottom.
+      The owl swoops down and lands beside the word riddles pedestal. "The Library holds every story of
+      courage ever told," it explains. "When patterns break, the stories can't flow. People forget how
+      to keep trying. How to face their fears. The riddles especially—everyone judges by first glance.
+      The deeper meanings are forgotten. Can you help?" Maya thought of stories she'd judged too quickly.
+      She looks at the pedestal more carefully now. Each riddle shows two meanings—the obvious surface one
+      and a hidden deeper truth beneath. She realizes this whole challenge operates on seeing what's truly
+      there beneath the words. Her expression shows determined curiosity. Golden threads appear faintly,
+      guiding her deeper into the Library to find the riddle challenges. The Heart Crystal pulses weakly
+      in the background. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      A golden owl watched from a branch. "The Library's riddles are fading. Everyone judges by first glance. No one looks deeper anymore. Can you help?" Maya studied the pedestal again. Each riddle had layers—surface and depth. Both mattered. "I can try," she said. "I can learn to see what's really there." Golden threads appeared, leading deeper into the Library.
+      A golden owl watched from a branch. "The Library holds every story of courage ever told," it said. "When patterns break, the stories can't flow. People forget how to keep trying. How to face their fears. The riddles especially—everyone judges by first glance. No one looks deeper anymore. Can you help?" Maya thought of stories she'd judged too quickly. She studied the pedestal again. Each riddle had layers—surface and depth. Both mattered. "I can try," she said. "I can learn to see what's really there." Golden threads appeared, leading deeper into the Library.

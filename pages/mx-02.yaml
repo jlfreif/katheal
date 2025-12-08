@@ -9,14 +9,14 @@ beat: "Inciting incident"
 hook: The discovery is fully revealed, establishing the story goal.
 payoff: Character commits to action based on what they've discovered.
 
-description: Max enters the Library of Lost Patterns, discovers the mathematical sequences pedestal and the failing Heart Crystal.
+description: Max enters the Library of Kathaél, discovers the mathematical sequences pedestal and the failing Heart Crystal.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Max steps from his ordinary backyard into the magnificent Library of Lost Patterns. Ancient
+      Max steps from his ordinary backyard into the magnificent Library of Kathaél. Ancient
       trees with glowing books on branches rise around him. Floating scrolls chime like wind chimes.
       In the center, five pedestals surround the massive Heart Crystal. The mathematical sequences
       pedestal glows before him, covered in number patterns and equations that shift and change. But
@@ -25,18 +25,20 @@ scenes:
       mind already processing the challenge. The atmosphere is magical but troubled. Text in Times New
       Roman 16pt in white space at bottom.
     text: |
-      One step took Max from his backyard into the Library of Lost Patterns. Ancient trees glowed with books. Scrolls chimed. The mathematical sequences pedestal stood before him, covered in number patterns. But half the sequences hung broken, dark and lifeless. In the distance, the Heart Crystal pulsed weakly, cracks spreading. "Whoa," Max breathed. "This is incredible."
+      One step took Max from his backyard into the Library of Kathaél. Ancient trees glowed with books. Scrolls chimed. The mathematical sequences pedestal stood before him, covered in number patterns. But half the sequences hung broken, dark and lifeless. In the distance, the Heart Crystal pulsed weakly, cracks spreading. "Whoa," Max breathed. "This is incredible."
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
       Max stands before the mathematical sequences pedestal. A fox with ancient, knowing eyes sits
-      beside it, watching Max intently. The fox's gaze moves between Max, the broken sequences, and
-      the distant failing Heart Crystal. Number patterns float in the air—Fibonacci spirals, prime
-      sequences, geometric progressions—all flickering and incomplete. Golden threads connect everything
-      but they're dim. Max's expression shows understanding and determination—he's already figuring out
-      the challenge, cracking his knuckles in preparation. The atmosphere is one of accepting a challenge.
-      Text in Times New Roman 16pt in white space at bottom.
+      beside it, watching Max intently. Somehow Max understands: The Library holds every story of courage
+      ever told. When patterns break, the stories can't flow. People forget how to keep trying. The fox's
+      gaze moves between Max, the broken sequences, and the distant failing Heart Crystal. Number patterns
+      float in the air—Fibonacci spirals, prime sequences, geometric progressions—all flickering and
+      incomplete. Golden threads connect everything but they're dim. Max's expression shows understanding
+      and determination—he's already figuring out the challenge, cracking his knuckles in preparation.
+      The atmosphere is one of accepting a challenge. Text in Times New Roman 16pt in white space at
+      bottom.
     text: |
-      A fox sat beside the pedestal, watching him with ancient eyes. Max understood somehow: the sequences powered the crystal. The crystal powered everything. And everything was failing. The fox's gaze moved to Max, then to the broken patterns, then back. Max cracked his knuckles. "Okay. I'm good at patterns. Let's do this."
+      A fox sat beside the pedestal, watching him with ancient eyes. Max understood somehow: The Library holds every story of courage ever told. When patterns break, the stories can't flow. People forget how to keep trying. The sequences powered the crystal. The crystal powered everything. And everything was failing. The fox's gaze moved to Max, then to the broken patterns, then back. Max thought of stories that taught him to persist. He cracked his knuckles. "Okay. I'm good at patterns. Let's do this."

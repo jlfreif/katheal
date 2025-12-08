@@ -7,7 +7,7 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Elise and Micah arrive at the Library of Lost Patterns and discover the musical notes and physical mechanisms pedestals, realizing the challenges ahead require their unique skills.
+description: Elise and Micah arrive at the Library of Kathaél and discover the musical notes and physical mechanisms pedestals, realizing the challenges ahead require their unique skills.
 
 location: The central chamber of the Library where the five pedestals surround the Heart Crystal
 
@@ -47,7 +47,7 @@ scenes:
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Elise steps through golden light into the magnificent Library of Lost Patterns. Ancient trees
+      Elise steps through golden light into the magnificent Library of Kathaél. Ancient trees
       with glowing books on branches rise around her. Floating scrolls chime like wind chimes. Books
       flutter playfully past. In the center, five pedestals surround the massive Heart Crystal, cracked
       and dimming. The musical notes pedestal glows with rhythmic pulses. Elise (9 years old, long brown
@@ -57,7 +57,7 @@ scenes:
       meet in surprise and delight. The atmosphere is wonder meeting family. Text in Times New Roman
       16pt in white space at bottom.
     text: |
-      Elise stepped through golden light into the Library of Lost Patterns. Ancient trees glowed with books. Scrolls chimed. Five pedestals surrounded a massive crystal. Running footsteps. "Micah?" Her cousin burst in from another doorway. "Elise? You're here too?" They grinned at each other. "Look at all these pedestals," Micah said, eyes wide. "This is huge."
+      Elise stepped through golden light into the Library of Kathaél. Ancient trees glowed with books. Scrolls chimed. Five pedestals surrounded a massive crystal. Running footsteps. "Micah?" Her cousin burst in from another doorway. "Elise? You're here too?" They grinned at each other. "Look at all these pedestals," Micah said, eyes wide. "This is huge."
 
   - page: right
     page_number: 8
@@ -65,10 +65,11 @@ scenes:
     visual: |
       Elise and Micah stand before their respective pedestals. Elise examines the musical notes pedestal
       where glowing notes float and chime. Micah studies the physical mechanisms pedestal with its gears
-      and levers. The owl swoops down between them. "The Library's patterns are breaking," it explains.
-      "Each pedestal needs someone with special skills. Can you help?" Elise and Micah exchange looks
-      across the chamber. They're cousins, family, and now teammates in this challenge. Both nod. Golden
-      threads pulse, leading deeper into the Library where their individual challenges await. The Heart
-      Crystal hums weakly behind them. Text in Times New Roman 16pt in white space at bottom.
+      and levers. The owl swoops down between them. "The Library holds every story of courage ever told,"
+      it explains. "When patterns break, the stories can't flow. People forget how to keep trying. How to
+      face their fears. Each pedestal needs someone with special skills. Can you help?" Elise and Micah
+      exchange looks across the chamber. They're cousins, family, and now teammates in this challenge. Both
+      nod. Golden threads pulse, leading deeper into the Library where their individual challenges await.
+      The Heart Crystal hums weakly behind them. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      The owl appeared. "The Library's patterns are breaking. Each pedestal needs someone special. Can you help?" Elise looked at the musical notes. Micah studied the mechanisms. They glanced at each other across the chamber. Cousins. Family. Teammates now. "We can try," Elise said. Micah nodded. "Let's do this." Golden threads pulsed brighter, leading them forward.
+      The owl appeared. "The Library holds every story of courage ever told," it said. "When patterns break, the stories can't flow. People forget how to keep trying. How to face their fears." Elise thought of her favorite dance stories. Micah thought of heroes who never gave up. "Each pedestal needs someone special," the owl continued. "Can you help?" They glanced at each other across the chamber. Cousins. Family. Teammates now. "We can try," Elise said. Micah nodded. "Let's do this." Golden threads pulsed brighter, leading them forward.
