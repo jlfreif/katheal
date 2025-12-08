@@ -7,14 +7,14 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Mona discovers the Library of Lost Patterns and the constellation patterns pedestal that requires both investigation and action to solve.
+description: Mona discovers the Library of Kathaél and the constellation patterns pedestal that requires both investigation and action to solve.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Mona toddles into the magnificent Library of Lost Patterns. Ancient trees with glowing books on
+      Mona toddles into the magnificent Library of Kathaél. Ancient trees with glowing books on
       branches. Floating scrolls chime like wind chimes. Books flutter playfully past. In the center,
       five pedestals surround the massive Heart Crystal. The constellation patterns pedestal glows
       before her, covered in star maps that need to be connected and arranged. Glowing constellation
@@ -23,7 +23,7 @@ scenes:
       who can figure out how they work." This is a real puzzle to solve—it needs Mona's investigating
       mind AND her willingness to try. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Mona found the Library of Lost Patterns. Ancient trees glowed with books. Scrolls chimed. The constellation patterns pedestal stood at the center, covered in star maps that needed connecting. Glowing pieces floated everywhere. A rabbit sat by the pedestal. "The constellations won't align. We need someone who can figure it out." Mona's eyes went wide. This needed investigating.
+      Mona found the Library of Kathaél. Ancient trees glowed with books. Scrolls chimed. The constellation patterns pedestal stood at the center, covered in star maps that needed connecting. Glowing pieces floated everywhere. A rabbit sat by the pedestal. "The constellations won't align. We need someone who can figure it out." Mona's eyes went wide. This needed investigating.
 
   - page: right
     page_number: 8
