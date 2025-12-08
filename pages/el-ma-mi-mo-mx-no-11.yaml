@@ -7,7 +7,7 @@ beat: "Climax: applying learned skills to save the crystal"
 hook: Characters continue their challenges, showing what they learned.
 payoff: The Heart Crystal is saved; victory through teamwork.
 
-description: All six siblings/cousins work together, each applying their unique skills learned from their journey to save the Heart Crystal. Elise uses her dance skills with technique plus joy.
+description: All six siblings/cousins work together, each applying their unique skills learned from their journey to save the Heart Crystal.
 
 location: The Heart Crystal clearing, as challenges intensify then succeed
 
@@ -61,29 +61,28 @@ image_alignment:
 scenes:
   - page: left
     page_number: 25
-    focus: Elise completes her dance challenge with technique plus joy
+    focus: All six children completing their challenges with skills learned on their journeys
     visual: |
-      Elise's blue facet shows rhythm-footprints shifting faster and faster in the air around her.
-      She keeps dancing—one hand pressed to the crystal, the other arm extended for balance. Spin,
-      leap, pop-and-lock, rapid steps. She adds joy to every move—laughs mid-spin, adds flourishes,
-      dances with her whole heart. Her family calls encouragement around her—Max completing obstacles,
-      Noah writing, Maya painting, Micah moving, Mona exploring. All six working together. Elise is
-      tired, muscles burning from her long journey, but she doesn't stop. The final sequence appears—
-      the impossible triple-spin combination. She launches into it with technique plus joy. Lands
-      perfect. Her facet blazes brilliant blue. The others are succeeding too. Text in Times New
-      Roman 16pt in white space at bottom.
+      All six children work on their challenges simultaneously, each at their own facet. The focal
+      character (varies by book POV) is shown in the foreground completing their specific challenge
+      with intensity and joy. Around them, the other five family members are visible working on their
+      own challenges—dancing, painting, moving, exploring, solving obstacles, writing. Challenges
+      intensify visibly: patterns multiply, sequences speed up, complexity increases. All six children
+      are tired, muscles burning from their long journeys, but nobody stops. Final impossible sequences
+      appear for each. They launch together with determination. All six succeed simultaneously. All
+      six facets blaze brilliant in their colors. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Elise's musical patterns shifted faster in the air. She kept dancing—one hand on the crystal, the other extended. Spin, leap, rapid steps. She added joy to every move. Around her, her family completed their own pedestal challenges. "You've got this!" they called to each other. Elise was tired. Muscles burning. But she didn't stop. The final sequence appeared—the impossible combination. She launched with technique plus joy. Landed perfect. Her blue facet blazed bright.
+      The challenges intensified. Musical patterns shifted faster. Paint strokes multiplied. Movement sequences sped up. Curiosity puzzles grew complex. Obstacle patterns layered. Story fragments scattered. Each child pushed harder—one hand on the crystal, bodies moving through their unique challenges. "You've got this!" they called to each other. Tired. Muscles burning. But nobody stopped. Final sequences appeared—the impossible ones. They launched together. All six landed perfect. All six facets blazed bright.
 
   - page: right
     page_number: 26
     focus: Crystal heals - victory through teamwork
     visual: |
-      All six facets glow together in brilliant colors. The Heart Crystal's cracks seal with
-      golden light flooding through. The broken courses throughout Kathaél repair themselves,
-      visible in the distance. Max feels warmth gather in his palm - a golden wristband appears,
-      pulsing gently with orange light. He grins at his cousins, all equally exhausted and
-      triumphant. They're together, victorious. The forest brightens around them. Text in Times
-      New Roman 16pt in white space at bottom.
+      All six facets glow together in brilliant colors (blue, pink, green, orange, red, yellow).
+      The Heart Crystal's cracks seal with golden light flooding through. Everything throughout
+      Kathaél repairs simultaneously, visible in the distance. Warmth gathers in six palms—six
+      golden wristbands appear, each pulsing gently with its own color. All six children grin at
+      each other, equally exhausted and triumphant. They're together, victorious. The forest
+      brightens around them. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      All six facets glowed together. The Heart Crystal's cracks sealed, light flooding through every pattern in the Library. The five pedestals blazed with restored power, stronger than before. Elise felt warmth gather in her palm until a wristband appeared—golden, pulsing gently with blue light. She grinned at her family. They'd done it. Together. Max joked, "Did NOT see a family reunion in a magical forest on today's schedule." Everyone laughed.
+      All six facets glowed together. The Heart Crystal's cracks sealed, light flooding through. Golden light spread across Kathaél, healing everything at once. Warmth gathered in six palms. Six wristbands appeared—golden, each pulsing gently with its own color. Blue. Pink. Green. Orange. Red. Yellow. The children grinned at each other. They'd done it. Together. "Did NOT see a family reunion in a magical forest on today's schedule," Max joked. Everyone laughed.
