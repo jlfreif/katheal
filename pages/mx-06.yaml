@@ -3,7 +3,7 @@
 
 id: mx-06
 spread: 6
-node_type: mirrored
+node_type: solo
 beat: "Midpoint: new insight / pattern"
 
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
@@ -16,15 +16,15 @@ scenes:
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      Max tackles a course together with Noah. Max handles the physical obstacles while Noah calls out
-      patterns he's spotted. They work in rhythm—Max jumping, Noah directing. "Left! No, wait, right!"
-      They almost have it. Then the course shifts again—the rope swing changes direction, the balance
-      beam rotates. They both fall, landing on mats below. Max groans. "It keeps CHANGING!" Noah frowns
-      at his notes. Max's expression shows frustrated realization—completing it once isn't the point.
-      The course keeps changing. The fox watches patiently. The atmosphere is one of being stuck on a
-      challenge that won't stay solved. Text in Times New Roman 16pt in white space at bottom.
+      Max tackles a course alone. He completes an obstacle correctly, landing on a platform. But the
+      course immediately shifts—the next rope swing changes direction, the balance beam rotates to a
+      different angle. He tries again. It shifts. Again. It shifts. Max's expression shows frustrated
+      realization—completing it once isn't the point. The course keeps changing. The fox watches
+      patiently from a branch. His mental notes are covered in crossed-out strategies that worked but
+      no longer apply. The atmosphere is one of being stuck on a challenge that won't stay solved.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max and Noah tackled a course together. Max handled the physical obstacles while Noah called out patterns he'd spotted. They worked in rhythm—Max jumping, Noah directing. "Left! No, wait, right!" They almost had it. Then the course shifted again. They both fell. Max groaned. "It keeps CHANGING!" Noah frowned at his notes. "Unless... what if changing is the point?"
+      Max completed an obstacle correctly. Then the course shifted. The rope swing changed direction. He adapted and made it through. It shifted again. "It keeps CHANGING!" He stared at the course—every approach was right. But none stayed right for long. The fox tilted its head. Max frowned. "Unless... what if changing is the point?"
 
   - page: right
     page_number: 16
@@ -37,4 +37,4 @@ scenes:
       expression shows excited discovery—breakthrough understanding! The atmosphere celebrates insight.
       Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max stood. "Say that again." Noah's eyes lit up. "What if the course changes because we're supposed to adapt? Not solve it once, but keep adjusting?" Max tested it. He ran the course, and when obstacles shifted, he shifted too. Adjusted mid-jump. Changed direction mid-climb. The threads hummed. The course stayed active. "That's it!" Max laughed. "It's not about being perfect. It's about not giving up when things change!"
+      Max tested it. He ran the course, and when obstacles shifted, he shifted too. Adapted his movement mid-jump. Changed direction mid-climb. The threads hummed. The course stayed active, glowing. "That's it!" Max laughed. "It's not about completing it once. It's about adapting when things change! The challenge IS the change!"
