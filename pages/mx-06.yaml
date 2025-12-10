@@ -9,33 +9,32 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Max discovers that the sequences require adaptation—not solving once, but adjusting continuously as they change.
+description: Max discovers that the course requires adaptation—not completing it once, but adjusting continuously as it changes.
 
 scenes:
   - page: left
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      Max works on a floating sequence in the Library, numbers glowing around him. He solves a pattern
-      correctly, filling in the missing numbers. But the sequence immediately shifts to a new pattern
-      before he can complete it. He tries again. It shifts. Again. It shifts. Max's expression shows
-      frustrated realization—solving it once isn't the point. The sequences keep changing. The fox
-      watches patiently. Books hover nearby. His notes are covered in crossed-out solutions that were
-      right but no longer apply. The atmosphere is one of being stuck on a problem that won't stay
-      solved. Text in Times New Roman 16pt in white space at bottom.
+      Max tackles a course together with Noah. Max handles the physical obstacles while Noah calls out
+      patterns he's spotted. They work in rhythm—Max jumping, Noah directing. "Left! No, wait, right!"
+      They almost have it. Then the course shifts again—the rope swing changes direction, the balance
+      beam rotates. They both fall, landing on mats below. Max groans. "It keeps CHANGING!" Noah frowns
+      at his notes. Max's expression shows frustrated realization—completing it once isn't the point.
+      The course keeps changing. The fox watches patiently. The atmosphere is one of being stuck on a
+      challenge that won't stay solved. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max solved a sequence correctly. Then it shifted to a new pattern. He solved that. It shifted again. "It keeps CHANGING!" He stared at his notes—every solution was right. But none stayed right for long. The fox tilted its head. Max frowned. "Unless... what if changing is the point?"
+      Max and Noah tackled a course together. Max handled the physical obstacles while Noah called out patterns he'd spotted. They worked in rhythm—Max jumping, Noah directing. "Left! No, wait, right!" They almost had it. Then the course shifted again. They both fell. Max groaned. "It keeps CHANGING!" Noah frowned at his notes. "Unless... what if changing is the point?"
 
   - page: right
     page_number: 16
     focus: Discovering a new pattern
     visual: |
-      Max tries a different approach with the sequences. Instead of solving one completely then moving
-      to the next, he adjusts his solution as the pattern shifts. A sequence changes from arithmetic
-      to geometric—he flows with it, adapting his answer mid-calculation. When another sequence branches,
-      he follows the new path instead of fighting it. The golden threads around him hum with approval.
-      The sequences stay active, glowing steadily. Max's expression shows excited discovery—breakthrough
-      understanding! The atmosphere celebrates insight. Text in Times New Roman 16pt in white space at
-      bottom.
+      Max tries a different approach with the course. Instead of following a fixed path, he runs it and
+      adjusts when obstacles shift. An obstacle changes position—he flows with it, adapting his jump
+      mid-air. When the balance beam rotates, he changes direction mid-step instead of fighting it. The
+      golden threads around him hum with approval. The course stays active, glowing steadily. Max's
+      expression shows excited discovery—breakthrough understanding! The atmosphere celebrates insight.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Max tested it. He solved a sequence, and when it shifted, he shifted too. Adapted his solution mid-calculation. Changed approach mid-pattern. The threads hummed. The sequence stayed active, glowing. "That's it!" Max laughed. "It's not about solving it once. It's about adapting when things change! The challenge IS the change!"
+      Max stood. "Say that again." Noah's eyes lit up. "What if the course changes because we're supposed to adapt? Not solve it once, but keep adjusting?" Max tested it. He ran the course, and when obstacles shifted, he shifted too. Adjusted mid-jump. Changed direction mid-climb. The threads hummed. The course stayed active. "That's it!" Max laughed. "It's not about being perfect. It's about not giving up when things change!"

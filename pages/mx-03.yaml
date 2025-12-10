@@ -1,5 +1,5 @@
 # Max - Spread 3: Attempt #1
-# Simple/obvious approach - using analytical skills
+# Simple/obvious approach - using athletic skills
 
 id: mx-03
 spread: 3
@@ -9,33 +9,33 @@ beat: "Attempt #1: Simple/obvious solution"
 hook: Character tries the obvious solution with confidence.
 payoff: The solution doesn't work as expected, revealing the challenge's complexity.
 
-description: Max tackles the first mathematical sequence with analytical confidence but discovers it's far more complex than it appears.
+description: Max tackles the first obstacle course with athletic confidence but discovers it's far more complex than it appears.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Max works on solving number sequences in the Library. Patterns float in the air around him—
-      Fibonacci numbers, geometric progressions, prime sequences. He moves with confidence, filling
-      in missing numbers with his analytical mind. His form is precise, his calculations accurate.
-      Around him, golden threads flicker faintly in response to his progress. Three sequences glow
-      completed behind him. The fox watches from a nearby branch. Max is grinning, clearly enjoying
-      this puzzle. The atmosphere is active, energetic, confident. Text in Times New Roman 16pt in
-      white space at bottom.
+      Max runs the obstacle course like a basketball drill. He sprints to the rope swing with athletic
+      confidence. Jump. Grab. Swing across. He lands clean, rolls, comes up running. The balance beam
+      wobbles but he's steady—he's done worse in gym class. He keeps his weight centered, arms out.
+      Around him, golden threads flicker faintly in response to his progress. Three obstacles down.
+      The fox watches from a nearby branch. Max is grinning, clearly enjoying this physical challenge.
+      The atmosphere is active, energetic, confident. Text in Times New Roman 16pt in white space at
+      bottom.
     text: |
-      Max approached the first sequence like a math problem. The pattern was clear: 2, 4, 8, 16... Powers of two. He filled in the missing numbers. The sequence glowed. Next: Fibonacci. 1, 1, 2, 3, 5, 8... He solved it. Three sequences down. "Easy," he muttered, grinning.
+      Max approached the first course like a basketball drill. Sprint to the rope swing. Jump. Grab. Swing across. He landed clean, rolled, came up running. The balance beam wobbled, but he'd done worse in gym class. He kept his weight centered, arms out. Three obstacles down. The threads around him flickered faintly. "Easy," he muttered, grinning.
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      Max reaches a sequence that suddenly shifts and changes. The numbers he just filled in rearrange
-      themselves. New variables appear. The pattern becomes three-dimensional, spiraling in impossible
-      ways. Max steps back, eyes wide, trying to track the changes. The sequences he'd just completed
-      have gone dark and reset to broken. The golden threads are dim again. Max stands looking up at
-      the shifting patterns with surprise and frustration—not at himself, but at the difficulty of
-      the challenge. The fox watches calmly. The atmosphere shifts from confident to challenged. Text
-      in Times New Roman 16pt in white space at bottom.
+      Max hits a climbing section where the handholds suddenly shift and rotate as he touches them. He
+      reaches for one and it spins backward. He grabs for another and it rotates away. Max loses his
+      grip and falls, landing hard on his shoulder on the mat below. The entire course flickers and goes
+      dark. Everything he'd just completed resets to broken, threads going lifeless. Max stands, rubbing
+      his shoulder, looking up at the shifting handholds with surprise and frustration—not at himself,
+      but at the difficulty of the challenge. "What?" The fox watches calmly. The atmosphere shifts from
+      confident to challenged. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Then he hit a sequence that changed. The numbers rearranged themselves. New variables appeared. The pattern spiraled in three dimensions. "What?" Max stared. "I solved it right!" The completed sequences reset to broken. His solutions had been correct. But that wasn't enough. This was going to be harder than he thought.
+      Then he hit the wall. Literally. A climbing section that shifted as he touched it, handholds rotating away. He grabbed for one and it spun backward. He fell, landed hard on his shoulder. The entire course flickered and went dark. Everything he'd completed reset to broken. "What?" Max stood, rubbing his shoulder. "I was doing it right! This is some next-level difficulty setting."
