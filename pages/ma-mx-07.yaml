@@ -8,11 +8,11 @@ beat: "Rising stakes: action scene + meeting"
 hook: Character faces physical challenge and prevails but is exhausted.
 payoff: Meets another family member who has also been facing challenges.
 
-description: Max battles a guardian creature in an exciting action sequence, then meets his cousin Maya.
+description: Max and Maya both battle a guardian creature together in an exciting action sequence.
 
 location: A forest clearing blocking the path to the next set of challenges
 
-shared_action: Max defeats the creature and discovers Maya was watching
+shared_action: Max and Maya work together to defeat the creature
 
 dialogue_packets:
   - speaker: max
@@ -34,38 +34,41 @@ image_alignment:
     - path revealed beyond
   pov_variants:
     - character_code: ma
-      camera_position: showing Maya watching Max defeat creature
+      camera_position: showing Maya and Max both fighting creature from Maya's perspective
       focal_character: maya
       background_characters: [max]
     - character_code: mx
-      camera_position: showing Max in final move with Maya appearing
+      camera_position: showing Max and Maya both fighting creature from Max's perspective
       focal_character: max
       background_characters: [maya]
 
 scenes:
   - page: left
     page_number: 17
-    focus: Fun action scene with creature
+    focus: Fun action scene with both Max and Maya fighting creature
     visual: |
       A clearing in the Kathaél forest. A creature made of golden vines and light blocks the
       path - beautiful but intimidating. The creature moves fast, whip-quick tendrils snapping
-      toward Max. Max is mid-action - dodging left, ducking under a vine, rolling. His basketball
-      defensive stance is clear - knees bent, hands up, ready to move. His face shows excitement
-      and focus. This is challenging but fun. The creature isn't evil, just testing him. The
+      toward both Max and Maya. Max is on one side - dodging left, ducking under a vine, his basketball
+      defensive stance clear with knees bent, hands up, ready to move. Maya is on the opposite side -
+      using artistic, flowing movements to dodge the creature's attacks, paint-splattered messenger bag
+      swinging. Both show excitement and focus on their faces. They're working in sync without planning
+      it - two cousins finding their rhythm together. The creature isn't evil, just testing them. The
       forest glows around them. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      A creature made of vines and golden light blocked the path to the next course. It moved fast, whip-quick tendrils snapping toward Max. "Okay, so we're doing this?" Max dropped into a defensive stance, basketball instincts kicking in. He dodged left, ducked right, rolled under a sweeping vine. His heart pounded. This was the most fun he'd had all day.
+      A creature made of vines and golden light blocked the path. It moved fast, whip-quick tendrils snapping toward Max and Maya. "Okay, so we're doing this?" Max dropped into a defensive stance. On the other side of the clearing, a girl with sandy-blond hair moved in sync - dodging, ducking, rolling. Max didn't know who she was, but they fought like a team. His basketball instincts, her artistic flow. Together, they matched the creature's rhythm.
 
   - page: right
     page_number: 18
-    focus: Victory but tired, meeting Maya
+    focus: Victory together, introductions
     visual: |
-      The creature is dissolving into peaceful golden light. Max stands catching his breath, hand
-      still extended toward where the creature's crystal center was. He's clearly tired - breathing
-      hard, wiping sweat. Behind where the creature stood, Maya appears - a girl with shoulder-
-      length sandy-blond hair with a pink streak, wearing artist-style clothes. She's grinning,
-      impressed. Max looks surprised to see her but manages a tired smile. The cleared path
-      stretches beyond them. The atmosphere is victory mixed with exhaustion. Text in Times New
-      Roman 16pt in white space at bottom.
+      The creature is dissolving into peaceful golden light. Max and Maya both have their hands
+      extended toward where the creature's crystal center was - they reached it at the same moment.
+      Both are clearly tired - breathing hard, wiping sweat. Max stands on one side, Maya on the other,
+      the dissolving creature between them. Maya is a girl with shoulder-length sandy-blond hair with
+      a pink streak, wearing artist-style clothes with a paint-splattered messenger bag. They're both
+      grinning at each other - surprised, impressed, exhausted. The cleared path stretches beyond them.
+      The atmosphere is shared victory mixed with exhaustion. Text in Times New Roman 16pt in white
+      space at bottom.
     text: |
-      Max spotted the pattern—the creature telegraphed its moves, like a defensive player. He faked left, went right, and touched the crystal at the creature's center. It dissolved into light, peaceful. A girl with wavy shoulder-length sandy-blond hair with a pink streak stood behind where the creature had been. "Nice moves!" Maya said, grinning. "I'm Maya. Also trying to save this place." Max caught his breath. "Max. And that was exhausting." But he'd done it.
+      Max and the girl spotted the pattern together—the creature telegraphed its moves. Without speaking, they coordinated. He faked left, she went right, and they both touched the crystal at the creature's center at the same moment. It dissolved into light, peaceful. "Nice moves!" the girl said, grinning. "I'm Maya. Also trying to save this place." Max caught his breath. "Max. And that was exhausting." But they'd done it—together.
