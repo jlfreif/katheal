@@ -7,36 +7,35 @@ beat: "All-is-lost / emotional low"
 hook: Self-doubt surfaces, questioning whether continuing is worth it.
 payoff: Something affirms that the effort matters and creates emotional reconnection.
 
-description: Mona tries every investigation technique she knows but can't solve this puzzle—it's genuinely stumping her. She's tired and stuck.
+description: Mona tries everything to balance the golden block but it won't stay—she's tired, stuck, and discouraged.
 
 scenes:
   - page: left
     page_number: 19
     focus: External obstacles intensify
     visual: |
-      Mona kneels by the constellation pedestal in the Library, investigating the three connection
-      spots with everything she knows. She examines the star patterns—they look the same. She checks
-      for glowing threads—all equally bright. She looks for constellation alignments—nothing clear.
-      She asks "Why this one?" but gets no answer. The spots don't react like the puzzle pieces did
-      earlier. No clues! Around her through the Library windows, parts of the sky start to dim—the
-      constellations weakening without the star placed. Time pressure mounting. Other creatures watch
-      nervously. Mona sits down hard, exhausted from the chase, frustrated that her usual investigating
-      isn't working. Her expression shows tired determination, not breakdown. This puzzle is genuinely
-      hard. Text in Times New Roman 16pt in white space at bottom.
+      Mona kneels by her tower in the Library, trying everything she knows to balance the golden block.
+      She looks at the three spots on top—they look the same. She feels them—all smooth. She asks "Why
+      this one?" but gets no answer. The spots don't glow or warm up like the other blocks did earlier.
+      No clues! She tries placing the block very slowly. Still rolls off. She tries fast. Still rolls
+      off. She tries gentle hands. Still rolls off! Around her through the Library windows, the sky dims
+      slightly—the Heart Crystal needs this tower complete. Other creatures watch nervously. Mona sits
+      down hard, exhausted, frustrated that her investigating isn't helping. Her expression shows tired
+      determination. This is genuinely hard. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Mona tried everything in the Library. Checked the star patterns. Same. Felt for warmth. Same. Looked for alignments. Nothing. "Why this one?" she asked. No answer. The spots didn't glow or react. No clues at all! Through the windows, constellations started dimming. Running out of time. She sat down, tired and stuck. This puzzle wasn't giving her anything to investigate.
+      Mona tried everything! Looked at the spots. Same! Felt them. Same! "Why this one?" No answer! No clues! The sky got dark. Mona sat down. So tired. So stuck!
 
   - page: right
     page_number: 20
     focus: Inner doubt and discouragement
     visual: |
       Mona hugs her stuffed bunny close, resting for a moment on the Library floor. She's tired from
-      running, tired from investigating, and this constellation puzzle won't give her answers. The
-      rabbit hops over between floating books. "Some puzzles don't have clues," it says gently.
-      "Sometimes you investigate all you can, then you just have to try and see what happens." Mona
-      looks at the three spots on the pedestal again through the Library air. She can't know for sure
-      which is right. But she can make her best guess and try. That's all anyone can do with an impossible
-      puzzle. Her expression shows tired acceptance—not of defeat, but of doing her best with a genuinely
-      hard challenge. She stands up, ready to try. Text in Times New Roman 16pt in white space at bottom.
+      trying so many times, tired from investigating, and this balance puzzle won't give her answers.
+      The rabbit hops over between floating books. "Some puzzles have no clues," it says gently.
+      "Sometimes you ask why all you can, then you just have to try and see what happens." Mona looks
+      at the three spots on top of her tower again through the Library air. She can't know for sure
+      which spot will hold the block. But she can make her best guess and try. That's all anyone can
+      do with an impossible puzzle. Her expression shows tired acceptance—not of defeat, but of doing
+      her best. She stands up, ready to try. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Mona hugged bunny tight in the Library. She was so tired. The rabbit hopped close. "Some puzzles don't have clues. You investigate what you can. Then you try and see." Mona looked at the constellation spots. She couldn't know for sure. But she could make her best guess. That was all anyone could do. She stood up. Time to try.
+      Mona hugged her bunny. The rabbit came. "Some puzzles have no clues. You ask why. Then you just try!" Mona looked at the spots. She didn't know which one. But she could try! She stood up.

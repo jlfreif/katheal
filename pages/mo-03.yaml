@@ -7,33 +7,34 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Mona tries acting without questioning anything but rushes into danger, learning both extremes are wrong.
+description: Mona tries stacking blocks fast without asking questions, and her tower wobbles dangerously and almost falls on her.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Mona runs through the Library chambers touching constellation pieces without stopping to wonder.
-      Don't ask why—just do! She grabs floating stars and presses them randomly. She connects lines
-      without checking patterns. She's moving fast, acting on everything, no questions. Constellation
-      pieces light up but in chaotic, disconnected ways. Other creatures watch nervously. Books flutter
-      with concern. She runs toward a beautiful glowing archway without pausing, drawn to its light.
-      Her little legs pump with determination. Her expression shows toddler confidence. The atmosphere
-      is chaotic action without thought. Text in Times New Roman 16pt in white space at bottom.
+      Mona runs around the Library grabbing blocks without stopping to wonder. Don't ask why—just
+      stack! She grabs floating blocks and tosses them onto the pedestal fast. Big ones, small ones,
+      round ones, square ones—no pattern, no looking! She's moving fast, stacking everything, no
+      questions. The tower grows tall but wobbly. Blocks teeter at odd angles. Other creatures watch
+      nervously. Books flutter with concern. The tower sways. Mona reaches for one more block, not
+      looking up at the dangerous wobbling tower above her. Her expression shows toddler confidence.
+      The atmosphere is chaotic action without thought. Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      Mona ran everywhere doing everything in the Library. No more questions! Just do! She grabbed constellation pieces, pressed them randomly. Stars lit up but messily. She saw a glowing archway. Didn't stop to look. Just ran toward it—
+      Mona ran fast! No more why! Just stack! She grabbed blocks. Threw them up! Big ones! Small ones! Didn't look. Just stacked! The tower got tall and wobbly!
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      The archway suddenly isn't safe—it was an illusion hiding a gap in the Library floor, and Mona
-      nearly runs over the edge into darkness below. The rabbit lunges forward and grabs her overalls,
-      yanking her back just in time. Mona sits hard on the ground, breathing fast, scared. A wise
-      tortoise appears slowly from behind a stack of books. "Too many questions makes you stuck," it
-      says gently. "But no questions makes you reckless." Mona's eyes are wide. She looks at the edge
-      she almost ran over. Her expression shows shaken realization. The atmosphere is the moment of
-      understanding both extremes are dangerous. Text in Times New Roman 16pt in white space at bottom.
+      The tower wobbles wildly—CRASH! Blocks tumble down around Mona! The rabbit lunges forward and
+      pushes her back just in time. Blocks scatter everywhere. Mona sits hard on the ground, breathing
+      fast, surprised. A wise tortoise appears slowly from behind a stack of books. "Too many questions
+      makes you stuck," it says gently. "But no questions makes things fall. You need both—ask why,
+      then try." Mona's eyes are wide. She looks at the fallen blocks all around her. Her expression
+      shows shaken realization. The atmosphere is the moment of understanding both extremes are
+      dangerous. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      —The archway was fake. Mona's foot hit air. The rabbit yanked her back. She sat hard, heart pounding. A tortoise appeared from behind books. "Too many questions makes you stuck. No questions makes you reckless. You need both. Question when it matters. Act when it's time."
+      CRASH! Blocks fell down! The rabbit pushed Mona back! Blocks everywhere! Mona sat down. Uh-oh! A turtle came. "Too many whys makes you stuck. No whys makes you fall. You need both."
