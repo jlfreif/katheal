@@ -7,7 +7,7 @@ beat: "Inciting incident"
 hook: The path forward runs out or becomes unclear, raising uncertainty.
 payoff: The wider world opens up with multiple options and first plan emerges.
 
-description: Mona discovers the Library of Kathaél and the constellation patterns pedestal that requires both investigation and action to solve.
+description: Mona discovers the Library of Kathaél and magical blocks that need stacking into towers on the pedestals.
 
 scenes:
   - page: left
@@ -16,26 +16,25 @@ scenes:
     visual: |
       Mona toddles into the magnificent Library of Kathaél. Ancient trees with glowing books on
       branches. Floating scrolls chime like wind chimes. Books flutter playfully past. In the center,
-      five pedestals surround the massive Heart Crystal. The constellation patterns pedestal glows
-      before her, covered in star maps that need to be connected and arranged. Glowing constellation
-      pieces float around it—shapes, stars, connecting lines. The Library shimmers with possibility.
-      A tired rabbit sits by the pedestal. "The constellations won't align," it says. "We need someone
-      who can figure out how they work." This is a real puzzle to solve—it needs Mona's investigating
-      mind AND her willingness to try. Text in Times New Roman 16pt in white space at bottom.
+      five pedestals surround the massive Heart Crystal. Her pedestal glows before her, empty and
+      waiting. Magical blocks float around the room—colorful, glowing, different shapes and sizes.
+      Some are stone, some are clouds, some shimmer like light. A tired rabbit sits by the empty
+      pedestal. "The towers fell down," it says sadly. "We need someone who can stack them tall!"
+      This needs Mona's investigating mind AND her willingness to try. Text in Times New Roman 16pt
+      in white space at bottom.
     text: |
-      Mona found a big library! Trees had books. Stars floated. A rabbit sat sad. "The stars won't work," said the rabbit. Mona looked. The stars needed help!
+      Mona found a big library! Trees had books. Magic blocks floated! A rabbit sat sad. "The towers fell down," said the rabbit. Mona looked. The blocks needed stacking!
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Mona toddles to the pedestal, tilting her head at the floating constellation pieces. She picks
-      one up—it's warm and hums in her hand. "Why warm?" she asks, examining it. The piece glows
-      brighter when she asks questions! She asks "Why this shape?" and it pulses. She studies it, then
-      presses it against the pedestal where it seems to fit. Click! A tiny connection forms between
-      two stars. The rabbit gasps. Mona grins—her questions help her investigate, and then she acts
-      on what she learns. She reaches for another constellation piece. The atmosphere shifts from
-      stillness to excitement as the first piece of the puzzle slots into place. Text in Times New
-      Roman 16pt in white space at bottom.
+      Mona toddles to the pedestal, tilting her head at the floating blocks. She picks one up—it's
+      warm and hums in her hand. "Why warm?" she asks, examining it. The block glows brighter when
+      she asks questions! She asks "Why round?" and it pulses. She studies it, then gently places it
+      on the pedestal. It stays! A tiny glow appears. The rabbit gasps. Mona grins—her questions
+      help her investigate, and then she acts on what she learns. She reaches for another block.
+      The atmosphere shifts from stillness to excitement as the first block of the tower sits steady.
+      Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Mona picked up a star. Warm! "Why warm?" she asked. The star glowed! She put it down. Click! It fit! The rabbit jumped. Mona smiled. She could help!
+      Mona picked up a block. Warm! "Why round?" she asked. The block glowed! She put it down. It stayed! The rabbit jumped. Mona smiled. She could stack!

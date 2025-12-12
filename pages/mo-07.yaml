@@ -7,35 +7,34 @@ beat: "Rising stakes: almost works"
 hook: Success is close but incomplete, with a detail revealing what's still needed.
 payoff: What's missing is revealed to be distant or difficult to reach.
 
-description: Mona faces a playful trickster creature that scrambles constellation patterns—she must investigate its pattern and act quickly to catch it.
+description: Mona finds a special golden block that keeps rolling off the tower—she must figure out the balance to make it stay.
 
 scenes:
   - page: left
     page_number: 17
     focus: Making progress toward goal
     visual: |
-      A mischievous sparkle-fox darts through the Library, scrambling all the constellation pieces
-      Mona carefully placed! It giggles as it swaps stars, hides connecting lines, rearranges patterns
-      in the air. Mona chases after it, toddler-running with determination through aisles of glowing
-      books. She's breathing hard but grinning—this is like a game of chase! She watches its zigzag
-      pattern between the ancient trees. "Why does it go left-left-right?" she asks herself, investigating
-      while running. The fox sparkles and dodges around floating scrolls. Other creatures cheer her on.
-      The Library pulses with energy. Her expression shows focused excitement—using her mind while her
-      body moves fast. Text in Times New Roman 16pt in white space at bottom.
+      Mona stands by her growing tower with one special block left—a beautiful golden round block that
+      glows brightly. It's the top piece! But when she places it on the tower, it wobbles... rolls...
+      and falls off. PLOP! She picks it up and tries again. Places it carefully. It wobbles... rolls...
+      falls off again! PLOP! "Why does it roll?" she asks, tilting her head. She tries a third time,
+      placing it in a different spot. It wobbles dangerously. Other creatures watch nervously. The tower
+      is almost complete but this last block won't stay! She's breathing hard from trying over and over.
+      Her expression shows determined focus—she's so close! Text in Times New Roman 16pt in white space
+      at bottom.
     text: |
-      A fox messed up the stars! It giggled. Mona ran after it! Run, run, run! "Why does it zigzag?" she asked. Left-left-right. Left-left-right. She saw the pattern! But running was hard!
+      One block left! A gold round block! Mona put it on top. It wobbled. It rolled. PLOP! It fell! She tried again. PLOP! Fell again! "Why does it roll?" she asked. So close! But it kept falling!
 
   - page: right
     page_number: 18
     focus: Realizing something is missing
     visual: |
-      Mona predicts the fox's next move—left-left-RIGHT!—and dives, catching it in a gentle hug between
-      stacks of floating books. The fox squeaks in surprise, then laughs and hands her a golden crystal
-      star. "You earned it!" it says. Mona sits down on the Library floor, breathing hard, holding the
-      precious star. The constellation pedestal in the distance still has incomplete patterns. This star
-      could complete it—but the pedestal shows three spots where the star might connect. No clues which
-      one is right. Mona's tired but determined. She examines the spots carefully through the Library
-      air. This is the hardest puzzle yet—no obvious pattern to investigate. Her expression shows fatigue
-      but focus. Text in Times New Roman 16pt in white space at bottom.
+      Mona sits down on the Library floor, breathing hard, holding the golden round block. She's tried
+      it so many times! She looks up at her tower. It's tall and beautiful, glowing softly, but incomplete
+      without the top block. She examines the top of the tower carefully. There are three different spots
+      where the golden block might balance—left side, middle, or right side. But every time she tries,
+      it rolls off before she can see which spot is right! No clues which way to try. Mona's tired but
+      determined. She looks at the three spots. This is the hardest part yet—no obvious way to investigate.
+      Her expression shows fatigue but focus. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      Left-left-RIGHT! Mona caught it! The fox laughed. Gave her a gold star. "You got it!" Mona sat down. So tired! Where did the star go? Three spots. Which one was right? Mona didn't know.
+      Mona sat down. So tired! The tower was so pretty! But not done. The gold block had three spots to go. Left? Middle? Right? It rolled too fast! She couldn't tell! Which spot was right? Mona didn't know.
