@@ -16,13 +16,14 @@ scenes:
     page_number: 15
     focus: Recognizing what doesn't work
     visual: |
-      Max tackles a course alone. He completes an obstacle correctly, landing on a platform. But the
-      course immediately shifts—the next rope swing changes direction, the balance beam rotates to a
-      different angle. He tries again. It shifts. Again. It shifts. Max's expression shows frustrated
-      realization—completing it once isn't the point. The course keeps changing. The fox watches
-      patiently from a branch. His mental notes are covered in crossed-out strategies that worked but
-      no longer apply. The atmosphere is one of being stuck on a challenge that won't stay solved.
-      Text in Times New Roman 16pt in white space at bottom.
+      Max tackles a course near the pedestal alone. He completes an obstacle correctly, landing on a
+      floating platform. But the course immediately shifts—the next rope swing changes direction, the
+      balance beam rotates to a different angle. He tries again. It shifts. Again. It shifts. Max's
+      expression shows frustrated realization—completing it once isn't the point. The course keeps
+      changing. Around him, the Library pulses with golden light. The fox watches patiently from a
+      branch. His mental notes are covered in crossed-out strategies that worked but no longer apply.
+      The atmosphere is one of being stuck on a challenge that won't stay solved. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
       Max completed an obstacle correctly. Then the course shifted. The rope swing changed direction. He adapted and made it through. It shifted again. "It keeps CHANGING!" He stared at the course—every approach was right. But none stayed right for long. The fox tilted its head. Max frowned. "Unless... what if changing is the point?"
 
@@ -33,8 +34,9 @@ scenes:
       Max tries a different approach with the course. Instead of following a fixed path, he runs it and
       adjusts when obstacles shift. An obstacle changes position—he flows with it, adapting his jump
       mid-air. When the balance beam rotates, he changes direction mid-step instead of fighting it. The
-      golden threads around him hum with approval. The course stays active, glowing steadily. Max's
-      expression shows excited discovery—breakthrough understanding! The atmosphere celebrates insight.
-      Text in Times New Roman 16pt in white space at bottom.
+      golden threads around him hum with approval, connecting back to the pedestal. The course stays
+      active, glowing steadily. Books flutter excitedly around the Library. Max's expression shows
+      excited discovery—breakthrough understanding! The atmosphere celebrates insight. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
       Max tested it. He ran the course, and when obstacles shifted, he shifted too. Adapted his movement mid-jump. Changed direction mid-climb. The threads hummed. The course stayed active, glowing. "That's it!" Max laughed. "It's not about completing it once. It's about adapting when things change! The challenge IS the change!"

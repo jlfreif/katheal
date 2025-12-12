@@ -9,34 +9,35 @@ beat: "Inciting incident"
 hook: The discovery is fully revealed, establishing the story goal.
 payoff: Character commits to action based on what they've discovered.
 
-description: Max enters Kathaél, discovers the obstacle courses and the failing Heart Crystal.
+description: Max arrives in the Library of Kathaél and discovers the Obstacle Courses pedestal where physical challenges should flow but have become broken and static.
 
 scenes:
   - page: left
     page_number: 7
     focus: Discovery of the problem
     visual: |
-      Max steps from his ordinary backyard into a forest that glows. Enormous trees rise around him,
-      and woven between them are obstacle courses—rope bridges, climbing walls, balance beams, all
-      woven with golden threads. The courses look athletic and challenging, like the ultimate training
-      ground. But half the courses hang broken, threads dark and lifeless, platforms collapsed. In the
-      distance, a massive crystal structure pulses weakly, cracks spreading across its surface. Max
-      stands in wonder, taking it all in. His athlete's eye immediately assessing the courses. The
-      atmosphere is magical but troubled. Text in Times New Roman 16pt in white space at bottom.
+      Max lands in the magnificent Library of Kathaél. Ancient trees with glowing books on
+      branches rise around him. Floating scrolls chime like wind chimes. Books flutter playfully past.
+      In the center rises the massive crystalline Heart Crystal with five pedestals arranged in a circle.
+      The Obstacle Courses pedestal glows before him—floating platforms, rope swings, rotating handholds,
+      and balance beams suspended in the air, all woven with golden threads. But half the obstacles hang
+      broken, threads dark and lifeless, platforms frozen mid-rotation. Max stands in wonder, his athlete's
+      eye immediately assessing the courses. The atmosphere is magical but troubled. Text in Times New
+      Roman 16pt in white space at bottom.
     text: |
-      One step took Max from his backyard into a forest that glowed. Obstacle courses stretched between enormous trees—rope bridges, climbing walls, balance beams, all woven with golden threads. But half the courses hung broken, threads dark and lifeless. In the distance, a massive crystal structure pulsed weakly, cracks spreading across its surface. "Whoa," Max breathed. "This is Kathaél."
+      One step took Max from his backyard into the Library of Kathaél. Books floated like curious birds. Scrolls chimed. The Obstacle Courses pedestal glowed before him, surrounded by floating platforms, rope swings, and rotating handholds. But half the obstacles hung broken, threads dark and lifeless. In the distance, the Heart Crystal pulsed weakly, cracks spreading. "Whoa," Max breathed. "This place is incredible."
 
   - page: right
     page_number: 8
     focus: Decision to act
     visual: |
-      Max stands beside the nearest obstacle course. A fox with ancient, knowing eyes sits beside it,
-      watching Max intently. Somehow Max understands: the courses powered the crystal. The crystal
-      powered everything. And everything was failing. The fox's gaze moves between Max, the broken
-      course, and the distant failing Heart Crystal. The course has rope swings, rotating handholds,
-      balance beams—all flickering and incomplete. Golden threads connect everything but they're dim.
-      Max's expression shows understanding and determination—he's already sizing up the challenge,
-      cracking his knuckles in preparation. The atmosphere is one of accepting a challenge. Text in
-      Times New Roman 16pt in white space at bottom.
+      The fox swoops down and lands beside the Obstacle Courses pedestal. "The Library holds every
+      story of courage ever told," it explains. "When patterns break, the stories can't flow. People
+      forget how to keep trying after they stumble. The obstacle courses especially—people give up when
+      challenges adapt and change. They need someone who persists. Can you help?" Max looks at the
+      broken courses around the pedestal—obstacles that should move and flow but are frozen and
+      incomplete. He realizes these courses need someone who adapts to change. His expression shows
+      determination and excitement—this is exactly his kind of challenge. Golden threads appear faintly,
+      guiding him deeper into the Library. Text in Times New Roman 16pt in white space at bottom.
     text: |
-      A fox sat beside the nearest course, watching him with ancient eyes. Max understood somehow: the courses powered the crystal. The crystal powered everything. And everything was failing. The fox's gaze moved to Max, then to the broken course, then back. "You want me to fix it?" Max asked. The fox didn't move. Max cracked his knuckles. "Okay. I'm good at challenges. Let's do this."
+      A fox watched from a branch. "The Library holds every story of courage ever told," it said. "When patterns break, the stories can't flow. People forget how to keep trying after they stumble. The obstacle courses especially—people give up when challenges adapt. They need someone who persists. Can you help?" Max studied the frozen obstacles. They needed someone who could handle change. "I'm good at challenges," Max said, grinning. "Let's do this." Golden threads appeared, leading deeper into the Library.
