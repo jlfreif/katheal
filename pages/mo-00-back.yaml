@@ -7,16 +7,28 @@ character_code: mo
 character_name: Mona
 courage_theme: "Courage to Try Something New"
 
-visual: |
-  Back cover design with soft watercolor background in gentle blues, warm creams,
-  and soft pinks. Golden threads create a playful, gentle border around the edges,
-  weaving into simple shapes like stars, hearts, and circles. A small facet of the
-  Heart Crystal glows softly in the upper corner, casting warm rainbow glows. The
-  golden threads form decorative frames for the text areas. At the bottom, tiny
-  silhouettes of six children (representing all the characters) stand together,
-  connected by shimmering golden threads. The overall atmosphere is warm, gentle,
-  and inviting—perfect for the youngest reader. Delicate ink linework adds soft
-  detail to the magical elements. Space in the center is left clear for text placement.
+scenes:
+  - page: left
+    page_number: 2
+    focus: Back cover
+    visual: |
+      Back cover design with soft watercolor background in gentle blues, warm creams,
+      and soft pinks. Golden threads create a playful, gentle border around the edges,
+      weaving into simple shapes like stars, hearts, and circles. A small facet of the
+      Heart Crystal glows softly in the upper corner, casting warm rainbow glows. The
+      golden threads form decorative frames for the text areas. At the bottom, tiny
+      silhouettes of six children (representing all the characters) stand together,
+      connected by shimmering golden threads. The overall atmosphere is warm, gentle,
+      and inviting—perfect for the youngest reader. Delicate ink linework adds soft
+      detail to the magical elements. Space in the center is left clear for text placement.
+    text: |
+      When two-year-old Mona discovers golden threads in her playroom, they lead her to
+      the Library of Kathaél—a magical place where stories need help. The Heart Crystal
+      is losing its glow, and it needs someone brave enough to try new things. With wonder
+      and curiosity, Mona learns that even small steps can make big magic happen.
+
+      Part of the Kathaél Storybook Series
+      Ages 2-8
 
 synopsis: |
   When two-year-old Mona discovers golden threads in her playroom, they lead her to
