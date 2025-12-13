@@ -48,14 +48,13 @@ scenes:
     visual: |
       A dense grove where five rhythm-paths converge in a star pattern, all dark and broken.
       Elise stands at the center where the paths meet, trying basic dance moves—step, step,
-      hop. The paths flicker weakly under her feet but won't hold the light. She's breathing
-      hard, frustrated. Maya (9 years old, wavy shoulder-length sandy-blond hair with pink streak,
+      hop. The paths flicker weakly under her feet but won't hold the light. Maya (9 years old, wavy shoulder-length sandy-blond hair with pink streak,
       wearing light blue jeans and pink sweater) walks into the grove from another path, paint
       smudges on her hands. Both girls' eyes meet in surprise and recognition. The trees around
       them are twisted and ancient, golden threads hanging limp between branches. The air feels
       heavy with broken rhythm. The ground vibrates faintly with incomplete beats.
     text: |
-      Elise and Maya meet at a crossroads. "Maya?" "Elise?" They stared. Elise stepped simple patterns on the paths. The paths flickered but died. She tried faster. Nothing held. Footsteps. 
+      Elise and Maya arrive at a crossroads. "Maya?" "Elise?" They stared. Elise stepped simple patterns on the paths. The paths flickered but died. She tried faster. Nothing held. Footsteps. 
 
   - page: right
     page_number: 10
@@ -63,7 +62,7 @@ scenes:
     visual: |
       Elise and Maya dance on different paths, trying every basic move they know. Elise does
       clean pop-and-lock moves. Maya tries jazz steps with sharp precision. Both are moving
-      fast, breathing hard, sweat on their foreheads. The paths flicker and sputter but won't
+      fast, breathing hard. The paths flicker and sputter but won't
       stay lit. They stop, hands on knees, exhausted and frustrated. A small brown rabbit sits
       on a nearby rock, watching them with knowing eyes, ears twitching. The golden threads
       overhead pulse weakly, almost mockingly. The paths remain stubbornly dark. Behind them,
