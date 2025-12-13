@@ -129,11 +129,31 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
     """Create an enhanced prompt including visual style, character descriptions, and reference image info."""
     prompt_parts = []
 
+    # Image description section (visual only, no text)
+    visual = scene_data.get("visual", "").strip()
+    if visual:
+        prompt_parts.append("--- SCENE TO ILLUSTRATE ---")
+        prompt_parts.append(f"{visual}")
+        prompt_parts.append("")
+
     # Meta instructions
-    prompt_parts.append("Create an image for a children's story book.")
-    prompt_parts.append(
-        "Add the provided text to the image in a storybook style with appropriate typography and placement."
-    )
+    prompt_parts.append("Create an image for a children's story book based on the scene description above.")
+
+    # Get text - handle both 'text' and 'text_from_pov' formats
+    text = scene_data.get("text", "").strip()
+    if not text:
+        # Check for text_from_pov format
+        text_from_pov = scene_data.get("text_from_pov", {})
+        if text_from_pov:
+            # Use the first available POV text
+            first_pov = next(iter(text_from_pov.values()), "")
+            text = first_pov.strip()
+
+    # Only mention text inclusion if there is text
+    if text:
+        prompt_parts.append(
+            "Add the provided story text to the image in a storybook style with appropriate typography and placement."
+        )
     prompt_parts.append("")
 
     # Add visual style
@@ -171,15 +191,7 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
                 prompt_parts.append(f"  - {img_path.name}")
             prompt_parts.append("")
 
-    # Image description section
-    visual = scene_data.get("visual", "").strip()
-    if visual:
-        prompt_parts.append("--- SCENE TO ILLUSTRATE ---")
-        prompt_parts.append(f"{visual}")
-        prompt_parts.append("")
-
-    # Image text section
-    text = scene_data.get("text", "").strip()
+    # Image text section (only if text exists)
     if text:
         prompt_parts.append("--- TEXT TO INCLUDE IN IMAGE ---")
         prompt_parts.append(f"{text}")
