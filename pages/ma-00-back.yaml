@@ -23,18 +23,18 @@ scenes:
       detail to the artistic elements. Space in the center is left clear for text placement.
     text: |
       Maya loves performing and making people laugh, but when she arrives in the Library
-      of Kathaél, she finds a world where performances have frozen and creativity has
-      faded. The Heart Crystal is cracking, and only authentic expression can help. To
-      save the stories, Maya must find the courage to be truly herself—bold, quirky, and real.
+      of Kathaél, she finds a world where creativity has
+      faded. The Heart Crystal is cracking, and only authentic artistic expression can help. To
+      save the stories, Maya must find the courage to create art honestly, passionately, and with her authentic self.
 
       Part of the Kathaél Storybook Series
-      Ages 6-12
+      
 
 synopsis: |
   Maya loves performing and making people laugh, but when she arrives in the Library
   of Kathaél, she finds a world where performances have frozen and creativity has
   faded. The Heart Crystal is cracking, and only authentic expression can help. To
-  save the stories, Maya must find the courage to be truly herself—bold, quirky, and real.
+  save the stories, Maya must find the courage Maya must find the courage to create art honestly, passionately, and with her authentic self.
 
 series_info: "Part of the Kathaél Storybook Series"
 
@@ -46,4 +46,4 @@ connections:
   - character_code: mo
     character_name: Mona
 
-age_range: "Ages 6-12"
+
