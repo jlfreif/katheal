@@ -16,7 +16,7 @@ meta:
 
 text_formatting:
   font: "Times New Roman"
-  size: "16pt"
+  size: "20pt"
   placement: "White space towards the bottom of the page"
   consistency: "CRITICAL - Exact same font and size on EVERY page across ALL stories"
 
