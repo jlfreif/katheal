@@ -21,19 +21,19 @@ scenes:
       The overall atmosphere is bright, witty, and inviting, with delicate ink linework adding
       detail to the magical elements. Space in the center is left clear for text placement.
     text: |
-      Max loves solving mysteries and finding patterns, so when he arrives in the Library
-      of Kathaél, he's sure he can fix everything with the right formula. But the Heart
-      Crystal is cracking, and stories don't follow formulas. To save them, Max must learn
-      that true courage means trying again—even after your best plan fails.
+      Max loves sports, so when he arrives in the Library
+      of Kathaél, he's sure he can fix everything with the right moves. But the Heart
+      Crystal is cracking, and moves alone are not enough. To save Kathaél, Max must learn
+      that true courage means trying again—even after your best moves fail.
 
       Part of the Kathaél Storybook Series
-      Ages 8-12
+     
 
 synopsis: |
-  Max loves solving mysteries and finding patterns, so when he arrives in the Library
-  of Kathaél, he's sure he can fix everything with the right formula. But the Heart
-  Crystal is cracking, and stories don't follow formulas. To save them, Max must learn
-  that true courage means trying again—even after your best plan fails.
+  Max loves sports, so when he arrives in the Library
+      of Kathaél, he's sure he can fix everything with the right moves. But the Heart
+      Crystal is cracking, and moves alone are not enough. To save Kathaél, Max must learn
+      that true courage means trying again—even after your best moves fail.
 
 series_info: "Part of the Kathaél Storybook Series"
 
@@ -43,4 +43,4 @@ connections:
   - character_code: ma
     character_name: Maya
 
-age_range: "Ages 8-12"
+
