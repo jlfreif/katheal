@@ -5,7 +5,7 @@ cover_type: front
 title: "The Library of Kathaél: Elise's Journey"
 character_code: el
 character_name: Elise
-courage_theme: "Courage to Be Yourself"
+
 
 scenes:
   - page: left
@@ -27,5 +27,5 @@ scenes:
 
       At the top of the cover, in elegant script: "The Library of Kathaél"
       Below that, in bold lettering: "Elise's Journey"
-      At the bottom: "Courage to Be Yourself"
+      
     text: ""
