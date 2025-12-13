@@ -7,22 +7,27 @@ character_code: mi
 character_name: Micah
 courage_theme: "Courage to Take a Breath"
 
-visual: |
-  Front cover illustration. Micah (9 years old, half-Japanese and half-Caucasian,
-  black hair, black eyes, medium height, balanced build, coordinated and powerful
-  physique, grey t-shirt, black shorts, black sneakers) is captured mid-motion,
-  leaping dynamically through the air with athletic grace. Golden threads flow around
-  him like wind currents, some forming musical notes (representing his trombone),
-  others creating parkour-style pathways and adventure symbols. His expression is
-  energetic and bright, full of restless motion and humor. Behind him, the Library
-  of Kathaél appears as an adventurous landscape with climbing surfaces and dynamic
-  architecture. The Heart Crystal towers in the background, its facets creating
-  prismatic light that follows his movement. Some threads pause in stillness, suggesting
-  moments of calm within motion. The atmosphere is energetic yet thoughtful, with
-  watercolor washes of dynamic grays, vibrant blues, honey golds, and warm creams.
-  Delicate ink linework captures the energy of movement and magical flow. The scene
-  captures Micah's constant motion meeting the magic of mindful pauses.
+scenes:
+  - page: left
+    page_number: 1
+    focus: Front cover
+    visual: |
+      Front cover illustration. Micah (9 years old, half-Japanese and half-Caucasian,
+      black hair, black eyes, medium height, balanced build, coordinated and powerful
+      physique, grey t-shirt, black shorts, black sneakers) is captured mid-motion,
+      leaping dynamically through the air with athletic grace. Golden threads flow around
+      him like wind currents, some forming musical notes (representing his trombone),
+      others creating parkour-style pathways and adventure symbols. His expression is
+      energetic and bright, full of restless motion and humor. Behind him, the Library
+      of Kathaél appears as an adventurous landscape with climbing surfaces and dynamic
+      architecture. The Heart Crystal towers in the background, its facets creating
+      prismatic light that follows his movement. Some threads pause in stillness, suggesting
+      moments of calm within motion. The atmosphere is energetic yet thoughtful, with
+      watercolor washes of dynamic grays, vibrant blues, honey golds, and warm creams.
+      Delicate ink linework captures the energy of movement and magical flow. The scene
+      captures Micah's constant motion meeting the magic of mindful pauses.
 
-  At the top of the cover, in elegant script: "The Library of Kathaél"
-  Below that, in bold lettering: "Micah's Journey"
-  At the bottom: "Courage to Take a Breath"
+      At the top of the cover, in elegant script: "The Library of Kathaél"
+      Below that, in bold lettering: "Micah's Journey"
+      At the bottom: "Courage to Take a Breath"
+    text: ""

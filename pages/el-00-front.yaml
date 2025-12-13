@@ -7,20 +7,25 @@ character_code: el
 character_name: Elise
 courage_theme: "Courage to Be Yourself"
 
-visual: |
-  Front cover illustration. Elise (9 years old, long brown hair, hazel eyes, slim build,
-  black leggings, light pink t-shirt, white sneakers) is mid-dance, one leg extended
-  gracefully, arms flowing expressively. Golden threads swirl around her like ribbons,
-  moving with her choreography. Her expression is confident and joyful, fully present
-  in the moment. Behind her, the Library of Kathaél glows with warm light, and the Heart
-  Crystal rises majestically, its facets reflecting colors that dance like her movements.
-  Musical notes made of golden light float through the air, intertwining with the threads.
-  Faded gray elements (representing dormant stories) are beginning to glow with color
-  as she dances near them. The atmosphere is warm and expressive, with watercolor washes
-  of soft pinks, honey golds, and mist blues. Delicate ink linework captures the grace
-  of her movement and the flowing threads. The scene embodies creative expression meeting
-  magical transformation.
+scenes:
+  - page: left
+    page_number: 1
+    focus: Front cover
+    visual: |
+      Front cover illustration. Elise (9 years old, long brown hair, hazel eyes, slim build,
+      black leggings, light pink t-shirt, white sneakers) is mid-dance, one leg extended
+      gracefully, arms flowing expressively. Golden threads swirl around her like ribbons,
+      moving with her choreography. Her expression is confident and joyful, fully present
+      in the moment. Behind her, the Library of Kathaél glows with warm light, and the Heart
+      Crystal rises majestically, its facets reflecting colors that dance like her movements.
+      Musical notes made of golden light float through the air, intertwining with the threads.
+      Faded gray elements (representing dormant stories) are beginning to glow with color
+      as she dances near them. The atmosphere is warm and expressive, with watercolor washes
+      of soft pinks, honey golds, and mist blues. Delicate ink linework captures the grace
+      of her movement and the flowing threads. The scene embodies creative expression meeting
+      magical transformation.
 
-  At the top of the cover, in elegant script: "The Library of Kathaél"
-  Below that, in bold lettering: "Elise's Journey"
-  At the bottom: "Courage to Be Yourself"
+      At the top of the cover, in elegant script: "The Library of Kathaél"
+      Below that, in bold lettering: "Elise's Journey"
+      At the bottom: "Courage to Be Yourself"
+    text: ""
