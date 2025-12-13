@@ -1,0 +1,34 @@
+# Max - Back Cover
+
+id: mx-00-back
+cover_type: back
+title: "The Library of Kathaél: Max's Journey"
+character_code: mx
+character_name: Max
+courage_theme: "Courage to Keep Going After a Mistake"
+
+visual: |
+  Back cover design with soft watercolor background in vibrant blues, warm creams,
+  and mist blues. Golden threads create an energetic border around the edges, weaving
+  into patterns, question marks, and musical notes. A small facet of the Heart Crystal
+  glows softly in the upper corner, casting prismatic light. The golden threads form
+  decorative frames for the text areas. At the bottom, tiny silhouettes of six children
+  (representing all the characters) stand together, connected by shimmering golden threads.
+  The overall atmosphere is bright, witty, and inviting, with delicate ink linework adding
+  detail to the magical elements. Space in the center is left clear for text placement.
+
+synopsis: |
+  Max loves solving mysteries and finding patterns, so when he arrives in the Library
+  of Kathaél, he's sure he can fix everything with the right formula. But the Heart
+  Crystal is cracking, and stories don't follow formulas. To save them, Max must learn
+  that true courage means trying again—even after your best plan fails.
+
+series_info: "Part of the Kathaél Storybook Series"
+
+connections:
+  - character_code: no
+    character_name: Noah
+  - character_code: ma
+    character_name: Maya
+
+age_range: "Ages 8-12"

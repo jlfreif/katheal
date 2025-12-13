@@ -1,0 +1,36 @@
+# Noah - Back Cover
+
+id: no-00-back
+cover_type: back
+title: "The Library of Kathaél: Noah's Journey"
+character_code: no
+character_name: Noah
+courage_theme: "Courage to Keep Going After a Mistake"
+
+visual: |
+  Back cover design with soft watercolor background in mist blues and warm creams. Golden
+  threads create an elegant border around the edges, weaving into subtle puzzle patterns
+  and constellation symbols. A small facet of the Heart Crystal glows softly in the upper
+  corner, casting prismatic light. The golden threads form decorative frames for the text
+  areas. At the bottom, tiny silhouettes of six children (representing all the characters)
+  stand together, connected by shimmering golden threads. The overall atmosphere is warm,
+  enchanted, and inviting, with delicate ink linework adding detail to the magical elements.
+  Space in the center is left clear for text placement.
+
+synopsis: |
+  When golden threads spell out "THE LIBRARY OF KATHAÉL NEEDS SOLVERS," puzzle-loving Noah
+  can't resist the challenge. But in this enchanted realm, the Heart Crystal is cracking
+  and stories are fading. To save them, Noah must learn that courage isn't about solving
+  everything perfectly—it's about trying again when things go wrong.
+
+series_info: "Part of the Kathaél Storybook Series"
+
+connections:
+  - character_code: el
+    character_name: Elise
+  - character_code: mx
+    character_name: Max
+  - character_code: mi
+    character_name: Micah
+
+age_range: "Ages 8-12"
