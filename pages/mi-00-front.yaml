@@ -5,7 +5,7 @@ cover_type: front
 title: "The Library of Kathaél: Micah's Journey"
 character_code: mi
 character_name: Micah
-courage_theme: "Courage to Take a Breath"
+
 
 scenes:
   - page: left
@@ -29,5 +29,5 @@ scenes:
 
       At the top of the cover, in elegant script: "The Library of Kathaél"
       Below that, in bold lettering: "Micah's Journey"
-      At the bottom: "Courage to Take a Breath"
+      
     text: ""
