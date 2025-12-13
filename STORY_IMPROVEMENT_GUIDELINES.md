@@ -10,7 +10,7 @@
 
 ### Text Formatting (EVERY PAGE)
 - **Font:** Times New Roman
-- **Size:** 16pt
+- **Size:** 20pt
 - **Placement:** White space towards the bottom of the page
 - **Consistency:** Exact same font and size on every single page across all stories
 
@@ -220,7 +220,7 @@ Each character MUST maintain identical visual appearance throughout their entire
 Before considering any story "complete," verify:
 
 ### Visual Consistency
-- [ ] All text is Times New Roman, 16pt, in white space at bottom
+- [ ] All text is Times New Roman, 20pt, in white space at bottom
 - [ ] Character appearance is identical on every page (age, hair, clothes, shoes)
 - [ ] No romantic imagery between any characters
 - [ ] All six characters maintain their unique visual identity
@@ -258,7 +258,7 @@ Before considering any story "complete," verify:
 ## 7. Implementation Priority
 
 ### Phase 1: Critical Fixes (Do First)
-1. Text formatting standardization (Times New Roman, 16pt)
+1. Text formatting standardization (Times New Roman, 20pt)
 2. Character visual consistency pass (all characters, all pages)
 3. Remove romantic imagery (Noah page 4, review all meeting nodes)
 4. Elise dance style correction

@@ -10,7 +10,7 @@ A modular storybook system for creating interconnected children's stories across
 
 ### Quality Standards & Improvements
 - **`STORY_IMPROVEMENT_GUIDELINES.md`** - **MANDATORY** quality checklist and specific improvements. Contains:
-  - Text formatting standards (Times New Roman 16pt)
+  - Text formatting standards (Times New Roman 20pt)
   - Character visual consistency requirements
   - Story structure changes (climax on spreads 10-11, ending on spread 12)
   - Transition text requirements
