@@ -5,7 +5,7 @@ cover_type: front
 title: "The Library of Kathaél: Maya's Journey"
 character_code: ma
 character_name: Maya
-courage_theme: "Courage to Be Yourself"
+
 
 scenes:
   - page: left
@@ -28,5 +28,5 @@ scenes:
 
       At the top of the cover, in elegant script: "The Library of Kathaél"
       Below that, in bold lettering: "Maya's Journey"
-      At the bottom: "Courage to Be Yourself"
+     
     text: ""
