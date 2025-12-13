@@ -1,0 +1,37 @@
+# Maya - Back Cover
+
+id: ma-00-back
+cover_type: back
+title: "The Library of Kathaél: Maya's Journey"
+character_code: ma
+character_name: Maya
+courage_theme: "Courage to Be Yourself"
+
+visual: |
+  Back cover design with soft watercolor background in vibrant pinks, warm creams,
+  and honey golds with jewel tone accents. Golden threads create a bold, artistic
+  border around the edges, weaving into paint strokes, dance ribbons, and creative
+  symbols. A small facet of the Heart Crystal glows softly in the upper corner,
+  refracting rainbow colors. The golden threads form decorative frames for the text
+  areas. At the bottom, tiny silhouettes of six children (representing all the
+  characters) stand together, connected by shimmering golden threads. The overall
+  atmosphere is bold, creative, and inviting, with delicate ink linework adding
+  detail to the artistic elements. Space in the center is left clear for text placement.
+
+synopsis: |
+  Maya loves performing and making people laugh, but when she arrives in the Library
+  of Kathaél, she finds a world where performances have frozen and creativity has
+  faded. The Heart Crystal is cracking, and only authentic expression can help. To
+  save the stories, Maya must find the courage to be truly herself—bold, quirky, and real.
+
+series_info: "Part of the Kathaél Storybook Series"
+
+connections:
+  - character_code: el
+    character_name: Elise
+  - character_code: mx
+    character_name: Max
+  - character_code: mo
+    character_name: Mona
+
+age_range: "Ages 6-12"

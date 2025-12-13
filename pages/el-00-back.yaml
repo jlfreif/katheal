@@ -1,0 +1,39 @@
+# Elise - Back Cover
+
+id: el-00-back
+cover_type: back
+title: "The Library of Kathaél: Elise's Journey"
+character_code: el
+character_name: Elise
+courage_theme: "Courage to Be Yourself"
+
+visual: |
+  Back cover design with soft watercolor background in gentle pinks, warm creams, and
+  mist blues. Golden threads create a flowing, dance-like border around the edges,
+  moving like ribbons in graceful curves. Musical notes made of golden light are
+  scattered throughout. A small facet of the Heart Crystal glows softly in the upper
+  corner, refracting soft colors. The golden threads form decorative frames for the
+  text areas. At the bottom, tiny silhouettes of six children (representing all the
+  characters) stand together, connected by shimmering golden threads. The overall
+  atmosphere is warm, expressive, and inviting, with delicate ink linework adding
+  detail to the flowing elements. Space in the center is left clear for text placement.
+
+synopsis: |
+  When Elise discovers the Library of Kathaél, she finds a world where creativity has
+  faded and performances have frozen mid-motion. The Heart Crystal is cracking, and
+  stories need someone who can dance them back to life. To help, Elise must find the
+  courage to express herself fully—not to be perfect, but to be truly present.
+
+series_info: "Part of the Kathaél Storybook Series"
+
+connections:
+  - character_code: no
+    character_name: Noah
+  - character_code: ma
+    character_name: Maya
+  - character_code: mi
+    character_name: Micah
+  - character_code: mo
+    character_name: Mona
+
+age_range: "Ages 6-12"

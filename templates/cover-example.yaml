@@ -1,0 +1,72 @@
+# Cover Template
+#
+# This template defines the structure for front and back covers of storybooks.
+# Each character gets two cover files: cc-00-front.yaml and cc-00-back.yaml
+#
+# FILE NAMING:
+#   - Front cover: cc-00-front.yaml (e.g., no-00-front.yaml)
+#   - Back cover: cc-00-back.yaml (e.g., no-00-back.yaml)
+
+# Should match the filename (e.g., "no-00-front" or "no-00-back")
+id: cc-00-front
+
+# Type of cover: "front" or "back"
+cover_type: front
+
+# Full title of the book
+title: "The Library of Kathaél: [Character Name]'s Journey"
+
+# Character's two-letter code
+character_code: cc
+
+# Character's full name
+character_name: Character Name
+
+# === FRONT COVER ===
+# For front covers, include:
+#   - title: Full book title
+#   - visual: Cover illustration description
+#   - character_name: Main character's name
+#   - courage_theme: The character's courage theme
+
+# === BACK COVER ===
+# For back covers, include:
+#   - synopsis: 2-3 sentence story teaser
+#   - courage_theme: The character's courage theme
+#   - series_info: Series indicator text
+#   - connections: List of connected characters
+#   - age_range: Target age recommendation
+
+# Cover illustration (for front) or back cover design (for back)
+visual: |
+  [For front cover: Describe the main cover illustration showing the character
+  in a dynamic, personality-revealing pose with Kathaél elements (golden threads,
+  Heart Crystal shimmer, magical atmosphere). Follow the world.yaml visual style.]
+
+  [For back cover: Describe the back cover design with subtle Kathaél elements
+  (golden threads, Heart Crystal facets) creating an enchanted border or background.
+  Include space for text placement.]
+
+# Synopsis text (back cover only)
+# 2-3 sentences that hook the reader into the story
+synopsis: |
+  [Character name] discovers golden threads calling them to the Library of Kathaél,
+  where stories are fading and the Heart Crystal is cracking. To save the stories,
+  [he/she/they] must find the courage to [brief hint at their journey theme].
+
+# Series information (back cover only)
+series_info: "Part of the Kathaél Storybook Series"
+
+# Connected characters (back cover only)
+# List other characters this character connects with through Narrative Nodes
+connections:
+  - character_code: el
+    character_name: Elise
+  - character_code: mx
+    character_name: Max
+
+# Age range recommendation (back cover only)
+age_range: "Ages 6-12"
+
+# Courage theme (appears on both front and back)
+courage_theme: "Courage to [Theme]"

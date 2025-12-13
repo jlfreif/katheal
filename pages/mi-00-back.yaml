@@ -1,0 +1,36 @@
+# Micah - Back Cover
+
+id: mi-00-back
+cover_type: back
+title: "The Library of Kathaél: Micah's Journey"
+character_code: mi
+character_name: Micah
+courage_theme: "Courage to Take a Breath"
+
+visual: |
+  Back cover design with soft watercolor background in dynamic grays, warm creams,
+  and vibrant blues. Golden threads create an energetic border around the edges,
+  flowing like wind currents with musical notes and adventure symbols woven in.
+  A small facet of the Heart Crystal glows softly in the upper corner, casting
+  prismatic light. The golden threads form decorative frames for the text areas,
+  with some threads appearing to pause in moments of stillness. At the bottom,
+  tiny silhouettes of six children (representing all the characters) stand together,
+  connected by shimmering golden threads. The overall atmosphere is dynamic yet
+  thoughtful, inviting both motion and calm. Delicate ink linework adds detail to
+  the flowing elements. Space in the center is left clear for text placement.
+
+synopsis: |
+  Micah is always in motion—running, climbing, exploring—so when golden threads
+  invite him to the Library of Kathaél, he rushes in ready for adventure. But the
+  Heart Crystal is cracking, and stories can't be saved by speed alone. To help,
+  Micah must discover that sometimes the bravest thing you can do is pause and breathe.
+
+series_info: "Part of the Kathaél Storybook Series"
+
+connections:
+  - character_code: el
+    character_name: Elise
+  - character_code: no
+    character_name: Noah
+
+age_range: "Ages 6-12"
