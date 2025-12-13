@@ -5,7 +5,7 @@ cover_type: front
 title: "The Library of Kathaél: Max's Journey"
 character_code: mx
 character_name: Max
-courage_theme: "Courage to Keep Going After a Mistake"
+
 
 scenes:
   - page: left
@@ -27,5 +27,5 @@ scenes:
 
       At the top of the cover, in elegant script: "The Library of Kathaél"
       Below that, in bold lettering: "Max's Journey"
-      At the bottom: "Courage to Keep Going After a Mistake"
+  
     text: ""
