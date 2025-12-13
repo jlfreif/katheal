@@ -7,32 +7,31 @@ beat: "Midpoint: new insight / pattern"
 hook: A pattern or clue emerges, suggesting a new direction based on observation.
 payoff: New approach is tried based on the insight from previous spread.
 
-description: Noah discovers that the five pedestals aren't separate puzzles but one interconnected pattern that needs to be solved together.
+description: Noah discovers that the five pedestals aren't just separate puzzles requiring different people, but one interconnected system where each pedestal's solution affects the others.
 
 scenes:
   - page: left
     page_number: 15
-    focus: Recognizing what doesn't work
+    focus: Studying the pattern while waiting
     visual: |
-      The central chamber with all five pedestals active. Noah stands alone in the center, looking
-      overwhelmed. He's been working on each pedestal separately but progress is slow.
-      Noah studies his notes, comparing patterns across all five pedestals. His notebook shows sketches of
-      each puzzle type. He's tried solving them independently but something feels wrong. The owl watches
-      from a branch. Noah paces between pedestals, eyes darting from one to another. His expression shows
-      intense concentration and frustration. Books hover nearby, chiming softly. The atmosphere is searching
-      for a missing piece.
+      The central chamber with all five pedestals active. Noah stands in the center, studying the pedestals
+      carefully, taking detailed notes. His notebook shows sketches of each puzzle type with arrows and
+      question marks connecting them. He's not trying to solve them all - he's analyzing how they work,
+      preparing for when his teammates arrive. The owl watches from a branch. Noah walks from pedestal to
+      pedestal, observing, documenting. His expression shows intense concentration and curiosity. Books
+      hover nearby, chiming softly. The atmosphere is investigative and thoughtful.
     text: |
-      He'd been working for hours. Each pedestal partially solved but stuck. Noah paced between them, studying his notes. Constellation patterns. Word riddles. Math sequences. Music. Mechanisms. All separate... or were they? His eyes caught something. When the constellation showed the Bear, the word riddle referenced "star navigation." When the math sequence reached seven, seven musical notes chimed. "Wait..."
+      While waiting to find his teammates, Noah studied the pedestals. Understanding them would help later. Constellation patterns. Word riddles. Math sequences. Music. Mechanisms. He took notes on each one. Then his eyes caught something. When the constellation showed the Bear, the word riddle referenced "star navigation." When the math sequence reached seven, seven musical notes chimed. "Wait..."
 
   - page: right
     page_number: 16
-    focus: Discovering a new pattern
+    focus: Discovering the interconnection
     visual: |
       Noah stands at the center of the five pedestals, arms spread wide, eyes alight with discovery. Golden
       threads connect all five pedestals in a web pattern above him. The connections glow as he traces them. Each
       pedestal's solution affects the others. They're not five separate puzzles but one massive interconnected
       challenge. The owl swoops down to observe the pattern emerge. The threads pulse with each connection
-      Noah identifies. The Heart Crystal at the center begins to hum softly. Noah's expression shows triumphant
-      at bottom.
+      Noah identifies. The Heart Crystal at the center begins to hum softly. Noah's expression shows excited
+      realization. The atmosphere celebrates breakthrough understanding.
     text: |
-      "They're connected!" Noah shouted. "The Bear constellation points to the word 'navigate.' The math sequence seven triggers seven notes. The mechanism gears match the rhythm!" Golden threads appeared, linking all five pedestals. Not five puzzles. One giant pattern. Noah moved between the pedestals, touching each one. "They don't solve separately," he said, grinning. "They solve together. As one interconnected system." The Heart Crystal hummed. He was onto something.
+      "They're connected!" Noah shouted. "The Bear constellation points to the word 'navigate.' The math sequence seven triggers seven notes. The mechanism gears match the rhythm!" Golden threads appeared, linking all five pedestals. Not five separate puzzles. One giant pattern. "We'll need five different people," he said, grinning at his discovery. "But they can't work independently. We'll have to coordinate. Communicate. Solve them together as one interconnected system." The Heart Crystal hummed. Now he understood what kind of team he needed.
