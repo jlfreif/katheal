@@ -5,7 +5,7 @@ cover_type: back
 title: "The Library of Kathaél: Noah's Journey"
 character_code: no
 character_name: Noah
-courage_theme: "Courage to Write Stories That Need to Be Written"
+
 
 scenes:
   - page: left
@@ -27,7 +27,7 @@ scenes:
       cleverest—they're the truest. The ones written from the heart, even when it's scary.
 
       Part of the Kathaél Storybook Series
-      Ages 8-12
+ 
 
 synopsis: |
   When golden threads spell out "THE LIBRARY OF KATHAÉL NEEDS STORYTELLERS," writer Noah
@@ -45,4 +45,4 @@ connections:
   - character_code: mi
     character_name: Micah
 
-age_range: "Ages 8-12"
+
