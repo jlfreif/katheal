@@ -5,7 +5,7 @@ cover_type: front
 title: "The Library of Kathaél: Mona's Journey"
 character_code: mo
 character_name: Mona
-courage_theme: "Courage to Try Something New"
+
 
 scenes:
   - page: left
@@ -28,5 +28,5 @@ scenes:
 
       At the top of the cover, in elegant script: "The Library of Kathaél"
       Below that, in bold lettering: "Mona's Journey"
-      At the bottom: "Courage to Try Something New"
+      
     text: ""
