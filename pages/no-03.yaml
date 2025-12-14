@@ -7,33 +7,31 @@ beat: "Attempt #1 (simple/obvious)"
 hook: Simple solutions fail, prompting the question of who might have better answers.
 payoff: A wise helper appears who offers new perspective or guidance.
 
-description: Noah ventures into the library to solve constellation challenges, succeeds with one pedestal, but returns to find all five pedestals activating at once.
+description: Noah writes a clever, technically perfect ending for a story, but it turns grey and crumbles because it lacks emotional truth.
 
 scenes:
   - page: left
     page_number: 9
     focus: Trying the obvious solution
     visual: |
-      Noah climbs up ancient tree branches, using his climbing skills. Carved riddles glow on the bark. He
-      solves them as he climbs higher. "What has roots nobody sees... A mountain!" The branch reveals a
-      glowing constellation piece shaped like a star. Noah grabs it and slides back down the trunk, grinning.
-      He's good at this! At the pedestal, he slots the star into place. The constellation pattern blazes
-      brighter. Progress! Books chime approvingly. His expression shows excited confidence. The atmosphere
-      celebrates success through skill.
+      Noah sits beneath a glowing story-fragment showing a brave knight facing a dragon. He writes in
+      his notebook, crafting a clever conclusion—the knight solves a riddle, defeats the dragon through
+      wit, saves the kingdom. As he writes, golden words flow from his pen into the air, completing the
+      story with technical precision. The knight moves, the dragon roars, the kingdom appears. The story
+      glows brighter. Noah grins, confident. The owl watches from above. The atmosphere celebrates success
+      through skill. Text in Times New Roman 20pt in white space at bottom.
     text: |
-      Noah climbed the ancient tree, solving riddles carved in the bark. "What has roots nobody sees... A mountain!" The branch revealed a glowing star. He grabbed it and slid down. At the pedestal, he placed the star. The constellation blazed brighter! Two pieces done, three to go on this pedestal alone. He was doing it!
+      Noah opened his notebook. The knight's story needed an ending. He analyzed the structure. Clear hero's journey. Needed a clever resolution. He wrote quickly: the knight solves an ancient riddle, outwits the dragon, saves the kingdom. Perfect! Golden words flowed from his pen. The story glowed brighter. "See?" Noah said, grinning. "Easy."
 
   - page: right
     page_number: 10
     focus: Realizing it doesn't work
     visual: |
-      Noah returns to the central chamber, proud of his progress. But all five pedestals are now active. The
-      Living Canvas pedestal pulses with urgent light. The musical notes pedestal chimes insistently. The
-      mathematical sequences pedestal flashes numbers. The physical mechanisms pedestal rattles and spins.
-      All at once. The owl appears beside Noah, who stares at the simultaneous activation. "The library is
-      waking up," the owl explains gently. "Soon all five patterns will activate at the same time. You'll
-      need to solve them simultaneously. One person can't be in five places at once." Noah looks at the five
-      pedestals, then at the vast library. His expression shows realization, not defeat. He grins. The
-      atmosphere is accepting a bigger challenge.
+      Noah watches proudly as his completed story begins to fade—turning grey and brittle like old paper.
+      The knight freezes mid-victory. The dragon dissolves to ash. The kingdom crumbles. Noah's expression
+      shifts from pride to confusion. Around the library, other unfinished stories pulse with need—stories
+      about real fear, real loneliness, real failure. Stories that need emotional truth, not clever plotting.
+      The owl speaks gently from its perch. Noah stares at his technically perfect but emotionally hollow
+      ending as it falls apart. The atmosphere is gentle correction, not harsh judgment.
     text: |
-      Noah returned to the central chamber. All five pedestals glowed. Pulsing. Chiming. Flashing. Rattling. Activating together. The owl said quietly, "Soon they'll need solving at the same time. The patterns are connected." Noah looked around the massive library. Five pedestals. Five puzzle types. One him. He laughed. "This is a team challenge." He cracked his knuckles. "Time to find my teammates."
+      But the story turned grey. Crumbling. "Wait. No!" Noah reached for it. Too late. It dissolved to dust. The owl tilted its head. "Technically perfect. But the Library doesn't need clever stories. It needs true ones. Written from the heart, not just the mind." Noah looked around. So many unfinished stories. All waiting for something he didn't know how to give.

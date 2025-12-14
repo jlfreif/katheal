@@ -7,7 +7,7 @@ beat: "Ordinary world + desire hint"
 hook: Something new or unusual appears, creating curiosity about what it is.
 payoff: The discovery is fully revealed, establishing the story goal.
 
-description: Noah solves puzzles and designs board games when golden threads appear, arranging themselves into an impossible riddle-puzzle that invites him to adventure.
+description: Noah writes clever, technically perfect stories for his blog when golden threads appear, forming story fragments that need completion.
 
 scenes:
   - page: left
@@ -16,22 +16,23 @@ scenes:
     visual: |
       Noah's bedroom. Adventure books line the shelves. Climbing gear hangs on hooks. Basketball
       trophies on a shelf. Noah (12 years old, sandy blond voluminous hair, medium build, blue
-      hoodie, tan sport pants, white sneakers) sits at his desk with a Rubik's cube in one hand,
-      laptop open showing a video chat. He's laughing, mid-conversation. His notebook shows board
-      game designs with intricate puzzle mechanics. A finished cube sits beside three others. His
-      ukulele leans against the nightstand. The atmosphere is energetic and social. Text in Times
-      New Roman 16pt in white space at bottom.
+      hoodie, tan sport pants, white sneakers) sits at his desk, laptop open showing his writing
+      blog with comments: "So clever!" "Love the plot twist!" "You're such a good writer!" He
+      grins at the screen. His notebook shows story outlines with intricate plot structures, character
+      charts, and twist reveals. A stack of finished stories sits beside him. His ukulele leans
+      against the nightstand. The atmosphere is confident and successful. Text in Times New Roman
+      20pt in white space at bottom.
     text: |
-      Noah twisted the Rubik's cube. Click-click-click. Done. "Forty-seven seconds!" His friend groaned through the laptop. "Show-off." Noah grinned. "It's all patterns. Once you see them, they're easy." He grabbed his notebook. His board game design was almost finished. He loved creating puzzles for people to solve.
+      Noah scrolled through the comments on his latest story. "That plot twist was genius!" "I never saw it coming!" He grinned. His stories were always clever. Surprising. Well-constructed. He loved planning every detail, engineering the perfect reveal.
 
   - page: right
     page_number: 6
     focus: First hint of something different
     visual: |
-      Golden threads suddenly weave through Noah's room. They float in the air, arranging themselves
-      into patterns. Constellation symbols. Mathematical sequences. Word riddles. Musical notes.
-      Physical mechanisms. Five different puzzle types swirling together. The threads form glowing
-      text: "THE LIBRARY OF KATHAÉL NEEDS SOLVERS." More threads create a shimmering doorway
-      of golden light. Noah stands, eyes wide with excitement. His puzzle-brain already engaging.
+      Golden threads suddenly weave through Noah's room, floating in the air. Instead of forming
+      puzzles, they weave story scenes—a girl crying, a hero running, an ending that stops mid-sentence.
+      The threads form glowing text: "THE LIBRARY OF KATHAÉL NEEDS STORYTELLERS." More threads create
+      a shimmering doorway of golden light. Noah stands, eyes wide. His writer-brain already analyzing
+      the narrative structure. The atmosphere is mysterious and inviting.
     text: |
-      Suddenly, golden threads swirled through his room. Weaving patterns in the air. The threads spelled out: "THE LIBRARY OF KATHAÉL NEEDS SOLVERS." A doorway formed, glowing gold. Noah's heart raced. This was a challenge. A real adventure. He grabbed his hoodie. "c'est partie!"
+      Suddenly, golden threads swirled through his room. Weaving story fragments in the air. A beginning. A middle. No ending. The threads spelled: "THE LIBRARY OF KATHAÉL NEEDS STORYTELLERS." A doorway formed, glowing gold. Noah's heart raced. Stories that needed finishing? This was his specialty. He grabbed his notebook and pen.
