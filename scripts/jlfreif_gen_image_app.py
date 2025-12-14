@@ -229,11 +229,45 @@ def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-2.0-fl
                 if part.inline_data:
                     all_images.append(part)
         except Exception as e:
-            # Display the actual error message
-            st.error(f"Error generating image (version {version + 1}/{num_versions}): {str(e)}")
-            st.error(f"Error type: {type(e).__name__}")
+            # Display detailed error information
+            st.error(f"❌ Error generating image (version {version + 1}/{num_versions})")
+            st.error(f"**Error type:** {type(e).__name__}")
+            st.error(f"**Error message:** {str(e)}")
+
+            # Try to extract HTTP status code and response details
+            if hasattr(e, 'status_code'):
+                st.error(f"**HTTP Status Code:** {e.status_code}")
+
+                # Interpret common status codes
+                if e.status_code == 429:
+                    st.error("🚫 **RATE LIMIT:** You've exceeded the API rate limit. Wait and try again later.")
+                elif e.status_code == 403:
+                    st.error("🚫 **QUOTA/PERMISSION:** Check your API key permissions or quota limits.")
+                elif e.status_code == 404:
+                    st.error("🚫 **MODEL NOT FOUND:** The model name may be invalid or unavailable in your region.")
+                elif e.status_code == 400:
+                    st.error("🚫 **BAD REQUEST:** There's an issue with the request parameters.")
+                elif e.status_code == 401:
+                    st.error("🚫 **UNAUTHORIZED:** Check your API key configuration.")
+
+            # Try to get the response body for more details
+            if hasattr(e, 'response') and e.response is not None:
+                try:
+                    response_text = str(e.response)
+                    st.error(f"**API Response:** {response_text[:500]}")  # First 500 chars
+                except:
+                    pass
+
+            # Check for additional error attributes
             if hasattr(e, 'message'):
-                st.error(f"Error message: {e.message}")
+                st.error(f"**Additional message:** {e.message}")
+
+            # Show the full error in an expander for debugging
+            with st.expander("🔍 Full Error Details (for debugging)"):
+                st.code(repr(e))
+                if hasattr(e, '__dict__'):
+                    st.json(e.__dict__)
+
             raise
 
     return all_images
