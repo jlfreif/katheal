@@ -7,7 +7,7 @@ beat: "Attempt #2 (ask the expert)"
 hook: Guidance points toward unfamiliar territory with a warning about danger or difficulty.
 payoff: Journey into new territory begins with dramatic departure from familiar world.
 
-description: Siblings Elise and Noah meet at a forest crossroads. The owl guides them toward the Library's outer chambers where harder challenges await.
+description: Siblings Elise and Noah meet at a forest crossroads. Both have been trying to help the Library in their own ways. The owl guides them toward harder challenges ahead.
 
 location: A forest crossroads where paths converge beneath an ancient oak, golden threads visible in the air
 
@@ -21,7 +21,7 @@ dialogue_packets:
     line: "Noah! I can't believe it's you!"
     works_from_pov: [el, no]
   - speaker: owl
-    line: "The paths ahead grow harder. You'll need courage for what comes next."
+    line: "The paths ahead grow harder. You'll need more courage than you've shown yet."
     works_from_pov: [el, no]
   - speaker: noah
     line: "We can handle it. Right, Elise?"
@@ -51,10 +51,10 @@ scenes:
     visual: |
       A forest crossroads where four paths meet beneath an enormous ancient oak. Golden threads
       weave through the air between branches. Noah (12 years old, sandy blond voluminous hair,
-      medium build, blue hoodie, tan sport pants, white sneakers) arrives on one path, following
-      the owl from the library. Elise appears on another path. They face each other across the
-      crossroads in surprise. The owl perches above. Morning mist swirls. The threads pulse gently.
-     
+      medium build, blue hoodie, tan sport pants, white sneakers) arrives on one path, notebook
+      in hand. Elise appears on another path. They face each other across the crossroads in
+      surprise. The owl perches above. Morning mist swirls. The threads pulse gently.
+
     text: |
       The owl led Noah from the library to a crossroads. Golden threads floated between oak branches. Footsteps. Noah looked up. "Elise?" His sister stood on another path. "What are YOU doing here?" Her eyes went wide. "Noah! I can't believe it's you! I just saw Maya!"
 
@@ -68,4 +68,4 @@ scenes:
       Elise exchange determined looks. They're family. They'll face this together. But soon the
       paths will split again.
     text: |
-      "The paths ahead grow harder," the owl said. "The challenges require more. You'll need all the courage you've been learning." Noah grinned. "We can handle it. Right, Elise?" She nodded. The threads pulsed brighter and drifted forward into the dark forest. They followed together. But soon, the paths would split, and each would face their own challenges alone.
+      "The paths ahead grow harder," the owl said. "You'll need more courage than you've shown yet." Noah thought about his failed stories. Clever but empty. Elise nodded, understanding. "We can handle it. Right, Elise?" Noah said. She grinned. "Definitely." The threads pulsed brighter and drifted into the dark forest. They followed together. Soon the paths would split, and each would face their own challenges alone.
