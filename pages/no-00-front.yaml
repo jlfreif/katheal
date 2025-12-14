@@ -5,7 +5,6 @@ cover_type: front
 title: "The Library of Kathaél: Noah's Journey"
 character_code: no
 character_name: Noah
-courage_theme: "Courage to Write Stories That Need to Be Written"
 
 scenes:
   - page: left
@@ -26,5 +25,4 @@ scenes:
 
       At the top of the cover, in elegant script: "The Library of Kathaél"
       Below that, in bold lettering: "Noah's Journey"
-      At the bottom: "Courage to Write Stories That Need to Be Written"
     text: ""
