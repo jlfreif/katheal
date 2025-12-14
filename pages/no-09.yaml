@@ -15,14 +15,14 @@ scenes:
     focus: Making the choice to be vulnerable
     visual: |
       Noah sits alone beneath a willow tree, writing in his notebook. The page shows a story he's been
-      afraid to write—about a boy who created something and nobody wanted it. Who felt small. Who pretended
+      afraid to write—about a boy who created something even though it was hard to create and people weren't interested in it. Who pretended
       it didn't hurt. The words are messy, crossed-out, vulnerable. Golden threads gather around him, drawn
       to the honesty. He's writing about himself—a time he designed a board game and his friends said it was
       "too complicated" and didn't want to play. His expression shows concentration mixed with discomfort.
       This is harder than clever plotting. The atmosphere is quiet courage. Text in Times New Roman 20pt in
       white space at bottom.
     text: |
-      Noah sat alone. Took a breath. Wrote something different. Not clever. Not impressive. True. About a time he created something and nobody wanted it. How small he felt. How he pretended it didn't hurt. The words came slowly. Messy. Raw. But golden threads gathered, glowing bright. The Library was responding. This was working. He kept writing.
+      Noah now sat alone and wrote something different. Not clever. Not impressive. True. About a time he created something and nobody wanted it. The words came slowly. Raw. But golden threads gathered, glowing bright. The Library was responding. This was working. He kept writing.
 
   - page: right
     page_number: 22
@@ -35,4 +35,4 @@ scenes:
       is the one I'm afraid to share." He places the story down. Golden threads EXPLODE with light—brighter
       than any clever story ever created. The Library sings. The atmosphere is triumphant vulnerability.
     text: |
-      But before Noah could place it, the crow read his words. "That's it? So ordinary. Not clever at all." The crow laughed. "Kind of embarrassing." Noah's face burned. His hand moved to crumple the pages. But he stopped. Smoothed them out. "The story that needs to be written," he whispered, "is the one I'm afraid to share." He placed it down. The threads blazed. Brighter than anything before. The Library sang. Some stories need courage more than cleverness.
+      But before Noah could place it, the crow read his words. "That's it? Not clever at all." The crow laughed. Noah's hand moved to crumple the pages. But he stopped. Smoothed them out. "This is the story that needs to be written," he whispered. He placed it down. The threads blazed. Brighter than anything before. 
