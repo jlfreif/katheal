@@ -199,8 +199,8 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
     return "\n".join(prompt_parts)
 
 
-def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="imagen-3.0-generate-001", num_versions=1):
-    """Generate image(s) using Google Imagen."""
+def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-2.0-flash-exp", num_versions=1):
+    """Generate image(s) using Google Gemini."""
     # Get API key from Streamlit secrets
     api_key = st.secrets["google"]["api_key"]
 
@@ -241,7 +241,7 @@ def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="imagen-3.0-ge
 
 # App title and description
 st.title("Storybook Image Generator")
-st.write("Generate images for your storybook pages using Google Imagen")
+st.write("Generate images for your storybook pages using Google Gemini")
 
 # Initialize session state for storing generated images
 if 'generated_images' not in st.session_state:
@@ -322,14 +322,14 @@ else:
         with col2:
             model = st.selectbox(
                 "Model",
-                ["imagen-3.0-generate-001", "imagen-3.0-fast-generate-001"],
-                format_func=lambda x: "Imagen 3.0" if "fast" not in x else "Imagen 3.0 Fast",
-                index=0,  # Default to standard
+                ["gemini-2.0-flash-exp", "gemini-1.5-pro", "gemini-1.5-flash"],
+                format_func=lambda x: x.replace("gemini-", "Gemini ").replace("-exp", " (Experimental)").title(),
+                index=0,  # Default to 2.0 Flash Exp
             )
 
         # Gen images button
         if st.button("Generate All Images (2 versions each)", type="primary", use_container_width=True):
-            model_display = "Imagen 3.0" if "fast" not in model else "Imagen 3.0 Fast"
+            model_display = model.replace("gemini-", "Gemini ").replace("-exp", " (Experimental)").title()
 
             # Clear previous images
             st.session_state.generated_images = []
