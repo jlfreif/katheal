@@ -73,8 +73,8 @@ attributes:
     - Fantasy
     - Comedy
 
-  # CHANGED from "Courage to Imagine Something Better"
-  courage_theme: Courage to Keep Going After a Mistake
+  # CHANGED from "Courage to Imagine Something Better", then "Courage to Keep Going After a Mistake"
+  courage_theme: Courage to Write Stories That Need to Be Written
 
 story:
   - no-01.yaml

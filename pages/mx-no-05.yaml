@@ -7,9 +7,9 @@ beat: "Attempt #3 (bigger world / stakes up)"
 hook: Questionable character offers confident solution, creating doubt about whether to trust them.
 payoff: The suggested solution fails spectacularly and obviously wrong.
 
-description: Cousins Max and Noah meet in a puzzle chamber. A crow offers bad advice about shortcuts. They learn that analytical overthinking isn't always the answer.
+description: Cousins Max and Noah meet while both struggling with analytical approaches. A crow offers shortcuts. They learn that overthinking and formulas aren't the answer.
 
-location: A clearing with puzzle fragments floating in the air and broken mechanisms scattered on the ground
+location: A clearing with story fragments and challenges floating in the air
 
 shared_action: Both watch the crow's shortcut fail and realize they need to try things differently
 
@@ -21,7 +21,7 @@ dialogue_packets:
     line: "Noah! What are you doing here?"
     works_from_pov: [mx, no]
   - speaker: crow
-    line: "Skip the hard parts! Just grab the brightest piece!"
+    line: "Use formulas! Copy what works! Skip the hard parts!"
     works_from_pov: [mx, no]
   - speaker: noah
     line: "We've been overthinking this. Sometimes you just have to try."
@@ -32,20 +32,22 @@ scenes:
     page_number: 13
     focus: Entering unfamiliar territory
     visual: |
-      A clearing filled with floating puzzle fragments. Constellation pieces. Word tiles. Numbers.
-      Musical notes. Gear mechanisms. All jumbled and chaotic. Noah enters from one side, notebook
-      full of crossed-out attempts. Max stands at the opposite edge, also holding a notebook with
-      similar failures. They spot each other across the clearing. Both wear expressions of surprise.
+      A clearing filled with floating story fragments and challenge patterns. Unfinished tales hover
+      like ghosts. Max stands at one edge, holding a notebook full of analytical diagrams. Noah enters
+      from the opposite side, his notebook covered in story formulas and crossed-out attempts. They
+      spot each other across the clearing. Both wear expressions of surprise. The atmosphere is
+      frustrated determination meeting surprise.
     text: |
-      Noah and Max each followed their threads until they entered a clearing full of puzzle fragments. "Max?" Noah stated with surprise. "Is that you?" Max's eyes went wide. "Noah! What are you doing here?" A crow smiled from above. "Ah, the team grows. Perfect."
+      Noah followed the threads to a clearing full of floating stories. Fragments everywhere. Incomplete. "Max?" Noah said with surprise. "Is that you?" Max's eyes went wide. "Noah! What are you doing here?" A crow smiled from above. "Ah, the analytical cousins. Perfect."
 
   - page: right
     page_number: 14
     focus: Encountering misleading help
     visual: |
-      Max and Noah stand face to face, both holding notebooks covered in analytical notes and crossed-
-      out attempts. The crow gestures wildly at the brightest glowing piece. "Skip the hard parts!"
-      it caws. "Just grab that one!" Max and Noah exchange uncertain glances. The crow swoops down,
-      grabs the bright piece, and yanks it. The entire pattern collapses. Fragments scatter. Grey dust.
+      Max and Noah stand face to face, both holding notebooks covered in analytical notes and crossed-out
+      attempts. The crow gestures wildly at the brightest glowing story fragment. "Use formulas!" it caws.
+      "Copy what's popular! Skip the hard parts!" Max and Noah exchange uncertain glances. The crow swoops
+      down, grabs the bright piece, and yanks it with a shortcut formula. The entire pattern collapses.
+      Fragments scatter. Grey dust. The atmosphere shifts from temptation to realization.
     text: |
-      "Skip the hard parts!" the crow said. Max frowned. "That seems too simple?" Noah hesitated. Noah and Max stared at their pages of overthinking. "We keep trying to find the perfect plan," Noah said slowly. "But maybe we just need to try things. Learn as we go." Something deeper in the forest pulsed. The real challenges waited ahead.
+      "Use formulas!" the crow said. "Copy what works!" Max frowned. "That seems too simple?" Noah hesitated. They stared at their pages of overthinking. Max with obstacle formulas. Noah with story templates. "We keep trying to find the perfect system," Noah said slowly. "But maybe we just need to try things. Learn as we go." Something deeper in the forest pulsed. The real challenges waited ahead.
