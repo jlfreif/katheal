@@ -199,8 +199,8 @@ def create_enhanced_prompt(scene_data, visual_style, character_descriptions, cha
     return "\n".join(prompt_parts)
 
 
-def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-image-preview", num_versions=1):
-    """Generate image(s) using Google Gemini Nano Banana Pro."""
+def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="imagen-3.0-generate-001", num_versions=1):
+    """Generate image(s) using Google Imagen."""
     # Get API key from Streamlit secrets
     api_key = st.secrets["google"]["api_key"]
 
@@ -211,29 +211,37 @@ def generate_image_with_gemini(prompt, aspect_ratio="16:9", model="gemini-3-pro-
 
     # Generate multiple versions by making separate API calls
     for version in range(num_versions):
-        # Generate image
-        response = client.models.generate_content(
-            model=model,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_modalities=['IMAGE'],
-                image_config=types.ImageConfig(
-                    aspect_ratio=aspect_ratio,
+        try:
+            # Generate image
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_modalities=['IMAGE'],
+                    image_config=types.ImageConfig(
+                        aspect_ratio=aspect_ratio,
+                    )
                 )
             )
-        )
 
-        # Extract images from response parts
-        for part in response.parts:
-            if part.inline_data:
-                all_images.append(part)
+            # Extract images from response parts
+            for part in response.parts:
+                if part.inline_data:
+                    all_images.append(part)
+        except Exception as e:
+            # Display the actual error message
+            st.error(f"Error generating image (version {version + 1}/{num_versions}): {str(e)}")
+            st.error(f"Error type: {type(e).__name__}")
+            if hasattr(e, 'message'):
+                st.error(f"Error message: {e.message}")
+            raise
 
     return all_images
 
 
 # App title and description
 st.title("Storybook Image Generator")
-st.write("Generate images for your storybook pages using Nano Banana Pro")
+st.write("Generate images for your storybook pages using Google Imagen")
 
 # Initialize session state for storing generated images
 if 'generated_images' not in st.session_state:
@@ -314,14 +322,14 @@ else:
         with col2:
             model = st.selectbox(
                 "Model",
-                ["gemini-3-pro-image-preview", "gemini-2.5-flash-image"],
-                format_func=lambda x: "Nano Banana Pro" if "3-pro" in x else "Nano Banana Flash",
-                index=0,  # Default to Pro
+                ["imagen-3.0-generate-001", "imagen-3.0-fast-generate-001"],
+                format_func=lambda x: "Imagen 3.0" if "fast" not in x else "Imagen 3.0 Fast",
+                index=0,  # Default to standard
             )
 
         # Gen images button
         if st.button("Generate All Images (2 versions each)", type="primary", use_container_width=True):
-            model_display = "Nano Banana Pro" if "3-pro" in model else "Nano Banana Flash"
+            model_display = "Imagen 3.0" if "fast" not in model else "Imagen 3.0 Fast"
 
             # Clear previous images
             st.session_state.generated_images = []
